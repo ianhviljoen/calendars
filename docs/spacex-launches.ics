@@ -9,34 +9,14 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
  included\; vaguely scheduled missions are left out. Times UTC.
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:launch-24675e3d-2458-48a3-8c70-5196e44d4dc3@claude-launches
-DTSTAMP:20260731T033959Z
-DTSTART:20260730T070900Z
-DTEND:20260730T080900Z
-SUMMARY:🚀 Falcon 9 Block 5 | NROL-95
-LOCATION:Space Launch Complex 40\, Cape Canaveral SFS\, FL\, USA
-DESCRIPTION:Falcon 9 Block 5 | NROL-95\n\nStatus\nGo for launch - date an
- d time confirmed\n\nLift-off\n07:09 UTC\, Thursday 30 July 2026\n\nProvi
- der\nSpaceX\n\nSite\nSpace Launch Complex 40\, Cape Canaveral SFS\, FL\,
-  USA\n\nOrbit\nUnknown\n\nMission\nClassified payload for the US Nationa
- l Reconnaissance Office.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, tec
- hnical holds and range availability move them\, often by days and someti
- mes by hours on the day itself. This calendar rebuilds daily\, but alway
- s check before setting an alarm.
-CATEGORIES:SpaceX,Falcon 9
-URL:https://nextspaceflight.com/launches/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:launch-0448d030-5175-4c1f-bd0b-4f3f87072921@claude-launches
-DTSTAMP:20260731T033959Z
-DTSTART:20260801T140000Z
-DTEND:20260801T150000Z
-SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 17-53
+UID:launch-e7e55b53-6f69-4c22-9fc5-df00df653a3f@claude-launches
+DTSTAMP:20260731T034537Z
+DTSTART:20260801T020000Z
+DTEND:20260801T030000Z
+SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 17-52
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:Falcon 9 Block 5 | Starlink Group 17-53\n\nStatus\nGo for lau
- nch - date and time confirmed\n\nLift-off\n14:00 UTC\, Saturday 1 August
+DESCRIPTION:Falcon 9 Block 5 | Starlink Group 17-52\n\nStatus\nGo for lau
+ nch - date and time confirmed\n\nLift-off\n02:00 UTC\, Saturday 1 August
   2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg 
  SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 24 satel
  lites for the Starlink mega-constellation - SpaceX's project for space-b
@@ -50,14 +30,126 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:launch-0448d030-5175-4c1f-bd0b-4f3f87072921@claude-launches
+DTSTAMP:20260731T034537Z
+DTSTART:20260804T140000Z
+DTEND:20260804T150000Z
+SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 17-53
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:Falcon 9 Block 5 | Starlink Group 17-53\n\nStatus\nGo for lau
+ nch - date and time confirmed\n\nLift-off\n14:00 UTC\, Tuesday 4 August 
+ 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg S
+ FB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 24 satell
+ ites for the Starlink mega-constellation - SpaceX's project for space-ba
+ sed Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY - wea
+ ther\, technical holds and range availability move them\, often by days 
+ and sometimes by hours on the day itself. This calendar rebuilds daily\,
+  but always check before setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:launch-56a85c82-ea71-449b-828c-b583f6f4a18b@claude-launches
+DTSTAMP:20260731T034537Z
+DTSTART:20260805T074200Z
+DTEND:20260805T084200Z
+SUMMARY:🚀 Falcon 9 Block 5 | BlueBird 11-13 (Block 2 #6-8)
+LOCATION:Space Launch Complex 40\, Cape Canaveral SFS\, FL\, USA
+DESCRIPTION:Falcon 9 Block 5 | BlueBird 11-13 (Block 2 #6-8)\n\nStatus\nG
+ o for launch - date and time confirmed\n\nLift-off\n07:42 UTC\, Wednesda
+ y 5 August 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 40\, C
+ ape Canaveral SFS\, FL\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nAST S
+ paceMobile’s Block 2 BlueBird satellites are designed to deliver up to
+  10 times the bandwidth capacity of the BlueBird Block 1 satellites\, re
+ quired to achieve 24/7 continuous cellular broadband service coverage in
+  the United States\, with beams designed to support a capacity of up to 
+ 40 MHz\, enabling peak data transmission speeds up to 120 Mbps\, support
+ ing voice\, full data and video applications. The Block 2 BlueBirds\, fe
+ aturing as large as 2400 square foot communications arrays\, will be the
+  largest satellites ever commercially deployed in Low Earth orbit once l
+ aunched. This launch will...\n\nLAUNCH DATES SLIP CONSTANTLY - weather\,
+  technical holds and range availability move them\, often by days and so
+ metimes by hours on the day itself. This calendar rebuilds daily\, but a
+ lways check before setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:launch-e4316d4c-9eb8-4a18-9b0d-4307c3970ef6@claude-launches
+DTSTAMP:20260731T034537Z
+DTSTART:20260808T140000Z
+DTEND:20260808T150000Z
+SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 17-38
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:Falcon 9 Block 5 | Starlink Group 17-38\n\nStatus\nGo for lau
+ nch - date and time confirmed\n\nLift-off\n14:00 UTC\, Saturday 8 August
+  2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg 
+ SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 24 satel
+ lites for the Starlink mega-constellation - SpaceX's project for space-b
+ ased Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY - we
+ ather\, technical holds and range availability move them\, often by days
+  and sometimes by hours on the day itself. This calendar rebuilds daily\
+ , but always check before setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:launch-36ab6924-bb36-416a-b71d-cda9e88004be@claude-launches
+DTSTAMP:20260731T034537Z
+DTSTART:20260810T145000Z
+DTEND:20260810T155000Z
+SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 10-19
+LOCATION:Space Launch Complex 40\, Cape Canaveral SFS\, FL\, USA
+DESCRIPTION:Falcon 9 Block 5 | Starlink Group 10-19\n\nStatus\nGo for lau
+ nch - date and time confirmed\n\nLift-off\n14:50 UTC\, Monday 10 August 
+ 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 40\, Cape Canaver
+ al SFS\, FL\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 29 sa
+ tellites for the Starlink mega-constellation - SpaceX's project for spac
+ e-based Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY -
+  weather\, technical holds and range availability move them\, often by d
+ ays and sometimes by hours on the day itself. This calendar rebuilds dai
+ ly\, but always check before setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:launch-6f94dbe4-1318-4ffb-a53d-351bbdcba733@claude-launches
+DTSTAMP:20260731T034537Z
+DTSTART:20260812T020000Z
+DTEND:20260812T030000Z
+SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 17-49
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:Falcon 9 Block 5 | Starlink Group 17-49\n\nStatus\nGo for lau
+ nch - date and time confirmed\n\nLift-off\n02:00 UTC\, Wednesday 12 Augu
+ st 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenber
+ g SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 24 sat
+ ellites for the Starlink mega-constellation - SpaceX's project for space
+ -based Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY - 
+ weather\, technical holds and range availability move them\, often by da
+ ys and sometimes by hours on the day itself. This calendar rebuilds dail
+ y\, but always check before setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:launch-521f3a1c-f977-4306-9b7f-495858719adf@claude-launches
-DTSTAMP:20260731T033959Z
-DTSTART:20260830T112000Z
-DTEND:20260830T122000Z
+DTSTAMP:20260731T034537Z
+DTSTART:20260830T112600Z
+DTEND:20260830T122600Z
 SUMMARY:🚀 Falcon Heavy | Nancy Grace Roman Space Telescope
 LOCATION:Launch Complex 39A\, Kennedy Space Center\, FL\, USA
 DESCRIPTION:Falcon Heavy | Nancy Grace Roman Space Telescope\n\nStatus\nG
- o for launch - date and time confirmed\n\nLift-off\n11:20 UTC\, Sunday 3
+ o for launch - date and time confirmed\n\nLift-off\n11:26 UTC\, Sunday 3
  0 August 2026\n\nProvider\nSpaceX\n\nSite\nLaunch Complex 39A\, Kennedy 
  Space Center\, FL\, USA\n\nOrbit\nSun-Earth L2\n\nMission\nThe Nancy Gra
  ce Roman Space Telescope is a NASA infrared space telescope with a 2.4 m
