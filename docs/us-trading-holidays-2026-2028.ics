@@ -1,0 +1,727 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//US Trading Holidays 2026-2028//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:US Trading Holidays 2026-2028
+X-WR-CALDESC:NYSE and Nasdaq full-day closures and 1:00pm ET early closes
+  for 2026\, 2027 and 2028.
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:close-2026-01-01@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:🚫 Markets Closed - New Year's Day
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:New Year's Day\nThursday 1 January 2026\n\nNYSE and Nasdaq ar
+ e CLOSED for the full day.\nNormal session would be 9:30am - 4:00pm ET.\
+ n\nSource: NYSE Group / ICE holiday and early-closings calendar. The sam
+ e schedule applies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2026-01-19@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:🚫 Markets Closed - Martin Luther King\, Jr. Day
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Martin Luther King\, Jr. Day\nMonday 19 January 2026\n\nNYSE 
+ and Nasdaq are CLOSED for the full day.\nNormal session would be 9:30am 
+ - 4:00pm ET.\n\nSource: NYSE Group / ICE holiday and early-closings cale
+ ndar. The same schedule applies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2026-02-16@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:🚫 Markets Closed - Washington's Birthday
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Washington's Birthday\nMonday 16 February 2026\n\nNYSE and Na
+ sdaq are CLOSED for the full day.\nNormal session would be 9:30am - 4:00
+ pm ET.\n\nSource: NYSE Group / ICE holiday and early-closings calendar. 
+ The same schedule applies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2026-04-03@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:🚫 Markets Closed - Good Friday
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Good Friday\nFriday 3 April 2026\n\nNYSE and Nasdaq are CLOSE
+ D for the full day.\nNormal session would be 9:30am - 4:00pm ET.\n\nNote
+ s\nNot a federal holiday\, but the equity markets close.\n\nSource: NYSE
+  Group / ICE holiday and early-closings calendar. The same schedule appl
+ ies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2026-05-25@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:🚫 Markets Closed - Memorial Day
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Memorial Day\nMonday 25 May 2026\n\nNYSE and Nasdaq are CLOSE
+ D for the full day.\nNormal session would be 9:30am - 4:00pm ET.\n\nSour
+ ce: NYSE Group / ICE holiday and early-closings calendar. The same sched
+ ule applies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2026-06-19@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:🚫 Markets Closed - Juneteenth National Independence Day
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Juneteenth National Independence Day\nFriday 19 June 2026\n\n
+ NYSE and Nasdaq are CLOSED for the full day.\nNormal session would be 9:
+ 30am - 4:00pm ET.\n\nSource: NYSE Group / ICE holiday and early-closings
+  calendar. The same schedule applies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2026-07-03@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:🚫 Markets Closed - Independence Day (observed)
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Independence Day (observed)\nFriday 3 July 2026\n\nNYSE and N
+ asdaq are CLOSED for the full day.\nNormal session would be 9:30am - 4:0
+ 0pm ET.\n\nNotes\nJuly 4 falls on a Saturday\, so the market closes the 
+ preceding Friday. There is no July 3 early close this year - it is a ful
+ l closure.\n\nSource: NYSE Group / ICE holiday and early-closings calend
+ ar. The same schedule applies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2026-09-07@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:🚫 Markets Closed - Labor Day
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Labor Day\nMonday 7 September 2026\n\nNYSE and Nasdaq are CLO
+ SED for the full day.\nNormal session would be 9:30am - 4:00pm ET.\n\nSo
+ urce: NYSE Group / ICE holiday and early-closings calendar. The same sch
+ edule applies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2026-11-26@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:🚫 Markets Closed - Thanksgiving Day
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Thanksgiving Day\nThursday 26 November 2026\n\nNYSE and Nasda
+ q are CLOSED for the full day.\nNormal session would be 9:30am - 4:00pm 
+ ET.\n\nNotes\nEarly close at 1:00pm ET the following day.\n\nSource: NYS
+ E Group / ICE holiday and early-closings calendar. The same schedule app
+ lies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2026-12-25@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:🚫 Markets Closed - Christmas Day
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Christmas Day\nFriday 25 December 2026\n\nNYSE and Nasdaq are
+  CLOSED for the full day.\nNormal session would be 9:30am - 4:00pm ET.\n
+ \nNotes\nEarly close at 1:00pm ET on Christmas Eve.\n\nSource: NYSE Grou
+ p / ICE holiday and early-closings calendar. The same schedule applies t
+ o Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2027-01-01@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:🚫 Markets Closed - New Year's Day
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:New Year's Day\nFriday 1 January 2027\n\nNYSE and Nasdaq are 
+ CLOSED for the full day.\nNormal session would be 9:30am - 4:00pm ET.\n\
+ nSource: NYSE Group / ICE holiday and early-closings calendar. The same 
+ schedule applies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2027-01-18@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:🚫 Markets Closed - Martin Luther King\, Jr. Day
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Martin Luther King\, Jr. Day\nMonday 18 January 2027\n\nNYSE 
+ and Nasdaq are CLOSED for the full day.\nNormal session would be 9:30am 
+ - 4:00pm ET.\n\nSource: NYSE Group / ICE holiday and early-closings cale
+ ndar. The same schedule applies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2027-02-15@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:🚫 Markets Closed - Washington's Birthday
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Washington's Birthday\nMonday 15 February 2027\n\nNYSE and Na
+ sdaq are CLOSED for the full day.\nNormal session would be 9:30am - 4:00
+ pm ET.\n\nSource: NYSE Group / ICE holiday and early-closings calendar. 
+ The same schedule applies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2027-03-26@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:🚫 Markets Closed - Good Friday
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Good Friday\nFriday 26 March 2027\n\nNYSE and Nasdaq are CLOS
+ ED for the full day.\nNormal session would be 9:30am - 4:00pm ET.\n\nNot
+ es\nNot a federal holiday\, but the equity markets close.\n\nSource: NYS
+ E Group / ICE holiday and early-closings calendar. The same schedule app
+ lies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2027-05-31@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:🚫 Markets Closed - Memorial Day
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Memorial Day\nMonday 31 May 2027\n\nNYSE and Nasdaq are CLOSE
+ D for the full day.\nNormal session would be 9:30am - 4:00pm ET.\n\nSour
+ ce: NYSE Group / ICE holiday and early-closings calendar. The same sched
+ ule applies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2027-06-18@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:🚫 Markets Closed - Juneteenth (observed)
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Juneteenth (observed)\nFriday 18 June 2027\n\nNYSE and Nasdaq
+  are CLOSED for the full day.\nNormal session would be 9:30am - 4:00pm E
+ T.\n\nNotes\nJune 19 falls on a Saturday\, so the market closes the prec
+ eding Friday.\n\nSource: NYSE Group / ICE holiday and early-closings cal
+ endar. The same schedule applies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2027-07-05@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:🚫 Markets Closed - Independence Day (observed)
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Independence Day (observed)\nMonday 5 July 2027\n\nNYSE and N
+ asdaq are CLOSED for the full day.\nNormal session would be 9:30am - 4:0
+ 0pm ET.\n\nNotes\nJuly 4 falls on a Sunday\, so the market closes the fo
+ llowing Monday.\n\nSource: NYSE Group / ICE holiday and early-closings c
+ alendar. The same schedule applies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2027-09-06@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:🚫 Markets Closed - Labor Day
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Labor Day\nMonday 6 September 2027\n\nNYSE and Nasdaq are CLO
+ SED for the full day.\nNormal session would be 9:30am - 4:00pm ET.\n\nSo
+ urce: NYSE Group / ICE holiday and early-closings calendar. The same sch
+ edule applies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2027-11-25@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20271125
+DTEND;VALUE=DATE:20271126
+SUMMARY:🚫 Markets Closed - Thanksgiving Day
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Thanksgiving Day\nThursday 25 November 2027\n\nNYSE and Nasda
+ q are CLOSED for the full day.\nNormal session would be 9:30am - 4:00pm 
+ ET.\n\nNotes\nEarly close at 1:00pm ET the following day.\n\nSource: NYS
+ E Group / ICE holiday and early-closings calendar. The same schedule app
+ lies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2027-12-24@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+SUMMARY:🚫 Markets Closed - Christmas Day (observed)
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Christmas Day (observed)\nFriday 24 December 2027\n\nNYSE and
+  Nasdaq are CLOSED for the full day.\nNormal session would be 9:30am - 4
+ :00pm ET.\n\nNotes\nDecember 25 falls on a Saturday\, so the market clos
+ es the preceding Friday. This is a FULL closure\, not a Christmas Eve ea
+ rly close - there is no early close in December 2027.\n\nSource: NYSE Gr
+ oup / ICE holiday and early-closings calendar. The same schedule applies
+  to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2028-01-17@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20280117
+DTEND;VALUE=DATE:20280118
+SUMMARY:🚫 Markets Closed - Martin Luther King\, Jr. Day
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Martin Luther King\, Jr. Day\nMonday 17 January 2028\n\nNYSE 
+ and Nasdaq are CLOSED for the full day.\nNormal session would be 9:30am 
+ - 4:00pm ET.\n\nNotes\nNote: no New Year's Day closure in 2028 - January
+  1 falls on a Saturday and the holiday is not observed.\n\nSource: NYSE 
+ Group / ICE holiday and early-closings calendar. The same schedule appli
+ es to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2028-02-21@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20280221
+DTEND;VALUE=DATE:20280222
+SUMMARY:🚫 Markets Closed - Washington's Birthday
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Washington's Birthday\nMonday 21 February 2028\n\nNYSE and Na
+ sdaq are CLOSED for the full day.\nNormal session would be 9:30am - 4:00
+ pm ET.\n\nSource: NYSE Group / ICE holiday and early-closings calendar. 
+ The same schedule applies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2028-04-14@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+SUMMARY:🚫 Markets Closed - Good Friday
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Good Friday\nFriday 14 April 2028\n\nNYSE and Nasdaq are CLOS
+ ED for the full day.\nNormal session would be 9:30am - 4:00pm ET.\n\nNot
+ es\nNot a federal holiday\, but the equity markets close.\n\nSource: NYS
+ E Group / ICE holiday and early-closings calendar. The same schedule app
+ lies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2028-05-29@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20280529
+DTEND;VALUE=DATE:20280530
+SUMMARY:🚫 Markets Closed - Memorial Day
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Memorial Day\nMonday 29 May 2028\n\nNYSE and Nasdaq are CLOSE
+ D for the full day.\nNormal session would be 9:30am - 4:00pm ET.\n\nSour
+ ce: NYSE Group / ICE holiday and early-closings calendar. The same sched
+ ule applies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2028-06-19@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20280619
+DTEND;VALUE=DATE:20280620
+SUMMARY:🚫 Markets Closed - Juneteenth National Independence Day
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Juneteenth National Independence Day\nMonday 19 June 2028\n\n
+ NYSE and Nasdaq are CLOSED for the full day.\nNormal session would be 9:
+ 30am - 4:00pm ET.\n\nSource: NYSE Group / ICE holiday and early-closings
+  calendar. The same schedule applies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2028-07-04@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20280704
+DTEND;VALUE=DATE:20280705
+SUMMARY:🚫 Markets Closed - Independence Day
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Independence Day\nTuesday 4 July 2028\n\nNYSE and Nasdaq are 
+ CLOSED for the full day.\nNormal session would be 9:30am - 4:00pm ET.\n\
+ nNotes\nEarly close at 1:00pm ET on Monday July 3.\n\nSource: NYSE Group
+  / ICE holiday and early-closings calendar. The same schedule applies to
+  Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2028-09-04@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20280904
+DTEND;VALUE=DATE:20280905
+SUMMARY:🚫 Markets Closed - Labor Day
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Labor Day\nMonday 4 September 2028\n\nNYSE and Nasdaq are CLO
+ SED for the full day.\nNormal session would be 9:30am - 4:00pm ET.\n\nSo
+ urce: NYSE Group / ICE holiday and early-closings calendar. The same sch
+ edule applies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2028-11-23@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20281123
+DTEND;VALUE=DATE:20281124
+SUMMARY:🚫 Markets Closed - Thanksgiving Day
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Thanksgiving Day\nThursday 23 November 2028\n\nNYSE and Nasda
+ q are CLOSED for the full day.\nNormal session would be 9:30am - 4:00pm 
+ ET.\n\nNotes\nEarly close at 1:00pm ET the following day.\n\nSource: NYS
+ E Group / ICE holiday and early-closings calendar. The same schedule app
+ lies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:close-2028-12-25@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:🚫 Markets Closed - Christmas Day
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Christmas Day\nMonday 25 December 2028\n\nNYSE and Nasdaq are
+  CLOSED for the full day.\nNormal session would be 9:30am - 4:00pm ET.\n
+ \nNotes\nDecember 24 falls on a Sunday\, so there is no Christmas Eve ea
+ rly close in 2028.\n\nSource: NYSE Group / ICE holiday and early-closing
+ s calendar. The same schedule applies to Nasdaq.
+CATEGORIES:Trading Holidays,Full closure
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:early-2026-11-27@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261127T143000Z
+DTEND:20261127T180000Z
+SUMMARY:🔔 Early Close 1:00pm ET - Day after Thanksgiving
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Early close - Day after Thanksgiving\nFriday 27 November 2026
+ \n\nShortened session - the market opens as normal at 9:30am ET.\n\nClos
+ ing times (all Eastern)\n1:00pm - equities\n1:15pm - eligible options\n2
+ :00pm - bond market (SIFMA recommendation)\n5:00pm - NYSE American / Arc
+ a / National / Texas late trading sessions\n\nVolume on half-days runs w
+ ell below normal\, so spreads widen. Worth using limit orders.\n\nSource
+ : NYSE Group / ICE holiday and early-closings calendar. The same schedul
+ e applies to Nasdaq.
+CATEGORIES:Trading Holidays,Early close
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:early-2026-12-24@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261224T143000Z
+DTEND:20261224T180000Z
+SUMMARY:🔔 Early Close 1:00pm ET - Christmas Eve
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Early close - Christmas Eve\nThursday 24 December 2026\n\nSho
+ rtened session - the market opens as normal at 9:30am ET.\n\nClosing tim
+ es (all Eastern)\n1:00pm - equities\n1:15pm - eligible options\n2:00pm -
+  bond market (SIFMA recommendation)\n5:00pm - NYSE American / Arca / Nat
+ ional / Texas late trading sessions\n\nVolume on half-days runs well bel
+ ow normal\, so spreads widen. Worth using limit orders.\n\nSource: NYSE 
+ Group / ICE holiday and early-closings calendar. The same schedule appli
+ es to Nasdaq.
+CATEGORIES:Trading Holidays,Early close
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:early-2027-11-26@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20271126T143000Z
+DTEND:20271126T180000Z
+SUMMARY:🔔 Early Close 1:00pm ET - Day after Thanksgiving
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Early close - Day after Thanksgiving\nFriday 26 November 2027
+ \n\nShortened session - the market opens as normal at 9:30am ET.\n\nClos
+ ing times (all Eastern)\n1:00pm - equities\n1:15pm - eligible options\n2
+ :00pm - bond market (SIFMA recommendation)\n5:00pm - NYSE American / Arc
+ a / National / Texas late trading sessions\n\nVolume on half-days runs w
+ ell below normal\, so spreads widen. Worth using limit orders.\n\nSource
+ : NYSE Group / ICE holiday and early-closings calendar. The same schedul
+ e applies to Nasdaq.
+CATEGORIES:Trading Holidays,Early close
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:early-2028-07-03@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20280703T133000Z
+DTEND:20280703T170000Z
+SUMMARY:🔔 Early Close 1:00pm ET - Day before Independence Day
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Early close - Day before Independence Day\nMonday 3 July 2028
+ \n\nShortened session - the market opens as normal at 9:30am ET.\n\nClos
+ ing times (all Eastern)\n1:00pm - equities\n1:15pm - eligible options\n2
+ :00pm - bond market (SIFMA recommendation)\n5:00pm - NYSE American / Arc
+ a / National / Texas late trading sessions\n\nVolume on half-days runs w
+ ell below normal\, so spreads widen. Worth using limit orders.\n\nSource
+ : NYSE Group / ICE holiday and early-closings calendar. The same schedul
+ e applies to Nasdaq.
+CATEGORIES:Trading Holidays,Early close
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:early-2028-11-24@claude-trading-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20281124T143000Z
+DTEND:20281124T180000Z
+SUMMARY:🔔 Early Close 1:00pm ET - Day after Thanksgiving
+LOCATION:New York Stock Exchange\, 11 Wall St\, New York\, NY 10005\, USA
+GEO:40.706877;-74.011265
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="11 Wall St, New York, NY
+  10005, USA";X-APPLE-RADIUS=100;X-TITLE="New York Stock Exchange":geo:40
+ .706877,-74.011265
+DESCRIPTION:Early close - Day after Thanksgiving\nFriday 24 November 2028
+ \n\nShortened session - the market opens as normal at 9:30am ET.\n\nClos
+ ing times (all Eastern)\n1:00pm - equities\n1:15pm - eligible options\n2
+ :00pm - bond market (SIFMA recommendation)\n5:00pm - NYSE American / Arc
+ a / National / Texas late trading sessions\n\nVolume on half-days runs w
+ ell below normal\, so spreads widen. Worth using limit orders.\n\nSource
+ : NYSE Group / ICE holiday and early-closings calendar. The same schedul
+ e applies to Nasdaq.
+CATEGORIES:Trading Holidays,Early close
+URL:https://www.nyse.com/markets/hours-calendars
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

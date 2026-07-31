@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//13F Filing Deadlines//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:13F Filing Deadlines
+X-APPLE-CALENDAR-COLOR:#546E7A
+X-WR-CALDESC:SEC Form 13F deadlines and the quarter-end snapshot dates th
+ e holdings actually refer to. Times Eastern\, stored in UTC.
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:13f-deadline-20260814@claude-13f
+DTSTAMP:20260729T090000Z
+DTSTART:20260814T200000Z
+DTEND:20260814T213000Z
+SUMMARY:📋 13F Deadline - Q2 2026 holdings
+DESCRIPTION:13F Deadline - Q2 2026 holdings\nFriday 14 August 2026\n\nTim
+ e\n4:00 PM ET  |  20:00 UTC\n\nFiling deadline for Form 13F covering pos
+ itions held on 30 June 2026.\n\nTiming\nFilings trickle in from quarter-
+ end onwards\, but the big names cluster in the final hours. EDGAR treats
+  submissions after 5:30pm ET as filed the next business day\, so 5:30pm 
+ is the effective cut-off and the point at which the data set is complete
+ .\n\nWho files\nAny institutional manager with at least $100m in Section
+  13(f) securities. No extensions are granted\; late filers are told to s
+ ubmit as soon as possible.\n\nWhat you get\nLong US equity positions onl
+ y. No shorts\, no bonds\, no cash\, no non-US listings\, and confidentia
+ l-treatment requests can hide positions temporarily.\n\nREMEMBER THE LAG
+ . A 13F shows positions as of the QUARTER-END date\, not the filing date
+  - roughly six weeks stale on arrival. A fund that held something on the
+  snapshot date may already be out of it. Good for spotting multi-quarter
+  accumulation and understanding a manager's approach\; useless as a shor
+ t-term signal.\n\nNote Schedule 13G quarterly amendments share these sam
+ e four dates.\n\nNotes\nFriday deadline\, so no weekend roll-forward. Fa
+ lls the same day as July retail sales and Michigan sentiment prelim.
+CATEGORIES:SEC Filings,13F Deadline
+URL:https://www.sec.gov/divisions/investment/13ffaq.htm
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:13f-snapshot-20260930@claude-13f
+DTSTAMP:20260729T090000Z
+DTSTART:20260930T200000Z
+DTEND:20260930T203000Z
+SUMMARY:📸 13F Snapshot Date - Q3 2026
+DESCRIPTION:13F Snapshot Date - Q3 2026\nWednesday 30 September 2026\n\nT
+ ime\n4:00 PM ET  |  20:00 UTC\n\nQuarter-end close. Positions held at th
+ is moment are what gets disclosed in the 13F filings roughly six weeks l
+ ater.\n\nPositions held at this close are what appears in the November f
+ ilings. Also quarter-end\, so rebalancing flows are in the tape.\n\nREME
+ MBER THE LAG. A 13F shows positions as of the QUARTER-END date\, not the
+  filing date - roughly six weeks stale on arrival. A fund that held some
+ thing on the snapshot date may already be out of it. Good for spotting m
+ ulti-quarter accumulation and understanding a manager's approach\; usele
+ ss as a short-term signal.
+CATEGORIES:SEC Filings,Snapshot
+URL:https://www.sec.gov/divisions/investment/13ffaq.htm
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:13f-deadline-20261116@claude-13f
+DTSTAMP:20260729T090000Z
+DTSTART:20261116T210000Z
+DTEND:20261116T223000Z
+SUMMARY:📋 13F Deadline - Q3 2026 holdings
+DESCRIPTION:13F Deadline - Q3 2026 holdings\nMonday 16 November 2026\n\nT
+ ime\n4:00 PM ET  |  21:00 UTC\n\nFiling deadline for Form 13F covering p
+ ositions held on 30 September 2026.\n\nTiming\nFilings trickle in from q
+ uarter-end onwards\, but the big names cluster in the final hours. EDGAR
+  treats submissions after 5:30pm ET as filed the next business day\, so 
+ 5:30pm is the effective cut-off and the point at which the data set is c
+ omplete.\n\nWho files\nAny institutional manager with at least $100m in 
+ Section 13(f) securities. No extensions are granted\; late filers are to
+ ld to submit as soon as possible.\n\nWhat you get\nLong US equity positi
+ ons only. No shorts\, no bonds\, no cash\, no non-US listings\, and conf
+ idential-treatment requests can hide positions temporarily.\n\nREMEMBER 
+ THE LAG. A 13F shows positions as of the QUARTER-END date\, not the fili
+ ng date - roughly six weeks stale on arrival. A fund that held something
+  on the snapshot date may already be out of it. Good for spotting multi-
+ quarter accumulation and understanding a manager's approach\; useless as
+  a short-term signal.\n\nNote Schedule 13G quarterly amendments share th
+ ese same four dates.\n\nNotes\nROLLED FORWARD. The nominal 45-day date i
+ s Saturday 14 November\, so the deadline moves to Monday 16 November. If
+  your compliance calendar still says the 14th\, it is wrong.
+CATEGORIES:SEC Filings,13F Deadline
+URL:https://www.sec.gov/divisions/investment/13ffaq.htm
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:13f-snapshot-20261231@claude-13f
+DTSTAMP:20260729T090000Z
+DTSTART:20261231T210000Z
+DTEND:20261231T213000Z
+SUMMARY:📸 13F Snapshot Date - Q4 2026
+DESCRIPTION:13F Snapshot Date - Q4 2026\nThursday 31 December 2026\n\nTim
+ e\n4:00 PM ET  |  21:00 UTC\n\nQuarter-end close. Positions held at this
+  moment are what gets disclosed in the 13F filings roughly six weeks lat
+ er.\n\nYear-end snapshot - the one most widely cited in press coverage\,
+  and the basis for the February filings.\n\nREMEMBER THE LAG. A 13F show
+ s positions as of the QUARTER-END date\, not the filing date - roughly s
+ ix weeks stale on arrival. A fund that held something on the snapshot da
+ te may already be out of it. Good for spotting multi-quarter accumulatio
+ n and understanding a manager's approach\; useless as a short-term signa
+ l.
+CATEGORIES:SEC Filings,Snapshot
+URL:https://www.sec.gov/divisions/investment/13ffaq.htm
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:13f-deadline-20270216@claude-13f
+DTSTAMP:20260729T090000Z
+DTSTART:20270216T210000Z
+DTEND:20270216T223000Z
+SUMMARY:📋 ~ 13F Deadline - Q4 2026 holdings
+DESCRIPTION:13F Deadline - Q4 2026 holdings\nTuesday 16 February 2027\n\n
+ Time\n4:00 PM ET  |  21:00 UTC\n\nFiling deadline for Form 13F covering 
+ positions held on 31 December 2026.\n\nTiming\nFilings trickle in from q
+ uarter-end onwards\, but the big names cluster in the final hours. EDGAR
+  treats submissions after 5:30pm ET as filed the next business day\, so 
+ 5:30pm is the effective cut-off and the point at which the data set is c
+ omplete.\n\nWho files\nAny institutional manager with at least $100m in 
+ Section 13(f) securities. No extensions are granted\; late filers are to
+ ld to submit as soon as possible.\n\nWhat you get\nLong US equity positi
+ ons only. No shorts\, no bonds\, no cash\, no non-US listings\, and conf
+ idential-treatment requests can hide positions temporarily.\n\nREMEMBER 
+ THE LAG. A 13F shows positions as of the QUARTER-END date\, not the fili
+ ng date - roughly six weeks stale on arrival. A fund that held something
+  on the snapshot date may already be out of it. Good for spotting multi-
+ quarter accumulation and understanding a manager's approach\; useless as
+  a short-term signal.\n\nNote Schedule 13G quarterly amendments share th
+ ese same four dates.\n\nNotes\nDOUBLE ROLL-FORWARD. The 45-day date is S
+ unday 14 February 2027\, and Monday the 15th is Washington's Birthday\, 
+ so it lands on Tuesday the 16th. Derived from the rule - the SEC FAQ pub
+ lishes exact dates through 2028\, worth confirming there.
+CATEGORIES:SEC Filings,13F Deadline
+URL:https://www.sec.gov/divisions/investment/13ffaq.htm
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:13f-snapshot-20270331@claude-13f
+DTSTAMP:20260729T090000Z
+DTSTART:20270331T200000Z
+DTEND:20270331T203000Z
+SUMMARY:📸 ~ 13F Snapshot Date - Q1 2027
+DESCRIPTION:13F Snapshot Date - Q1 2027\nWednesday 31 March 2027\n\nTime\
+ n4:00 PM ET  |  20:00 UTC\n\nQuarter-end close. Positions held at this m
+ oment are what gets disclosed in the 13F filings roughly six weeks later
+ .\n\nQuarter-end snapshot for the May filings.\n\nREMEMBER THE LAG. A 13
+ F shows positions as of the QUARTER-END date\, not the filing date - rou
+ ghly six weeks stale on arrival. A fund that held something on the snaps
+ hot date may already be out of it. Good for spotting multi-quarter accum
+ ulation and understanding a manager's approach\; useless as a short-term
+  signal.
+CATEGORIES:SEC Filings,Snapshot
+URL:https://www.sec.gov/divisions/investment/13ffaq.htm
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:13f-deadline-20270517@claude-13f
+DTSTAMP:20260729T090000Z
+DTSTART:20270517T200000Z
+DTEND:20270517T213000Z
+SUMMARY:📋 ~ 13F Deadline - Q1 2027 holdings
+DESCRIPTION:13F Deadline - Q1 2027 holdings\nMonday 17 May 2027\n\nTime\n
+ 4:00 PM ET  |  20:00 UTC\n\nFiling deadline for Form 13F covering positi
+ ons held on 31 March 2027.\n\nTiming\nFilings trickle in from quarter-en
+ d onwards\, but the big names cluster in the final hours. EDGAR treats s
+ ubmissions after 5:30pm ET as filed the next business day\, so 5:30pm is
+  the effective cut-off and the point at which the data set is complete.\
+ n\nWho files\nAny institutional manager with at least $100m in Section 1
+ 3(f) securities. No extensions are granted\; late filers are told to sub
+ mit as soon as possible.\n\nWhat you get\nLong US equity positions only.
+  No shorts\, no bonds\, no cash\, no non-US listings\, and confidential-
+ treatment requests can hide positions temporarily.\n\nREMEMBER THE LAG. 
+ A 13F shows positions as of the QUARTER-END date\, not the filing date -
+  roughly six weeks stale on arrival. A fund that held something on the s
+ napshot date may already be out of it. Good for spotting multi-quarter a
+ ccumulation and understanding a manager's approach\; useless as a short-
+ term signal.\n\nNote Schedule 13G quarterly amendments share these same 
+ four dates.\n\nNotes\nROLLED FORWARD - the 45-day date is Saturday 15 Ma
+ y 2027\, so it moves to Monday the 17th. Derived from the rule.
+CATEGORIES:SEC Filings,13F Deadline
+URL:https://www.sec.gov/divisions/investment/13ffaq.htm
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

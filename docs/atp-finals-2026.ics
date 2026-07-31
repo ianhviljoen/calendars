@@ -1,0 +1,225 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//Tennis 2026 ATP 1000 + Slams//EN
+CALSCALE:GREGORIAN
+ roadcast listings.
+X-WR-TIMEZONE:UTC
+X-WR-CALNAME:🎾 Nitto ATP Finals 2026
+X-WR-CALDESC:Nitto ATP Finals\, 15-22 November 2026\, Inalpi Arena\, Turin.
+BEGIN:VEVENT
+UID:atp-finals-2026-d1@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:🎾 Nitto ATP Finals
+LOCATION:Inalpi Arena\, Corso Sebastopoli 123\, 10134 Torino TO\, Italy
+GEO:45.041529;7.652191
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Corso Sebastopoli 123, 1
+ 0134 Torino TO, Italy";X-APPLE-RADIUS=150;X-TITLE="Inalpi Arena":geo:45.
+ 041529,7.652191
+DESCRIPTION:Round Robin - Day 1 - Sunday 15 November 2026\n\nTV\nTennis C
+ hannel\, Tennis Channel+\, Tennis TV (ATP streaming)\n\nVenue: Inalpi Ar
+ ena\nAddress: Corso Sebastopoli 123\, 10134 Torino TO\, Italy\nTournamen
+ t dates: Sun 15 Nov - Sun 22 Nov 2026\nSurface: Indoor hard\nSingles dra
+ w: 8 singles / 8 doubles\nPrize money: approx. $15M (2026 figure TBC)\nC
+ ategory: ATP Finals\n\nNotes\nSeason-ending championship for the top 8 s
+ ingles players and top 8 doubles teams. Round-robin groups of four first
+ \, then knockout semi-finals and final - so every player is guaranteed t
+ hree matches. Sixth consecutive year in Turin. Qualification is settled 
+ by the Paris Masters the week before.\n\nOrder of play is published the 
+ evening before each day.\nUS broadcast listings can change.
+CATEGORIES:Tennis,ATP Finals
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-finals-2026-d2@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:🎾 Nitto ATP Finals
+LOCATION:Inalpi Arena\, Corso Sebastopoli 123\, 10134 Torino TO\, Italy
+GEO:45.041529;7.652191
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Corso Sebastopoli 123, 1
+ 0134 Torino TO, Italy";X-APPLE-RADIUS=150;X-TITLE="Inalpi Arena":geo:45.
+ 041529,7.652191
+DESCRIPTION:Round Robin - Day 2 - Monday 16 November 2026\n\nTV\nTennis C
+ hannel\, Tennis Channel+\, Tennis TV (ATP streaming)\n\nVenue: Inalpi Ar
+ ena\nAddress: Corso Sebastopoli 123\, 10134 Torino TO\, Italy\nTournamen
+ t dates: Sun 15 Nov - Sun 22 Nov 2026\nSurface: Indoor hard\nSingles dra
+ w: 8 singles / 8 doubles\nPrize money: approx. $15M (2026 figure TBC)\nC
+ ategory: ATP Finals\n\nNotes\nSeason-ending championship for the top 8 s
+ ingles players and top 8 doubles teams. Round-robin groups of four first
+ \, then knockout semi-finals and final - so every player is guaranteed t
+ hree matches. Sixth consecutive year in Turin. Qualification is settled 
+ by the Paris Masters the week before.\n\nOrder of play is published the 
+ evening before each day.\nUS broadcast listings can change.
+CATEGORIES:Tennis,ATP Finals
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-finals-2026-d3@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:🎾 Nitto ATP Finals
+LOCATION:Inalpi Arena\, Corso Sebastopoli 123\, 10134 Torino TO\, Italy
+GEO:45.041529;7.652191
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Corso Sebastopoli 123, 1
+ 0134 Torino TO, Italy";X-APPLE-RADIUS=150;X-TITLE="Inalpi Arena":geo:45.
+ 041529,7.652191
+DESCRIPTION:Round Robin - Day 3 - Tuesday 17 November 2026\n\nTV\nTennis 
+ Channel\, Tennis Channel+\, Tennis TV (ATP streaming)\n\nVenue: Inalpi A
+ rena\nAddress: Corso Sebastopoli 123\, 10134 Torino TO\, Italy\nTourname
+ nt dates: Sun 15 Nov - Sun 22 Nov 2026\nSurface: Indoor hard\nSingles dr
+ aw: 8 singles / 8 doubles\nPrize money: approx. $15M (2026 figure TBC)\n
+ Category: ATP Finals\n\nNotes\nSeason-ending championship for the top 8 
+ singles players and top 8 doubles teams. Round-robin groups of four firs
+ t\, then knockout semi-finals and final - so every player is guaranteed 
+ three matches. Sixth consecutive year in Turin. Qualification is settled
+  by the Paris Masters the week before.\n\nOrder of play is published the
+  evening before each day.\nUS broadcast listings can change.
+CATEGORIES:Tennis,ATP Finals
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-finals-2026-d4@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🎾 Nitto ATP Finals
+LOCATION:Inalpi Arena\, Corso Sebastopoli 123\, 10134 Torino TO\, Italy
+GEO:45.041529;7.652191
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Corso Sebastopoli 123, 1
+ 0134 Torino TO, Italy";X-APPLE-RADIUS=150;X-TITLE="Inalpi Arena":geo:45.
+ 041529,7.652191
+DESCRIPTION:Round Robin - Day 4 - Wednesday 18 November 2026\n\nTV\nTenni
+ s Channel\, Tennis Channel+\, Tennis TV (ATP streaming)\n\nVenue: Inalpi
+  Arena\nAddress: Corso Sebastopoli 123\, 10134 Torino TO\, Italy\nTourna
+ ment dates: Sun 15 Nov - Sun 22 Nov 2026\nSurface: Indoor hard\nSingles 
+ draw: 8 singles / 8 doubles\nPrize money: approx. $15M (2026 figure TBC)
+ \nCategory: ATP Finals\n\nNotes\nSeason-ending championship for the top 
+ 8 singles players and top 8 doubles teams. Round-robin groups of four fi
+ rst\, then knockout semi-finals and final - so every player is guarantee
+ d three matches. Sixth consecutive year in Turin. Qualification is settl
+ ed by the Paris Masters the week before.\n\nOrder of play is published t
+ he evening before each day.\nUS broadcast listings can change.
+CATEGORIES:Tennis,ATP Finals
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-finals-2026-d5@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:🎾 Nitto ATP Finals
+LOCATION:Inalpi Arena\, Corso Sebastopoli 123\, 10134 Torino TO\, Italy
+GEO:45.041529;7.652191
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Corso Sebastopoli 123, 1
+ 0134 Torino TO, Italy";X-APPLE-RADIUS=150;X-TITLE="Inalpi Arena":geo:45.
+ 041529,7.652191
+DESCRIPTION:Round Robin - Day 5 - Thursday 19 November 2026\n\nTV\nTennis
+  Channel\, Tennis Channel+\, Tennis TV (ATP streaming)\n\nVenue: Inalpi 
+ Arena\nAddress: Corso Sebastopoli 123\, 10134 Torino TO\, Italy\nTournam
+ ent dates: Sun 15 Nov - Sun 22 Nov 2026\nSurface: Indoor hard\nSingles d
+ raw: 8 singles / 8 doubles\nPrize money: approx. $15M (2026 figure TBC)\
+ nCategory: ATP Finals\n\nNotes\nSeason-ending championship for the top 8
+  singles players and top 8 doubles teams. Round-robin groups of four fir
+ st\, then knockout semi-finals and final - so every player is guaranteed
+  three matches. Sixth consecutive year in Turin. Qualification is settle
+ d by the Paris Masters the week before.\n\nOrder of play is published th
+ e evening before each day.\nUS broadcast listings can change.
+CATEGORIES:Tennis,ATP Finals
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-finals-2026-d6@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:🎾 Nitto ATP Finals
+LOCATION:Inalpi Arena\, Corso Sebastopoli 123\, 10134 Torino TO\, Italy
+GEO:45.041529;7.652191
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Corso Sebastopoli 123, 1
+ 0134 Torino TO, Italy";X-APPLE-RADIUS=150;X-TITLE="Inalpi Arena":geo:45.
+ 041529,7.652191
+DESCRIPTION:Round Robin - Day 6 - Friday 20 November 2026\n\nTV\nTennis C
+ hannel\, Tennis Channel+\, Tennis TV (ATP streaming)\n\nVenue: Inalpi Ar
+ ena\nAddress: Corso Sebastopoli 123\, 10134 Torino TO\, Italy\nTournamen
+ t dates: Sun 15 Nov - Sun 22 Nov 2026\nSurface: Indoor hard\nSingles dra
+ w: 8 singles / 8 doubles\nPrize money: approx. $15M (2026 figure TBC)\nC
+ ategory: ATP Finals\n\nNotes\nSeason-ending championship for the top 8 s
+ ingles players and top 8 doubles teams. Round-robin groups of four first
+ \, then knockout semi-finals and final - so every player is guaranteed t
+ hree matches. Sixth consecutive year in Turin. Qualification is settled 
+ by the Paris Masters the week before.\n\nOrder of play is published the 
+ evening before each day.\nUS broadcast listings can change.
+CATEGORIES:Tennis,ATP Finals
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-finals-2026-d7@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:🎾 Nitto ATP Finals
+LOCATION:Inalpi Arena\, Corso Sebastopoli 123\, 10134 Torino TO\, Italy
+GEO:45.041529;7.652191
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Corso Sebastopoli 123, 1
+ 0134 Torino TO, Italy";X-APPLE-RADIUS=150;X-TITLE="Inalpi Arena":geo:45.
+ 041529,7.652191
+DESCRIPTION:Semi-Finals - Saturday 21 November 2026\n\nTV\nTennis Channel
+ \, Tennis Channel+\, Tennis TV (ATP streaming)\n\nVenue: Inalpi Arena\nA
+ ddress: Corso Sebastopoli 123\, 10134 Torino TO\, Italy\nTournament date
+ s: Sun 15 Nov - Sun 22 Nov 2026\nSurface: Indoor hard\nSingles draw: 8 s
+ ingles / 8 doubles\nPrize money: approx. $15M (2026 figure TBC)\nCategor
+ y: ATP Finals\n\nNotes\nSeason-ending championship for the top 8 singles
+  players and top 8 doubles teams. Round-robin groups of four first\, the
+ n knockout semi-finals and final - so every player is guaranteed three m
+ atches. Sixth consecutive year in Turin. Qualification is settled by the
+  Paris Masters the week before.\n\nOrder of play is published the evenin
+ g before each day.\nUS broadcast listings can change.
+CATEGORIES:Tennis,ATP Finals
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:atp-finals-2026-d8@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:🎾 Nitto ATP Finals
+LOCATION:Inalpi Arena\, Corso Sebastopoli 123\, 10134 Torino TO\, Italy
+GEO:45.041529;7.652191
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Corso Sebastopoli 123, 1
+ 0134 Torino TO, Italy";X-APPLE-RADIUS=150;X-TITLE="Inalpi Arena":geo:45.
+ 041529,7.652191
+DESCRIPTION:Singles & Doubles Finals - Sunday 22 November 2026\n\nTV\nTen
+ nis Channel\, Tennis Channel+\, Tennis TV (ATP streaming)\n\nVenue: Inal
+ pi Arena\nAddress: Corso Sebastopoli 123\, 10134 Torino TO\, Italy\nTour
+ nament dates: Sun 15 Nov - Sun 22 Nov 2026\nSurface: Indoor hard\nSingle
+ s draw: 8 singles / 8 doubles\nPrize money: approx. $15M (2026 figure TB
+ C)\nCategory: ATP Finals\n\nNotes\nSeason-ending championship for the to
+ p 8 singles players and top 8 doubles teams. Round-robin groups of four 
+ first\, then knockout semi-finals and final - so every player is guarant
+ eed three matches. Sixth consecutive year in Turin. Qualification is set
+ tled by the Paris Masters the week before.\n\nOrder of play is published
+  the evening before each day.\nUS broadcast listings can change.
+CATEGORIES:Tennis,ATP Finals
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1411 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//F1 2026 Sessions//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:🏁 F1 2026 - Sessions
+X-WR-CALDESC:Every remaining session of the 2026 F1 season\, rounds 12-22
+ \, with exact start times. Times stored in UTC and shown in your local z
+ one.
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:dutch-grand-prix-2026-fp1@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260821T103000Z
+DTEND:20260821T113000Z
+SUMMARY:🔧 Dutch GP - Practice 1
+LOCATION:Circuit Zandvoort\, Burgemeester van Alphenstraat 108\, 2041 KP 
+ Zandvoort\, Netherlands
+GEO:52.388408;4.547122
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Burgemeester van Alphens
+ traat 108, 2041 KP Zandvoort, Netherlands";X-APPLE-RADIUS=200;X-TITLE="C
+ ircuit Zandvoort":geo:52.388408,4.547122
+DESCRIPTION:Dutch GP - Practice 1\nRound 12 of 22\n\nStart times\nTrack l
+ ocal: Fri 21 Aug\, 12:30 CEST\nUS Eastern:  Fri 21 Aug\, 6:30 AM EDT\n\n
+ TV\nApple TV - every practice\, qualifying\, sprint and race session. Se
+ lect races and all practice free in the Apple TV app.\n\nCircuit: Circui
+ t Zandvoort\nAddress: Burgemeester van Alphenstraat 108\, 2041 KP Zandvo
+ ort\, Netherlands\nWeekend format: Sprint weekend\n\nNotes\nSprint weeke
+ nd. Zandvoort is due to drop off the F1 calendar after this season\, so 
+ this is scheduled to be the last Dutch Grand Prix for now.\n\nSession ti
+ mes occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dutch-grand-prix-2026-sprintQualifying@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260821T143000Z
+DTEND:20260821T151500Z
+SUMMARY:⏱ Dutch GP - Sprint Qualifying
+LOCATION:Circuit Zandvoort\, Burgemeester van Alphenstraat 108\, 2041 KP 
+ Zandvoort\, Netherlands
+GEO:52.388408;4.547122
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Burgemeester van Alphens
+ traat 108, 2041 KP Zandvoort, Netherlands";X-APPLE-RADIUS=200;X-TITLE="C
+ ircuit Zandvoort":geo:52.388408,4.547122
+DESCRIPTION:Dutch GP - Sprint Qualifying\nRound 12 of 22\n\nStart times\n
+ Track local: Fri 21 Aug\, 16:30 CEST\nUS Eastern:  Fri 21 Aug\, 10:30 AM
+  EDT\n\nTV\nApple TV - every practice\, qualifying\, sprint and race ses
+ sion. Select races and all practice free in the Apple TV app.\n\nCircuit
+ : Circuit Zandvoort\nAddress: Burgemeester van Alphenstraat 108\, 2041 K
+ P Zandvoort\, Netherlands\nWeekend format: Sprint weekend\n\nNotes\nSpri
+ nt weekend. Zandvoort is due to drop off the F1 calendar after this seas
+ on\, so this is scheduled to be the last Dutch Grand Prix for now.\n\nSe
+ ssion times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Qualifying
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dutch-grand-prix-2026-sprint@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260822T100000Z
+DTEND:20260822T104500Z
+SUMMARY:🏎 Dutch GP - SPRINT
+LOCATION:Circuit Zandvoort\, Burgemeester van Alphenstraat 108\, 2041 KP 
+ Zandvoort\, Netherlands
+GEO:52.388408;4.547122
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Burgemeester van Alphens
+ traat 108, 2041 KP Zandvoort, Netherlands";X-APPLE-RADIUS=200;X-TITLE="C
+ ircuit Zandvoort":geo:52.388408,4.547122
+DESCRIPTION:Dutch GP - SPRINT\nRound 12 of 22\n\nStart times\nTrack local
+ : Sat 22 Aug\, 12:00 CEST\nUS Eastern:  Sat 22 Aug\, 6:00 AM EDT\n\nTV\n
+ Apple TV - every practice\, qualifying\, sprint and race session. Select
+  races and all practice free in the Apple TV app.\n\nCircuit: Circuit Za
+ ndvoort\nAddress: Burgemeester van Alphenstraat 108\, 2041 KP Zandvoort\
+ , Netherlands\nWeekend format: Sprint weekend\n\nNotes\nSprint weekend. 
+ Zandvoort is due to drop off the F1 calendar after this season\, so this
+  is scheduled to be the last Dutch Grand Prix for now.\n\nSession times 
+ occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Sprint
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dutch-grand-prix-2026-qualifying@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260822T140000Z
+DTEND:20260822T150000Z
+SUMMARY:⏱ Dutch GP - QUALIFYING
+LOCATION:Circuit Zandvoort\, Burgemeester van Alphenstraat 108\, 2041 KP 
+ Zandvoort\, Netherlands
+GEO:52.388408;4.547122
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Burgemeester van Alphens
+ traat 108, 2041 KP Zandvoort, Netherlands";X-APPLE-RADIUS=200;X-TITLE="C
+ ircuit Zandvoort":geo:52.388408,4.547122
+DESCRIPTION:Dutch GP - QUALIFYING\nRound 12 of 22\n\nStart times\nTrack l
+ ocal: Sat 22 Aug\, 16:00 CEST\nUS Eastern:  Sat 22 Aug\, 10:00 AM EDT\n\
+ nTV\nApple TV - every practice\, qualifying\, sprint and race session. S
+ elect races and all practice free in the Apple TV app.\n\nCircuit: Circu
+ it Zandvoort\nAddress: Burgemeester van Alphenstraat 108\, 2041 KP Zandv
+ oort\, Netherlands\nWeekend format: Sprint weekend\n\nNotes\nSprint week
+ end. Zandvoort is due to drop off the F1 calendar after this season\, so
+  this is scheduled to be the last Dutch Grand Prix for now.\n\nSession t
+ imes occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Qualifying
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dutch-grand-prix-2026-gp@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260823T130000Z
+DTEND:20260823T150000Z
+SUMMARY:🏁 Dutch GP - RACE
+LOCATION:Circuit Zandvoort\, Burgemeester van Alphenstraat 108\, 2041 KP 
+ Zandvoort\, Netherlands
+GEO:52.388408;4.547122
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Burgemeester van Alphens
+ traat 108, 2041 KP Zandvoort, Netherlands";X-APPLE-RADIUS=200;X-TITLE="C
+ ircuit Zandvoort":geo:52.388408,4.547122
+DESCRIPTION:Dutch GP - RACE\nRound 12 of 22\n\nStart times\nTrack local: 
+ Sun 23 Aug\, 15:00 CEST\nUS Eastern:  Sun 23 Aug\, 9:00 AM EDT\n\nTV\nAp
+ ple TV - every practice\, qualifying\, sprint and race session. Select r
+ aces and all practice free in the Apple TV app.\n\nCircuit: Circuit Zand
+ voort\nAddress: Burgemeester van Alphenstraat 108\, 2041 KP Zandvoort\, 
+ Netherlands\nWeekend format: Sprint weekend\n\nNotes\nSprint weekend. Za
+ ndvoort is due to drop off the F1 calendar after this season\, so this i
+ s scheduled to be the last Dutch Grand Prix for now.\n\nSession times oc
+ casionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Race
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:italian-grand-prix-2026-fp1@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260904T103000Z
+DTEND:20260904T113000Z
+SUMMARY:🔧 Italian GP - Practice 1
+LOCATION:Autodromo Nazionale Monza\, Viale di Vedano 5\, 20900 Monza MB\,
+  Italy
+GEO:45.6169;9.2825
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Viale di Vedano 5, 20900
+  Monza MB, Italy";X-APPLE-RADIUS=200;X-TITLE="Autodromo Nazionale Monza"
+ :geo:45.6169,9.2825
+DESCRIPTION:Italian GP - Practice 1\nRound 13 of 22\n\nStart times\nTrack
+  local: Fri 4 Sep\, 12:30 CEST\nUS Eastern:  Fri 4 Sep\, 6:30 AM EDT\n\n
+ TV\nApple TV - every practice\, qualifying\, sprint and race session. Se
+ lect races and all practice free in the Apple TV app.\n\nCircuit: Autodr
+ omo Nazionale Monza\nAddress: Viale di Vedano 5\, 20900 Monza MB\, Italy
+ \nWeekend format: Traditional weekend\n\nNotes\nThe Temple of Speed - lo
+ west-downforce setup and the highest average speeds of the year.\n\nSess
+ ion times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:italian-grand-prix-2026-fp2@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260904T140000Z
+DTEND:20260904T150000Z
+SUMMARY:🔧 Italian GP - Practice 2
+LOCATION:Autodromo Nazionale Monza\, Viale di Vedano 5\, 20900 Monza MB\,
+  Italy
+GEO:45.6169;9.2825
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Viale di Vedano 5, 20900
+  Monza MB, Italy";X-APPLE-RADIUS=200;X-TITLE="Autodromo Nazionale Monza"
+ :geo:45.6169,9.2825
+DESCRIPTION:Italian GP - Practice 2\nRound 13 of 22\n\nStart times\nTrack
+  local: Fri 4 Sep\, 16:00 CEST\nUS Eastern:  Fri 4 Sep\, 10:00 AM EDT\n\
+ nTV\nApple TV - every practice\, qualifying\, sprint and race session. S
+ elect races and all practice free in the Apple TV app.\n\nCircuit: Autod
+ romo Nazionale Monza\nAddress: Viale di Vedano 5\, 20900 Monza MB\, Ital
+ y\nWeekend format: Traditional weekend\n\nNotes\nThe Temple of Speed - l
+ owest-downforce setup and the highest average speeds of the year.\n\nSes
+ sion times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:italian-grand-prix-2026-fp3@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260905T103000Z
+DTEND:20260905T113000Z
+SUMMARY:🔧 Italian GP - Practice 3
+LOCATION:Autodromo Nazionale Monza\, Viale di Vedano 5\, 20900 Monza MB\,
+  Italy
+GEO:45.6169;9.2825
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Viale di Vedano 5, 20900
+  Monza MB, Italy";X-APPLE-RADIUS=200;X-TITLE="Autodromo Nazionale Monza"
+ :geo:45.6169,9.2825
+DESCRIPTION:Italian GP - Practice 3\nRound 13 of 22\n\nStart times\nTrack
+  local: Sat 5 Sep\, 12:30 CEST\nUS Eastern:  Sat 5 Sep\, 6:30 AM EDT\n\n
+ TV\nApple TV - every practice\, qualifying\, sprint and race session. Se
+ lect races and all practice free in the Apple TV app.\n\nCircuit: Autodr
+ omo Nazionale Monza\nAddress: Viale di Vedano 5\, 20900 Monza MB\, Italy
+ \nWeekend format: Traditional weekend\n\nNotes\nThe Temple of Speed - lo
+ west-downforce setup and the highest average speeds of the year.\n\nSess
+ ion times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:italian-grand-prix-2026-qualifying@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260905T140000Z
+DTEND:20260905T150000Z
+SUMMARY:⏱ Italian GP - QUALIFYING
+LOCATION:Autodromo Nazionale Monza\, Viale di Vedano 5\, 20900 Monza MB\,
+  Italy
+GEO:45.6169;9.2825
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Viale di Vedano 5, 20900
+  Monza MB, Italy";X-APPLE-RADIUS=200;X-TITLE="Autodromo Nazionale Monza"
+ :geo:45.6169,9.2825
+DESCRIPTION:Italian GP - QUALIFYING\nRound 13 of 22\n\nStart times\nTrack
+  local: Sat 5 Sep\, 16:00 CEST\nUS Eastern:  Sat 5 Sep\, 10:00 AM EDT\n\
+ nTV\nApple TV - every practice\, qualifying\, sprint and race session. S
+ elect races and all practice free in the Apple TV app.\n\nCircuit: Autod
+ romo Nazionale Monza\nAddress: Viale di Vedano 5\, 20900 Monza MB\, Ital
+ y\nWeekend format: Traditional weekend\n\nNotes\nThe Temple of Speed - l
+ owest-downforce setup and the highest average speeds of the year.\n\nSes
+ sion times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Qualifying
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:italian-grand-prix-2026-gp@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:🏁 Italian GP - RACE
+LOCATION:Autodromo Nazionale Monza\, Viale di Vedano 5\, 20900 Monza MB\,
+  Italy
+GEO:45.6169;9.2825
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Viale di Vedano 5, 20900
+  Monza MB, Italy";X-APPLE-RADIUS=200;X-TITLE="Autodromo Nazionale Monza"
+ :geo:45.6169,9.2825
+DESCRIPTION:Italian GP - RACE\nRound 13 of 22\n\nStart times\nTrack local
+ : Sun 6 Sep\, 15:00 CEST\nUS Eastern:  Sun 6 Sep\, 9:00 AM EDT\n\nTV\nAp
+ ple TV - every practice\, qualifying\, sprint and race session. Select r
+ aces and all practice free in the Apple TV app.\n\nCircuit: Autodromo Na
+ zionale Monza\nAddress: Viale di Vedano 5\, 20900 Monza MB\, Italy\nWeek
+ end format: Traditional weekend\n\nNotes\nThe Temple of Speed - lowest-d
+ ownforce setup and the highest average speeds of the year.\n\nSession ti
+ mes occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Race
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:spanish-grand-prix-2026-fp1@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260911T113000Z
+DTEND:20260911T123000Z
+SUMMARY:🔧 Spanish GP - Practice 1
+LOCATION:MADRING\, Av. del Partenon 5\, Barajas\, 28042 Madrid\, Spain
+GEO:40.4168;-3.7038
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Av. del Partenon 5, Bara
+ jas, 28042 Madrid, Spain";X-APPLE-RADIUS=200;X-TITLE="MADRING":geo:40.41
+ 68,-3.7038
+DESCRIPTION:Spanish GP - Practice 1\nRound 14 of 22\n\nStart times\nTrack
+  local: Fri 11 Sep\, 13:30 CEST\nUS Eastern:  Fri 11 Sep\, 7:30 AM EDT\n
+ \nTV\nApple TV - every practice\, qualifying\, sprint and race session. 
+ Select races and all practice free in the Apple TV app.\n\nCircuit: MADR
+ ING\nAddress: Av. del Partenon 5\, Barajas\, 28042 Madrid\, Spain\nWeeke
+ nd format: Traditional weekend\n\nNotes\nNEW CIRCUIT. First F1 race in M
+ adrid\, on a new part-street layout around the IFEMA centre. Spain's sec
+ ond round of 2026.\n\nSession times occasionally shift - confirm on form
+ ula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:spanish-grand-prix-2026-fp2@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260911T150000Z
+DTEND:20260911T160000Z
+SUMMARY:🔧 Spanish GP - Practice 2
+LOCATION:MADRING\, Av. del Partenon 5\, Barajas\, 28042 Madrid\, Spain
+GEO:40.4168;-3.7038
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Av. del Partenon 5, Bara
+ jas, 28042 Madrid, Spain";X-APPLE-RADIUS=200;X-TITLE="MADRING":geo:40.41
+ 68,-3.7038
+DESCRIPTION:Spanish GP - Practice 2\nRound 14 of 22\n\nStart times\nTrack
+  local: Fri 11 Sep\, 17:00 CEST\nUS Eastern:  Fri 11 Sep\, 11:00 AM EDT\
+ n\nTV\nApple TV - every practice\, qualifying\, sprint and race session.
+  Select races and all practice free in the Apple TV app.\n\nCircuit: MAD
+ RING\nAddress: Av. del Partenon 5\, Barajas\, 28042 Madrid\, Spain\nWeek
+ end format: Traditional weekend\n\nNotes\nNEW CIRCUIT. First F1 race in 
+ Madrid\, on a new part-street layout around the IFEMA centre. Spain's se
+ cond round of 2026.\n\nSession times occasionally shift - confirm on for
+ mula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:spanish-grand-prix-2026-fp3@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260912T103000Z
+DTEND:20260912T113000Z
+SUMMARY:🔧 Spanish GP - Practice 3
+LOCATION:MADRING\, Av. del Partenon 5\, Barajas\, 28042 Madrid\, Spain
+GEO:40.4168;-3.7038
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Av. del Partenon 5, Bara
+ jas, 28042 Madrid, Spain";X-APPLE-RADIUS=200;X-TITLE="MADRING":geo:40.41
+ 68,-3.7038
+DESCRIPTION:Spanish GP - Practice 3\nRound 14 of 22\n\nStart times\nTrack
+  local: Sat 12 Sep\, 12:30 CEST\nUS Eastern:  Sat 12 Sep\, 6:30 AM EDT\n
+ \nTV\nApple TV - every practice\, qualifying\, sprint and race session. 
+ Select races and all practice free in the Apple TV app.\n\nCircuit: MADR
+ ING\nAddress: Av. del Partenon 5\, Barajas\, 28042 Madrid\, Spain\nWeeke
+ nd format: Traditional weekend\n\nNotes\nNEW CIRCUIT. First F1 race in M
+ adrid\, on a new part-street layout around the IFEMA centre. Spain's sec
+ ond round of 2026.\n\nSession times occasionally shift - confirm on form
+ ula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:spanish-grand-prix-2026-qualifying@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260912T140000Z
+DTEND:20260912T150000Z
+SUMMARY:⏱ Spanish GP - QUALIFYING
+LOCATION:MADRING\, Av. del Partenon 5\, Barajas\, 28042 Madrid\, Spain
+GEO:40.4168;-3.7038
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Av. del Partenon 5, Bara
+ jas, 28042 Madrid, Spain";X-APPLE-RADIUS=200;X-TITLE="MADRING":geo:40.41
+ 68,-3.7038
+DESCRIPTION:Spanish GP - QUALIFYING\nRound 14 of 22\n\nStart times\nTrack
+  local: Sat 12 Sep\, 16:00 CEST\nUS Eastern:  Sat 12 Sep\, 10:00 AM EDT\
+ n\nTV\nApple TV - every practice\, qualifying\, sprint and race session.
+  Select races and all practice free in the Apple TV app.\n\nCircuit: MAD
+ RING\nAddress: Av. del Partenon 5\, Barajas\, 28042 Madrid\, Spain\nWeek
+ end format: Traditional weekend\n\nNotes\nNEW CIRCUIT. First F1 race in 
+ Madrid\, on a new part-street layout around the IFEMA centre. Spain's se
+ cond round of 2026.\n\nSession times occasionally shift - confirm on for
+ mula1.com.
+CATEGORIES:Formula 1,Qualifying
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:spanish-grand-prix-2026-gp@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:🏁 Spanish GP - RACE
+LOCATION:MADRING\, Av. del Partenon 5\, Barajas\, 28042 Madrid\, Spain
+GEO:40.4168;-3.7038
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Av. del Partenon 5, Bara
+ jas, 28042 Madrid, Spain";X-APPLE-RADIUS=200;X-TITLE="MADRING":geo:40.41
+ 68,-3.7038
+DESCRIPTION:Spanish GP - RACE\nRound 14 of 22\n\nStart times\nTrack local
+ : Sun 13 Sep\, 15:00 CEST\nUS Eastern:  Sun 13 Sep\, 9:00 AM EDT\n\nTV\n
+ Apple TV - every practice\, qualifying\, sprint and race session. Select
+  races and all practice free in the Apple TV app.\n\nCircuit: MADRING\nA
+ ddress: Av. del Partenon 5\, Barajas\, 28042 Madrid\, Spain\nWeekend for
+ mat: Traditional weekend\n\nNotes\nNEW CIRCUIT. First F1 race in Madrid\
+ , on a new part-street layout around the IFEMA centre. Spain's second ro
+ und of 2026.\n\nSession times occasionally shift - confirm on formula1.c
+ om.
+CATEGORIES:Formula 1,Race
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:azerbaijan-grand-prix-2026-fp1@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260924T083000Z
+DTEND:20260924T093000Z
+SUMMARY:🔧 Azerbaijan GP - Practice 1
+LOCATION:Baku City Circuit\, 93 Zarifa Aliyeva\, Baku\, Azerbaijan
+GEO:40.3699;49.8433
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="93 Zarifa Aliyeva, Baku,
+  Azerbaijan";X-APPLE-RADIUS=200;X-TITLE="Baku City Circuit":geo:40.3699,
+ 49.8433
+DESCRIPTION:Azerbaijan GP - Practice 1\nRound 15 of 22\n\nStart times\nTr
+ ack local: Thu 24 Sep\, 12:30 +04\nUS Eastern:  Thu 24 Sep\, 4:30 AM EDT
+ \n\nTV\nApple TV - every practice\, qualifying\, sprint and race session
+ . Select races and all practice free in the Apple TV app.\n\nCircuit: Ba
+ ku City Circuit\nAddress: 93 Zarifa Aliyeva\, Baku\, Azerbaijan\nWeekend
+  format: Traditional weekend\n\nNotes\nSATURDAY RACE. The weekend runs T
+ hursday to Saturday - one of only two Saturday Grands Prix in 2026.\n\nS
+ ession times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:azerbaijan-grand-prix-2026-fp2@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260924T120000Z
+DTEND:20260924T130000Z
+SUMMARY:🔧 Azerbaijan GP - Practice 2
+LOCATION:Baku City Circuit\, 93 Zarifa Aliyeva\, Baku\, Azerbaijan
+GEO:40.3699;49.8433
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="93 Zarifa Aliyeva, Baku,
+  Azerbaijan";X-APPLE-RADIUS=200;X-TITLE="Baku City Circuit":geo:40.3699,
+ 49.8433
+DESCRIPTION:Azerbaijan GP - Practice 2\nRound 15 of 22\n\nStart times\nTr
+ ack local: Thu 24 Sep\, 16:00 +04\nUS Eastern:  Thu 24 Sep\, 8:00 AM EDT
+ \n\nTV\nApple TV - every practice\, qualifying\, sprint and race session
+ . Select races and all practice free in the Apple TV app.\n\nCircuit: Ba
+ ku City Circuit\nAddress: 93 Zarifa Aliyeva\, Baku\, Azerbaijan\nWeekend
+  format: Traditional weekend\n\nNotes\nSATURDAY RACE. The weekend runs T
+ hursday to Saturday - one of only two Saturday Grands Prix in 2026.\n\nS
+ ession times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:azerbaijan-grand-prix-2026-fp3@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260925T083000Z
+DTEND:20260925T093000Z
+SUMMARY:🔧 Azerbaijan GP - Practice 3
+LOCATION:Baku City Circuit\, 93 Zarifa Aliyeva\, Baku\, Azerbaijan
+GEO:40.3699;49.8433
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="93 Zarifa Aliyeva, Baku,
+  Azerbaijan";X-APPLE-RADIUS=200;X-TITLE="Baku City Circuit":geo:40.3699,
+ 49.8433
+DESCRIPTION:Azerbaijan GP - Practice 3\nRound 15 of 22\n\nStart times\nTr
+ ack local: Fri 25 Sep\, 12:30 +04\nUS Eastern:  Fri 25 Sep\, 4:30 AM EDT
+ \n\nTV\nApple TV - every practice\, qualifying\, sprint and race session
+ . Select races and all practice free in the Apple TV app.\n\nCircuit: Ba
+ ku City Circuit\nAddress: 93 Zarifa Aliyeva\, Baku\, Azerbaijan\nWeekend
+  format: Traditional weekend\n\nNotes\nSATURDAY RACE. The weekend runs T
+ hursday to Saturday - one of only two Saturday Grands Prix in 2026.\n\nS
+ ession times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:azerbaijan-grand-prix-2026-qualifying@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260925T120000Z
+DTEND:20260925T130000Z
+SUMMARY:⏱ Azerbaijan GP - QUALIFYING
+LOCATION:Baku City Circuit\, 93 Zarifa Aliyeva\, Baku\, Azerbaijan
+GEO:40.3699;49.8433
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="93 Zarifa Aliyeva, Baku,
+  Azerbaijan";X-APPLE-RADIUS=200;X-TITLE="Baku City Circuit":geo:40.3699,
+ 49.8433
+DESCRIPTION:Azerbaijan GP - QUALIFYING\nRound 15 of 22\n\nStart times\nTr
+ ack local: Fri 25 Sep\, 16:00 +04\nUS Eastern:  Fri 25 Sep\, 8:00 AM EDT
+ \n\nTV\nApple TV - every practice\, qualifying\, sprint and race session
+ . Select races and all practice free in the Apple TV app.\n\nCircuit: Ba
+ ku City Circuit\nAddress: 93 Zarifa Aliyeva\, Baku\, Azerbaijan\nWeekend
+  format: Traditional weekend\n\nNotes\nSATURDAY RACE. The weekend runs T
+ hursday to Saturday - one of only two Saturday Grands Prix in 2026.\n\nS
+ ession times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Qualifying
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:azerbaijan-grand-prix-2026-gp@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:🏁 Azerbaijan GP - RACE
+LOCATION:Baku City Circuit\, 93 Zarifa Aliyeva\, Baku\, Azerbaijan
+GEO:40.3699;49.8433
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="93 Zarifa Aliyeva, Baku,
+  Azerbaijan";X-APPLE-RADIUS=200;X-TITLE="Baku City Circuit":geo:40.3699,
+ 49.8433
+DESCRIPTION:Azerbaijan GP - RACE\nRound 15 of 22\n\nStart times\nTrack lo
+ cal: Sat 26 Sep\, 15:00 +04\nUS Eastern:  Sat 26 Sep\, 7:00 AM EDT\n\nTV
+ \nApple TV - every practice\, qualifying\, sprint and race session. Sele
+ ct races and all practice free in the Apple TV app.\n\nCircuit: Baku Cit
+ y Circuit\nAddress: 93 Zarifa Aliyeva\, Baku\, Azerbaijan\nWeekend forma
+ t: Traditional weekend\n\nNotes\nSATURDAY RACE. The weekend runs Thursda
+ y to Saturday - one of only two Saturday Grands Prix in 2026.\n\nSession
+  times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Race
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:singapore-grand-prix-2026-fp1@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261009T083000Z
+DTEND:20261009T093000Z
+SUMMARY:🔧 Singapore GP - Practice 1
+LOCATION:Marina Bay Street Circuit\, 1 Republic Blvd\, Marina Bay\, Singa
+ pore 038975
+GEO:1.2857;103.8575
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="1 Republic Blvd, Marina 
+ Bay, Singapore 038975";X-APPLE-RADIUS=200;X-TITLE="Marina Bay Street Cir
+ cuit":geo:1.2857,103.8575
+DESCRIPTION:Singapore GP - Practice 1\nRound 16 of 22\n\nStart times\nTra
+ ck local: Fri 9 Oct\, 16:30 +08\nUS Eastern:  Fri 9 Oct\, 4:30 AM EDT\n\
+ nTV\nApple TV - every practice\, qualifying\, sprint and race session. S
+ elect races and all practice free in the Apple TV app.\n\nCircuit: Marin
+ a Bay Street Circuit\nAddress: 1 Republic Blvd\, Marina Bay\, Singapore 
+ 038975\nWeekend format: Sprint weekend\n\nNotes\nSprint weekend for the 
+ first time. Night race\, and usually the most physically punishing event
+  of the season.\n\nSession times occasionally shift - confirm on formula
+ 1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:singapore-grand-prix-2026-sprintQualifying@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261009T123000Z
+DTEND:20261009T131500Z
+SUMMARY:⏱ Singapore GP - Sprint Qualifying
+LOCATION:Marina Bay Street Circuit\, 1 Republic Blvd\, Marina Bay\, Singa
+ pore 038975
+GEO:1.2857;103.8575
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="1 Republic Blvd, Marina 
+ Bay, Singapore 038975";X-APPLE-RADIUS=200;X-TITLE="Marina Bay Street Cir
+ cuit":geo:1.2857,103.8575
+DESCRIPTION:Singapore GP - Sprint Qualifying\nRound 16 of 22\n\nStart tim
+ es\nTrack local: Fri 9 Oct\, 20:30 +08\nUS Eastern:  Fri 9 Oct\, 8:30 AM
+  EDT\n\nTV\nApple TV - every practice\, qualifying\, sprint and race ses
+ sion. Select races and all practice free in the Apple TV app.\n\nCircuit
+ : Marina Bay Street Circuit\nAddress: 1 Republic Blvd\, Marina Bay\, Sin
+ gapore 038975\nWeekend format: Sprint weekend\n\nNotes\nSprint weekend f
+ or the first time. Night race\, and usually the most physically punishin
+ g event of the season.\n\nSession times occasionally shift - confirm on 
+ formula1.com.
+CATEGORIES:Formula 1,Qualifying
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:singapore-grand-prix-2026-sprint@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261010T090000Z
+DTEND:20261010T094500Z
+SUMMARY:🏎 Singapore GP - SPRINT
+LOCATION:Marina Bay Street Circuit\, 1 Republic Blvd\, Marina Bay\, Singa
+ pore 038975
+GEO:1.2857;103.8575
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="1 Republic Blvd, Marina 
+ Bay, Singapore 038975";X-APPLE-RADIUS=200;X-TITLE="Marina Bay Street Cir
+ cuit":geo:1.2857,103.8575
+DESCRIPTION:Singapore GP - SPRINT\nRound 16 of 22\n\nStart times\nTrack l
+ ocal: Sat 10 Oct\, 17:00 +08\nUS Eastern:  Sat 10 Oct\, 5:00 AM EDT\n\nT
+ V\nApple TV - every practice\, qualifying\, sprint and race session. Sel
+ ect races and all practice free in the Apple TV app.\n\nCircuit: Marina 
+ Bay Street Circuit\nAddress: 1 Republic Blvd\, Marina Bay\, Singapore 03
+ 8975\nWeekend format: Sprint weekend\n\nNotes\nSprint weekend for the fi
+ rst time. Night race\, and usually the most physically punishing event o
+ f the season.\n\nSession times occasionally shift - confirm on formula1.
+ com.
+CATEGORIES:Formula 1,Sprint
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:singapore-grand-prix-2026-qualifying@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261010T130000Z
+DTEND:20261010T140000Z
+SUMMARY:⏱ Singapore GP - QUALIFYING
+LOCATION:Marina Bay Street Circuit\, 1 Republic Blvd\, Marina Bay\, Singa
+ pore 038975
+GEO:1.2857;103.8575
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="1 Republic Blvd, Marina 
+ Bay, Singapore 038975";X-APPLE-RADIUS=200;X-TITLE="Marina Bay Street Cir
+ cuit":geo:1.2857,103.8575
+DESCRIPTION:Singapore GP - QUALIFYING\nRound 16 of 22\n\nStart times\nTra
+ ck local: Sat 10 Oct\, 21:00 +08\nUS Eastern:  Sat 10 Oct\, 9:00 AM EDT\
+ n\nTV\nApple TV - every practice\, qualifying\, sprint and race session.
+  Select races and all practice free in the Apple TV app.\n\nCircuit: Mar
+ ina Bay Street Circuit\nAddress: 1 Republic Blvd\, Marina Bay\, Singapor
+ e 038975\nWeekend format: Sprint weekend\n\nNotes\nSprint weekend for th
+ e first time. Night race\, and usually the most physically punishing eve
+ nt of the season.\n\nSession times occasionally shift - confirm on formu
+ la1.com.
+CATEGORIES:Formula 1,Qualifying
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:singapore-grand-prix-2026-gp@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261011T120000Z
+DTEND:20261011T140000Z
+SUMMARY:🏁 Singapore GP - RACE
+LOCATION:Marina Bay Street Circuit\, 1 Republic Blvd\, Marina Bay\, Singa
+ pore 038975
+GEO:1.2857;103.8575
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="1 Republic Blvd, Marina 
+ Bay, Singapore 038975";X-APPLE-RADIUS=200;X-TITLE="Marina Bay Street Cir
+ cuit":geo:1.2857,103.8575
+DESCRIPTION:Singapore GP - RACE\nRound 16 of 22\n\nStart times\nTrack loc
+ al: Sun 11 Oct\, 20:00 +08\nUS Eastern:  Sun 11 Oct\, 8:00 AM EDT\n\nTV\
+ nApple TV - every practice\, qualifying\, sprint and race session. Selec
+ t races and all practice free in the Apple TV app.\n\nCircuit: Marina Ba
+ y Street Circuit\nAddress: 1 Republic Blvd\, Marina Bay\, Singapore 0389
+ 75\nWeekend format: Sprint weekend\n\nNotes\nSprint weekend for the firs
+ t time. Night race\, and usually the most physically punishing event of 
+ the season.\n\nSession times occasionally shift - confirm on formula1.co
+ m.
+CATEGORIES:Formula 1,Race
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-grand-prix-2026-fp1@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261023T173000Z
+DTEND:20261023T183000Z
+SUMMARY:🔧 United States GP - Practice 1
+LOCATION:Circuit of The Americas\, 9201 Circuit of the Americas Blvd\, De
+ l Valle\, TX 78617\, USA
+GEO:30.1328;-97.6411
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="9201 Circuit of the Amer
+ icas Blvd, Del Valle, TX 78617, USA";X-APPLE-RADIUS=200;X-TITLE="Circuit
+  of The Americas":geo:30.1328,-97.6411
+DESCRIPTION:United States GP - Practice 1\nRound 17 of 22\n\nStart times\
+ nTrack local: Fri 23 Oct\, 12:30 CDT\nUS Eastern:  Fri 23 Oct\, 1:30 PM 
+ EDT\n\nTV\nApple TV - every practice\, qualifying\, sprint and race sess
+ ion. Select races and all practice free in the Apple TV app.\n\nCircuit:
+  Circuit of The Americas\nAddress: 9201 Circuit of the Americas Blvd\, D
+ el Valle\, TX 78617\, USA\nWeekend format: Traditional weekend\n\nNotes\
+ nAustin. Reverts to a traditional weekend after hosting a sprint last ye
+ ar.\n\nSession times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-grand-prix-2026-fp2@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261023T210000Z
+DTEND:20261023T220000Z
+SUMMARY:🔧 United States GP - Practice 2
+LOCATION:Circuit of The Americas\, 9201 Circuit of the Americas Blvd\, De
+ l Valle\, TX 78617\, USA
+GEO:30.1328;-97.6411
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="9201 Circuit of the Amer
+ icas Blvd, Del Valle, TX 78617, USA";X-APPLE-RADIUS=200;X-TITLE="Circuit
+  of The Americas":geo:30.1328,-97.6411
+DESCRIPTION:United States GP - Practice 2\nRound 17 of 22\n\nStart times\
+ nTrack local: Fri 23 Oct\, 16:00 CDT\nUS Eastern:  Fri 23 Oct\, 5:00 PM 
+ EDT\n\nTV\nApple TV - every practice\, qualifying\, sprint and race sess
+ ion. Select races and all practice free in the Apple TV app.\n\nCircuit:
+  Circuit of The Americas\nAddress: 9201 Circuit of the Americas Blvd\, D
+ el Valle\, TX 78617\, USA\nWeekend format: Traditional weekend\n\nNotes\
+ nAustin. Reverts to a traditional weekend after hosting a sprint last ye
+ ar.\n\nSession times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-grand-prix-2026-fp3@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261024T173000Z
+DTEND:20261024T183000Z
+SUMMARY:🔧 United States GP - Practice 3
+LOCATION:Circuit of The Americas\, 9201 Circuit of the Americas Blvd\, De
+ l Valle\, TX 78617\, USA
+GEO:30.1328;-97.6411
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="9201 Circuit of the Amer
+ icas Blvd, Del Valle, TX 78617, USA";X-APPLE-RADIUS=200;X-TITLE="Circuit
+  of The Americas":geo:30.1328,-97.6411
+DESCRIPTION:United States GP - Practice 3\nRound 17 of 22\n\nStart times\
+ nTrack local: Sat 24 Oct\, 12:30 CDT\nUS Eastern:  Sat 24 Oct\, 1:30 PM 
+ EDT\n\nTV\nApple TV - every practice\, qualifying\, sprint and race sess
+ ion. Select races and all practice free in the Apple TV app.\n\nCircuit:
+  Circuit of The Americas\nAddress: 9201 Circuit of the Americas Blvd\, D
+ el Valle\, TX 78617\, USA\nWeekend format: Traditional weekend\n\nNotes\
+ nAustin. Reverts to a traditional weekend after hosting a sprint last ye
+ ar.\n\nSession times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-grand-prix-2026-qualifying@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261024T210000Z
+DTEND:20261024T220000Z
+SUMMARY:⏱ United States GP - QUALIFYING
+LOCATION:Circuit of The Americas\, 9201 Circuit of the Americas Blvd\, De
+ l Valle\, TX 78617\, USA
+GEO:30.1328;-97.6411
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="9201 Circuit of the Amer
+ icas Blvd, Del Valle, TX 78617, USA";X-APPLE-RADIUS=200;X-TITLE="Circuit
+  of The Americas":geo:30.1328,-97.6411
+DESCRIPTION:United States GP - QUALIFYING\nRound 17 of 22\n\nStart times\
+ nTrack local: Sat 24 Oct\, 16:00 CDT\nUS Eastern:  Sat 24 Oct\, 5:00 PM 
+ EDT\n\nTV\nApple TV - every practice\, qualifying\, sprint and race sess
+ ion. Select races and all practice free in the Apple TV app.\n\nCircuit:
+  Circuit of The Americas\nAddress: 9201 Circuit of the Americas Blvd\, D
+ el Valle\, TX 78617\, USA\nWeekend format: Traditional weekend\n\nNotes\
+ nAustin. Reverts to a traditional weekend after hosting a sprint last ye
+ ar.\n\nSession times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Qualifying
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-grand-prix-2026-gp@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261025T200000Z
+DTEND:20261025T220000Z
+SUMMARY:🏁 United States GP - RACE
+LOCATION:Circuit of The Americas\, 9201 Circuit of the Americas Blvd\, De
+ l Valle\, TX 78617\, USA
+GEO:30.1328;-97.6411
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="9201 Circuit of the Amer
+ icas Blvd, Del Valle, TX 78617, USA";X-APPLE-RADIUS=200;X-TITLE="Circuit
+  of The Americas":geo:30.1328,-97.6411
+DESCRIPTION:United States GP - RACE\nRound 17 of 22\n\nStart times\nTrack
+  local: Sun 25 Oct\, 15:00 CDT\nUS Eastern:  Sun 25 Oct\, 4:00 PM EDT\n\
+ nTV\nApple TV - every practice\, qualifying\, sprint and race session. S
+ elect races and all practice free in the Apple TV app.\n\nCircuit: Circu
+ it of The Americas\nAddress: 9201 Circuit of the Americas Blvd\, Del Val
+ le\, TX 78617\, USA\nWeekend format: Traditional weekend\n\nNotes\nAusti
+ n. Reverts to a traditional weekend after hosting a sprint last year.\n\
+ nSession times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Race
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mexican-grand-prix-2026-fp1@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261030T183000Z
+DTEND:20261030T193000Z
+SUMMARY:🔧 Mexico City GP - Practice 1
+LOCATION:Autodromo Hermanos Rodriguez\, Viad. Rio de la Piedad S/N\, Izta
+ calco\, 08400 Ciudad de Mexico\, Mexico
+GEO:19.4028;-99.0986
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Viad. Rio de la Piedad S
+ /N, Iztacalco, 08400 Ciudad de Mexico, Mexico";X-APPLE-RADIUS=200;X-TITL
+ E="Autodromo Hermanos Rodriguez":geo:19.4028,-99.0986
+DESCRIPTION:Mexico City GP - Practice 1\nRound 18 of 22\n\nStart times\nT
+ rack local: Fri 30 Oct\, 12:30 CST\nUS Eastern:  Fri 30 Oct\, 2:30 PM ED
+ T\n\nTV\nApple TV - every practice\, qualifying\, sprint and race sessio
+ n. Select races and all practice free in the Apple TV app.\n\nCircuit: A
+ utodromo Hermanos Rodriguez\nAddress: Viad. Rio de la Piedad S/N\, Iztac
+ alco\, 08400 Ciudad de Mexico\, Mexico\nWeekend format: Traditional week
+ end\n\nNotes\nHighest race on the calendar at roughly 2\,200m. Thin air 
+ means maximum-downforce wings and serious cooling problems.\n\nSession t
+ imes occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mexican-grand-prix-2026-fp2@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261030T220000Z
+DTEND:20261030T230000Z
+SUMMARY:🔧 Mexico City GP - Practice 2
+LOCATION:Autodromo Hermanos Rodriguez\, Viad. Rio de la Piedad S/N\, Izta
+ calco\, 08400 Ciudad de Mexico\, Mexico
+GEO:19.4028;-99.0986
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Viad. Rio de la Piedad S
+ /N, Iztacalco, 08400 Ciudad de Mexico, Mexico";X-APPLE-RADIUS=200;X-TITL
+ E="Autodromo Hermanos Rodriguez":geo:19.4028,-99.0986
+DESCRIPTION:Mexico City GP - Practice 2\nRound 18 of 22\n\nStart times\nT
+ rack local: Fri 30 Oct\, 16:00 CST\nUS Eastern:  Fri 30 Oct\, 6:00 PM ED
+ T\n\nTV\nApple TV - every practice\, qualifying\, sprint and race sessio
+ n. Select races and all practice free in the Apple TV app.\n\nCircuit: A
+ utodromo Hermanos Rodriguez\nAddress: Viad. Rio de la Piedad S/N\, Iztac
+ alco\, 08400 Ciudad de Mexico\, Mexico\nWeekend format: Traditional week
+ end\n\nNotes\nHighest race on the calendar at roughly 2\,200m. Thin air 
+ means maximum-downforce wings and serious cooling problems.\n\nSession t
+ imes occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mexican-grand-prix-2026-fp3@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261031T173000Z
+DTEND:20261031T183000Z
+SUMMARY:🔧 Mexico City GP - Practice 3
+LOCATION:Autodromo Hermanos Rodriguez\, Viad. Rio de la Piedad S/N\, Izta
+ calco\, 08400 Ciudad de Mexico\, Mexico
+GEO:19.4028;-99.0986
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Viad. Rio de la Piedad S
+ /N, Iztacalco, 08400 Ciudad de Mexico, Mexico";X-APPLE-RADIUS=200;X-TITL
+ E="Autodromo Hermanos Rodriguez":geo:19.4028,-99.0986
+DESCRIPTION:Mexico City GP - Practice 3\nRound 18 of 22\n\nStart times\nT
+ rack local: Sat 31 Oct\, 11:30 CST\nUS Eastern:  Sat 31 Oct\, 1:30 PM ED
+ T\n\nTV\nApple TV - every practice\, qualifying\, sprint and race sessio
+ n. Select races and all practice free in the Apple TV app.\n\nCircuit: A
+ utodromo Hermanos Rodriguez\nAddress: Viad. Rio de la Piedad S/N\, Iztac
+ alco\, 08400 Ciudad de Mexico\, Mexico\nWeekend format: Traditional week
+ end\n\nNotes\nHighest race on the calendar at roughly 2\,200m. Thin air 
+ means maximum-downforce wings and serious cooling problems.\n\nSession t
+ imes occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mexican-grand-prix-2026-qualifying@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261031T210000Z
+DTEND:20261031T220000Z
+SUMMARY:⏱ Mexico City GP - QUALIFYING
+LOCATION:Autodromo Hermanos Rodriguez\, Viad. Rio de la Piedad S/N\, Izta
+ calco\, 08400 Ciudad de Mexico\, Mexico
+GEO:19.4028;-99.0986
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Viad. Rio de la Piedad S
+ /N, Iztacalco, 08400 Ciudad de Mexico, Mexico";X-APPLE-RADIUS=200;X-TITL
+ E="Autodromo Hermanos Rodriguez":geo:19.4028,-99.0986
+DESCRIPTION:Mexico City GP - QUALIFYING\nRound 18 of 22\n\nStart times\nT
+ rack local: Sat 31 Oct\, 15:00 CST\nUS Eastern:  Sat 31 Oct\, 5:00 PM ED
+ T\n\nTV\nApple TV - every practice\, qualifying\, sprint and race sessio
+ n. Select races and all practice free in the Apple TV app.\n\nCircuit: A
+ utodromo Hermanos Rodriguez\nAddress: Viad. Rio de la Piedad S/N\, Iztac
+ alco\, 08400 Ciudad de Mexico\, Mexico\nWeekend format: Traditional week
+ end\n\nNotes\nHighest race on the calendar at roughly 2\,200m. Thin air 
+ means maximum-downforce wings and serious cooling problems.\n\nSession t
+ imes occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Qualifying
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mexican-grand-prix-2026-gp@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+SUMMARY:🏁 Mexico City GP - RACE
+LOCATION:Autodromo Hermanos Rodriguez\, Viad. Rio de la Piedad S/N\, Izta
+ calco\, 08400 Ciudad de Mexico\, Mexico
+GEO:19.4028;-99.0986
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Viad. Rio de la Piedad S
+ /N, Iztacalco, 08400 Ciudad de Mexico, Mexico";X-APPLE-RADIUS=200;X-TITL
+ E="Autodromo Hermanos Rodriguez":geo:19.4028,-99.0986
+DESCRIPTION:Mexico City GP - RACE\nRound 18 of 22\n\nStart times\nTrack l
+ ocal: Sun 1 Nov\, 14:00 CST\nUS Eastern:  Sun 1 Nov\, 3:00 PM EST\n\nTV\
+ nApple TV - every practice\, qualifying\, sprint and race session. Selec
+ t races and all practice free in the Apple TV app.\n\nCircuit: Autodromo
+  Hermanos Rodriguez\nAddress: Viad. Rio de la Piedad S/N\, Iztacalco\, 0
+ 8400 Ciudad de Mexico\, Mexico\nWeekend format: Traditional weekend\n\nN
+ otes\nHighest race on the calendar at roughly 2\,200m. Thin air means ma
+ ximum-downforce wings and serious cooling problems.\n\nSession times occ
+ asionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Race
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:brazilian-grand-prix-2026-fp1@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261106T153000Z
+DTEND:20261106T163000Z
+SUMMARY:🔧 Sao Paulo GP - Practice 1
+LOCATION:Autodromo Jose Carlos Pace (Interlagos)\, Av. Sen. Teotonio Vile
+ la 261\, Sao Paulo - SP\, 04801-000\, Brazil
+GEO:-23.7014;-46.6969
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Av. Sen. Teotonio Vilela
+  261, Sao Paulo - SP, 04801-000, Brazil";X-APPLE-RADIUS=200;X-TITLE="Aut
+ odromo Jose Carlos Pace (Interlagos)":geo:-23.7014,-46.6969
+DESCRIPTION:Sao Paulo GP - Practice 1\nRound 19 of 22\n\nStart times\nTra
+ ck local: Fri 6 Nov\, 12:30 -03\nUS Eastern:  Fri 6 Nov\, 10:30 AM EST\n
+ \nTV\nApple TV - every practice\, qualifying\, sprint and race session. 
+ Select races and all practice free in the Apple TV app.\n\nCircuit: Auto
+ dromo Jose Carlos Pace (Interlagos)\nAddress: Av. Sen. Teotonio Vilela 2
+ 61\, Sao Paulo - SP\, 04801-000\, Brazil\nWeekend format: Traditional we
+ ekend\n\nNotes\nInterlagos reverts to a traditional weekend after runnin
+ g the sprint format every year since 2021. Weather is famously unpredict
+ able here.\n\nSession times occasionally shift - confirm on formula1.com
+ .
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:brazilian-grand-prix-2026-fp2@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261106T190000Z
+DTEND:20261106T200000Z
+SUMMARY:🔧 Sao Paulo GP - Practice 2
+LOCATION:Autodromo Jose Carlos Pace (Interlagos)\, Av. Sen. Teotonio Vile
+ la 261\, Sao Paulo - SP\, 04801-000\, Brazil
+GEO:-23.7014;-46.6969
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Av. Sen. Teotonio Vilela
+  261, Sao Paulo - SP, 04801-000, Brazil";X-APPLE-RADIUS=200;X-TITLE="Aut
+ odromo Jose Carlos Pace (Interlagos)":geo:-23.7014,-46.6969
+DESCRIPTION:Sao Paulo GP - Practice 2\nRound 19 of 22\n\nStart times\nTra
+ ck local: Fri 6 Nov\, 16:00 -03\nUS Eastern:  Fri 6 Nov\, 2:00 PM EST\n\
+ nTV\nApple TV - every practice\, qualifying\, sprint and race session. S
+ elect races and all practice free in the Apple TV app.\n\nCircuit: Autod
+ romo Jose Carlos Pace (Interlagos)\nAddress: Av. Sen. Teotonio Vilela 26
+ 1\, Sao Paulo - SP\, 04801-000\, Brazil\nWeekend format: Traditional wee
+ kend\n\nNotes\nInterlagos reverts to a traditional weekend after running
+  the sprint format every year since 2021. Weather is famously unpredicta
+ ble here.\n\nSession times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:brazilian-grand-prix-2026-fp3@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261107T143000Z
+DTEND:20261107T153000Z
+SUMMARY:🔧 Sao Paulo GP - Practice 3
+LOCATION:Autodromo Jose Carlos Pace (Interlagos)\, Av. Sen. Teotonio Vile
+ la 261\, Sao Paulo - SP\, 04801-000\, Brazil
+GEO:-23.7014;-46.6969
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Av. Sen. Teotonio Vilela
+  261, Sao Paulo - SP, 04801-000, Brazil";X-APPLE-RADIUS=200;X-TITLE="Aut
+ odromo Jose Carlos Pace (Interlagos)":geo:-23.7014,-46.6969
+DESCRIPTION:Sao Paulo GP - Practice 3\nRound 19 of 22\n\nStart times\nTra
+ ck local: Sat 7 Nov\, 11:30 -03\nUS Eastern:  Sat 7 Nov\, 9:30 AM EST\n\
+ nTV\nApple TV - every practice\, qualifying\, sprint and race session. S
+ elect races and all practice free in the Apple TV app.\n\nCircuit: Autod
+ romo Jose Carlos Pace (Interlagos)\nAddress: Av. Sen. Teotonio Vilela 26
+ 1\, Sao Paulo - SP\, 04801-000\, Brazil\nWeekend format: Traditional wee
+ kend\n\nNotes\nInterlagos reverts to a traditional weekend after running
+  the sprint format every year since 2021. Weather is famously unpredicta
+ ble here.\n\nSession times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:brazilian-grand-prix-2026-qualifying@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261107T180000Z
+DTEND:20261107T190000Z
+SUMMARY:⏱ Sao Paulo GP - QUALIFYING
+LOCATION:Autodromo Jose Carlos Pace (Interlagos)\, Av. Sen. Teotonio Vile
+ la 261\, Sao Paulo - SP\, 04801-000\, Brazil
+GEO:-23.7014;-46.6969
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Av. Sen. Teotonio Vilela
+  261, Sao Paulo - SP, 04801-000, Brazil";X-APPLE-RADIUS=200;X-TITLE="Aut
+ odromo Jose Carlos Pace (Interlagos)":geo:-23.7014,-46.6969
+DESCRIPTION:Sao Paulo GP - QUALIFYING\nRound 19 of 22\n\nStart times\nTra
+ ck local: Sat 7 Nov\, 15:00 -03\nUS Eastern:  Sat 7 Nov\, 1:00 PM EST\n\
+ nTV\nApple TV - every practice\, qualifying\, sprint and race session. S
+ elect races and all practice free in the Apple TV app.\n\nCircuit: Autod
+ romo Jose Carlos Pace (Interlagos)\nAddress: Av. Sen. Teotonio Vilela 26
+ 1\, Sao Paulo - SP\, 04801-000\, Brazil\nWeekend format: Traditional wee
+ kend\n\nNotes\nInterlagos reverts to a traditional weekend after running
+  the sprint format every year since 2021. Weather is famously unpredicta
+ ble here.\n\nSession times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Qualifying
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:brazilian-grand-prix-2026-gp@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261108T170000Z
+DTEND:20261108T190000Z
+SUMMARY:🏁 Sao Paulo GP - RACE
+LOCATION:Autodromo Jose Carlos Pace (Interlagos)\, Av. Sen. Teotonio Vile
+ la 261\, Sao Paulo - SP\, 04801-000\, Brazil
+GEO:-23.7014;-46.6969
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Av. Sen. Teotonio Vilela
+  261, Sao Paulo - SP, 04801-000, Brazil";X-APPLE-RADIUS=200;X-TITLE="Aut
+ odromo Jose Carlos Pace (Interlagos)":geo:-23.7014,-46.6969
+DESCRIPTION:Sao Paulo GP - RACE\nRound 19 of 22\n\nStart times\nTrack loc
+ al: Sun 8 Nov\, 14:00 -03\nUS Eastern:  Sun 8 Nov\, 12:00 PM EST\n\nTV\n
+ Apple TV - every practice\, qualifying\, sprint and race session. Select
+  races and all practice free in the Apple TV app.\n\nCircuit: Autodromo 
+ Jose Carlos Pace (Interlagos)\nAddress: Av. Sen. Teotonio Vilela 261\, S
+ ao Paulo - SP\, 04801-000\, Brazil\nWeekend format: Traditional weekend\
+ n\nNotes\nInterlagos reverts to a traditional weekend after running the 
+ sprint format every year since 2021. Weather is famously unpredictable h
+ ere.\n\nSession times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Race
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:las-vegas-grand-prix-2026-fp1@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261120T003000Z
+DTEND:20261120T013000Z
+SUMMARY:🔧 Las Vegas GP - Practice 1
+LOCATION:Las Vegas Strip Circuit (Grand Prix Plaza)\, 4400 Koval Ln\, Las
+  Vegas\, NV 89109\, USA
+GEO:36.166747;-115.148708
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="4400 Koval Ln, Las Vegas
+ , NV 89109, USA";X-APPLE-RADIUS=200;X-TITLE="Las Vegas Strip Circuit (Gr
+ and Prix Plaza)":geo:36.166747,-115.148708
+DESCRIPTION:Las Vegas GP - Practice 1\nRound 20 of 22\n\nStart times\nTra
+ ck local: Thu 19 Nov\, 16:30 PST\nUS Eastern:  Thu 19 Nov\, 7:30 PM EST\
+ n\nTV\nApple TV - every practice\, qualifying\, sprint and race session.
+  Select races and all practice free in the Apple TV app.\n\nCircuit: Las
+  Vegas Strip Circuit (Grand Prix Plaza)\nAddress: 4400 Koval Ln\, Las Ve
+ gas\, NV 89109\, USA\nWeekend format: Traditional weekend\n\nNotes\nSATU
+ RDAY RACE\, and a late one - lights out 20:00 local on the Strip. Sessio
+ ns run deep into the night\, so UTC dates land a day later than the loca
+ l date.\n\nSession times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:las-vegas-grand-prix-2026-fp2@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261120T040000Z
+DTEND:20261120T050000Z
+SUMMARY:🔧 Las Vegas GP - Practice 2
+LOCATION:Las Vegas Strip Circuit (Grand Prix Plaza)\, 4400 Koval Ln\, Las
+  Vegas\, NV 89109\, USA
+GEO:36.166747;-115.148708
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="4400 Koval Ln, Las Vegas
+ , NV 89109, USA";X-APPLE-RADIUS=200;X-TITLE="Las Vegas Strip Circuit (Gr
+ and Prix Plaza)":geo:36.166747,-115.148708
+DESCRIPTION:Las Vegas GP - Practice 2\nRound 20 of 22\n\nStart times\nTra
+ ck local: Thu 19 Nov\, 20:00 PST\nUS Eastern:  Thu 19 Nov\, 11:00 PM EST
+ \n\nTV\nApple TV - every practice\, qualifying\, sprint and race session
+ . Select races and all practice free in the Apple TV app.\n\nCircuit: La
+ s Vegas Strip Circuit (Grand Prix Plaza)\nAddress: 4400 Koval Ln\, Las V
+ egas\, NV 89109\, USA\nWeekend format: Traditional weekend\n\nNotes\nSAT
+ URDAY RACE\, and a late one - lights out 20:00 local on the Strip. Sessi
+ ons run deep into the night\, so UTC dates land a day later than the loc
+ al date.\n\nSession times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:las-vegas-grand-prix-2026-fp3@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261121T003000Z
+DTEND:20261121T013000Z
+SUMMARY:🔧 Las Vegas GP - Practice 3
+LOCATION:Las Vegas Strip Circuit (Grand Prix Plaza)\, 4400 Koval Ln\, Las
+  Vegas\, NV 89109\, USA
+GEO:36.166747;-115.148708
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="4400 Koval Ln, Las Vegas
+ , NV 89109, USA";X-APPLE-RADIUS=200;X-TITLE="Las Vegas Strip Circuit (Gr
+ and Prix Plaza)":geo:36.166747,-115.148708
+DESCRIPTION:Las Vegas GP - Practice 3\nRound 20 of 22\n\nStart times\nTra
+ ck local: Fri 20 Nov\, 16:30 PST\nUS Eastern:  Fri 20 Nov\, 7:30 PM EST\
+ n\nTV\nApple TV - every practice\, qualifying\, sprint and race session.
+  Select races and all practice free in the Apple TV app.\n\nCircuit: Las
+  Vegas Strip Circuit (Grand Prix Plaza)\nAddress: 4400 Koval Ln\, Las Ve
+ gas\, NV 89109\, USA\nWeekend format: Traditional weekend\n\nNotes\nSATU
+ RDAY RACE\, and a late one - lights out 20:00 local on the Strip. Sessio
+ ns run deep into the night\, so UTC dates land a day later than the loca
+ l date.\n\nSession times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:las-vegas-grand-prix-2026-qualifying@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261121T040000Z
+DTEND:20261121T050000Z
+SUMMARY:⏱ Las Vegas GP - QUALIFYING
+LOCATION:Las Vegas Strip Circuit (Grand Prix Plaza)\, 4400 Koval Ln\, Las
+  Vegas\, NV 89109\, USA
+GEO:36.166747;-115.148708
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="4400 Koval Ln, Las Vegas
+ , NV 89109, USA";X-APPLE-RADIUS=200;X-TITLE="Las Vegas Strip Circuit (Gr
+ and Prix Plaza)":geo:36.166747,-115.148708
+DESCRIPTION:Las Vegas GP - QUALIFYING\nRound 20 of 22\n\nStart times\nTra
+ ck local: Fri 20 Nov\, 20:00 PST\nUS Eastern:  Fri 20 Nov\, 11:00 PM EST
+ \n\nTV\nApple TV - every practice\, qualifying\, sprint and race session
+ . Select races and all practice free in the Apple TV app.\n\nCircuit: La
+ s Vegas Strip Circuit (Grand Prix Plaza)\nAddress: 4400 Koval Ln\, Las V
+ egas\, NV 89109\, USA\nWeekend format: Traditional weekend\n\nNotes\nSAT
+ URDAY RACE\, and a late one - lights out 20:00 local on the Strip. Sessi
+ ons run deep into the night\, so UTC dates land a day later than the loc
+ al date.\n\nSession times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Qualifying
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:las-vegas-grand-prix-2026-gp@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261122T040000Z
+DTEND:20261122T060000Z
+SUMMARY:🏁 Las Vegas GP - RACE
+LOCATION:Las Vegas Strip Circuit (Grand Prix Plaza)\, 4400 Koval Ln\, Las
+  Vegas\, NV 89109\, USA
+GEO:36.166747;-115.148708
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="4400 Koval Ln, Las Vegas
+ , NV 89109, USA";X-APPLE-RADIUS=200;X-TITLE="Las Vegas Strip Circuit (Gr
+ and Prix Plaza)":geo:36.166747,-115.148708
+DESCRIPTION:Las Vegas GP - RACE\nRound 20 of 22\n\nStart times\nTrack loc
+ al: Sat 21 Nov\, 20:00 PST\nUS Eastern:  Sat 21 Nov\, 11:00 PM EST\n\nTV
+ \nApple TV - every practice\, qualifying\, sprint and race session. Sele
+ ct races and all practice free in the Apple TV app.\n\nCircuit: Las Vega
+ s Strip Circuit (Grand Prix Plaza)\nAddress: 4400 Koval Ln\, Las Vegas\,
+  NV 89109\, USA\nWeekend format: Traditional weekend\n\nNotes\nSATURDAY 
+ RACE\, and a late one - lights out 20:00 local on the Strip. Sessions ru
+ n deep into the night\, so UTC dates land a day later than the local dat
+ e.\n\nSession times occasionally shift - confirm on formula1.com.
+CATEGORIES:Formula 1,Race
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:qatar-grand-prix-2026-fp1@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261127T133000Z
+DTEND:20261127T143000Z
+SUMMARY:🔧 Qatar GP - Practice 1
+LOCATION:Lusail International Circuit\, Al Wusail\, North Relief Road\, D
+ oha\, Qatar
+GEO:25.490292;51.45303
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Wusail, North Relief 
+ Road, Doha, Qatar";X-APPLE-RADIUS=200;X-TITLE="Lusail International Circ
+ uit":geo:25.490292,51.45303
+DESCRIPTION:Qatar GP - Practice 1\nRound 21 of 22\n\nStart times\nTrack l
+ ocal: Fri 27 Nov\, 16:30 +03\nUS Eastern:  Fri 27 Nov\, 8:30 AM EST\n\nT
+ V\nApple TV - every practice\, qualifying\, sprint and race session. Sel
+ ect races and all practice free in the Apple TV app.\n\nCircuit: Lusail 
+ International Circuit\nAddress: Al Wusail\, North Relief Road\, Doha\, Q
+ atar\nWeekend format: Traditional weekend\n\nNotes\nNight race under lig
+ hts. Penultimate round of the season.\n\nSession times occasionally shif
+ t - confirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:qatar-grand-prix-2026-fp2@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261127T170000Z
+DTEND:20261127T180000Z
+SUMMARY:🔧 Qatar GP - Practice 2
+LOCATION:Lusail International Circuit\, Al Wusail\, North Relief Road\, D
+ oha\, Qatar
+GEO:25.490292;51.45303
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Wusail, North Relief 
+ Road, Doha, Qatar";X-APPLE-RADIUS=200;X-TITLE="Lusail International Circ
+ uit":geo:25.490292,51.45303
+DESCRIPTION:Qatar GP - Practice 2\nRound 21 of 22\n\nStart times\nTrack l
+ ocal: Fri 27 Nov\, 20:00 +03\nUS Eastern:  Fri 27 Nov\, 12:00 PM EST\n\n
+ TV\nApple TV - every practice\, qualifying\, sprint and race session. Se
+ lect races and all practice free in the Apple TV app.\n\nCircuit: Lusail
+  International Circuit\nAddress: Al Wusail\, North Relief Road\, Doha\, 
+ Qatar\nWeekend format: Traditional weekend\n\nNotes\nNight race under li
+ ghts. Penultimate round of the season.\n\nSession times occasionally shi
+ ft - confirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:qatar-grand-prix-2026-fp3@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261128T143000Z
+DTEND:20261128T153000Z
+SUMMARY:🔧 Qatar GP - Practice 3
+LOCATION:Lusail International Circuit\, Al Wusail\, North Relief Road\, D
+ oha\, Qatar
+GEO:25.490292;51.45303
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Wusail, North Relief 
+ Road, Doha, Qatar";X-APPLE-RADIUS=200;X-TITLE="Lusail International Circ
+ uit":geo:25.490292,51.45303
+DESCRIPTION:Qatar GP - Practice 3\nRound 21 of 22\n\nStart times\nTrack l
+ ocal: Sat 28 Nov\, 17:30 +03\nUS Eastern:  Sat 28 Nov\, 9:30 AM EST\n\nT
+ V\nApple TV - every practice\, qualifying\, sprint and race session. Sel
+ ect races and all practice free in the Apple TV app.\n\nCircuit: Lusail 
+ International Circuit\nAddress: Al Wusail\, North Relief Road\, Doha\, Q
+ atar\nWeekend format: Traditional weekend\n\nNotes\nNight race under lig
+ hts. Penultimate round of the season.\n\nSession times occasionally shif
+ t - confirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:qatar-grand-prix-2026-qualifying@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261128T180000Z
+DTEND:20261128T190000Z
+SUMMARY:⏱ Qatar GP - QUALIFYING
+LOCATION:Lusail International Circuit\, Al Wusail\, North Relief Road\, D
+ oha\, Qatar
+GEO:25.490292;51.45303
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Wusail, North Relief 
+ Road, Doha, Qatar";X-APPLE-RADIUS=200;X-TITLE="Lusail International Circ
+ uit":geo:25.490292,51.45303
+DESCRIPTION:Qatar GP - QUALIFYING\nRound 21 of 22\n\nStart times\nTrack l
+ ocal: Sat 28 Nov\, 21:00 +03\nUS Eastern:  Sat 28 Nov\, 1:00 PM EST\n\nT
+ V\nApple TV - every practice\, qualifying\, sprint and race session. Sel
+ ect races and all practice free in the Apple TV app.\n\nCircuit: Lusail 
+ International Circuit\nAddress: Al Wusail\, North Relief Road\, Doha\, Q
+ atar\nWeekend format: Traditional weekend\n\nNotes\nNight race under lig
+ hts. Penultimate round of the season.\n\nSession times occasionally shif
+ t - confirm on formula1.com.
+CATEGORIES:Formula 1,Qualifying
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:qatar-grand-prix-2026-gp@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261129T160000Z
+DTEND:20261129T180000Z
+SUMMARY:🏁 Qatar GP - RACE
+LOCATION:Lusail International Circuit\, Al Wusail\, North Relief Road\, D
+ oha\, Qatar
+GEO:25.490292;51.45303
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Al Wusail, North Relief 
+ Road, Doha, Qatar";X-APPLE-RADIUS=200;X-TITLE="Lusail International Circ
+ uit":geo:25.490292,51.45303
+DESCRIPTION:Qatar GP - RACE\nRound 21 of 22\n\nStart times\nTrack local: 
+ Sun 29 Nov\, 19:00 +03\nUS Eastern:  Sun 29 Nov\, 11:00 AM EST\n\nTV\nAp
+ ple TV - every practice\, qualifying\, sprint and race session. Select r
+ aces and all practice free in the Apple TV app.\n\nCircuit: Lusail Inter
+ national Circuit\nAddress: Al Wusail\, North Relief Road\, Doha\, Qatar\
+ nWeekend format: Traditional weekend\n\nNotes\nNight race under lights. 
+ Penultimate round of the season.\n\nSession times occasionally shift - c
+ onfirm on formula1.com.
+CATEGORIES:Formula 1,Race
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:abu-dhabi-grand-prix-2026-fp1@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261204T093000Z
+DTEND:20261204T103000Z
+SUMMARY:🔧 Abu Dhabi GP - Practice 1
+LOCATION:Yas Marina Circuit\, Yas Leisure Dr\, Yas Island\, Abu Dhabi\, U
+ nited Arab Emirates
+GEO:24.4821;54.3482
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Yas Leisure Dr, Yas Isla
+ nd, Abu Dhabi, United Arab Emirates";X-APPLE-RADIUS=200;X-TITLE="Yas Mar
+ ina Circuit":geo:24.4821,54.3482
+DESCRIPTION:Abu Dhabi GP - Practice 1\nRound 22 of 22\n\nStart times\nTra
+ ck local: Fri 4 Dec\, 13:30 +04\nUS Eastern:  Fri 4 Dec\, 4:30 AM EST\n\
+ nTV\nApple TV - every practice\, qualifying\, sprint and race session. S
+ elect races and all practice free in the Apple TV app.\n\nCircuit: Yas M
+ arina Circuit\nAddress: Yas Leisure Dr\, Yas Island\, Abu Dhabi\, United
+  Arab Emirates\nWeekend format: Traditional weekend\n\nNotes\nSEASON FIN
+ ALE\, round 22 of 22\, run into the Gulf sunset. If the title race goes 
+ the distance it is settled here.\n\nSession times occasionally shift - c
+ onfirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:abu-dhabi-grand-prix-2026-fp2@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261204T130000Z
+DTEND:20261204T140000Z
+SUMMARY:🔧 Abu Dhabi GP - Practice 2
+LOCATION:Yas Marina Circuit\, Yas Leisure Dr\, Yas Island\, Abu Dhabi\, U
+ nited Arab Emirates
+GEO:24.4821;54.3482
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Yas Leisure Dr, Yas Isla
+ nd, Abu Dhabi, United Arab Emirates";X-APPLE-RADIUS=200;X-TITLE="Yas Mar
+ ina Circuit":geo:24.4821,54.3482
+DESCRIPTION:Abu Dhabi GP - Practice 2\nRound 22 of 22\n\nStart times\nTra
+ ck local: Fri 4 Dec\, 17:00 +04\nUS Eastern:  Fri 4 Dec\, 8:00 AM EST\n\
+ nTV\nApple TV - every practice\, qualifying\, sprint and race session. S
+ elect races and all practice free in the Apple TV app.\n\nCircuit: Yas M
+ arina Circuit\nAddress: Yas Leisure Dr\, Yas Island\, Abu Dhabi\, United
+  Arab Emirates\nWeekend format: Traditional weekend\n\nNotes\nSEASON FIN
+ ALE\, round 22 of 22\, run into the Gulf sunset. If the title race goes 
+ the distance it is settled here.\n\nSession times occasionally shift - c
+ onfirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:abu-dhabi-grand-prix-2026-fp3@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261205T103000Z
+DTEND:20261205T113000Z
+SUMMARY:🔧 Abu Dhabi GP - Practice 3
+LOCATION:Yas Marina Circuit\, Yas Leisure Dr\, Yas Island\, Abu Dhabi\, U
+ nited Arab Emirates
+GEO:24.4821;54.3482
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Yas Leisure Dr, Yas Isla
+ nd, Abu Dhabi, United Arab Emirates";X-APPLE-RADIUS=200;X-TITLE="Yas Mar
+ ina Circuit":geo:24.4821,54.3482
+DESCRIPTION:Abu Dhabi GP - Practice 3\nRound 22 of 22\n\nStart times\nTra
+ ck local: Sat 5 Dec\, 14:30 +04\nUS Eastern:  Sat 5 Dec\, 5:30 AM EST\n\
+ nTV\nApple TV - every practice\, qualifying\, sprint and race session. S
+ elect races and all practice free in the Apple TV app.\n\nCircuit: Yas M
+ arina Circuit\nAddress: Yas Leisure Dr\, Yas Island\, Abu Dhabi\, United
+  Arab Emirates\nWeekend format: Traditional weekend\n\nNotes\nSEASON FIN
+ ALE\, round 22 of 22\, run into the Gulf sunset. If the title race goes 
+ the distance it is settled here.\n\nSession times occasionally shift - c
+ onfirm on formula1.com.
+CATEGORIES:Formula 1,Practice
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:abu-dhabi-grand-prix-2026-qualifying@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261205T140000Z
+DTEND:20261205T150000Z
+SUMMARY:⏱ Abu Dhabi GP - QUALIFYING
+LOCATION:Yas Marina Circuit\, Yas Leisure Dr\, Yas Island\, Abu Dhabi\, U
+ nited Arab Emirates
+GEO:24.4821;54.3482
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Yas Leisure Dr, Yas Isla
+ nd, Abu Dhabi, United Arab Emirates";X-APPLE-RADIUS=200;X-TITLE="Yas Mar
+ ina Circuit":geo:24.4821,54.3482
+DESCRIPTION:Abu Dhabi GP - QUALIFYING\nRound 22 of 22\n\nStart times\nTra
+ ck local: Sat 5 Dec\, 18:00 +04\nUS Eastern:  Sat 5 Dec\, 9:00 AM EST\n\
+ nTV\nApple TV - every practice\, qualifying\, sprint and race session. S
+ elect races and all practice free in the Apple TV app.\n\nCircuit: Yas M
+ arina Circuit\nAddress: Yas Leisure Dr\, Yas Island\, Abu Dhabi\, United
+  Arab Emirates\nWeekend format: Traditional weekend\n\nNotes\nSEASON FIN
+ ALE\, round 22 of 22\, run into the Gulf sunset. If the title race goes 
+ the distance it is settled here.\n\nSession times occasionally shift - c
+ onfirm on formula1.com.
+CATEGORIES:Formula 1,Qualifying
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:abu-dhabi-grand-prix-2026-gp@claude-f1-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261206T130000Z
+DTEND:20261206T150000Z
+SUMMARY:🏁 Abu Dhabi GP - RACE
+LOCATION:Yas Marina Circuit\, Yas Leisure Dr\, Yas Island\, Abu Dhabi\, U
+ nited Arab Emirates
+GEO:24.4821;54.3482
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Yas Leisure Dr, Yas Isla
+ nd, Abu Dhabi, United Arab Emirates";X-APPLE-RADIUS=200;X-TITLE="Yas Mar
+ ina Circuit":geo:24.4821,54.3482
+DESCRIPTION:Abu Dhabi GP - RACE\nRound 22 of 22\n\nStart times\nTrack loc
+ al: Sun 6 Dec\, 17:00 +04\nUS Eastern:  Sun 6 Dec\, 8:00 AM EST\n\nTV\nA
+ pple TV - every practice\, qualifying\, sprint and race session. Select 
+ races and all practice free in the Apple TV app.\n\nCircuit: Yas Marina 
+ Circuit\nAddress: Yas Leisure Dr\, Yas Island\, Abu Dhabi\, United Arab 
+ Emirates\nWeekend format: Traditional weekend\n\nNotes\nSEASON FINALE\, 
+ round 22 of 22\, run into the Gulf sunset. If the title race goes the di
+ stance it is settled here.\n\nSession times occasionally shift - confirm
+  on formula1.com.
+CATEGORIES:Formula 1,Race
+URL:https://www.formula1.com/en/racing/2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

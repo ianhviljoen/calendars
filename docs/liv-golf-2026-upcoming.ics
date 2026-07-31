@@ -1,0 +1,387 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//LIV Golf 2026 Upcoming Schedule//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:⛳ LIV Golf 2026 - Upcoming
+X-WR-CALDESC:Remaining 2026 LIV Golf season: New York\, Indianapolis and 
+ the Team Championship in Michigan.
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:liv-new-york-2026-d1@claude-liv-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+SUMMARY:⛳ LIV Golf New York
+LOCATION:Trump National Golf Club Bedminster\, 900 Lamington Rd\, Bedmins
+ ter\, NJ 07921\, USA
+GEO:40.653751;-74.696966
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="900 Lamington Rd, Bedmin
+ ster, NJ 07921, USA";X-APPLE-RADIUS=150;X-TITLE="Trump National Golf Clu
+ b Bedminster":geo:40.653751,-74.696966
+DESCRIPTION:Round 1 - Thursday 6 August 2026\n\nTV\nFOX\, FS1\, FS2\, Fox
+  Business\, LIV Golf app\n\nVenue: Trump National Golf Club Bedminster\n
+ Address: 900 Lamington Rd\, Bedminster\, NJ 07921\, USA\nTournament date
+ s: Thu 6 Aug - Sun 9 Aug 2026\nPurse: $25M individual + $5M team (approx
+ .)\nEvent type: LIV Golf - Regular Season\n\nNotes\nLIV returns to Bedmi
+ nster. Round 1 coverage starts 12:00 UTC (8am ET) on Thursday 6 August. 
+ 2026 format: 72 holes over four days\, no cut\, 57-player field. Individ
+ ual and team titles decided at every event.\n\nTee times confirmed the w
+ eek of the event - livgolf.com/schedule\nBroadcast listings can change.
+CATEGORIES:LIV Golf,LIV Golf - Regular Season
+URL:https://www.livgolf.com/schedule
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:liv-new-york-2026-d2@claude-liv-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:⛳ LIV Golf New York
+LOCATION:Trump National Golf Club Bedminster\, 900 Lamington Rd\, Bedmins
+ ter\, NJ 07921\, USA
+GEO:40.653751;-74.696966
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="900 Lamington Rd, Bedmin
+ ster, NJ 07921, USA";X-APPLE-RADIUS=150;X-TITLE="Trump National Golf Clu
+ b Bedminster":geo:40.653751,-74.696966
+DESCRIPTION:Round 2 - Friday 7 August 2026\n\nTV\nFOX\, FS1\, FS2\, Fox B
+ usiness\, LIV Golf app\n\nVenue: Trump National Golf Club Bedminster\nAd
+ dress: 900 Lamington Rd\, Bedminster\, NJ 07921\, USA\nTournament dates:
+  Thu 6 Aug - Sun 9 Aug 2026\nPurse: $25M individual + $5M team (approx.)
+ \nEvent type: LIV Golf - Regular Season\n\nNotes\nLIV returns to Bedmins
+ ter. Round 1 coverage starts 12:00 UTC (8am ET) on Thursday 6 August. 20
+ 26 format: 72 holes over four days\, no cut\, 57-player field. Individua
+ l and team titles decided at every event.\n\nTee times confirmed the wee
+ k of the event - livgolf.com/schedule\nBroadcast listings can change.
+CATEGORIES:LIV Golf,LIV Golf - Regular Season
+URL:https://www.livgolf.com/schedule
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:liv-new-york-2026-d3@claude-liv-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:⛳ LIV Golf New York
+LOCATION:Trump National Golf Club Bedminster\, 900 Lamington Rd\, Bedmins
+ ter\, NJ 07921\, USA
+GEO:40.653751;-74.696966
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="900 Lamington Rd, Bedmin
+ ster, NJ 07921, USA";X-APPLE-RADIUS=150;X-TITLE="Trump National Golf Clu
+ b Bedminster":geo:40.653751,-74.696966
+DESCRIPTION:Round 3 - Saturday 8 August 2026\n\nTV\nFOX\, FS1\, FS2\, Fox
+  Business\, LIV Golf app\n\nVenue: Trump National Golf Club Bedminster\n
+ Address: 900 Lamington Rd\, Bedminster\, NJ 07921\, USA\nTournament date
+ s: Thu 6 Aug - Sun 9 Aug 2026\nPurse: $25M individual + $5M team (approx
+ .)\nEvent type: LIV Golf - Regular Season\n\nNotes\nLIV returns to Bedmi
+ nster. Round 1 coverage starts 12:00 UTC (8am ET) on Thursday 6 August. 
+ 2026 format: 72 holes over four days\, no cut\, 57-player field. Individ
+ ual and team titles decided at every event.\n\nTee times confirmed the w
+ eek of the event - livgolf.com/schedule\nBroadcast listings can change.
+CATEGORIES:LIV Golf,LIV Golf - Regular Season
+URL:https://www.livgolf.com/schedule
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:liv-new-york-2026-d4@claude-liv-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:⛳ LIV Golf New York
+LOCATION:Trump National Golf Club Bedminster\, 900 Lamington Rd\, Bedmins
+ ter\, NJ 07921\, USA
+GEO:40.653751;-74.696966
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="900 Lamington Rd, Bedmin
+ ster, NJ 07921, USA";X-APPLE-RADIUS=150;X-TITLE="Trump National Golf Clu
+ b Bedminster":geo:40.653751,-74.696966
+DESCRIPTION:Round 4 (Final Round) - Sunday 9 August 2026\n\nTV\nFOX\, FS1
+ \, FS2\, Fox Business\, LIV Golf app\n\nVenue: Trump National Golf Club 
+ Bedminster\nAddress: 900 Lamington Rd\, Bedminster\, NJ 07921\, USA\nTou
+ rnament dates: Thu 6 Aug - Sun 9 Aug 2026\nPurse: $25M individual + $5M 
+ team (approx.)\nEvent type: LIV Golf - Regular Season\n\nNotes\nLIV retu
+ rns to Bedminster. Round 1 coverage starts 12:00 UTC (8am ET) on Thursda
+ y 6 August. 2026 format: 72 holes over four days\, no cut\, 57-player fi
+ eld. Individual and team titles decided at every event.\n\nTee times con
+ firmed the week of the event - livgolf.com/schedule\nBroadcast listings 
+ can change.
+CATEGORIES:LIV Golf,LIV Golf - Regular Season
+URL:https://www.livgolf.com/schedule
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:liv-indianapolis-2026-d1@claude-liv-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:⛳ LIV Golf Indianapolis
+LOCATION:The Club at Chatham Hills\, 1100 Chatham Hills Blvd\, Westfield\
+ , IN 46074\, USA
+GEO:40.082065;-86.138633
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="1100 Chatham Hills Blvd,
+  Westfield, IN 46074, USA";X-APPLE-RADIUS=150;X-TITLE="The Club at Chath
+ am Hills":geo:40.082065,-86.138633
+DESCRIPTION:Round 1 - Thursday 20 August 2026\n\nTV\nFOX\, FS1\, FS2\, Fo
+ x Business\, LIV Golf app\n\nVenue: The Club at Chatham Hills\nAddress: 
+ 1100 Chatham Hills Blvd\, Westfield\, IN 46074\, USA\nTournament dates: 
+ Thu 20 Aug - Sun 23 Aug 2026\nPurse: $25M individual + $5M team (approx.
+ )\nEvent type: LIV Golf - Regular Season\n\nNotes\nREGULAR-SEASON FINALE
+  and the LIV Golf Individual Championship - the season's individual titl
+ e is decided here\, as it was in 2025. Pete Dye course. Second straight 
+ year at Chatham Hills.\n\nAlso flagged by Front Office Sports as at risk
+ \, but currently still scheduled to go ahead - and if Michigan falls\, t
+ his becomes LIV's 2026 season finale. Purse expected around $30m. 2026 f
+ ormat: 72 holes over four days\, no cut\, 57-player field. Individual an
+ d team titles decided at every event.\n\nTee times confirmed the week of
+  the event - livgolf.com/schedule\nBroadcast listings can change.
+CATEGORIES:LIV Golf,LIV Golf - Regular Season
+URL:https://www.livgolf.com/schedule
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:liv-indianapolis-2026-d2@claude-liv-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:⛳ LIV Golf Indianapolis
+LOCATION:The Club at Chatham Hills\, 1100 Chatham Hills Blvd\, Westfield\
+ , IN 46074\, USA
+GEO:40.082065;-86.138633
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="1100 Chatham Hills Blvd,
+  Westfield, IN 46074, USA";X-APPLE-RADIUS=150;X-TITLE="The Club at Chath
+ am Hills":geo:40.082065,-86.138633
+DESCRIPTION:Round 2 - Friday 21 August 2026\n\nTV\nFOX\, FS1\, FS2\, Fox 
+ Business\, LIV Golf app\n\nVenue: The Club at Chatham Hills\nAddress: 11
+ 00 Chatham Hills Blvd\, Westfield\, IN 46074\, USA\nTournament dates: Th
+ u 20 Aug - Sun 23 Aug 2026\nPurse: $25M individual + $5M team (approx.)\
+ nEvent type: LIV Golf - Regular Season\n\nNotes\nREGULAR-SEASON FINALE a
+ nd the LIV Golf Individual Championship - the season's individual title 
+ is decided here\, as it was in 2025. Pete Dye course. Second straight ye
+ ar at Chatham Hills.\n\nAlso flagged by Front Office Sports as at risk\,
+  but currently still scheduled to go ahead - and if Michigan falls\, thi
+ s becomes LIV's 2026 season finale. Purse expected around $30m. 2026 for
+ mat: 72 holes over four days\, no cut\, 57-player field. Individual and 
+ team titles decided at every event.\n\nTee times confirmed the week of t
+ he event - livgolf.com/schedule\nBroadcast listings can change.
+CATEGORIES:LIV Golf,LIV Golf - Regular Season
+URL:https://www.livgolf.com/schedule
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:liv-indianapolis-2026-d3@claude-liv-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:⛳ LIV Golf Indianapolis
+LOCATION:The Club at Chatham Hills\, 1100 Chatham Hills Blvd\, Westfield\
+ , IN 46074\, USA
+GEO:40.082065;-86.138633
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="1100 Chatham Hills Blvd,
+  Westfield, IN 46074, USA";X-APPLE-RADIUS=150;X-TITLE="The Club at Chath
+ am Hills":geo:40.082065,-86.138633
+DESCRIPTION:Round 3 - Saturday 22 August 2026\n\nTV\nFOX\, FS1\, FS2\, Fo
+ x Business\, LIV Golf app\n\nVenue: The Club at Chatham Hills\nAddress: 
+ 1100 Chatham Hills Blvd\, Westfield\, IN 46074\, USA\nTournament dates: 
+ Thu 20 Aug - Sun 23 Aug 2026\nPurse: $25M individual + $5M team (approx.
+ )\nEvent type: LIV Golf - Regular Season\n\nNotes\nREGULAR-SEASON FINALE
+  and the LIV Golf Individual Championship - the season's individual titl
+ e is decided here\, as it was in 2025. Pete Dye course. Second straight 
+ year at Chatham Hills.\n\nAlso flagged by Front Office Sports as at risk
+ \, but currently still scheduled to go ahead - and if Michigan falls\, t
+ his becomes LIV's 2026 season finale. Purse expected around $30m. 2026 f
+ ormat: 72 holes over four days\, no cut\, 57-player field. Individual an
+ d team titles decided at every event.\n\nTee times confirmed the week of
+  the event - livgolf.com/schedule\nBroadcast listings can change.
+CATEGORIES:LIV Golf,LIV Golf - Regular Season
+URL:https://www.livgolf.com/schedule
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:liv-indianapolis-2026-d4@claude-liv-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:⛳ LIV Golf Indianapolis
+LOCATION:The Club at Chatham Hills\, 1100 Chatham Hills Blvd\, Westfield\
+ , IN 46074\, USA
+GEO:40.082065;-86.138633
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="1100 Chatham Hills Blvd,
+  Westfield, IN 46074, USA";X-APPLE-RADIUS=150;X-TITLE="The Club at Chath
+ am Hills":geo:40.082065,-86.138633
+DESCRIPTION:Round 4 (Final Round) - Sunday 23 August 2026\n\nTV\nFOX\, FS
+ 1\, FS2\, Fox Business\, LIV Golf app\n\nVenue: The Club at Chatham Hill
+ s\nAddress: 1100 Chatham Hills Blvd\, Westfield\, IN 46074\, USA\nTourna
+ ment dates: Thu 20 Aug - Sun 23 Aug 2026\nPurse: $25M individual + $5M t
+ eam (approx.)\nEvent type: LIV Golf - Regular Season\n\nNotes\nREGULAR-S
+ EASON FINALE and the LIV Golf Individual Championship - the season's ind
+ ividual title is decided here\, as it was in 2025. Pete Dye course. Seco
+ nd straight year at Chatham Hills.\n\nAlso flagged by Front Office Sport
+ s as at risk\, but currently still scheduled to go ahead - and if Michig
+ an falls\, this becomes LIV's 2026 season finale. Purse expected around 
+ $30m. 2026 format: 72 holes over four days\, no cut\, 57-player field. I
+ ndividual and team titles decided at every event.\n\nTee times confirmed
+  the week of the event - livgolf.com/schedule\nBroadcast listings can ch
+ ange.
+CATEGORIES:LIV Golf,LIV Golf - Regular Season
+URL:https://www.livgolf.com/schedule
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:liv-team-championship-2026-d1@claude-liv-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:⛳ Aramco LIV Golf Michigan Team Championship
+LOCATION:The Cardinal at Saint John's\, 44045 Five Mile Rd\, Plymouth\, M
+ I 48170\, USA
+GEO:42.393536;-83.478617
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="44045 Five Mile Rd, Plym
+ outh, MI 48170, USA";X-APPLE-RADIUS=150;X-TITLE="The Cardinal at Saint J
+ ohn's":geo:42.393536,-83.478617
+DESCRIPTION:Round 1 - Thursday 27 August 2026\n\nTV\nFOX\, FS1\, FS2\, Fo
+ x Business\, LIV Golf app\n\nVenue: The Cardinal at Saint John's\nAddres
+ s: 44045 Five Mile Rd\, Plymouth\, MI 48170\, USA\nTournament dates: Thu
+  27 Aug - Sun 30 Aug 2026\nPurse: $25M individual + $5M team (approx.)\n
+ Event type: LIV Golf - Team Championship\n\nNotes\n*** EXPECTED TO BE CA
+ NCELLED - NOT YET OFFICIAL ***\n\nStatus as of Wed 29 July 2026: LIV has
+  NOT announced anything. But this is no longer one person's speculation 
+ - it was first reported by Tom Hobbs (Flushing It) and then confirmed by
+  sources to Front Office Sports\, with Golf Channel\, Yahoo and others c
+ arrying it. An official announcement was expected Wednesday.\n\nSupporti
+ ng signs: contractors report travel and accommodation cancelled with mon
+ ey still owed\; the Detroit News reported no infrastructure had been bui
+ lt at the course\; the championship rings reportedly remain unpaid for.\
+ n\nBackground: PIF announced in April it would stop funding LIV after th
+ is season\, and the money has dried up sooner than expected. LIV is seek
+ ing up to $350m from new investors and is working to a 1 September deadl
+ ine to fund 2027. This would be the second cancelled event of 2026 after
+  Louisiana.\n\nAs scheduled: $40m purse (down from $50m)\, $11.2m to the
+  winning team\, at The Cardinal at Saint John's.\n\nTee times confirmed 
+ the week of the event - livgolf.com/schedule\nBroadcast listings can cha
+ nge.
+CATEGORIES:LIV Golf,LIV Golf - Team Championship
+URL:https://www.livgolf.com/schedule
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:liv-team-championship-2026-d2@claude-liv-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:⛳ Aramco LIV Golf Michigan Team Championship
+LOCATION:The Cardinal at Saint John's\, 44045 Five Mile Rd\, Plymouth\, M
+ I 48170\, USA
+GEO:42.393536;-83.478617
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="44045 Five Mile Rd, Plym
+ outh, MI 48170, USA";X-APPLE-RADIUS=150;X-TITLE="The Cardinal at Saint J
+ ohn's":geo:42.393536,-83.478617
+DESCRIPTION:Round 2 - Friday 28 August 2026\n\nTV\nFOX\, FS1\, FS2\, Fox 
+ Business\, LIV Golf app\n\nVenue: The Cardinal at Saint John's\nAddress:
+  44045 Five Mile Rd\, Plymouth\, MI 48170\, USA\nTournament dates: Thu 2
+ 7 Aug - Sun 30 Aug 2026\nPurse: $25M individual + $5M team (approx.)\nEv
+ ent type: LIV Golf - Team Championship\n\nNotes\n*** EXPECTED TO BE CANC
+ ELLED - NOT YET OFFICIAL ***\n\nStatus as of Wed 29 July 2026: LIV has N
+ OT announced anything. But this is no longer one person's speculation - 
+ it was first reported by Tom Hobbs (Flushing It) and then confirmed by s
+ ources to Front Office Sports\, with Golf Channel\, Yahoo and others car
+ rying it. An official announcement was expected Wednesday.\n\nSupporting
+  signs: contractors report travel and accommodation cancelled with money
+  still owed\; the Detroit News reported no infrastructure had been built
+  at the course\; the championship rings reportedly remain unpaid for.\n\
+ nBackground: PIF announced in April it would stop funding LIV after this
+  season\, and the money has dried up sooner than expected. LIV is seekin
+ g up to $350m from new investors and is working to a 1 September deadlin
+ e to fund 2027. This would be the second cancelled event of 2026 after L
+ ouisiana.\n\nAs scheduled: $40m purse (down from $50m)\, $11.2m to the w
+ inning team\, at The Cardinal at Saint John's.\n\nTee times confirmed th
+ e week of the event - livgolf.com/schedule\nBroadcast listings can chang
+ e.
+CATEGORIES:LIV Golf,LIV Golf - Team Championship
+URL:https://www.livgolf.com/schedule
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:liv-team-championship-2026-d3@claude-liv-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:⛳ Aramco LIV Golf Michigan Team Championship
+LOCATION:The Cardinal at Saint John's\, 44045 Five Mile Rd\, Plymouth\, M
+ I 48170\, USA
+GEO:42.393536;-83.478617
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="44045 Five Mile Rd, Plym
+ outh, MI 48170, USA";X-APPLE-RADIUS=150;X-TITLE="The Cardinal at Saint J
+ ohn's":geo:42.393536,-83.478617
+DESCRIPTION:Round 3 - Saturday 29 August 2026\n\nTV\nFOX\, FS1\, FS2\, Fo
+ x Business\, LIV Golf app\n\nVenue: The Cardinal at Saint John's\nAddres
+ s: 44045 Five Mile Rd\, Plymouth\, MI 48170\, USA\nTournament dates: Thu
+  27 Aug - Sun 30 Aug 2026\nPurse: $25M individual + $5M team (approx.)\n
+ Event type: LIV Golf - Team Championship\n\nNotes\n*** EXPECTED TO BE CA
+ NCELLED - NOT YET OFFICIAL ***\n\nStatus as of Wed 29 July 2026: LIV has
+  NOT announced anything. But this is no longer one person's speculation 
+ - it was first reported by Tom Hobbs (Flushing It) and then confirmed by
+  sources to Front Office Sports\, with Golf Channel\, Yahoo and others c
+ arrying it. An official announcement was expected Wednesday.\n\nSupporti
+ ng signs: contractors report travel and accommodation cancelled with mon
+ ey still owed\; the Detroit News reported no infrastructure had been bui
+ lt at the course\; the championship rings reportedly remain unpaid for.\
+ n\nBackground: PIF announced in April it would stop funding LIV after th
+ is season\, and the money has dried up sooner than expected. LIV is seek
+ ing up to $350m from new investors and is working to a 1 September deadl
+ ine to fund 2027. This would be the second cancelled event of 2026 after
+  Louisiana.\n\nAs scheduled: $40m purse (down from $50m)\, $11.2m to the
+  winning team\, at The Cardinal at Saint John's.\n\nTee times confirmed 
+ the week of the event - livgolf.com/schedule\nBroadcast listings can cha
+ nge.
+CATEGORIES:LIV Golf,LIV Golf - Team Championship
+URL:https://www.livgolf.com/schedule
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:liv-team-championship-2026-d4@claude-liv-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:⛳ Aramco LIV Golf Michigan Team Championship
+LOCATION:The Cardinal at Saint John's\, 44045 Five Mile Rd\, Plymouth\, M
+ I 48170\, USA
+GEO:42.393536;-83.478617
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="44045 Five Mile Rd, Plym
+ outh, MI 48170, USA";X-APPLE-RADIUS=150;X-TITLE="The Cardinal at Saint J
+ ohn's":geo:42.393536,-83.478617
+DESCRIPTION:Round 4 (Final Round) - Sunday 30 August 2026\n\nTV\nFOX\, FS
+ 1\, FS2\, Fox Business\, LIV Golf app\n\nVenue: The Cardinal at Saint Jo
+ hn's\nAddress: 44045 Five Mile Rd\, Plymouth\, MI 48170\, USA\nTournamen
+ t dates: Thu 27 Aug - Sun 30 Aug 2026\nPurse: $25M individual + $5M team
+  (approx.)\nEvent type: LIV Golf - Team Championship\n\nNotes\n*** EXPEC
+ TED TO BE CANCELLED - NOT YET OFFICIAL ***\n\nStatus as of Wed 29 July 2
+ 026: LIV has NOT announced anything. But this is no longer one person's 
+ speculation - it was first reported by Tom Hobbs (Flushing It) and then 
+ confirmed by sources to Front Office Sports\, with Golf Channel\, Yahoo 
+ and others carrying it. An official announcement was expected Wednesday.
+ \n\nSupporting signs: contractors report travel and accommodation cancel
+ led with money still owed\; the Detroit News reported no infrastructure 
+ had been built at the course\; the championship rings reportedly remain 
+ unpaid for.\n\nBackground: PIF announced in April it would stop funding 
+ LIV after this season\, and the money has dried up sooner than expected.
+  LIV is seeking up to $350m from new investors and is working to a 1 Sep
+ tember deadline to fund 2027. This would be the second cancelled event o
+ f 2026 after Louisiana.\n\nAs scheduled: $40m purse (down from $50m)\, $
+ 11.2m to the winning team\, at The Cardinal at Saint John's.\n\nTee time
+ s confirmed the week of the event - livgolf.com/schedule\nBroadcast list
+ ings can change.
+CATEGORIES:LIV Golf,LIV Golf - Team Championship
+URL:https://www.livgolf.com/schedule
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

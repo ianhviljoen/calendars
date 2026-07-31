@@ -1,0 +1,958 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//Rugby Internationals 2026//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:🏉 Rugby Internationals 2026
+X-WR-CALDESC:All remaining 2026 men's Test matches for Argentina\, Austra
+ lia\, England\, Fiji\, France\, Ireland\, Italy\, Japan\, New Zealand\, 
+ Scotland\, South Africa and Wales.
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:tour-stormers-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260807T170000Z
+DTEND:20260807T190000Z
+SUMMARY:🏉 Stormers v New Zealand
+LOCATION:DHL Stadium\, Fritz Sonnenberg Rd\, Green Point\, Cape Town 8051
+ \, South Africa
+GEO:-33.903444;18.411155
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Fritz Sonnenberg Rd, Gre
+ en Point, Cape Town 8051, South Africa";X-APPLE-RADIUS=150;X-TITLE="DHL 
+ Stadium":geo:-33.903444,18.411155
+DESCRIPTION:Stormers v New Zealand\n\nCompetition: Rugby's Greatest Rival
+ ry\nKick-off: Fri 7 Aug\, 19:00 local  |  17:00 UTC\n\nVenue: DHL Stadiu
+ m\nAddress: Fritz Sonnenberg Rd\, Green Point\, Cape Town 8051\, South A
+ frica\n\nTV\nUS broadcaster not confirmed at time of writing - check loc
+ al listings. Confirmed elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (F
+ RA)\, Stan Sport (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nTO
+ UR MATCH (not a Test). Opening game of the All Blacks' tour - their firs
+ t full tour of South Africa since 1996.
+CATEGORIES:Rugby Union,Rugby's Greatest Rivalry
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tour-sharks-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260811T170000Z
+DTEND:20260811T190000Z
+SUMMARY:🏉 Sharks v New Zealand
+LOCATION:Hollywoodbets Kings Park\, Jacko Jackson Dr\, Stamford Hill\, Du
+ rban 4025\, South Africa
+GEO:-29.824851;31.029634
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Jacko Jackson Dr, Stamfo
+ rd Hill, Durban 4025, South Africa";X-APPLE-RADIUS=150;X-TITLE="Hollywoo
+ dbets Kings Park":geo:-29.824851,31.029634
+DESCRIPTION:Sharks v New Zealand\n\nCompetition: Rugby's Greatest Rivalry
+ \nKick-off: Tue 11 Aug\, 19:00 local  |  17:00 UTC\n\nVenue: Hollywoodbe
+ ts Kings Park\nAddress: Jacko Jackson Dr\, Stamford Hill\, Durban 4025\,
+  South Africa\n\nTV\nUS broadcaster not confirmed at time of writing - c
+ heck local listings. Confirmed elsewhere: ITV (UK)\, Virgin Media (IRE)\
+ , TF1 (FRA)\, Stan Sport (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nN
+ otes\nTOUR MATCH (not a Test)\, played midweek under lights in Durban.
+CATEGORIES:Rugby Union,Rugby's Greatest Rivalry
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tour-bulls-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260815T170000Z
+DTEND:20260815T190000Z
+SUMMARY:🏉 Bulls v New Zealand
+LOCATION:Loftus Versfeld\, 416 Kirkness St\, Arcadia\, Pretoria 0007\, So
+ uth Africa
+GEO:-25.753259;28.222946
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="416 Kirkness St, Arcadia
+ , Pretoria 0007, South Africa";X-APPLE-RADIUS=150;X-TITLE="Loftus Versfe
+ ld":geo:-25.753259,28.222946
+DESCRIPTION:Bulls v New Zealand\n\nCompetition: Rugby's Greatest Rivalry\
+ nKick-off: Sat 15 Aug\, 19:00 local  |  17:00 UTC\n\nVenue: Loftus Versf
+ eld\nAddress: 416 Kirkness St\, Arcadia\, Pretoria 0007\, South Africa\n
+ \nTV\nUS broadcaster not confirmed at time of writing - check local list
+ ings. Confirmed elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, S
+ tan Sport (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nTOUR MATC
+ H (not a Test)\, at altitude in Pretoria.
+CATEGORIES:Rugby Union,Rugby's Greatest Rivalry
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tour-lions-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260825T170000Z
+DTEND:20260825T190000Z
+SUMMARY:🏉 Lions v New Zealand
+LOCATION:Ellis Park\, S Park Ln\, New Doornfontein\, Johannesburg 2094\, 
+ South Africa
+GEO:-26.19749;28.060784
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="S Park Ln, New Doornfont
+ ein, Johannesburg 2094, South Africa";X-APPLE-RADIUS=150;X-TITLE="Ellis 
+ Park":geo:-26.19749,28.060784
+DESCRIPTION:Lions v New Zealand\n\nCompetition: Rugby's Greatest Rivalry\
+ nKick-off: Tue 25 Aug\, 19:00 local  |  17:00 UTC\n\nVenue: Ellis Park\n
+ Address: S Park Ln\, New Doornfontein\, Johannesburg 2094\, South Africa
+ \n\nTV\nUS broadcaster not confirmed at time of writing - check local li
+ stings. Confirmed elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\,
+  Stan Sport (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nTOUR MA
+ TCH (not a Test)\, played midweek between the first and second Tests\, a
+ t the same ground as the first Test.
+CATEGORIES:Rugby Union,Rugby's Greatest Rivalry
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arg-rsa-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260808T190000Z
+DTEND:20260808T210000Z
+SUMMARY:🏉 Argentina v South Africa
+LOCATION:Estadio Jose Amalfitani\, Av. Juan Bautista Justo 9200\, Buenos 
+ Aires\, Argentina
+GEO:-34.635353;-58.520689
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Av. Juan Bautista Justo 
+ 9200, Buenos Aires, Argentina";X-APPLE-RADIUS=150;X-TITLE="Estadio Jose 
+ Amalfitani":geo:-34.635353,-58.520689
+DESCRIPTION:Argentina v South Africa\n\nCompetition: Test match\nKick-off
+ : Sat 8 Aug\, 16:00 local  |  19:00 UTC\n\nVenue: Estadio Jose Amalfitan
+ i\nAddress: Av. Juan Bautista Justo 9200\, Buenos Aires\, Argentina\n\nT
+ V\nUS broadcaster not confirmed at time of writing - check local listing
+ s. Confirmed elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan
+  Sport (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nStandalone T
+ est in Buenos Aires with a 26-man Springbok squad\; the rest stay home t
+ o prep for the All Blacks. SA Rugby quotes 21:00 SAST - worth reconfirmi
+ ng nearer the date.
+CATEGORIES:Rugby Union,Test match
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jpn-aus-1-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260808T111500Z
+DTEND:20260808T131500Z
+SUMMARY:🏉 Japan v Australia
+LOCATION:Hanazono Rugby Stadium\, 1-1-1 Matsubaraminami\, Higashiosaka\, 
+ Osaka 578-0923\, Japan
+GEO:34.668953;135.626324
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="1-1-1 Matsubaraminami, H
+ igashiosaka, Osaka 578-0923, Japan";X-APPLE-RADIUS=150;X-TITLE="Hanazono
+  Rugby Stadium":geo:34.668953,135.626324
+DESCRIPTION:Japan v Australia\n\nCompetition: Test match\nKick-off: Sat 8
+  Aug\, 20:15 local  |  11:15 UTC\n\nVenue: Hanazono Rugby Stadium\nAddre
+ ss: 1-1-1 Matsubaraminami\, Higashiosaka\, Osaka 578-0923\, Japan\n\nTV\
+ nUS broadcaster not confirmed at time of writing - check local listings.
+  Confirmed elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan S
+ port (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nLeg one of a h
+ ome-and-away series. Les Kiss's first Test in charge of the Wallabies.
+CATEGORIES:Rugby Union,Test match
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:aus-jpn-2-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260815T050000Z
+DTEND:20260815T070000Z
+SUMMARY:🏉 Australia v Japan
+LOCATION:Queensland Country Bank Stadium\, 2 Pride Cl\, Railway Estate QL
+ D 4810\, Australia
+GEO:-19.266081;146.81654
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="2 Pride Cl, Railway Esta
+ te QLD 4810, Australia";X-APPLE-RADIUS=150;X-TITLE="Queensland Country B
+ ank Stadium":geo:-19.266081,146.81654
+DESCRIPTION:Australia v Japan\n\nCompetition: Flight Centre Series\nKick-
+ off: Sat 15 Aug\, 15:00 local  |  05:00 UTC\n\nVenue: Queensland Country
+  Bank Stadium\nAddress: 2 Pride Cl\, Railway Estate QLD 4810\, Australia
+ \n\nTV\nUS broadcaster not confirmed at time of writing - check local li
+ stings. Confirmed elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\,
+  Stan Sport (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nLeg two
+  of the home-and-away series with Japan.
+CATEGORIES:Rugby Union,Flight Centre Series
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:rsa-nzl-1-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260822T150000Z
+DTEND:20260822T170000Z
+SUMMARY:🏉 South Africa v New Zealand
+LOCATION:Ellis Park\, S Park Ln\, New Doornfontein\, Johannesburg 2094\, 
+ South Africa
+GEO:-26.19749;28.060784
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="S Park Ln, New Doornfont
+ ein, Johannesburg 2094, South Africa";X-APPLE-RADIUS=150;X-TITLE="Ellis 
+ Park":geo:-26.19749,28.060784
+DESCRIPTION:South Africa v New Zealand\n\nCompetition: Rugby's Greatest R
+ ivalry\nKick-off: Sat 22 Aug\, 17:00 local  |  15:00 UTC\n\nVenue: Ellis
+  Park\nAddress: S Park Ln\, New Doornfontein\, Johannesburg 2094\, South
+  Africa\n\nTV\nUS broadcaster not confirmed at time of writing - check l
+ ocal listings. Confirmed elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 
+ (FRA)\, Stan Sport (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\n
+ FIRST TEST. New Zealand's first full tour of South Africa in 30 years. 1
+ 7:00 local.
+CATEGORIES:Rugby Union,Rugby's Greatest Rivalry
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arg-aus-1-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260829T190000Z
+DTEND:20260829T210000Z
+SUMMARY:🏉 Argentina v Australia
+LOCATION:Estadio 23 de Agosto\, Santa Barbara S/N\, San Salvador de Jujuy
+ \, Argentina
+GEO:-24.198553;-65.290886
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Santa Barbara S/N, San S
+ alvador de Jujuy, Argentina";X-APPLE-RADIUS=150;X-TITLE="Estadio 23 de A
+ gosto":geo:-24.198553,-65.290886
+DESCRIPTION:Argentina v Australia\n\nCompetition: Puma Trophy\nKick-off: 
+ Sat 29 Aug\, 16:00 local  |  19:00 UTC\n\nVenue: Estadio 23 de Agosto\nA
+ ddress: Santa Barbara S/N\, San Salvador de Jujuy\, Argentina\n\nTV\nUS 
+ broadcaster not confirmed at time of writing - check local listings. Con
+ firmed elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan Sport
+  (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nFirst of two Tests
+  in Argentina for the Puma Trophy.
+CATEGORIES:Rugby Union,Puma Trophy
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:rsa-nzl-2-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260829T150000Z
+DTEND:20260829T170000Z
+SUMMARY:🏉 South Africa v New Zealand
+LOCATION:DHL Stadium\, Fritz Sonnenberg Rd\, Green Point\, Cape Town 8051
+ \, South Africa
+GEO:-33.903444;18.411155
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Fritz Sonnenberg Rd, Gre
+ en Point, Cape Town 8051, South Africa";X-APPLE-RADIUS=150;X-TITLE="DHL 
+ Stadium":geo:-33.903444,18.411155
+DESCRIPTION:South Africa v New Zealand\n\nCompetition: Rugby's Greatest R
+ ivalry\nKick-off: Sat 29 Aug\, 17:00 local  |  15:00 UTC\n\nVenue: DHL S
+ tadium\nAddress: Fritz Sonnenberg Rd\, Green Point\, Cape Town 8051\, So
+ uth Africa\n\nTV\nUS broadcaster not confirmed at time of writing - chec
+ k local listings. Confirmed elsewhere: ITV (UK)\, Virgin Media (IRE)\, T
+ F1 (FRA)\, Stan Sport (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNote
+ s\nSECOND TEST. 17:00 local in Cape Town.
+CATEGORIES:Rugby Union,Rugby's Greatest Rivalry
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:arg-aus-2-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260905T190000Z
+DTEND:20260905T210000Z
+SUMMARY:🏉 Argentina v Australia
+LOCATION:Estadio Malvinas Argentinas\, Bajada del Cerro s/n\, M5500 Mendo
+ za\, Argentina
+GEO:-32.889664;-68.880096
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Bajada del Cerro s/n, M5
+ 500 Mendoza, Argentina";X-APPLE-RADIUS=150;X-TITLE="Estadio Malvinas Arg
+ entinas":geo:-32.889664,-68.880096
+DESCRIPTION:Argentina v Australia\n\nCompetition: Puma Trophy\nKick-off: 
+ Sat 5 Sep\, 16:00 local  |  19:00 UTC\n\nVenue: Estadio Malvinas Argenti
+ nas\nAddress: Bajada del Cerro s/n\, M5500 Mendoza\, Argentina\n\nTV\nUS
+  broadcaster not confirmed at time of writing - check local listings. Co
+ nfirmed elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan Spor
+ t (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nSecond Test of th
+ e Puma Trophy series.
+CATEGORIES:Rugby Union,Puma Trophy
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:rsa-nzl-3-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260905T150000Z
+DTEND:20260905T170000Z
+SUMMARY:🏉 South Africa v New Zealand
+LOCATION:FNB Stadium\, Soccer City Ave\, Nasrec\, Johannesburg 2147\, Sou
+ th Africa
+GEO:-26.234757;27.982655
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Soccer City Ave, Nasrec,
+  Johannesburg 2147, South Africa";X-APPLE-RADIUS=150;X-TITLE="FNB Stadiu
+ m":geo:-26.234757,27.982655
+DESCRIPTION:South Africa v New Zealand\n\nCompetition: Rugby's Greatest R
+ ivalry\nKick-off: Sat 5 Sep\, 17:00 local  |  15:00 UTC\n\nVenue: FNB St
+ adium\nAddress: Soccer City Ave\, Nasrec\, Johannesburg 2147\, South Afr
+ ica\n\nTV\nUS broadcaster not confirmed at time of writing - check local
+  listings. Confirmed elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA
+ )\, Stan Sport (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nTHIR
+ D TEST. 17:00 local\; last match on South African soil.
+CATEGORIES:Rugby Union,Rugby's Greatest Rivalry
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:rsa-nzl-4-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260912T150500Z
+DTEND:20260912T170500Z
+SUMMARY:🏉 South Africa v New Zealand
+LOCATION:M&T Bank Stadium\, 1101 Russell St\, Baltimore\, MD 21230\, USA
+GEO:39.27797;-76.622704
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="1101 Russell St, Baltimo
+ re, MD 21230, USA";X-APPLE-RADIUS=150;X-TITLE="M&T Bank Stadium":geo:39.
+ 27797,-76.622704
+DESCRIPTION:South Africa v New Zealand\n\nCompetition: Rugby's Greatest R
+ ivalry\nKick-off: Sat 12 Sep\, 11:05 local  |  15:05 UTC\n\nVenue: M&T B
+ ank Stadium\nAddress: 1101 Russell St\, Baltimore\, MD 21230\, USA\n\nTV
+ \nUS broadcaster not confirmed at time of writing - check local listings
+ . Confirmed elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan 
+ Sport (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nFOURTH TEST\,
+  at a neutral venue in the United States - 11:05 local in Baltimore\, ti
+ med for a South African evening audience.
+CATEGORIES:Rugby Union,Rugby's Greatest Rivalry
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:aus-rsa-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260927T093000Z
+DTEND:20260927T113000Z
+SUMMARY:🏉 Australia v South Africa
+LOCATION:Optus Stadium\, 333 Victoria Park Dr\, Burswood WA 6100\, Austra
+ lia
+GEO:-31.950749;115.888799
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="333 Victoria Park Dr, Bu
+ rswood WA 6100, Australia";X-APPLE-RADIUS=150;X-TITLE="Optus Stadium":ge
+ o:-31.950749,115.888799
+DESCRIPTION:Australia v South Africa\n\nCompetition: Mandela Challenge Pl
+ ate\nKick-off: Sun 27 Sep\, 17:30 local  |  09:30 UTC\n\nVenue: Optus St
+ adium\nAddress: 333 Victoria Park Dr\, Burswood WA 6100\, Australia\n\nT
+ V\nUS broadcaster not confirmed at time of writing - check local listing
+ s. Confirmed elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan
+  Sport (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nOne-off Test
+  for the Mandela Challenge Plate.
+CATEGORIES:Rugby Union,Mandela Challenge Plate
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nzl-aus-bled1-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261010T051000Z
+DTEND:20261010T071000Z
+SUMMARY:🏉 New Zealand v Australia
+LOCATION:Eden Park\, 42 Reimers Ave\, Mount Eden\, Auckland 1024\, New Ze
+ aland
+GEO:-36.874973;174.744764
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="42 Reimers Ave, Mount Ed
+ en, Auckland 1024, New Zealand";X-APPLE-RADIUS=150;X-TITLE="Eden Park":g
+ eo:-36.874973,174.744764
+DESCRIPTION:New Zealand v Australia\n\nCompetition: Bledisloe Cup\nKick-o
+ ff: Sat 10 Oct\, 18:10 local  |  05:10 UTC\n\nVenue: Eden Park\nAddress:
+  42 Reimers Ave\, Mount Eden\, Auckland 1024\, New Zealand\n\nTV\nUS bro
+ adcaster not confirmed at time of writing - check local listings. Confir
+ med elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan Sport (A
+ US)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nBledisloe Cup first T
+ est. Australia have not won at Eden Park since 1986. Kick-off quoted by 
+ Rugby Australia as 3:10pm AEST - confirm nearer the date.
+CATEGORIES:Rugby Union,Bledisloe Cup
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:aus-nzl-bled2-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261017T044500Z
+DTEND:20261017T064500Z
+SUMMARY:🏉 Australia v New Zealand
+LOCATION:Accor Stadium\, Edwin Flack Ave\, Sydney Olympic Park NSW 2127\,
+  Australia
+GEO:-33.847116;151.063414
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Edwin Flack Ave, Sydney 
+ Olympic Park NSW 2127, Australia";X-APPLE-RADIUS=150;X-TITLE="Accor Stad
+ ium":geo:-33.847116,151.063414
+DESCRIPTION:Australia v New Zealand\n\nCompetition: Bledisloe Cup\nKick-o
+ ff: Sat 17 Oct\, 15:45 local  |  04:45 UTC\n\nVenue: Accor Stadium\nAddr
+ ess: Edwin Flack Ave\, Sydney Olympic Park NSW 2127\, Australia\n\nTV\nU
+ S broadcaster not confirmed at time of writing - check local listings. C
+ onfirmed elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan Spo
+ rt (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nBledisloe Cup se
+ cond Test and a potential decider. Kick-off quoted by Rugby Australia as
+  3:45pm AEST - confirm nearer the date.
+CATEGORIES:Rugby Union,Bledisloe Cup
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nc-ire-arg-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261106T201000Z
+DTEND:20261106T221000Z
+SUMMARY:🏉 Ireland v Argentina
+LOCATION:Aviva Stadium\, Lansdowne Rd\, Dublin 4\, D04 K5F9\, Ireland
+GEO:53.334288;-6.227943
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lansdowne Rd, Dublin 4, 
+ D04 K5F9, Ireland";X-APPLE-RADIUS=150;X-TITLE="Aviva Stadium":geo:53.334
+ 288,-6.227943
+DESCRIPTION:Ireland v Argentina\n\nCompetition: Nations Championship\nKic
+ k-off: Fri 6 Nov\, 20:10 local  |  20:10 UTC\n\nVenue: Aviva Stadium\nAd
+ dress: Lansdowne Rd\, Dublin 4\, D04 K5F9\, Ireland\n\nTV\nUS broadcaste
+ r not confirmed at time of writing - check local listings. Confirmed els
+ ewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan Sport (AUS)\, S
+ ky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nRound 4.
+CATEGORIES:Rugby Union,Nations Championship
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nc-ita-rsa-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261107T114000Z
+DTEND:20261107T134000Z
+SUMMARY:🏉 Italy v South Africa
+LOCATION:Allianz Stadium\, Corso Gaetano Scirea 50\, 10151 Torino TO\, It
+ aly
+GEO:45.109552;7.641278
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Corso Gaetano Scirea 50,
+  10151 Torino TO, Italy";X-APPLE-RADIUS=150;X-TITLE="Allianz Stadium":ge
+ o:45.109552,7.641278
+DESCRIPTION:Italy v South Africa\n\nCompetition: Nations Championship\nKi
+ ck-off: Sat 7 Nov\, 12:40 local  |  11:40 UTC\n\nVenue: Allianz Stadium\
+ nAddress: Corso Gaetano Scirea 50\, 10151 Torino TO\, Italy\n\nTV\nUS br
+ oadcaster not confirmed at time of writing - check local listings. Confi
+ rmed elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan Sport (
+ AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nRound 4.
+CATEGORIES:Rugby Union,Nations Championship
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nc-sco-nzl-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261107T141000Z
+DTEND:20261107T161000Z
+SUMMARY:🏉 Scotland v New Zealand
+LOCATION:Scottish Gas Murrayfield\, Roseburn St\, Edinburgh EH12 5PJ\, UK
+GEO:55.942276;-3.24104
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Roseburn St, Edinburgh E
+ H12 5PJ, UK";X-APPLE-RADIUS=150;X-TITLE="Scottish Gas Murrayfield":geo:5
+ 5.942276,-3.24104
+DESCRIPTION:Scotland v New Zealand\n\nCompetition: Nations Championship\n
+ Kick-off: Sat 7 Nov\, 14:10 local  |  14:10 UTC\n\nVenue: Scottish Gas M
+ urrayfield\nAddress: Roseburn St\, Edinburgh EH12 5PJ\, UK\n\nTV\nUS bro
+ adcaster not confirmed at time of writing - check local listings. Confir
+ med elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan Sport (A
+ US)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nRound 4.
+CATEGORIES:Rugby Union,Nations Championship
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nc-wal-jpn-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261107T164000Z
+DTEND:20261107T184000Z
+SUMMARY:🏉 Wales v Japan
+LOCATION:Principality Stadium\, Westgate St\, Cardiff CF10 1NS\, UK
+GEO:51.478209;-3.182634
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Westgate St, Cardiff CF1
+ 0 1NS, UK";X-APPLE-RADIUS=150;X-TITLE="Principality Stadium":geo:51.4782
+ 09,-3.182634
+DESCRIPTION:Wales v Japan\n\nCompetition: Nations Championship\nKick-off:
+  Sat 7 Nov\, 16:40 local  |  16:40 UTC\n\nVenue: Principality Stadium\nA
+ ddress: Westgate St\, Cardiff CF10 1NS\, UK\n\nTV\nUS broadcaster not co
+ nfirmed at time of writing - check local listings. Confirmed elsewhere: 
+ ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan Sport (AUS)\, Sky Sport
+  (NZ)\, SuperSport (RSA).\n\nNotes\nRound 4.
+CATEGORIES:Rugby Union,Nations Championship
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nc-fra-fij-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261107T201000Z
+DTEND:20261107T221000Z
+SUMMARY:🏉 France v Fiji
+LOCATION:Groupama Stadium\, 10 Av. Simone Veil\, 69150 Decines-Charpieu\,
+  France
+GEO:45.765217;4.98203
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="10 Av. Simone Veil, 6915
+ 0 Decines-Charpieu, France";X-APPLE-RADIUS=150;X-TITLE="Groupama Stadium
+ ":geo:45.765217,4.98203
+DESCRIPTION:France v Fiji\n\nCompetition: Nations Championship\nKick-off:
+  Sat 7 Nov\, 21:10 local  |  20:10 UTC\n\nVenue: Groupama Stadium\nAddre
+ ss: 10 Av. Simone Veil\, 69150 Decines-Charpieu\, France\n\nTV\nUS broad
+ caster not confirmed at time of writing - check local listings. Confirme
+ d elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan Sport (AUS
+ )\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nRound 4.
+CATEGORIES:Rugby Union,Nations Championship
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nc-eng-aus-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261108T151000Z
+DTEND:20261108T171000Z
+SUMMARY:🏉 England v Australia
+LOCATION:Allianz Stadium\, Twickenham\, 200 Whitton Rd\, Twickenham TW2 7
+ BA\, UK
+GEO:51.455956;-0.341505
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="200 Whitton Rd, Twickenh
+ am TW2 7BA, UK";X-APPLE-RADIUS=150;X-TITLE="Allianz Stadium, Twickenham"
+ :geo:51.455956,-0.341505
+DESCRIPTION:England v Australia\n\nCompetition: Nations Championship\nKic
+ k-off: Sun 8 Nov\, 15:10 local  |  15:10 UTC\n\nVenue: Allianz Stadium\,
+  Twickenham\nAddress: 200 Whitton Rd\, Twickenham TW2 7BA\, UK\n\nTV\nUS
+  broadcaster not confirmed at time of writing - check local listings. Co
+ nfirmed elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan Spor
+ t (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nRound 4.
+CATEGORIES:Rugby Union,Nations Championship
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nc-fra-rsa-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261113T201000Z
+DTEND:20261113T221000Z
+SUMMARY:🏉 France v South Africa
+LOCATION:Stade de France\, 93200 Saint-Denis\, France
+GEO:48.924475;2.360144
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="93200 Saint-Denis, Franc
+ e";X-APPLE-RADIUS=150;X-TITLE="Stade de France":geo:48.924475,2.360144
+DESCRIPTION:France v South Africa\n\nCompetition: Nations Championship\nK
+ ick-off: Fri 13 Nov\, 21:10 local  |  20:10 UTC\n\nVenue: Stade de Franc
+ e\nAddress: 93200 Saint-Denis\, France\n\nTV\nUS broadcaster not confirm
+ ed at time of writing - check local listings. Confirmed elsewhere: ITV (
+ UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan Sport (AUS)\, Sky Sport (NZ)
+ \, SuperSport (RSA).\n\nNotes\nRound 5.
+CATEGORIES:Rugby Union,Nations Championship
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nc-ita-arg-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261114T114000Z
+DTEND:20261114T134000Z
+SUMMARY:🏉 Italy v Argentina
+LOCATION:Stadio Luigi Ferraris\, Via Giovanni de Pra 1\, 16139 Genova GE\
+ , Italy
+GEO:44.4165;8.952519
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Via Giovanni de Pra 1, 1
+ 6139 Genova GE, Italy";X-APPLE-RADIUS=150;X-TITLE="Stadio Luigi Ferraris
+ ":geo:44.4165,8.952519
+DESCRIPTION:Italy v Argentina\n\nCompetition: Nations Championship\nKick-
+ off: Sat 14 Nov\, 12:40 local  |  11:40 UTC\n\nVenue: Stadio Luigi Ferra
+ ris\nAddress: Via Giovanni de Pra 1\, 16139 Genova GE\, Italy\n\nTV\nUS 
+ broadcaster not confirmed at time of writing - check local listings. Con
+ firmed elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan Sport
+  (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nRound 5.
+CATEGORIES:Rugby Union,Nations Championship
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nc-wal-nzl-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261114T141000Z
+DTEND:20261114T161000Z
+SUMMARY:🏉 Wales v New Zealand
+LOCATION:Principality Stadium\, Westgate St\, Cardiff CF10 1NS\, UK
+GEO:51.478209;-3.182634
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Westgate St, Cardiff CF1
+ 0 1NS, UK";X-APPLE-RADIUS=150;X-TITLE="Principality Stadium":geo:51.4782
+ 09,-3.182634
+DESCRIPTION:Wales v New Zealand\n\nCompetition: Nations Championship\nKic
+ k-off: Sat 14 Nov\, 14:10 local  |  14:10 UTC\n\nVenue: Principality Sta
+ dium\nAddress: Westgate St\, Cardiff CF10 1NS\, UK\n\nTV\nUS broadcaster
+  not confirmed at time of writing - check local listings. Confirmed else
+ where: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan Sport (AUS)\, Sk
+ y Sport (NZ)\, SuperSport (RSA).\n\nNotes\nRound 5.
+CATEGORIES:Rugby Union,Nations Championship
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nc-eng-jpn-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261114T164000Z
+DTEND:20261114T184000Z
+SUMMARY:🏉 England v Japan
+LOCATION:Allianz Stadium\, Twickenham\, 200 Whitton Rd\, Twickenham TW2 7
+ BA\, UK
+GEO:51.455956;-0.341505
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="200 Whitton Rd, Twickenh
+ am TW2 7BA, UK";X-APPLE-RADIUS=150;X-TITLE="Allianz Stadium, Twickenham"
+ :geo:51.455956,-0.341505
+DESCRIPTION:England v Japan\n\nCompetition: Nations Championship\nKick-of
+ f: Sat 14 Nov\, 16:40 local  |  16:40 UTC\n\nVenue: Allianz Stadium\, Tw
+ ickenham\nAddress: 200 Whitton Rd\, Twickenham TW2 7BA\, UK\n\nTV\nUS br
+ oadcaster not confirmed at time of writing - check local listings. Confi
+ rmed elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan Sport (
+ AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nRound 5.
+CATEGORIES:Rugby Union,Nations Championship
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nc-ire-fij-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261114T201000Z
+DTEND:20261114T221000Z
+SUMMARY:🏉 Ireland v Fiji
+LOCATION:Aviva Stadium\, Lansdowne Rd\, Dublin 4\, D04 K5F9\, Ireland
+GEO:53.334288;-6.227943
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lansdowne Rd, Dublin 4, 
+ D04 K5F9, Ireland";X-APPLE-RADIUS=150;X-TITLE="Aviva Stadium":geo:53.334
+ 288,-6.227943
+DESCRIPTION:Ireland v Fiji\n\nCompetition: Nations Championship\nKick-off
+ : Sat 14 Nov\, 20:10 local  |  20:10 UTC\n\nVenue: Aviva Stadium\nAddres
+ s: Lansdowne Rd\, Dublin 4\, D04 K5F9\, Ireland\n\nTV\nUS broadcaster no
+ t confirmed at time of writing - check local listings. Confirmed elsewhe
+ re: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan Sport (AUS)\, Sky S
+ port (NZ)\, SuperSport (RSA).\n\nNotes\nRound 5.
+CATEGORIES:Rugby Union,Nations Championship
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nc-sco-aus-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261115T151000Z
+DTEND:20261115T171000Z
+SUMMARY:🏉 Scotland v Australia
+LOCATION:Scottish Gas Murrayfield\, Roseburn St\, Edinburgh EH12 5PJ\, UK
+GEO:55.942276;-3.24104
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Roseburn St, Edinburgh E
+ H12 5PJ, UK";X-APPLE-RADIUS=150;X-TITLE="Scottish Gas Murrayfield":geo:5
+ 5.942276,-3.24104
+DESCRIPTION:Scotland v Australia\n\nCompetition: Nations Championship\nKi
+ ck-off: Sun 15 Nov\, 15:10 local  |  15:10 UTC\n\nVenue: Scottish Gas Mu
+ rrayfield\nAddress: Roseburn St\, Edinburgh EH12 5PJ\, UK\n\nTV\nUS broa
+ dcaster not confirmed at time of writing - check local listings. Confirm
+ ed elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan Sport (AU
+ S)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nRound 5.
+CATEGORIES:Rugby Union,Nations Championship
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nc-eng-nzl-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261121T141000Z
+DTEND:20261121T161000Z
+SUMMARY:🏉 England v New Zealand
+LOCATION:Allianz Stadium\, Twickenham\, 200 Whitton Rd\, Twickenham TW2 7
+ BA\, UK
+GEO:51.455956;-0.341505
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="200 Whitton Rd, Twickenh
+ am TW2 7BA, UK";X-APPLE-RADIUS=150;X-TITLE="Allianz Stadium, Twickenham"
+ :geo:51.455956,-0.341505
+DESCRIPTION:England v New Zealand\n\nCompetition: Nations Championship\nK
+ ick-off: Sat 21 Nov\, 14:10 local  |  14:10 UTC\n\nVenue: Allianz Stadiu
+ m\, Twickenham\nAddress: 200 Whitton Rd\, Twickenham TW2 7BA\, UK\n\nTV\
+ nUS broadcaster not confirmed at time of writing - check local listings.
+  Confirmed elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan S
+ port (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nRound 6.
+CATEGORIES:Rugby Union,Nations Championship
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nc-sco-jpn-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261121T141000Z
+DTEND:20261121T161000Z
+SUMMARY:🏉 Scotland v Japan
+LOCATION:Scottish Gas Murrayfield\, Roseburn St\, Edinburgh EH12 5PJ\, UK
+GEO:55.942276;-3.24104
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Roseburn St, Edinburgh E
+ H12 5PJ, UK";X-APPLE-RADIUS=150;X-TITLE="Scottish Gas Murrayfield":geo:5
+ 5.942276,-3.24104
+DESCRIPTION:Scotland v Japan\n\nCompetition: Nations Championship\nKick-o
+ ff: Sat 21 Nov\, 14:10 local  |  14:10 UTC\n\nVenue: Scottish Gas Murray
+ field\nAddress: Roseburn St\, Edinburgh EH12 5PJ\, UK\n\nTV\nUS broadcas
+ ter not confirmed at time of writing - check local listings. Confirmed e
+ lsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan Sport (AUS)\,
+  Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nRound 6.
+CATEGORIES:Rugby Union,Nations Championship
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nc-ire-rsa-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261121T164000Z
+DTEND:20261121T184000Z
+SUMMARY:🏉 Ireland v South Africa
+LOCATION:Aviva Stadium\, Lansdowne Rd\, Dublin 4\, D04 K5F9\, Ireland
+GEO:53.334288;-6.227943
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lansdowne Rd, Dublin 4, 
+ D04 K5F9, Ireland";X-APPLE-RADIUS=150;X-TITLE="Aviva Stadium":geo:53.334
+ 288,-6.227943
+DESCRIPTION:Ireland v South Africa\n\nCompetition: Nations Championship\n
+ Kick-off: Sat 21 Nov\, 16:40 local  |  16:40 UTC\n\nVenue: Aviva Stadium
+ \nAddress: Lansdowne Rd\, Dublin 4\, D04 K5F9\, Ireland\n\nTV\nUS broadc
+ aster not confirmed at time of writing - check local listings. Confirmed
+  elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan Sport (AUS)
+ \, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nRound 6.
+CATEGORIES:Rugby Union,Nations Championship
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nc-ita-fij-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261121T164000Z
+DTEND:20261121T184000Z
+SUMMARY:🏉 Italy v Fiji
+LOCATION:Bluenergy Stadium\, Piazzale Repubblica Argentina 3\, 33100 Udin
+ e UD\, Italy
+GEO:46.081531;13.199917
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Piazzale Repubblica Arge
+ ntina 3, 33100 Udine UD, Italy";X-APPLE-RADIUS=150;X-TITLE="Bluenergy St
+ adium":geo:46.081531,13.199917
+DESCRIPTION:Italy v Fiji\n\nCompetition: Nations Championship\nKick-off: 
+ Sat 21 Nov\, 17:40 local  |  16:40 UTC\n\nVenue: Bluenergy Stadium\nAddr
+ ess: Piazzale Repubblica Argentina 3\, 33100 Udine UD\, Italy\n\nTV\nUS 
+ broadcaster not confirmed at time of writing - check local listings. Con
+ firmed elsewhere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan Sport
+  (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNotes\nRound 6.
+CATEGORIES:Rugby Union,Nations Championship
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nc-fra-arg-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261121T201000Z
+DTEND:20261121T221000Z
+SUMMARY:🏉 France v Argentina
+LOCATION:Stade de France\, 93200 Saint-Denis\, France
+GEO:48.924475;2.360144
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="93200 Saint-Denis, Franc
+ e";X-APPLE-RADIUS=150;X-TITLE="Stade de France":geo:48.924475,2.360144
+DESCRIPTION:France v Argentina\n\nCompetition: Nations Championship\nKick
+ -off: Sat 21 Nov\, 21:10 local  |  20:10 UTC\n\nVenue: Stade de France\n
+ Address: 93200 Saint-Denis\, France\n\nTV\nUS broadcaster not confirmed 
+ at time of writing - check local listings. Confirmed elsewhere: ITV (UK)
+ \, Virgin Media (IRE)\, TF1 (FRA)\, Stan Sport (AUS)\, Sky Sport (NZ)\, 
+ SuperSport (RSA).\n\nNotes\nRound 6.
+CATEGORIES:Rugby Union,Nations Championship
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nc-wal-aus-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261121T201000Z
+DTEND:20261121T221000Z
+SUMMARY:🏉 Wales v Australia
+LOCATION:Principality Stadium\, Westgate St\, Cardiff CF10 1NS\, UK
+GEO:51.478209;-3.182634
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Westgate St, Cardiff CF1
+ 0 1NS, UK";X-APPLE-RADIUS=150;X-TITLE="Principality Stadium":geo:51.4782
+ 09,-3.182634
+DESCRIPTION:Wales v Australia\n\nCompetition: Nations Championship\nKick-
+ off: Sat 21 Nov\, 20:10 local  |  20:10 UTC\n\nVenue: Principality Stadi
+ um\nAddress: Westgate St\, Cardiff CF10 1NS\, UK\n\nTV\nUS broadcaster n
+ ot confirmed at time of writing - check local listings. Confirmed elsewh
+ ere: ITV (UK)\, Virgin Media (IRE)\, TF1 (FRA)\, Stan Sport (AUS)\, Sky 
+ Sport (NZ)\, SuperSport (RSA).\n\nNotes\nRound 6.
+CATEGORIES:Rugby Union,Nations Championship
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f-11th-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261127T164000Z
+DTEND:20261127T184000Z
+SUMMARY:🏉 Nations C'ship 11th place play-off
+LOCATION:Allianz Stadium\, Twickenham\, 200 Whitton Rd\, Twickenham TW2 7
+ BA\, UK
+GEO:51.455956;-0.341505
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="200 Whitton Rd, Twickenh
+ am TW2 7BA, UK";X-APPLE-RADIUS=150;X-TITLE="Allianz Stadium, Twickenham"
+ :geo:51.455956,-0.341505
+DESCRIPTION:Nations C'ship 11th place play-off\n\nCompetition: Nations Ch
+ ampionship Finals\nKick-off: Fri 27 Nov\, 16:40 local  |  16:40 UTC\n\nV
+ enue: Allianz Stadium\, Twickenham\nAddress: 200 Whitton Rd\, Twickenham
+  TW2 7BA\, UK\n\nTV\nUS broadcaster not confirmed at time of writing - c
+ heck local listings. Confirmed elsewhere: ITV (UK)\, Virgin Media (IRE)\
+ , TF1 (FRA)\, Stan Sport (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nN
+ otes\nFinals Weekend at Twickenham - three days of double-headers. Fixtu
+ re: 6th North v 6th South. Kick-off is fixed and ticketed\, but WHICH TE
+ AMS play is decided by the final pool tables after Round 6 on 21 Nov.
+CATEGORIES:Rugby Union,Nations Championship Finals
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f-5th-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261127T201000Z
+DTEND:20261127T221000Z
+SUMMARY:🏉 Nations C'ship 5th place play-off
+LOCATION:Allianz Stadium\, Twickenham\, 200 Whitton Rd\, Twickenham TW2 7
+ BA\, UK
+GEO:51.455956;-0.341505
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="200 Whitton Rd, Twickenh
+ am TW2 7BA, UK";X-APPLE-RADIUS=150;X-TITLE="Allianz Stadium, Twickenham"
+ :geo:51.455956,-0.341505
+DESCRIPTION:Nations C'ship 5th place play-off\n\nCompetition: Nations Cha
+ mpionship Finals\nKick-off: Fri 27 Nov\, 20:10 local  |  20:10 UTC\n\nVe
+ nue: Allianz Stadium\, Twickenham\nAddress: 200 Whitton Rd\, Twickenham 
+ TW2 7BA\, UK\n\nTV\nUS broadcaster not confirmed at time of writing - ch
+ eck local listings. Confirmed elsewhere: ITV (UK)\, Virgin Media (IRE)\,
+  TF1 (FRA)\, Stan Sport (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNo
+ tes\nFinals Weekend at Twickenham - three days of double-headers. Fixtur
+ e: 3rd North v 3rd South. Kick-off is fixed and ticketed\, but WHICH TEA
+ MS play is decided by the final pool tables after Round 6 on 21 Nov.
+CATEGORIES:Rugby Union,Nations Championship Finals
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f-9th-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261128T131000Z
+DTEND:20261128T151000Z
+SUMMARY:🏉 Nations C'ship 9th place play-off
+LOCATION:Allianz Stadium\, Twickenham\, 200 Whitton Rd\, Twickenham TW2 7
+ BA\, UK
+GEO:51.455956;-0.341505
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="200 Whitton Rd, Twickenh
+ am TW2 7BA, UK";X-APPLE-RADIUS=150;X-TITLE="Allianz Stadium, Twickenham"
+ :geo:51.455956,-0.341505
+DESCRIPTION:Nations C'ship 9th place play-off\n\nCompetition: Nations Cha
+ mpionship Finals\nKick-off: Sat 28 Nov\, 13:10 local  |  13:10 UTC\n\nVe
+ nue: Allianz Stadium\, Twickenham\nAddress: 200 Whitton Rd\, Twickenham 
+ TW2 7BA\, UK\n\nTV\nUS broadcaster not confirmed at time of writing - ch
+ eck local listings. Confirmed elsewhere: ITV (UK)\, Virgin Media (IRE)\,
+  TF1 (FRA)\, Stan Sport (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNo
+ tes\nFinals Weekend at Twickenham - three days of double-headers. Fixtur
+ e: 5th North v 5th South. Kick-off is fixed and ticketed\, but WHICH TEA
+ MS play is decided by the final pool tables after Round 6 on 21 Nov.
+CATEGORIES:Rugby Union,Nations Championship Finals
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f-3rd-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261128T164000Z
+DTEND:20261128T184000Z
+SUMMARY:🏉 Nations C'ship 3rd place play-off
+LOCATION:Allianz Stadium\, Twickenham\, 200 Whitton Rd\, Twickenham TW2 7
+ BA\, UK
+GEO:51.455956;-0.341505
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="200 Whitton Rd, Twickenh
+ am TW2 7BA, UK";X-APPLE-RADIUS=150;X-TITLE="Allianz Stadium, Twickenham"
+ :geo:51.455956,-0.341505
+DESCRIPTION:Nations C'ship 3rd place play-off\n\nCompetition: Nations Cha
+ mpionship Finals\nKick-off: Sat 28 Nov\, 16:40 local  |  16:40 UTC\n\nVe
+ nue: Allianz Stadium\, Twickenham\nAddress: 200 Whitton Rd\, Twickenham 
+ TW2 7BA\, UK\n\nTV\nUS broadcaster not confirmed at time of writing - ch
+ eck local listings. Confirmed elsewhere: ITV (UK)\, Virgin Media (IRE)\,
+  TF1 (FRA)\, Stan Sport (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNo
+ tes\nFinals Weekend at Twickenham - three days of double-headers. Fixtur
+ e: 2nd North v 2nd South. Kick-off is fixed and ticketed\, but WHICH TEA
+ MS play is decided by the final pool tables after Round 6 on 21 Nov.
+CATEGORIES:Rugby Union,Nations Championship Finals
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f-7th-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261129T131000Z
+DTEND:20261129T151000Z
+SUMMARY:🏉 Nations C'ship 7th place play-off
+LOCATION:Allianz Stadium\, Twickenham\, 200 Whitton Rd\, Twickenham TW2 7
+ BA\, UK
+GEO:51.455956;-0.341505
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="200 Whitton Rd, Twickenh
+ am TW2 7BA, UK";X-APPLE-RADIUS=150;X-TITLE="Allianz Stadium, Twickenham"
+ :geo:51.455956,-0.341505
+DESCRIPTION:Nations C'ship 7th place play-off\n\nCompetition: Nations Cha
+ mpionship Finals\nKick-off: Sun 29 Nov\, 13:10 local  |  13:10 UTC\n\nVe
+ nue: Allianz Stadium\, Twickenham\nAddress: 200 Whitton Rd\, Twickenham 
+ TW2 7BA\, UK\n\nTV\nUS broadcaster not confirmed at time of writing - ch
+ eck local listings. Confirmed elsewhere: ITV (UK)\, Virgin Media (IRE)\,
+  TF1 (FRA)\, Stan Sport (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNo
+ tes\nFinals Weekend at Twickenham - three days of double-headers. Fixtur
+ e: 4th North v 4th South. Kick-off is fixed and ticketed\, but WHICH TEA
+ MS play is decided by the final pool tables after Round 6 on 21 Nov.
+CATEGORIES:Rugby Union,Nations Championship Finals
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f-final-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261129T164000Z
+DTEND:20261129T184000Z
+SUMMARY:🏉 Nations C'ship CHAMPIONSHIP FINAL
+LOCATION:Allianz Stadium\, Twickenham\, 200 Whitton Rd\, Twickenham TW2 7
+ BA\, UK
+GEO:51.455956;-0.341505
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="200 Whitton Rd, Twickenh
+ am TW2 7BA, UK";X-APPLE-RADIUS=150;X-TITLE="Allianz Stadium, Twickenham"
+ :geo:51.455956,-0.341505
+DESCRIPTION:Nations C'ship CHAMPIONSHIP FINAL\n\nCompetition: Nations Cha
+ mpionship Finals\nKick-off: Sun 29 Nov\, 16:40 local  |  16:40 UTC\n\nVe
+ nue: Allianz Stadium\, Twickenham\nAddress: 200 Whitton Rd\, Twickenham 
+ TW2 7BA\, UK\n\nTV\nUS broadcaster not confirmed at time of writing - ch
+ eck local listings. Confirmed elsewhere: ITV (UK)\, Virgin Media (IRE)\,
+  TF1 (FRA)\, Stan Sport (AUS)\, Sky Sport (NZ)\, SuperSport (RSA).\n\nNo
+ tes\nFinals Weekend at Twickenham - three days of double-headers. Fixtur
+ e: 1st North v 1st South. Kick-off is fixed and ticketed\, but WHICH TEA
+ MS play is decided by the final pool tables after Round 6 on 21 Nov.
+CATEGORIES:Rugby Union,Nations Championship Finals
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

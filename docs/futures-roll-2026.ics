@@ -1,0 +1,70 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//Futures Roll//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Futures Roll 2026
+X-APPLE-CALENDAR-COLOR:#455A64
+X-WR-CALDESC:Quarterly roll and final settlement for CME equity index fut
+ ures (ES\, NQ\, YM\, RTY).
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:futures-roll-202609100930-17733@claude-mkt
+DTSTAMP:20260728T090000Z
+DTSTART:20260910T133000Z
+DTEND:20260910T200000Z
+SUMMARY:🔄 Futures Roll - Sep to Dec contract
+DESCRIPTION:Futures Roll - Sep to Dec contract\nThursday 10 September 202
+ 6\n\nTime\n9:30 AM ET  |  13:30 UTC\n\nNotes\nRoll date for ES\, NQ\, YM
+  and RTY - eight days before expiry. Volume and open interest shift to t
+ he next contract from here\, so quoted 'front month' prices change refer
+ ence. Anything held past this needs rolling or it settles on 18 Sep.
+CATEGORIES:Futures Roll
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:futures-roll-202609180930-47459@claude-mkt
+DTSTAMP:20260728T090000Z
+DTSTART:20260918T133000Z
+DTEND:20260918T140000Z
+SUMMARY:🏁 Futures Final Settlement - Sep contract
+DESCRIPTION:Futures Final Settlement - Sep contract\nFriday 18 September 
+ 2026\n\nTime\n9:30 AM ET  |  13:30 UTC\n\nNotes\nExpiring quarterly cont
+ racts settle to the Special Opening Quotation calculated from the openin
+ g prices of the index constituents. The SOQ can print well away from whe
+ re the future last traded.
+CATEGORIES:Futures Roll
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:futures-roll-202612100930-21390@claude-mkt
+DTSTAMP:20260728T090000Z
+DTSTART:20261210T143000Z
+DTEND:20261210T210000Z
+SUMMARY:🔄 Futures Roll - Dec to Mar 2027 contract
+DESCRIPTION:Futures Roll - Dec to Mar 2027 contract\nThursday 10 December
+  2026\n\nTime\n9:30 AM ET  |  14:30 UTC\n\nNotes\nRoll date for ES\, NQ\
+ , YM and RTY - eight days before expiry. Volume and open interest shift 
+ to the next contract from here\, so quoted 'front month' prices change r
+ eference. Anything held past this needs rolling or it settles on 18 Dec.
+CATEGORIES:Futures Roll
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:futures-roll-202612180930-90317@claude-mkt
+DTSTAMP:20260728T090000Z
+DTSTART:20261218T143000Z
+DTEND:20261218T150000Z
+SUMMARY:🏁 Futures Final Settlement - Dec contract
+DESCRIPTION:Futures Final Settlement - Dec contract\nFriday 18 December 2
+ 026\n\nTime\n9:30 AM ET  |  14:30 UTC\n\nNotes\nExpiring quarterly contr
+ acts settle to the Special Opening Quotation calculated from the opening
+  prices of the index constituents. The SOQ can print well away from wher
+ e the future last traded.
+CATEGORIES:Futures Roll
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

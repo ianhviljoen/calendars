@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//UFC 2026//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:🥊 UFC 2026 - Upcoming
+X-WR-CALDESC:Upcoming UFC numbered events and Fight Nights. All on Paramo
+ unt+ in the US.
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:fn-medic-rodriguez-2026@claude-ufc-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260801T170000Z
+DTEND:20260801T210000Z
+SUMMARY:🥊 UFC Fight Night: Medic vs. Rodriguez
+LOCATION:Belgrade Arena\, Bulevar Arsenija Carnojevica 58\, 11070 Beograd
+ \, Serbia
+GEO:44.814434;20.421276
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Bulevar Arsenija Carnoje
+ vica 58, 11070 Beograd, Serbia";X-APPLE-RADIUS=200;X-TITLE="Belgrade Are
+ na":geo:44.814434,20.421276
+DESCRIPTION:UFC Fight Night: Medic vs. Rodriguez\nFight Night\nSaturday 1
+  August 2026\n\nStart times\nMain card: 1:00 PM ET  |  17:00 UTC\nPrelim
+ s:   10:00 AM ET  |  14:00 UTC\n\nVenue: Belgrade Arena\nAddress: Buleva
+ r Arsenija Carnojevica 58\, 11070 Beograd\, Serbia\n\nTV\nParamount+ - e
+ very card\, US. There is NO pay-per-view in 2026\; it is included with a
+  Paramount+ subscription. Select numbered events also simulcast on CBS.\
+ n\nNotes\nWelterweight main event: #14 Uros Medic v #15 Daniel Rodriguez
+ . Early start for US viewers because it is a European card. NOT simulcas
+ t on CBS - Paramount+ only.\n\nCards change often - check ufc.com closer
+  to the date.
+CATEGORIES:UFC,Fight Night
+URL:https://www.ufc.com/events
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fn-gamrot-salkilld-2026@claude-ufc-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260808T210000Z
+DTEND:20260809T010000Z
+SUMMARY:🥊 UFC Fight Night: Gamrot vs. Salkilld
+LOCATION:Belgrade Arena\, Bulevar Arsenija Carnojevica 58\, 11070 Beograd
+ \, Serbia
+GEO:44.814434;20.421276
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Bulevar Arsenija Carnoje
+ vica 58, 11070 Beograd, Serbia";X-APPLE-RADIUS=200;X-TITLE="Belgrade Are
+ na":geo:44.814434,20.421276
+DESCRIPTION:UFC Fight Night: Gamrot vs. Salkilld\nFight Night\nSaturday 8
+  August 2026\n\nStart times\nMain card: 5:00 PM ET  |  21:00 UTC\nPrelim
+ s:   not yet announced\n\nVenue: Belgrade Arena\nAddress: Bulevar Arseni
+ ja Carnojevica 58\, 11070 Beograd\, Serbia\n\nTV\nParamount+ - every car
+ d\, US. There is NO pay-per-view in 2026\; it is included with a Paramou
+ nt+ subscription. Select numbered events also simulcast on CBS.\n\nNotes
+ \nFirst UFC main event for Australian prospect Quillan Salkilld. Note: P
+ aramount+ lists Belgrade Arena for a second straight week\, which is unu
+ sual - worth reconfirming the venue closer to the date.\n\nCards change 
+ often - check ufc.com closer to the date.
+CATEGORIES:UFC,Fight Night
+URL:https://www.ufc.com/events
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-330-2026@claude-ufc-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260816T010000Z
+DTEND:20260816T050000Z
+SUMMARY:🏆 UFC 330: Makhachev vs. Machado Garry
+LOCATION:Xfinity Mobile Arena\, 3601 S Broad St\, Philadelphia\, PA 19148
+ \, USA
+GEO:39.901202;-75.171979
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="3601 S Broad St, Philade
+ lphia, PA 19148, USA";X-APPLE-RADIUS=200;X-TITLE="Xfinity Mobile Arena":
+ geo:39.901202,-75.171979
+DESCRIPTION:UFC 330: Makhachev vs. Machado Garry\nNumbered event\nSaturda
+ y 15 August 2026\n\nStart times\nMain card: 9:00 PM ET  |  01:00 UTC\nPr
+ elims:   not yet announced\n\nVenue: Xfinity Mobile Arena\nAddress: 3601
+  S Broad St\, Philadelphia\, PA 19148\, USA\n\nTV\nParamount+ - every ca
+ rd\, US. There is NO pay-per-view in 2026\; it is included with a Paramo
+ unt+ subscription. Select numbered events also simulcast on CBS.\n\nNote
+ s\nIslam Makhachev defends the welterweight title against Ian Machado Ga
+ rry. The promotion's fourth visit to Philadelphia.\n\nCards change often
+  - check ufc.com closer to the date.
+CATEGORIES:UFC,Numbered event
+URL:https://www.ufc.com/events
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fn-hernandez-rodrigues-2026@claude-ufc-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260823T000000Z
+DTEND:20260823T040000Z
+SUMMARY:🥊 UFC Fight Night: Hernandez vs. Rodrigues
+LOCATION:Golden 1 Center\, 500 David J Stern Walk\, Sacramento\, CA 95814
+ \, USA
+GEO:38.580205;-121.49966
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="500 David J Stern Walk, 
+ Sacramento, CA 95814, USA";X-APPLE-RADIUS=200;X-TITLE="Golden 1 Center":
+ geo:38.580205,-121.49966
+DESCRIPTION:UFC Fight Night: Hernandez vs. Rodrigues\nFight Night\nSaturd
+ ay 22 August 2026\n\nStart times\nMain card: 8:00 PM ET  |  00:00 UTC\nP
+ relims:   not yet announced\n\nVenue: Golden 1 Center\nAddress: 500 Davi
+ d J Stern Walk\, Sacramento\, CA 95814\, USA\n\nTV\nParamount+ - every c
+ ard\, US. There is NO pay-per-view in 2026\; it is included with a Param
+ ount+ subscription. Select numbered events also simulcast on CBS.\n\nNot
+ es\nMiddleweight main event: Anthony Hernandez v Gregory Rodrigues.\n\nC
+ ards change often - check ufc.com closer to the date.
+CATEGORIES:UFC,Fight Night
+URL:https://www.ufc.com/events
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fn-nurmagomedov-song-2026@claude-ufc-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260829T100000Z
+DTEND:20260829T140000Z
+SUMMARY:🥊 UFC Fight Night: Nurmagomedov vs. Song
+LOCATION:Shanghai Oriental Sports Center\, Yanjiang Rd\, Pudong\, Shangha
+ i 200126\, China
+GEO:31.155555;121.47303
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Yanjiang Rd, Pudong, Sha
+ nghai 200126, China";X-APPLE-RADIUS=200;X-TITLE="Shanghai Oriental Sport
+ s Center":geo:31.155555,121.47303
+DESCRIPTION:UFC Fight Night: Nurmagomedov vs. Song\nFight Night\nSaturday
+  29 August 2026\n\nStart times\nMain card: 6:00 AM ET  |  10:00 UTC\nPre
+ lims:   not yet announced\n\nVenue: Shanghai Oriental Sports Center\nAdd
+ ress: Yanjiang Rd\, Pudong\, Shanghai 200126\, China\n\nTV\nParamount+ -
+  every card\, US. There is NO pay-per-view in 2026\; it is included with
+  a Paramount+ subscription. Select numbered events also simulcast on CBS
+ .\n\nNotes\nBantamweight main event: Umar Nurmagomedov v Song Yadong. A 
+ 6 AM ET start - this is a morning card in the US and an evening one in C
+ hina.\n\nCards change often - check ufc.com closer to the date.
+CATEGORIES:UFC,Fight Night
+URL:https://www.ufc.com/events
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fn-paris-2026@claude-ufc-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:🥊 UFC Fight Night: Paris
+LOCATION:Accor Arena\, 8 Bd de Bercy\, 75012 Paris\, France
+GEO:48.838604;2.37847
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="8 Bd de Bercy, 75012 Par
+ is, France";X-APPLE-RADIUS=200;X-TITLE="Accor Arena":geo:48.838604,2.378
+ 47
+DESCRIPTION:UFC Fight Night: Paris\nFight Night\nSaturday 5 September 202
+ 6\n\nStart times\nSTART TIME NOT YET ANNOUNCED. The UFC confirms cards a
+ nd start times about 8-12 weeks before an event\, so this is an all-day 
+ entry until then.\n\nVenue: Accor Arena\nAddress: 8 Bd de Bercy\, 75012 
+ Paris\, France\n\nTV\nParamount+ - every card\, US. There is NO pay-per-
+ view in 2026\; it is included with a Paramount+ subscription. Select num
+ bered events also simulcast on CBS.\n\nNotes\nUFC returns to Paris. Main
+  event not yet announced\, and no start time published - the UFC confirm
+ s cards and times roughly 8-12 weeks out.\n\nCards change often - check 
+ ufc.com closer to the date.
+CATEGORIES:UFC,Fight Night
+URL:https://www.ufc.com/events
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:noche-ufc-2026@claude-ufc-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:🥊 Noche UFC
+LOCATION:Desert Diamond Arena\, 9400 W Maryland Ave\, Glendale\, AZ 85305
+ \, USA
+GEO:33.532074;-112.261216
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="9400 W Maryland Ave, Gle
+ ndale, AZ 85305, USA";X-APPLE-RADIUS=200;X-TITLE="Desert Diamond Arena":
+ geo:33.532074,-112.261216
+DESCRIPTION:Noche UFC\nFight Night\nSaturday 12 September 2026\n\nStart t
+ imes\nSTART TIME NOT YET ANNOUNCED. The UFC confirms cards and start tim
+ es about 8-12 weeks before an event\, so this is an all-day entry until 
+ then.\n\nVenue: Desert Diamond Arena\nAddress: 9400 W Maryland Ave\, Gle
+ ndale\, AZ 85305\, USA\n\nTV\nParamount+ - every card\, US. There is NO 
+ pay-per-view in 2026\; it is included with a Paramount+ subscription. Se
+ lect numbered events also simulcast on CBS.\n\nNotes\nThe annual Mexican
+  Independence Day card. Main event and start time not yet announced.\n\n
+ Cards change often - check ufc.com closer to the date.
+CATEGORIES:UFC,Fight Night
+URL:https://www.ufc.com/events
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-331-2026@claude-ufc-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:🏆 UFC 331
+LOCATION:Crypto.com Arena\, 1111 S Figueroa St\, Los Angeles\, CA 90015\,
+  USA
+GEO:34.043018;-118.267254
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="1111 S Figueroa St, Los 
+ Angeles, CA 90015, USA";X-APPLE-RADIUS=200;X-TITLE="Crypto.com Arena":ge
+ o:34.043018,-118.267254
+DESCRIPTION:UFC 331\nNumbered event\nSaturday 19 September 2026\n\nStart 
+ times\nSTART TIME NOT YET ANNOUNCED. The UFC confirms cards and start ti
+ mes about 8-12 weeks before an event\, so this is an all-day entry until
+  then.\n\nVenue: Crypto.com Arena\nAddress: 1111 S Figueroa St\, Los Ang
+ eles\, CA 90015\, USA\n\nTV\nParamount+ - every card\, US. There is NO p
+ ay-per-view in 2026\; it is included with a Paramount+ subscription. Sel
+ ect numbered events also simulcast on CBS.\n\nNotes\nNumbered event at C
+ rypto.com Arena. Main event and start time not yet announced.\n\nCards c
+ hange often - check ufc.com closer to the date.
+CATEGORIES:UFC,Numbered event
+URL:https://www.ufc.com/events
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fn-edmonton-2026@claude-ufc-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:🥊 UFC Fight Night: Edmonton
+LOCATION:Rogers Place\, 10220 104 Ave NW\, Edmonton\, AB T5J 0H6\, Canada
+GEO:53.546975;-113.4978
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="10220 104 Ave NW, Edmont
+ on, AB T5J 0H6, Canada";X-APPLE-RADIUS=200;X-TITLE="Rogers Place":geo:53
+ .546975,-113.4978
+DESCRIPTION:UFC Fight Night: Edmonton\nFight Night\nSaturday 17 October 2
+ 026\n\nStart times\nSTART TIME NOT YET ANNOUNCED. The UFC confirms cards
+  and start times about 8-12 weeks before an event\, so this is an all-da
+ y entry until then.\n\nVenue: Rogers Place\nAddress: 10220 104 Ave NW\, 
+ Edmonton\, AB T5J 0H6\, Canada\n\nTV\nParamount+ - every card\, US. Ther
+ e is NO pay-per-view in 2026\; it is included with a Paramount+ subscrip
+ tion. Select numbered events also simulcast on CBS.\n\nNotes\nUFC return
+ s to Edmonton. Main event and start time not yet announced.\n\nCards cha
+ nge often - check ufc.com closer to the date.
+CATEGORIES:UFC,Fight Night
+URL:https://www.ufc.com/events
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,57 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//Russell Reconstitution//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Russell Reconstitution 2026
+X-APPLE-CALENDAR-COLOR:#582C83
+X-WR-CALDESC:FTSE Russell US Indexes - the first ever December semi-annua
+ l reconstitution.
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:russell-rebalance-202610301600-57314@claude-mkt
+DTSTAMP:20260728T090000Z
+DTSTART:20261030T200000Z
+DTEND:20261030T203000Z
+SUMMARY:📋 Russell Rank Day (December cycle)
+DESCRIPTION:Russell Rank Day (December cycle)\nFriday 30 October 2026\n\n
+ Time\n4:00 PM ET  |  20:00 UTC\n\nNotes\nLast business day of October - 
+ the cut-off on which index eligibility and market caps are assessed for 
+ the December reconstitution. Preliminary constituent lists follow in the
+  weeks after.
+CATEGORIES:Russell Reconstitution
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:russell-rebalance-202612111600-17247@claude-mkt
+DTSTAMP:20260728T090000Z
+DTSTART:20261211T210000Z
+DTEND:20261211T213000Z
+SUMMARY:♻ Russell Semi-Annual Reconstitution - effective
+DESCRIPTION:Russell Semi-Annual Reconstitution - effective\nFriday 11 Dec
+ ember 2026\n\nTime\n4:00 PM ET  |  21:00 UTC\n\nNotes\nFIRST EVER Decemb
+ er reconstitution of the Russell US Indexes. Effective after the close o
+ n the second Friday of December\, with changes reflected from the open o
+ n Monday 14 December.\n\nRussell moved from annual to semi-annual from 2
+ 026 - June stays on the fourth Friday\, and this is the new second date.
+  Around $12 trillion is benchmarked to Russell US indexes\, though flows
+  here are expected to be smaller than June's. December style-index chang
+ es are limited to new additions and size-driven moves.
+CATEGORIES:Russell Reconstitution
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:russell-rebalance-202612140930-40661@claude-mkt
+DTSTAMP:20260728T090000Z
+DTSTART:20261214T143000Z
+DTEND:20261214T150000Z
+SUMMARY:♻ Russell Reconstitution - reflected at open
+DESCRIPTION:Russell Reconstitution - reflected at open\nMonday 14 Decembe
+ r 2026\n\nTime\n9:30 AM ET  |  14:30 UTC\n\nNotes\nNew Russell index com
+ position is live from this open.
+CATEGORIES:Russell Reconstitution
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

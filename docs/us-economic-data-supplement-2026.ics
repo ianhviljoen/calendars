@@ -1,0 +1,1387 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//US Econ Data Supplement//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:US Economic Data - Supplement
+X-APPLE-CALENDAR-COLOR:#616161
+X-WR-CALDESC:Indicators absent from the main US Economic Data 2026 file. 
+ No overlap - safe to import alongside it.
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:supp-202607300830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T123000Z
+DTEND:20260730T125000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nThursday 30 July 2026\n\nRelease
+  time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nConfirmed against your T
+ rading Economics calendar\, 28 Jul 2026.\n\nNotes\nWeekly initial claims
+ . The only labour read between monthly payrolls\, and carrying extra wei
+ ght with payrolls at 57K.\n\nFigures: Previous 187K  |  Consensus 200K  
+ |  Forecast 200K
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202607300830-899864@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T123000Z
+DTEND:20260730T130000Z
+SUMMARY:📈 PCE Price Index MoM (June)
+DESCRIPTION:📈 PCE Price Index MoM (June)\nThursday 30 July 2026\n\nRel
+ ease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficial - OMB/OIRA 
+ federal indicator schedule 2026.\n\nNotes\nHeadline PCE\, released along
+ side the core reading you already track. Includes food and energy.\n\nFi
+ gures: Previous 0.4%  |  Consensus -0.1%  |  Forecast -0.1%
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202607300830-370499@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T123000Z
+DTEND:20260730T130000Z
+SUMMARY:📈 PCE Price Index YoY (June)
+DESCRIPTION:📈 PCE Price Index YoY (June)\nThursday 30 July 2026\n\nRel
+ ease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficial - OMB/OIRA 
+ federal indicator schedule 2026.\n\nNotes\nHeadline annual PCE inflation
+ .\n\nFigures: Previous 4.1%  |  Consensus 3.7%  |  Forecast 3.7%
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202607300830-251040@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T123000Z
+DTEND:20260730T130000Z
+SUMMARY:📊 GDP Price Index QoQ Adv (Q2 2026)
+DESCRIPTION:📊 GDP Price Index QoQ Adv (Q2 2026)\nThursday 30 July 2026
+ \n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficial - OM
+ B/OIRA federal indicator schedule 2026.\n\nNotes\nThe inflation componen
+ t of the GDP release - the deflator used to convert nominal growth to re
+ al.\n\nFigures: Previous 3.6%  |  Consensus 3.6%  |  Forecast 3.7%
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202607310830-681784@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260731T123000Z
+DTEND:20260731T130000Z
+SUMMARY:👷 Employment Cost Index QoQ (Q2 2026)
+DESCRIPTION:👷 Employment Cost Index QoQ (Q2 2026)\nFriday 31 July 2026
+ \n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nConfirmed aga
+ inst your Trading Economics calendar\, 28 Jul 2026.\n\nNotes\nTHE FED'S 
+ PREFERRED WAGE MEASURE\, and badly under-followed. Quarterly\, so it mov
+ es in bigger steps than average hourly earnings and is far less noisy.\n
+ \nFigures: Previous 0.9%  |  Consensus 0.8%  |  Forecast 0.8%
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202607310945-779823@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260731T134500Z
+DTEND:20260731T141500Z
+SUMMARY:🏭 Chicago PMI (July)
+DESCRIPTION:🏭 Chicago PMI (July)\nFriday 31 July 2026\n\nRelease time\
+ n9:45 AM ET  |  13:45 UTC\n\nDate status\nConfirmed against your Trading
+  Economics calendar\, 28 Jul 2026.\n\nNotes\nMNI Chicago Business Barome
+ ter. Regional\, but it lands before ISM and is treated as a partial prev
+ iew of it.\n\nFigures: Previous 56.7  |  Consensus 56  |  Forecast 57.2
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202607311000-328428@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260731T140000Z
+DTEND:20260731T143000Z
+SUMMARY:🛒 Michigan Consumer Sentiment Final (July)
+DESCRIPTION:🛒 Michigan Consumer Sentiment Final (July)\nFriday 31 July
+  2026\n\nRelease time\n10:00 AM ET  |  14:00 UTC\n\nDate status\nConfirm
+ ed against your Trading Economics calendar\, 28 Jul 2026.\n\nNotes\nFina
+ l reading\, revising the preliminary you already track. The final inflat
+ ion-expectations number is the one the Fed cites.\n\nFigures: Previous 4
+ 9.5  |  Consensus 54.0  |  Forecast 54.4
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202608050815-593865@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260805T121500Z
+DTEND:20260805T124500Z
+SUMMARY:👷 ADP Employment Change (July)
+DESCRIPTION:👷 ADP Employment Change (July)\nWednesday 5 August 2026\n\
+ nRelease time\n8:15 AM ET  |  12:15 UTC\n\nDate status\nDERIVED from the
+  usual release pattern - not a published date.\n\nNotes\nPrivate payroll
+ s\, two days before the official jobs report. A rough guide at best - th
+ e correlation with NFP is weak - but it sets positioning into Friday.\n\
+ nFigures: Previous 98K\n\nNote ADP also runs a newer WEEKLY series on Tu
+ esdays at 8:15am ET\, not included here.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202608060830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260806T123000Z
+DTEND:20260806T125000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nThursday 6 August 2026\n\nReleas
+ e time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nDERIVED from the usual 
+ release pattern - not a published date.\n\nNotes\nWeekly initial claims.
+  The only labour read between monthly payrolls\, and carrying extra weig
+ ht with payrolls at 57K.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202608070830-522116@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260807T123000Z
+DTEND:20260807T130000Z
+SUMMARY:👷 Average Hourly Earnings MoM (July)
+DESCRIPTION:👷 Average Hourly Earnings MoM (July)\nFriday 7 August 2026
+ \n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficial - OM
+ B/OIRA federal indicator schedule 2026.\n\nNotes\nWage growth\, released
+  inside the Employment Situation report. This is the inflation half of t
+ he payrolls print and the line the Fed quotes.\n\nFigures: Previous 0.3%
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202608070830-987046@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260807T123000Z
+DTEND:20260807T130000Z
+SUMMARY:👷 Average Hourly Earnings YoY (July)
+DESCRIPTION:👷 Average Hourly Earnings YoY (July)\nFriday 7 August 2026
+ \n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficial - OM
+ B/OIRA federal indicator schedule 2026.\n\nNotes\nAnnual wage growth\, s
+ ame 8:30 release as payrolls.\n\nFigures: Previous 3.5%
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202608070830-651367@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260807T123000Z
+DTEND:20260807T130000Z
+SUMMARY:👷 Participation Rate (July)
+DESCRIPTION:👷 Participation Rate (July)\nFriday 7 August 2026\n\nRelea
+ se time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficial - OMB/OIRA fe
+ deral indicator schedule 2026.\n\nNotes\nLabour force participation\, sa
+ me release. Explains whether a falling unemployment rate is strength or 
+ people leaving the workforce.\n\nFigures: Previous 61.5%
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202608130830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260813T123000Z
+DTEND:20260813T125000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nThursday 13 August 2026\n\nRelea
+ se time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nDERIVED from the usual
+  release pattern - not a published date.\n\nNotes\nWeekly initial claims
+ . The only labour read between monthly payrolls\, and carrying extra wei
+ ght with payrolls at 57K.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202608130830-704987@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260813T123000Z
+DTEND:20260813T130000Z
+SUMMARY:📈 Core PPI MoM (July)
+DESCRIPTION:📈 Core PPI MoM (July)\nThursday 13 August 2026\n\nRelease 
+ time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficial - OMB/OIRA feder
+ al indicator schedule 2026.\n\nNotes\nCore producer prices. A better PCE
+  predictor than headline PPI\, because several PPI components feed direc
+ tly into the PCE calculation.\n\nFigures: Previous 0.2%
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202608140830-309946@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260814T123000Z
+DTEND:20260814T130000Z
+SUMMARY:🛒 Retail Sales Control Group MoM (July)
+DESCRIPTION:🛒 Retail Sales Control Group MoM (July)\nFriday 14 August 
+ 2026\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficial 
+ - OMB/OIRA federal indicator schedule 2026.\n\nNotes\nTHE LINE THAT FEED
+ S GDP - strips out autos\, petrol\, building materials and food services
+ . Desks watch this over the headline.\n\nFigures: Previous 0.5%
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202608140830-321042@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260814T123000Z
+DTEND:20260814T130000Z
+SUMMARY:🛒 Retail Sales Ex Autos MoM (July)
+DESCRIPTION:🛒 Retail Sales Ex Autos MoM (July)\nFriday 14 August 2026\
+ n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficial - OMB
+ /OIRA federal indicator schedule 2026.\n\nNotes\nRetail sales excluding 
+ the volatile auto component.\n\nFigures: Previous -0.2%
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202608200830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260820T123000Z
+DTEND:20260820T125000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nThursday 20 August 2026\n\nRelea
+ se time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nDERIVED from the usual
+  release pattern - not a published date.\n\nNotes\nWeekly initial claims
+ . The only labour read between monthly payrolls\, and carrying extra wei
+ ght with payrolls at 57K.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202608251000-498005@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260825T140000Z
+DTEND:20260825T143000Z
+SUMMARY:🛒 CB Consumer Confidence (August)
+DESCRIPTION:🛒 CB Consumer Confidence (August)\nTuesday 25 August 2026\
+ n\nRelease time\n10:00 AM ET  |  14:00 UTC\n\nDate status\nDERIVED from 
+ the usual release pattern - not a published date.\n\nNotes\nConference B
+ oard survey. Read the LABOUR DIFFERENTIAL inside it - jobs plentiful min
+ us jobs hard to get - which leads the unemployment rate. Weighted toward
+  labour perceptions\, where Michigan leans on inflation expectations\, s
+ o the two are not duplicates.\n\nFigures: Previous 90.8 (July came in be
+ low the 92.3 consensus)
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202608260830-981564@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260826T123000Z
+DTEND:20260826T130000Z
+SUMMARY:📈 PCE Price Index MoM (July)
+DESCRIPTION:📈 PCE Price Index MoM (July)\nWednesday 26 August 2026\n\n
+ Release time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficial - OMB/OI
+ RA federal indicator schedule 2026.\n\nNotes\nHeadline PCE\, released al
+ ongside the core reading you already track. Includes food and energy.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202608260830-115016@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260826T123000Z
+DTEND:20260826T130000Z
+SUMMARY:📈 PCE Price Index YoY (July)
+DESCRIPTION:📈 PCE Price Index YoY (July)\nWednesday 26 August 2026\n\n
+ Release time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficial - OMB/OI
+ RA federal indicator schedule 2026.\n\nNotes\nHeadline annual PCE inflat
+ ion.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202608270830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260827T123000Z
+DTEND:20260827T125000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nThursday 27 August 2026\n\nRelea
+ se time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nDERIVED from the usual
+  release pattern - not a published date.\n\nNotes\nWeekly initial claims
+ . The only labour read between monthly payrolls\, and carrying extra wei
+ ght with payrolls at 57K.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202608281000-419920@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260828T140000Z
+DTEND:20260828T143000Z
+SUMMARY:🛒 Michigan Consumer Sentiment Final (August)
+DESCRIPTION:🛒 Michigan Consumer Sentiment Final (August)\nFriday 28 Au
+ gust 2026\n\nRelease time\n10:00 AM ET  |  14:00 UTC\n\nDate status\nDER
+ IVED from the usual release pattern - not a published date.\n\nNotes\nFi
+ nal reading\, revising the preliminary you already track. The final infl
+ ation-expectations number is the one the Fed cites.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202608310945-31538@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260831T134500Z
+DTEND:20260831T141500Z
+SUMMARY:🏭 Chicago PMI (August)
+DESCRIPTION:🏭 Chicago PMI (August)\nMonday 31 August 2026\n\nRelease t
+ ime\n9:45 AM ET  |  13:45 UTC\n\nDate status\nDERIVED from the usual rel
+ ease pattern - not a published date.\n\nNotes\nMNI Chicago Business Baro
+ meter. Regional\, but it lands before ISM and is treated as a partial pr
+ eview of it.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202609020815-39683@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260902T121500Z
+DTEND:20260902T124500Z
+SUMMARY:👷 ADP Employment Change (August)
+DESCRIPTION:👷 ADP Employment Change (August)\nWednesday 2 September 20
+ 26\n\nRelease time\n8:15 AM ET  |  12:15 UTC\n\nDate status\nDERIVED fro
+ m the usual release pattern - not a published date.\n\nNotes\nPrivate pa
+ yrolls\, two days before the official jobs report. A rough guide at best
+  - the correlation with NFP is weak - but it sets positioning into Frida
+ y.\n\nNote ADP also runs a newer WEEKLY series on Tuesdays at 8:15am ET\
+ , not included here.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202609030830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260903T123000Z
+DTEND:20260903T125000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nThursday 3 September 2026\n\nRel
+ ease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nDERIVED from the usu
+ al release pattern - not a published date.\n\nNotes\nWeekly initial clai
+ ms. The only labour read between monthly payrolls\, and carrying extra w
+ eight with payrolls at 57K.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202609040830-941654@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260904T123000Z
+DTEND:20260904T130000Z
+SUMMARY:👷 Average Hourly Earnings MoM (August)
+DESCRIPTION:👷 Average Hourly Earnings MoM (August)\nFriday 4 September
+  2026\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficial
+  - OMB/OIRA federal indicator schedule 2026.\n\nNotes\nWage growth\, rel
+ eased inside the Employment Situation report. This is the inflation half
+  of the payrolls print and the line the Fed quotes.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202609040830-606170@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260904T123000Z
+DTEND:20260904T130000Z
+SUMMARY:👷 Average Hourly Earnings YoY (August)
+DESCRIPTION:👷 Average Hourly Earnings YoY (August)\nFriday 4 September
+  2026\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficial
+  - OMB/OIRA federal indicator schedule 2026.\n\nNotes\nAnnual wage growt
+ h\, same 8:30 release as payrolls.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202609040830-37301@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260904T123000Z
+DTEND:20260904T130000Z
+SUMMARY:👷 Participation Rate (August)
+DESCRIPTION:👷 Participation Rate (August)\nFriday 4 September 2026\n\n
+ Release time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficial - OMB/OI
+ RA federal indicator schedule 2026.\n\nNotes\nLabour force participation
+ \, same release. Explains whether a falling unemployment rate is strengt
+ h or people leaving the workforce.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202609100830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260910T123000Z
+DTEND:20260910T125000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nThursday 10 September 2026\n\nRe
+ lease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nDERIVED from the us
+ ual release pattern - not a published date.\n\nNotes\nWeekly initial cla
+ ims. The only labour read between monthly payrolls\, and carrying extra 
+ weight with payrolls at 57K.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202609100830-151928@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260910T123000Z
+DTEND:20260910T130000Z
+SUMMARY:📈 Core PPI MoM (August)
+DESCRIPTION:📈 Core PPI MoM (August)\nThursday 10 September 2026\n\nRel
+ ease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficial - OMB/OIRA 
+ federal indicator schedule 2026.\n\nNotes\nCore producer prices. A bette
+ r PCE predictor than headline PPI\, because several PPI components feed 
+ directly into the PCE calculation.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202609160830-97579@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260916T123000Z
+DTEND:20260916T130000Z
+SUMMARY:🛒 Retail Sales Control Group MoM (August)
+DESCRIPTION:🛒 Retail Sales Control Group MoM (August)\nWednesday 16 Se
+ ptember 2026\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nO
+ fficial - OMB/OIRA federal indicator schedule 2026.\n\nNotes\nTHE LINE T
+ HAT FEEDS GDP - strips out autos\, petrol\, building materials and food 
+ services. Desks watch this over the headline.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202609160830-990491@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260916T123000Z
+DTEND:20260916T130000Z
+SUMMARY:🛒 Retail Sales Ex Autos MoM (August)
+DESCRIPTION:🛒 Retail Sales Ex Autos MoM (August)\nWednesday 16 Septemb
+ er 2026\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOffici
+ al - OMB/OIRA federal indicator schedule 2026.\n\nNotes\nRetail sales ex
+ cluding the volatile auto component.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202609170830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260917T123000Z
+DTEND:20260917T125000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nThursday 17 September 2026\n\nRe
+ lease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nDERIVED from the us
+ ual release pattern - not a published date.\n\nNotes\nWeekly initial cla
+ ims. The only labour read between monthly payrolls\, and carrying extra 
+ weight with payrolls at 57K.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202609240830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260924T123000Z
+DTEND:20260924T125000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nThursday 24 September 2026\n\nRe
+ lease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nDERIVED from the us
+ ual release pattern - not a published date.\n\nNotes\nWeekly initial cla
+ ims. The only labour read between monthly payrolls\, and carrying extra 
+ weight with payrolls at 57K.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202609251000-92678@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260925T140000Z
+DTEND:20260925T143000Z
+SUMMARY:🛒 Michigan Consumer Sentiment Final (September)
+DESCRIPTION:🛒 Michigan Consumer Sentiment Final (September)\nFriday 25
+  September 2026\n\nRelease time\n10:00 AM ET  |  14:00 UTC\n\nDate statu
+ s\nDERIVED from the usual release pattern - not a published date.\n\nNot
+ es\nFinal reading\, revising the preliminary you already track. The fina
+ l inflation-expectations number is the one the Fed cites.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202609291000-111501@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260929T140000Z
+DTEND:20260929T143000Z
+SUMMARY:🛒 CB Consumer Confidence (September)
+DESCRIPTION:🛒 CB Consumer Confidence (September)\nTuesday 29 September
+  2026\n\nRelease time\n10:00 AM ET  |  14:00 UTC\n\nDate status\nDERIVED
+  from the usual release pattern - not a published date.\n\nNotes\nConfer
+ ence Board survey. Read the LABOUR DIFFERENTIAL inside it - jobs plentif
+ ul minus jobs hard to get - which leads the unemployment rate. Weighted 
+ toward labour perceptions\, where Michigan leans on inflation expectatio
+ ns\, so the two are not duplicates.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202609300815-231234@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260930T121500Z
+DTEND:20260930T124500Z
+SUMMARY:👷 ADP Employment Change (September)
+DESCRIPTION:👷 ADP Employment Change (September)\nWednesday 30 Septembe
+ r 2026\n\nRelease time\n8:15 AM ET  |  12:15 UTC\n\nDate status\nDERIVED
+  from the usual release pattern - not a published date.\n\nNotes\nPrivat
+ e payrolls\, two days before the official jobs report. A rough guide at 
+ best - the correlation with NFP is weak - but it sets positioning into F
+ riday.\n\nNote ADP also runs a newer WEEKLY series on Tuesdays at 8:15am
+  ET\, not included here.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202609300830-908441@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260930T123000Z
+DTEND:20260930T130000Z
+SUMMARY:📈 PCE Price Index MoM (August)
+DESCRIPTION:📈 PCE Price Index MoM (August)\nWednesday 30 September 202
+ 6\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficial - O
+ MB/OIRA federal indicator schedule 2026.\n\nNotes\nHeadline PCE\, releas
+ ed alongside the core reading you already track. Includes food and energ
+ y.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202609300830-157373@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260930T123000Z
+DTEND:20260930T130000Z
+SUMMARY:📈 PCE Price Index YoY (August)
+DESCRIPTION:📈 PCE Price Index YoY (August)\nWednesday 30 September 202
+ 6\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficial - O
+ MB/OIRA federal indicator schedule 2026.\n\nNotes\nHeadline annual PCE i
+ nflation.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202609300945-807589@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20260930T134500Z
+DTEND:20260930T141500Z
+SUMMARY:🏭 Chicago PMI (September)
+DESCRIPTION:🏭 Chicago PMI (September)\nWednesday 30 September 2026\n\n
+ Release time\n9:45 AM ET  |  13:45 UTC\n\nDate status\nDERIVED from the 
+ usual release pattern - not a published date.\n\nNotes\nMNI Chicago Busi
+ ness Barometer. Regional\, but it lands before ISM and is treated as a p
+ artial preview of it.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202610010830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261001T123000Z
+DTEND:20261001T125000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nThursday 1 October 2026\n\nRelea
+ se time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nDERIVED from the usual
+  release pattern - not a published date.\n\nNotes\nWeekly initial claims
+ . The only labour read between monthly payrolls\, and carrying extra wei
+ ght with payrolls at 57K.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202610020830-590175@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261002T123000Z
+DTEND:20261002T130000Z
+SUMMARY:👷 Average Hourly Earnings MoM (September)
+DESCRIPTION:👷 Average Hourly Earnings MoM (September)\nFriday 2 Octobe
+ r 2026\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficia
+ l - OMB/OIRA federal indicator schedule 2026.\n\nNotes\nWage growth\, re
+ leased inside the Employment Situation report. This is the inflation hal
+ f of the payrolls print and the line the Fed quotes.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202610020830-868107@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261002T123000Z
+DTEND:20261002T130000Z
+SUMMARY:👷 Average Hourly Earnings YoY (September)
+DESCRIPTION:👷 Average Hourly Earnings YoY (September)\nFriday 2 Octobe
+ r 2026\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficia
+ l - OMB/OIRA federal indicator schedule 2026.\n\nNotes\nAnnual wage grow
+ th\, same 8:30 release as payrolls.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202610020830-597021@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261002T123000Z
+DTEND:20261002T130000Z
+SUMMARY:👷 Participation Rate (September)
+DESCRIPTION:👷 Participation Rate (September)\nFriday 2 October 2026\n\
+ nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficial - OMB/O
+ IRA federal indicator schedule 2026.\n\nNotes\nLabour force participatio
+ n\, same release. Explains whether a falling unemployment rate is streng
+ th or people leaving the workforce.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202610080830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261008T123000Z
+DTEND:20261008T125000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nThursday 8 October 2026\n\nRelea
+ se time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nDERIVED from the usual
+  release pattern - not a published date.\n\nNotes\nWeekly initial claims
+ . The only labour read between monthly payrolls\, and carrying extra wei
+ ght with payrolls at 57K.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202610150830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261015T123000Z
+DTEND:20261015T125000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nThursday 15 October 2026\n\nRele
+ ase time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nDERIVED from the usua
+ l release pattern - not a published date.\n\nNotes\nWeekly initial claim
+ s. The only labour read between monthly payrolls\, and carrying extra we
+ ight with payrolls at 57K.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202610150830-662275@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261015T123000Z
+DTEND:20261015T130000Z
+SUMMARY:🛒 Retail Sales Control Group MoM (September)
+DESCRIPTION:🛒 Retail Sales Control Group MoM (September)\nThursday 15 
+ October 2026\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nO
+ fficial - OMB/OIRA federal indicator schedule 2026.\n\nNotes\nTHE LINE T
+ HAT FEEDS GDP - strips out autos\, petrol\, building materials and food 
+ services. Desks watch this over the headline.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202610150830-262741@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261015T123000Z
+DTEND:20261015T130000Z
+SUMMARY:🛒 Retail Sales Ex Autos MoM (September)
+DESCRIPTION:🛒 Retail Sales Ex Autos MoM (September)\nThursday 15 Octob
+ er 2026\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOffici
+ al - OMB/OIRA federal indicator schedule 2026.\n\nNotes\nRetail sales ex
+ cluding the volatile auto component.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202610150830-120344@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261015T123000Z
+DTEND:20261015T130000Z
+SUMMARY:📈 Core PPI MoM (September)
+DESCRIPTION:📈 Core PPI MoM (September)\nThursday 15 October 2026\n\nRe
+ lease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficial - OMB/OIRA
+  federal indicator schedule 2026.\n\nNotes\nCore producer prices. A bett
+ er PCE predictor than headline PPI\, because several PPI components feed
+  directly into the PCE calculation.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202610220830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261022T123000Z
+DTEND:20261022T125000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nThursday 22 October 2026\n\nRele
+ ase time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nDERIVED from the usua
+ l release pattern - not a published date.\n\nNotes\nWeekly initial claim
+ s. The only labour read between monthly payrolls\, and carrying extra we
+ ight with payrolls at 57K.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202610271000-263495@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261027T140000Z
+DTEND:20261027T143000Z
+SUMMARY:🛒 CB Consumer Confidence (October)
+DESCRIPTION:🛒 CB Consumer Confidence (October)\nTuesday 27 October 202
+ 6\n\nRelease time\n10:00 AM ET  |  14:00 UTC\n\nDate status\nDERIVED fro
+ m the usual release pattern - not a published date.\n\nNotes\nConference
+  Board survey. Read the LABOUR DIFFERENTIAL inside it - jobs plentiful m
+ inus jobs hard to get - which leads the unemployment rate. Weighted towa
+ rd labour perceptions\, where Michigan leans on inflation expectations\,
+  so the two are not duplicates.\n\nLands on DAY ONE of the October FOMC 
+ meeting.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202610290830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261029T123000Z
+DTEND:20261029T125000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nThursday 29 October 2026\n\nRele
+ ase time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nDERIVED from the usua
+ l release pattern - not a published date.\n\nNotes\nWeekly initial claim
+ s. The only labour read between monthly payrolls\, and carrying extra we
+ ight with payrolls at 57K.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202610290830-265092@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261029T123000Z
+DTEND:20261029T130000Z
+SUMMARY:📈 PCE Price Index MoM (September)
+DESCRIPTION:📈 PCE Price Index MoM (September)\nThursday 29 October 202
+ 6\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficial - O
+ MB/OIRA federal indicator schedule 2026.\n\nNotes\nHeadline PCE\, releas
+ ed alongside the core reading you already track. Includes food and energ
+ y.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202610290830-455450@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261029T123000Z
+DTEND:20261029T130000Z
+SUMMARY:📈 PCE Price Index YoY (September)
+DESCRIPTION:📈 PCE Price Index YoY (September)\nThursday 29 October 202
+ 6\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficial - O
+ MB/OIRA federal indicator schedule 2026.\n\nNotes\nHeadline annual PCE i
+ nflation.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202610290830-617666@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261029T123000Z
+DTEND:20261029T130000Z
+SUMMARY:📊 GDP Price Index QoQ Adv (Q3 2026)
+DESCRIPTION:📊 GDP Price Index QoQ Adv (Q3 2026)\nThursday 29 October 2
+ 026\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOfficial -
+  OMB/OIRA federal indicator schedule 2026.\n\nNotes\nThe inflation compo
+ nent of the GDP release - the deflator used to convert nominal growth to
+  real.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202610300830-297033@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261030T123000Z
+DTEND:20261030T130000Z
+SUMMARY:👷 Employment Cost Index QoQ (Q3 2026)
+DESCRIPTION:👷 Employment Cost Index QoQ (Q3 2026)\nFriday 30 October 2
+ 026\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nDERIVED fr
+ om the usual release pattern - not a published date.\n\nNotes\nQuarterly
+  ECI. BLS releases it on the last business day of January\, April\, July
+  and October - this date follows that pattern.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202610300945-238502@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261030T134500Z
+DTEND:20261030T141500Z
+SUMMARY:🏭 Chicago PMI (October)
+DESCRIPTION:🏭 Chicago PMI (October)\nFriday 30 October 2026\n\nRelease
+  time\n9:45 AM ET  |  13:45 UTC\n\nDate status\nDERIVED from the usual r
+ elease pattern - not a published date.\n\nNotes\nMNI Chicago Business Ba
+ rometer. Regional\, but it lands before ISM and is treated as a partial 
+ preview of it.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202610301000-180824@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261030T140000Z
+DTEND:20261030T143000Z
+SUMMARY:🛒 Michigan Consumer Sentiment Final (October)
+DESCRIPTION:🛒 Michigan Consumer Sentiment Final (October)\nFriday 30 O
+ ctober 2026\n\nRelease time\n10:00 AM ET  |  14:00 UTC\n\nDate status\nD
+ ERIVED from the usual release pattern - not a published date.\n\nNotes\n
+ Final reading\, revising the preliminary you already track. The final in
+ flation-expectations number is the one the Fed cites.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202611040815-436654@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261104T131500Z
+DTEND:20261104T134500Z
+SUMMARY:👷 ADP Employment Change (October)
+DESCRIPTION:👷 ADP Employment Change (October)\nWednesday 4 November 20
+ 26\n\nRelease time\n8:15 AM ET  |  13:15 UTC\n\nDate status\nDERIVED fro
+ m the usual release pattern - not a published date.\n\nNotes\nPrivate pa
+ yrolls\, two days before the official jobs report. A rough guide at best
+  - the correlation with NFP is weak - but it sets positioning into Frida
+ y.\n\nNote ADP also runs a newer WEEKLY series on Tuesdays at 8:15am ET\
+ , not included here.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202611050830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261105T133000Z
+DTEND:20261105T135000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nThursday 5 November 2026\n\nRele
+ ase time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nDERIVED from the usua
+ l release pattern - not a published date.\n\nNotes\nWeekly initial claim
+ s. The only labour read between monthly payrolls\, and carrying extra we
+ ight with payrolls at 57K.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202611060830-780103@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261106T133000Z
+DTEND:20261106T140000Z
+SUMMARY:👷 Average Hourly Earnings MoM (October)
+DESCRIPTION:👷 Average Hourly Earnings MoM (October)\nFriday 6 November
+  2026\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nOfficial
+  - OMB/OIRA federal indicator schedule 2026.\n\nNotes\nWage growth\, rel
+ eased inside the Employment Situation report. This is the inflation half
+  of the payrolls print and the line the Fed quotes.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202611060830-783441@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261106T133000Z
+DTEND:20261106T140000Z
+SUMMARY:👷 Average Hourly Earnings YoY (October)
+DESCRIPTION:👷 Average Hourly Earnings YoY (October)\nFriday 6 November
+  2026\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nOfficial
+  - OMB/OIRA federal indicator schedule 2026.\n\nNotes\nAnnual wage growt
+ h\, same 8:30 release as payrolls.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202611060830-99260@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261106T133000Z
+DTEND:20261106T140000Z
+SUMMARY:👷 Participation Rate (October)
+DESCRIPTION:👷 Participation Rate (October)\nFriday 6 November 2026\n\n
+ Release time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nOfficial - OMB/OI
+ RA federal indicator schedule 2026.\n\nNotes\nLabour force participation
+ \, same release. Explains whether a falling unemployment rate is strengt
+ h or people leaving the workforce.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202611120830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261112T133000Z
+DTEND:20261112T135000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nThursday 12 November 2026\n\nRel
+ ease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nDERIVED from the usu
+ al release pattern - not a published date.\n\nNotes\nWeekly initial clai
+ ms. The only labour read between monthly payrolls\, and carrying extra w
+ eight with payrolls at 57K.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202611130830-815707@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261113T133000Z
+DTEND:20261113T140000Z
+SUMMARY:📈 Core PPI MoM (October)
+DESCRIPTION:📈 Core PPI MoM (October)\nFriday 13 November 2026\n\nRelea
+ se time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nOfficial - OMB/OIRA fe
+ deral indicator schedule 2026.\n\nNotes\nCore producer prices. A better 
+ PCE predictor than headline PPI\, because several PPI components feed di
+ rectly into the PCE calculation.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202611170830-793227@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261117T133000Z
+DTEND:20261117T140000Z
+SUMMARY:🛒 Retail Sales Control Group MoM (October)
+DESCRIPTION:🛒 Retail Sales Control Group MoM (October)\nTuesday 17 Nov
+ ember 2026\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nOff
+ icial - OMB/OIRA federal indicator schedule 2026.\n\nNotes\nTHE LINE THA
+ T FEEDS GDP - strips out autos\, petrol\, building materials and food se
+ rvices. Desks watch this over the headline.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202611170830-717563@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261117T133000Z
+DTEND:20261117T140000Z
+SUMMARY:🛒 Retail Sales Ex Autos MoM (October)
+DESCRIPTION:🛒 Retail Sales Ex Autos MoM (October)\nTuesday 17 November
+  2026\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nOfficial
+  - OMB/OIRA federal indicator schedule 2026.\n\nNotes\nRetail sales excl
+ uding the volatile auto component.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202611190830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261119T133000Z
+DTEND:20261119T135000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nThursday 19 November 2026\n\nRel
+ ease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nDERIVED from the usu
+ al release pattern - not a published date.\n\nNotes\nWeekly initial clai
+ ms. The only labour read between monthly payrolls\, and carrying extra w
+ eight with payrolls at 57K.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202611241000-124441@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261124T150000Z
+DTEND:20261124T153000Z
+SUMMARY:🛒 CB Consumer Confidence (November)
+DESCRIPTION:🛒 CB Consumer Confidence (November)\nTuesday 24 November 2
+ 026\n\nRelease time\n10:00 AM ET  |  15:00 UTC\n\nDate status\nDERIVED f
+ rom the usual release pattern - not a published date.\n\nNotes\nConferen
+ ce Board survey. Read the LABOUR DIFFERENTIAL inside it - jobs plentiful
+  minus jobs hard to get - which leads the unemployment rate. Weighted to
+ ward labour perceptions\, where Michigan leans on inflation expectations
+ \, so the two are not duplicates.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202611250830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261125T133000Z
+DTEND:20261125T135000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nWednesday 25 November 2026\n\nRe
+ lease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nDERIVED from the us
+ ual release pattern - not a published date.\n\nNotes\nWeekly initial cla
+ ims. The only labour read between monthly payrolls\, and carrying extra 
+ weight with payrolls at 57K.\n\nMOVED TO WEDNESDAY because of Thanksgivi
+ ng.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202611250830-251377@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261125T133000Z
+DTEND:20261125T140000Z
+SUMMARY:📈 PCE Price Index MoM (October)
+DESCRIPTION:📈 PCE Price Index MoM (October)\nWednesday 25 November 202
+ 6\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nOfficial - O
+ MB/OIRA federal indicator schedule 2026.\n\nNotes\nHeadline PCE\, releas
+ ed alongside the core reading you already track. Includes food and energ
+ y.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202611250830-324963@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261125T133000Z
+DTEND:20261125T140000Z
+SUMMARY:📈 PCE Price Index YoY (October)
+DESCRIPTION:📈 PCE Price Index YoY (October)\nWednesday 25 November 202
+ 6\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nOfficial - O
+ MB/OIRA federal indicator schedule 2026.\n\nNotes\nHeadline annual PCE i
+ nflation.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202611271000-207130@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261127T150000Z
+DTEND:20261127T153000Z
+SUMMARY:🛒 Michigan Consumer Sentiment Final (November)
+DESCRIPTION:🛒 Michigan Consumer Sentiment Final (November)\nFriday 27 
+ November 2026\n\nRelease time\n10:00 AM ET  |  15:00 UTC\n\nDate status\
+ nDERIVED from the usual release pattern - not a published date.\n\nNotes
+ \nFinal reading\, revising the preliminary you already track. The final 
+ inflation-expectations number is the one the Fed cites.\n\nDay after Tha
+ nksgiving - markets close early at 1:00pm.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202611300945-285111@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261130T144500Z
+DTEND:20261130T151500Z
+SUMMARY:🏭 Chicago PMI (November)
+DESCRIPTION:🏭 Chicago PMI (November)\nMonday 30 November 2026\n\nRelea
+ se time\n9:45 AM ET  |  14:45 UTC\n\nDate status\nDERIVED from the usual
+  release pattern - not a published date.\n\nNotes\nMNI Chicago Business 
+ Barometer. Regional\, but it lands before ISM and is treated as a partia
+ l preview of it.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202612020815-953650@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261202T131500Z
+DTEND:20261202T134500Z
+SUMMARY:👷 ADP Employment Change (November)
+DESCRIPTION:👷 ADP Employment Change (November)\nWednesday 2 December 2
+ 026\n\nRelease time\n8:15 AM ET  |  13:15 UTC\n\nDate status\nDERIVED fr
+ om the usual release pattern - not a published date.\n\nNotes\nPrivate p
+ ayrolls\, two days before the official jobs report. A rough guide at bes
+ t - the correlation with NFP is weak - but it sets positioning into Frid
+ ay.\n\nNote ADP also runs a newer WEEKLY series on Tuesdays at 8:15am ET
+ \, not included here.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202612030830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261203T133000Z
+DTEND:20261203T135000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nThursday 3 December 2026\n\nRele
+ ase time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nDERIVED from the usua
+ l release pattern - not a published date.\n\nNotes\nWeekly initial claim
+ s. The only labour read between monthly payrolls\, and carrying extra we
+ ight with payrolls at 57K.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202612040830-903594@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261204T133000Z
+DTEND:20261204T140000Z
+SUMMARY:👷 Average Hourly Earnings MoM (November)
+DESCRIPTION:👷 Average Hourly Earnings MoM (November)\nFriday 4 Decembe
+ r 2026\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nOfficia
+ l - OMB/OIRA federal indicator schedule 2026.\n\nNotes\nWage growth\, re
+ leased inside the Employment Situation report. This is the inflation hal
+ f of the payrolls print and the line the Fed quotes.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202612040830-160597@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261204T133000Z
+DTEND:20261204T140000Z
+SUMMARY:👷 Average Hourly Earnings YoY (November)
+DESCRIPTION:👷 Average Hourly Earnings YoY (November)\nFriday 4 Decembe
+ r 2026\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nOfficia
+ l - OMB/OIRA federal indicator schedule 2026.\n\nNotes\nAnnual wage grow
+ th\, same 8:30 release as payrolls.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202612040830-208476@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261204T133000Z
+DTEND:20261204T140000Z
+SUMMARY:👷 Participation Rate (November)
+DESCRIPTION:👷 Participation Rate (November)\nFriday 4 December 2026\n\
+ nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nOfficial - OMB/O
+ IRA federal indicator schedule 2026.\n\nNotes\nLabour force participatio
+ n\, same release. Explains whether a falling unemployment rate is streng
+ th or people leaving the workforce.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202612100830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261210T133000Z
+DTEND:20261210T135000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nThursday 10 December 2026\n\nRel
+ ease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nDERIVED from the usu
+ al release pattern - not a published date.\n\nNotes\nWeekly initial clai
+ ms. The only labour read between monthly payrolls\, and carrying extra w
+ eight with payrolls at 57K.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202612150830-838151@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261215T133000Z
+DTEND:20261215T140000Z
+SUMMARY:📈 Core PPI MoM (November)
+DESCRIPTION:📈 Core PPI MoM (November)\nTuesday 15 December 2026\n\nRel
+ ease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nOfficial - OMB/OIRA 
+ federal indicator schedule 2026.\n\nNotes\nCore producer prices. A bette
+ r PCE predictor than headline PPI\, because several PPI components feed 
+ directly into the PCE calculation.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202612160830-309377@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261216T133000Z
+DTEND:20261216T140000Z
+SUMMARY:🛒 Retail Sales Control Group MoM (November)
+DESCRIPTION:🛒 Retail Sales Control Group MoM (November)\nWednesday 16 
+ December 2026\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\n
+ Official - OMB/OIRA federal indicator schedule 2026.\n\nNotes\nTHE LINE 
+ THAT FEEDS GDP - strips out autos\, petrol\, building materials and food
+  services. Desks watch this over the headline.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202612160830-994514@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261216T133000Z
+DTEND:20261216T140000Z
+SUMMARY:🛒 Retail Sales Ex Autos MoM (November)
+DESCRIPTION:🛒 Retail Sales Ex Autos MoM (November)\nWednesday 16 Decem
+ ber 2026\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nOffic
+ ial - OMB/OIRA federal indicator schedule 2026.\n\nNotes\nRetail sales e
+ xcluding the volatile auto component.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202612170830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261217T133000Z
+DTEND:20261217T135000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nThursday 17 December 2026\n\nRel
+ ease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nDERIVED from the usu
+ al release pattern - not a published date.\n\nNotes\nWeekly initial clai
+ ms. The only labour read between monthly payrolls\, and carrying extra w
+ eight with payrolls at 57K.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202612230830-959523@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261223T133000Z
+DTEND:20261223T140000Z
+SUMMARY:📈 PCE Price Index MoM (November)
+DESCRIPTION:📈 PCE Price Index MoM (November)\nWednesday 23 December 20
+ 26\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nOfficial - 
+ OMB/OIRA federal indicator schedule 2026.\n\nNotes\nHeadline PCE\, relea
+ sed alongside the core reading you already track. Includes food and ener
+ gy.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202612230830-857833@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261223T133000Z
+DTEND:20261223T140000Z
+SUMMARY:📈 PCE Price Index YoY (November)
+DESCRIPTION:📈 PCE Price Index YoY (November)\nWednesday 23 December 20
+ 26\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nOfficial - 
+ OMB/OIRA federal indicator schedule 2026.\n\nNotes\nHeadline annual PCE 
+ inflation.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202612231000-358422@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261223T150000Z
+DTEND:20261223T153000Z
+SUMMARY:🛒 Michigan Consumer Sentiment Final (December)
+DESCRIPTION:🛒 Michigan Consumer Sentiment Final (December)\nWednesday 
+ 23 December 2026\n\nRelease time\n10:00 AM ET  |  15:00 UTC\n\nDate stat
+ us\nDERIVED from the usual release pattern - not a published date.\n\nNo
+ tes\nFinal reading\, revising the preliminary you already track. The fin
+ al inflation-expectations number is the one the Fed cites.\n\nDATE UNCER
+ TAIN. The last Friday of December is Christmas Day\, so the release will
+  shift earlier - this is a best guess.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202612240830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261224T133000Z
+DTEND:20261224T135000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nThursday 24 December 2026\n\nRel
+ ease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nDERIVED from the usu
+ al release pattern - not a published date.\n\nNotes\nWeekly initial clai
+ ms. The only labour read between monthly payrolls\, and carrying extra w
+ eight with payrolls at 57K.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202612291000-172853@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261229T150000Z
+DTEND:20261229T153000Z
+SUMMARY:🛒 CB Consumer Confidence (December)
+DESCRIPTION:🛒 CB Consumer Confidence (December)\nTuesday 29 December 2
+ 026\n\nRelease time\n10:00 AM ET  |  15:00 UTC\n\nDate status\nDERIVED f
+ rom the usual release pattern - not a published date.\n\nNotes\nConferen
+ ce Board survey. Read the LABOUR DIFFERENTIAL inside it - jobs plentiful
+  minus jobs hard to get - which leads the unemployment rate. Weighted to
+ ward labour perceptions\, where Michigan leans on inflation expectations
+ \, so the two are not duplicates.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202612310830-522110@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261231T133000Z
+DTEND:20261231T135000Z
+SUMMARY:👷 Initial Jobless Claims
+DESCRIPTION:👷 Initial Jobless Claims\nThursday 31 December 2026\n\nRel
+ ease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nDERIVED from the usu
+ al release pattern - not a published date.\n\nNotes\nWeekly initial clai
+ ms. The only labour read between monthly payrolls\, and carrying extra w
+ eight with payrolls at 57K.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:supp-202612310945-485281@claude-econ-supp
+DTSTAMP:20260728T090000Z
+DTSTART:20261231T144500Z
+DTEND:20261231T151500Z
+SUMMARY:🏭 Chicago PMI (December)
+DESCRIPTION:🏭 Chicago PMI (December)\nThursday 31 December 2026\n\nRel
+ ease time\n9:45 AM ET  |  14:45 UTC\n\nDate status\nDERIVED from the usu
+ al release pattern - not a published date.\n\nNotes\nMNI Chicago Busines
+ s Barometer. Regional\, but it lands before ISM and is treated as a part
+ ial preview of it.
+CATEGORIES:US Economic Data
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

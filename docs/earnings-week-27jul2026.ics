@@ -1,0 +1,2015 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//Earnings Week 27 Jul 2026//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Earnings - Week of 27 Jul 2026
+X-APPLE-CALENDAR-COLOR:#00897B
+X-WR-CALDESC:US earnings for the week of 27 July 2026. BMO = before open\
+ , AMC = after close. Times Eastern\, stored in UTC.
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:earn-AZN-20260727@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260727T110000Z
+DTEND:20260727T113000Z
+SUMMARY:💰 AZN - AstraZeneca (BMO)
+DESCRIPTION:AZN - AstraZeneca\nMonday 27 July 2026\n\nSession\nBEFORE THE
+  OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am E
+ T.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked 
+ up for this name. Check the link below for current estimates.\n\nLink\nh
+ ttps://finance.yahoo.com/quote/AZN\n\nSource: Earnings Hub week of 27 Ju
+ l 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/AZN
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-APLD-20260727@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260727T200500Z
+DTEND:20260727T203500Z
+SUMMARY:💰 APLD - Applied Digital (AMC)
+DESCRIPTION:APLD - Applied Digital\nMonday 27 July 2026\n\nSession\nAFTER
+  THE CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:0
+ 0pm ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot lo
+ oked up for this name. Check the link below for current estimates.\n\nLi
+ nk\nhttps://finance.yahoo.com/quote/APLD\n\nSource: Earnings Hub week of
+  27 Jul 2026. Companies move dates at short notice - reconfirm on the da
+ y.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/APLD
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-NVTS-20260727@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260727T200500Z
+DTEND:20260727T203500Z
+SUMMARY:💰 NVTS - Navitas Semiconductor (AMC)
+DESCRIPTION:NVTS - Navitas Semiconductor\nMonday 27 July 2026\n\nSession\
+ nAFTER THE CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typical
+ ly 5:00pm ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\n
+ Not looked up for this name. Check the link below for current estimates.
+ \n\nLink\nhttps://finance.yahoo.com/quote/NVTS\n\nSource: Earnings Hub w
+ eek of 27 Jul 2026. Companies move dates at short notice - reconfirm on 
+ the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/NVTS
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-CLS-20260727@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260727T200500Z
+DTEND:20260727T203500Z
+SUMMARY:💰 CLS - Celestica (AMC)
+DESCRIPTION:CLS - Celestica\nMonday 27 July 2026\n\nSession\nAFTER THE CL
+ OSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm ET.
+ \n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked up
+  for this name. Check the link below for current estimates.\n\nLink\nhtt
+ ps://finance.yahoo.com/quote/CLS\n\nSource: Earnings Hub week of 27 Jul 
+ 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/CLS
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-CDNS-20260727@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260727T200500Z
+DTEND:20260727T203500Z
+SUMMARY:💰 CDNS - Cadence Design (AMC)
+DESCRIPTION:CDNS - Cadence Design\nMonday 27 July 2026\n\nSession\nAFTER 
+ THE CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00
+ pm ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot loo
+ ked up for this name. Check the link below for current estimates.\n\nLin
+ k\nhttps://finance.yahoo.com/quote/CDNS\n\nSource: Earnings Hub week of 
+ 27 Jul 2026. Companies move dates at short notice - reconfirm on the day
+ .
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/CDNS
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-AMKR-20260727@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260727T200500Z
+DTEND:20260727T203500Z
+SUMMARY:💰 AMKR - Amkor Technology (AMC)
+DESCRIPTION:AMKR - Amkor Technology\nMonday 27 July 2026\n\nSession\nAFTE
+ R THE CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:
+ 00pm ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot l
+ ooked up for this name. Check the link below for current estimates.\n\nL
+ ink\nhttps://finance.yahoo.com/quote/AMKR\n\nSource: Earnings Hub week o
+ f 27 Jul 2026. Companies move dates at short notice - reconfirm on the d
+ ay.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/AMKR
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-NUE-20260727@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260727T200500Z
+DTEND:20260727T203500Z
+SUMMARY:💰 NUE - Nucor (AMC)
+DESCRIPTION:NUE - Nucor\nMonday 27 July 2026\n\nSession\nAFTER THE CLOSE\
+ nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm ET.\n\n
+ Scheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked up for
+  this name. Check the link below for current estimates.\n\nLink\nhttps:/
+ /finance.yahoo.com/quote/NUE\n\nSource: Earnings Hub week of 27 Jul 2026
+ . Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/NUE
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-RMBS-20260727@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260727T200500Z
+DTEND:20260727T203500Z
+SUMMARY:💰 RMBS - Rambus (AMC)
+DESCRIPTION:RMBS - Rambus\nMonday 27 July 2026\n\nSession\nAFTER THE CLOS
+ E\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm ET.\n
+ \nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked up f
+ or this name. Check the link below for current estimates.\n\nLink\nhttps
+ ://finance.yahoo.com/quote/RMBS\n\nSource: Earnings Hub week of 27 Jul 2
+ 026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/RMBS
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-BRO-20260727@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260727T200500Z
+DTEND:20260727T203500Z
+SUMMARY:💰 BRO - Brown & Brown (AMC)
+DESCRIPTION:BRO - Brown & Brown\nMonday 27 July 2026\n\nSession\nAFTER TH
+ E CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm
+  ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looke
+ d up for this name. Check the link below for current estimates.\n\nLink\
+ nhttps://finance.yahoo.com/quote/BRO\n\nSource: Earnings Hub week of 27 
+ Jul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/BRO
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-WELL-20260727@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260727T200500Z
+DTEND:20260727T203500Z
+SUMMARY:💰 WELL - Welltower (AMC)
+DESCRIPTION:WELL - Welltower\nMonday 27 July 2026\n\nSession\nAFTER THE C
+ LOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm ET
+ .\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked u
+ p for this name. Check the link below for current estimates.\n\nLink\nht
+ tps://finance.yahoo.com/quote/WELL\n\nSource: Earnings Hub week of 27 Ju
+ l 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/WELL
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-FFIV-20260727@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260727T200500Z
+DTEND:20260727T203500Z
+SUMMARY:💰 FFIV - F5 (AMC)
+DESCRIPTION:FFIV - F5\nMonday 27 July 2026\n\nSession\nAFTER THE CLOSE\nR
+ elease usually 4:05-4:30pm ET\; earnings call typically 5:00pm ET.\n\nSc
+ heduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked up for t
+ his name. Check the link below for current estimates.\n\nLink\nhttps://f
+ inance.yahoo.com/quote/FFIV\n\nSource: Earnings Hub week of 27 Jul 2026.
+  Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/FFIV
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-PYPL-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T110000Z
+DTEND:20260728T113000Z
+SUMMARY:💰 PYPL - PayPal (BMO)
+DESCRIPTION:PYPL - PayPal\nTuesday 28 July 2026\n\nSession\nBEFORE THE OP
+ EN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\
+ n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up 
+ for this name. Check the link below for current estimates.\n\nLink\nhttp
+ s://finance.yahoo.com/quote/PYPL\n\nSource: Earnings Hub week of 27 Jul 
+ 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/PYPL
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-KO-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T110000Z
+DTEND:20260728T113000Z
+SUMMARY:💰 KO * - Coca-Cola (BMO)
+DESCRIPTION:KO - Coca-Cola\nTuesday 28 July 2026\n\nSession\nBEFORE THE O
+ PEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.
+ \n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up
+  for this name. Check the link below for current estimates.\n\nLink\nhtt
+ ps://finance.yahoo.com/quote/KO\n\nSource: Earnings Hub week of 27 Jul 2
+ 026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/KO
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-BA-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T110000Z
+DTEND:20260728T113000Z
+SUMMARY:💰 BA * - Boeing (BMO)
+DESCRIPTION:BA - Boeing\nTuesday 28 July 2026\n\nSession\nBEFORE THE OPEN
+ \nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\n\
+ nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up fo
+ r this name. Check the link below for current estimates.\n\nLink\nhttps:
+ //finance.yahoo.com/quote/BA\n\nSource: Earnings Hub week of 27 Jul 2026
+ . Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/BA
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-UPS-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T110000Z
+DTEND:20260728T113000Z
+SUMMARY:💰 UPS * - UPS (BMO)
+DESCRIPTION:UPS - UPS\nTuesday 28 July 2026\n\nSession\nBEFORE THE OPEN\n
+ Release usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\n\nS
+ cheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up for 
+ this name. Check the link below for current estimates.\n\nLink\nhttps://
+ finance.yahoo.com/quote/UPS\n\nSource: Earnings Hub week of 27 Jul 2026.
+  Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/UPS
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-GLW-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T110000Z
+DTEND:20260728T113000Z
+SUMMARY:💰 GLW - Corning (BMO)
+DESCRIPTION:GLW - Corning\nTuesday 28 July 2026\n\nSession\nBEFORE THE OP
+ EN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\
+ n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up 
+ for this name. Check the link below for current estimates.\n\nLink\nhttp
+ s://finance.yahoo.com/quote/GLW\n\nSource: Earnings Hub week of 27 Jul 2
+ 026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/GLW
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-SPGI-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T110000Z
+DTEND:20260728T113000Z
+SUMMARY:💰 SPGI * - S&P Global (BMO)
+DESCRIPTION:SPGI - S&P Global\nTuesday 28 July 2026\n\nSession\nBEFORE TH
+ E OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am 
+ ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked
+  up for this name. Check the link below for current estimates.\n\nLink\n
+ https://finance.yahoo.com/quote/SPGI\n\nSource: Earnings Hub week of 27 
+ Jul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/SPGI
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-RCL-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T110000Z
+DTEND:20260728T113000Z
+SUMMARY:💰 RCL - Royal Caribbean (BMO)
+DESCRIPTION:RCL - Royal Caribbean\nTuesday 28 July 2026\n\nSession\nBEFOR
+ E THE OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:3
+ 0am ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot lo
+ oked up for this name. Check the link below for current estimates.\n\nLi
+ nk\nhttps://finance.yahoo.com/quote/RCL\n\nSource: Earnings Hub week of 
+ 27 Jul 2026. Companies move dates at short notice - reconfirm on the day
+ .
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/RCL
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-UL-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T110000Z
+DTEND:20260728T113000Z
+SUMMARY:💰 UL - Unilever (BMO)
+DESCRIPTION:UL - Unilever\nTuesday 28 July 2026\n\nSession\nBEFORE THE OP
+ EN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\
+ n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up 
+ for this name. Check the link below for current estimates.\n\nLink\nhttp
+ s://finance.yahoo.com/quote/UL\n\nSource: Earnings Hub week of 27 Jul 20
+ 26. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/UL
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-AMT-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T110000Z
+DTEND:20260728T113000Z
+SUMMARY:💰 AMT - American Tower (BMO)
+DESCRIPTION:AMT - American Tower\nTuesday 28 July 2026\n\nSession\nBEFORE
+  THE OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30
+ am ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot loo
+ ked up for this name. Check the link below for current estimates.\n\nLin
+ k\nhttps://finance.yahoo.com/quote/AMT\n\nSource: Earnings Hub week of 2
+ 7 Jul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/AMT
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-CORZ-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T110000Z
+DTEND:20260728T113000Z
+SUMMARY:💰 CORZ - Core Scientific (BMO)
+DESCRIPTION:CORZ - Core Scientific\nTuesday 28 July 2026\n\nSession\nBEFO
+ RE THE OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:
+ 30am ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot l
+ ooked up for this name. Check the link below for current estimates.\n\nL
+ ink\nhttps://finance.yahoo.com/quote/CORZ\n\nSource: Earnings Hub week o
+ f 27 Jul 2026. Companies move dates at short notice - reconfirm on the d
+ ay.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/CORZ
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-HLT-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T110000Z
+DTEND:20260728T113000Z
+SUMMARY:💰 HLT - Hilton (BMO)
+DESCRIPTION:HLT - Hilton\nTuesday 28 July 2026\n\nSession\nBEFORE THE OPE
+ N\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\n
+ \nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up f
+ or this name. Check the link below for current estimates.\n\nLink\nhttps
+ ://finance.yahoo.com/quote/HLT\n\nSource: Earnings Hub week of 27 Jul 20
+ 26. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/HLT
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-SHW-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T110000Z
+DTEND:20260728T113000Z
+SUMMARY:💰 SHW - Sherwin-Williams (BMO)
+DESCRIPTION:SHW - Sherwin-Williams\nTuesday 28 July 2026\n\nSession\nBEFO
+ RE THE OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:
+ 30am ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot l
+ ooked up for this name. Check the link below for current estimates.\n\nL
+ ink\nhttps://finance.yahoo.com/quote/SHW\n\nSource: Earnings Hub week of
+  27 Jul 2026. Companies move dates at short notice - reconfirm on the da
+ y.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/SHW
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-GSK-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T110000Z
+DTEND:20260728T113000Z
+SUMMARY:💰 GSK - GSK (BMO)
+DESCRIPTION:GSK - GSK\nTuesday 28 July 2026\n\nSession\nBEFORE THE OPEN\n
+ Release usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\n\nS
+ cheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up for 
+ this name. Check the link below for current estimates.\n\nLink\nhttps://
+ finance.yahoo.com/quote/GSK\n\nSource: Earnings Hub week of 27 Jul 2026.
+  Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/GSK
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-CNC-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T110000Z
+DTEND:20260728T113000Z
+SUMMARY:💰 CNC - Centene (BMO)
+DESCRIPTION:CNC - Centene\nTuesday 28 July 2026\n\nSession\nBEFORE THE OP
+ EN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\
+ n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up 
+ for this name. Check the link below for current estimates.\n\nLink\nhttp
+ s://finance.yahoo.com/quote/CNC\n\nSource: Earnings Hub week of 27 Jul 2
+ 026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/CNC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-JBLU-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T110000Z
+DTEND:20260728T113000Z
+SUMMARY:💰 JBLU - JetBlue (BMO)
+DESCRIPTION:JBLU - JetBlue\nTuesday 28 July 2026\n\nSession\nBEFORE THE O
+ PEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.
+ \n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up
+  for this name. Check the link below for current estimates.\n\nLink\nhtt
+ ps://finance.yahoo.com/quote/JBLU\n\nSource: Earnings Hub week of 27 Jul
+  2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/JBLU
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-V-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T200500Z
+DTEND:20260728T203500Z
+SUMMARY:💰 V * - Visa (AMC)
+DESCRIPTION:V - Visa\nTuesday 28 July 2026\n\nSession\nAFTER THE CLOSE\nR
+ elease usually 4:05-4:30pm ET\; earnings call typically 5:00pm ET.\n\nSc
+ heduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked up for t
+ his name. Check the link below for current estimates.\n\nLink\nhttps://f
+ inance.yahoo.com/quote/V\n\nSource: Earnings Hub week of 27 Jul 2026. Co
+ mpanies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/V
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-BE-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T200500Z
+DTEND:20260728T203500Z
+SUMMARY:💰 BE - Bloom Energy (AMC)
+DESCRIPTION:BE - Bloom Energy\nTuesday 28 July 2026\n\nSession\nAFTER THE
+  CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm 
+ ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked
+  up for this name. Check the link below for current estimates.\n\nLink\n
+ https://finance.yahoo.com/quote/BE\n\nSource: Earnings Hub week of 27 Ju
+ l 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/BE
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-STX-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T200500Z
+DTEND:20260728T203500Z
+SUMMARY:💰 STX - Seagate (AMC)
+DESCRIPTION:STX - Seagate\nTuesday 28 July 2026\n\nSession\nAFTER THE CLO
+ SE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm ET.\
+ n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked up 
+ for this name. Check the link below for current estimates.\n\nLink\nhttp
+ s://finance.yahoo.com/quote/STX\n\nSource: Earnings Hub week of 27 Jul 2
+ 026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/STX
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-WM-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T200500Z
+DTEND:20260728T203500Z
+SUMMARY:💰 WM - Waste Management (AMC)
+DESCRIPTION:WM - Waste Management\nTuesday 28 July 2026\n\nSession\nAFTER
+  THE CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:0
+ 0pm ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot lo
+ oked up for this name. Check the link below for current estimates.\n\nLi
+ nk\nhttps://finance.yahoo.com/quote/WM\n\nSource: Earnings Hub week of 2
+ 7 Jul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/WM
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-KLAC-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T200500Z
+DTEND:20260728T203500Z
+SUMMARY:💰 KLAC - KLA Corp (AMC)
+DESCRIPTION:KLAC - KLA Corp\nTuesday 28 July 2026\n\nSession\nAFTER THE C
+ LOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm ET
+ .\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked u
+ p for this name. Check the link below for current estimates.\n\nLink\nht
+ tps://finance.yahoo.com/quote/KLAC\n\nSource: Earnings Hub week of 27 Ju
+ l 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/KLAC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-F-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T200500Z
+DTEND:20260728T203500Z
+SUMMARY:💰 F - Ford (AMC)
+DESCRIPTION:F - Ford\nTuesday 28 July 2026\n\nSession\nAFTER THE CLOSE\nR
+ elease usually 4:05-4:30pm ET\; earnings call typically 5:00pm ET.\n\nSc
+ heduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked up for t
+ his name. Check the link below for current estimates.\n\nLink\nhttps://f
+ inance.yahoo.com/quote/F\n\nSource: Earnings Hub week of 27 Jul 2026. Co
+ mpanies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/F
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-TER-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T200500Z
+DTEND:20260728T203500Z
+SUMMARY:💰 TER - Teradyne (AMC)
+DESCRIPTION:TER - Teradyne\nTuesday 28 July 2026\n\nSession\nAFTER THE CL
+ OSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm ET.
+ \n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked up
+  for this name. Check the link below for current estimates.\n\nLink\nhtt
+ ps://finance.yahoo.com/quote/TER\n\nSource: Earnings Hub week of 27 Jul 
+ 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/TER
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-ENPH-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T200500Z
+DTEND:20260728T203500Z
+SUMMARY:💰 ENPH - Enphase Energy (AMC)
+DESCRIPTION:ENPH - Enphase Energy\nTuesday 28 July 2026\n\nSession\nAFTER
+  THE CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:0
+ 0pm ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot lo
+ oked up for this name. Check the link below for current estimates.\n\nLi
+ nk\nhttps://finance.yahoo.com/quote/ENPH\n\nSource: Earnings Hub week of
+  27 Jul 2026. Companies move dates at short notice - reconfirm on the da
+ y.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/ENPH
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-NXPI-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T200500Z
+DTEND:20260728T203500Z
+SUMMARY:💰 NXPI - NXP Semiconductors (AMC)
+DESCRIPTION:NXPI - NXP Semiconductors\nTuesday 28 July 2026\n\nSession\nA
+ FTER THE CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically
+  5:00pm ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNo
+ t looked up for this name. Check the link below for current estimates.\n
+ \nLink\nhttps://finance.yahoo.com/quote/NXPI\n\nSource: Earnings Hub wee
+ k of 27 Jul 2026. Companies move dates at short notice - reconfirm on th
+ e day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/NXPI
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-CAKE-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T200500Z
+DTEND:20260728T203500Z
+SUMMARY:💰 CAKE - Cheesecake Factory (AMC)
+DESCRIPTION:CAKE - Cheesecake Factory\nTuesday 28 July 2026\n\nSession\nA
+ FTER THE CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically
+  5:00pm ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNo
+ t looked up for this name. Check the link below for current estimates.\n
+ \nLink\nhttps://finance.yahoo.com/quote/CAKE\n\nSource: Earnings Hub wee
+ k of 27 Jul 2026. Companies move dates at short notice - reconfirm on th
+ e day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/CAKE
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-MDLZ-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T200500Z
+DTEND:20260728T203500Z
+SUMMARY:💰 MDLZ * - Mondelez (AMC)
+DESCRIPTION:MDLZ - Mondelez\nTuesday 28 July 2026\n\nSession\nAFTER THE C
+ LOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm ET
+ .\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked u
+ p for this name. Check the link below for current estimates.\n\nLink\nht
+ tps://finance.yahoo.com/quote/MDLZ\n\nSource: Earnings Hub week of 27 Ju
+ l 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/MDLZ
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-TLRY-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T200500Z
+DTEND:20260728T203500Z
+SUMMARY:💰 TLRY - Tilray (AMC)
+DESCRIPTION:TLRY - Tilray\nTuesday 28 July 2026\n\nSession\nAFTER THE CLO
+ SE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm ET.\
+ n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked up 
+ for this name. Check the link below for current estimates.\n\nLink\nhttp
+ s://finance.yahoo.com/quote/TLRY\n\nSource: Earnings Hub week of 27 Jul 
+ 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/TLRY
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-SWKS-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T200500Z
+DTEND:20260728T203500Z
+SUMMARY:💰 SWKS - Skyworks (AMC)
+DESCRIPTION:SWKS - Skyworks\nTuesday 28 July 2026\n\nSession\nAFTER THE C
+ LOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm ET
+ .\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked u
+ p for this name. Check the link below for current estimates.\n\nLink\nht
+ tps://finance.yahoo.com/quote/SWKS\n\nSource: Earnings Hub week of 27 Ju
+ l 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/SWKS
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-CSGP-20260728@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260728T200500Z
+DTEND:20260728T203500Z
+SUMMARY:💰 CSGP - CoStar Group (AMC)
+DESCRIPTION:CSGP - CoStar Group\nTuesday 28 July 2026\n\nSession\nAFTER T
+ HE CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00p
+ m ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot look
+ ed up for this name. Check the link below for current estimates.\n\nLink
+ \nhttps://finance.yahoo.com/quote/CSGP\n\nSource: Earnings Hub week of 2
+ 7 Jul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/CSGP
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-SOFI-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T110000Z
+DTEND:20260729T113000Z
+SUMMARY:💰 SOFI - SoFi Technologies (BMO)
+DESCRIPTION:SOFI - SoFi Technologies\nWednesday 29 July 2026\n\nSession\n
+ BEFORE THE OPEN\nRelease usually 6:00-8:00am ET\; earnings call typicall
+ y 8:30am ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nN
+ ot looked up for this name. Check the link below for current estimates.\
+ n\nLink\nhttps://finance.yahoo.com/quote/SOFI\n\nSource: Earnings Hub we
+ ek of 27 Jul 2026. Companies move dates at short notice - reconfirm on t
+ he day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/SOFI
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-VRT-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T110000Z
+DTEND:20260729T113000Z
+SUMMARY:💰 VRT - Vertiv (BMO)
+DESCRIPTION:VRT - Vertiv\nWednesday 29 July 2026\n\nSession\nBEFORE THE O
+ PEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.
+ \n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up
+  for this name. Check the link below for current estimates.\n\nLink\nhtt
+ ps://finance.yahoo.com/quote/VRT\n\nSource: Earnings Hub week of 27 Jul 
+ 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/VRT
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-PG-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T110000Z
+DTEND:20260729T113000Z
+SUMMARY:💰 PG * - Procter & Gamble (BMO)
+DESCRIPTION:PG - Procter & Gamble\nWednesday 29 July 2026\n\nSession\nBEF
+ ORE THE OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8
+ :30am ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot 
+ looked up for this name. Check the link below for current estimates.\n\n
+ Link\nhttps://finance.yahoo.com/quote/PG\n\nSource: Earnings Hub week of
+  27 Jul 2026. Companies move dates at short notice - reconfirm on the da
+ y.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/PG
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-LMND-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T110000Z
+DTEND:20260729T113000Z
+SUMMARY:💰 LMND - Lemonade (BMO)
+DESCRIPTION:LMND - Lemonade\nWednesday 29 July 2026\n\nSession\nBEFORE TH
+ E OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am 
+ ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked
+  up for this name. Check the link below for current estimates.\n\nLink\n
+ https://finance.yahoo.com/quote/LMND\n\nSource: Earnings Hub week of 27 
+ Jul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/LMND
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-APH-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T110000Z
+DTEND:20260729T113000Z
+SUMMARY:💰 APH - Amphenol (BMO)
+DESCRIPTION:APH - Amphenol\nWednesday 29 July 2026\n\nSession\nBEFORE THE
+  OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am E
+ T.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked 
+ up for this name. Check the link below for current estimates.\n\nLink\nh
+ ttps://finance.yahoo.com/quote/APH\n\nSource: Earnings Hub week of 27 Ju
+ l 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/APH
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-ADP-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T110000Z
+DTEND:20260729T113000Z
+SUMMARY:💰 ADP - ADP (BMO)
+DESCRIPTION:ADP - ADP\nWednesday 29 July 2026\n\nSession\nBEFORE THE OPEN
+ \nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\n\
+ nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up fo
+ r this name. Check the link below for current estimates.\n\nLink\nhttps:
+ //finance.yahoo.com/quote/ADP\n\nSource: Earnings Hub week of 27 Jul 202
+ 6. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/ADP
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-BSX-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T110000Z
+DTEND:20260729T113000Z
+SUMMARY:💰 BSX - Boston Scientific (BMO)
+DESCRIPTION:BSX - Boston Scientific\nWednesday 29 July 2026\n\nSession\nB
+ EFORE THE OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically
+  8:30am ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNo
+ t looked up for this name. Check the link below for current estimates.\n
+ \nLink\nhttps://finance.yahoo.com/quote/BSX\n\nSource: Earnings Hub week
+  of 27 Jul 2026. Companies move dates at short notice - reconfirm on the
+  day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/BSX
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-GEHC-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T110000Z
+DTEND:20260729T113000Z
+SUMMARY:💰 GEHC - GE HealthCare (BMO)
+DESCRIPTION:GEHC - GE HealthCare\nWednesday 29 July 2026\n\nSession\nBEFO
+ RE THE OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:
+ 30am ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot l
+ ooked up for this name. Check the link below for current estimates.\n\nL
+ ink\nhttps://finance.yahoo.com/quote/GEHC\n\nSource: Earnings Hub week o
+ f 27 Jul 2026. Companies move dates at short notice - reconfirm on the d
+ ay.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/GEHC
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-GD-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T110000Z
+DTEND:20260729T113000Z
+SUMMARY:💰 GD - General Dynamics (BMO)
+DESCRIPTION:GD - General Dynamics\nWednesday 29 July 2026\n\nSession\nBEF
+ ORE THE OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8
+ :30am ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot 
+ looked up for this name. Check the link below for current estimates.\n\n
+ Link\nhttps://finance.yahoo.com/quote/GD\n\nSource: Earnings Hub week of
+  27 Jul 2026. Companies move dates at short notice - reconfirm on the da
+ y.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/GD
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-GRMN-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T110000Z
+DTEND:20260729T113000Z
+SUMMARY:💰 GRMN - Garmin (BMO)
+DESCRIPTION:GRMN - Garmin\nWednesday 29 July 2026\n\nSession\nBEFORE THE 
+ OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET
+ .\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked u
+ p for this name. Check the link below for current estimates.\n\nLink\nht
+ tps://finance.yahoo.com/quote/GRMN\n\nSource: Earnings Hub week of 27 Ju
+ l 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/GRMN
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-FVRR-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T110000Z
+DTEND:20260729T113000Z
+SUMMARY:💰 FVRR - Fiverr (BMO)
+DESCRIPTION:FVRR - Fiverr\nWednesday 29 July 2026\n\nSession\nBEFORE THE 
+ OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET
+ .\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked u
+ p for this name. Check the link below for current estimates.\n\nLink\nht
+ tps://finance.yahoo.com/quote/FVRR\n\nSource: Earnings Hub week of 27 Ju
+ l 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/FVRR
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-HUM-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T110000Z
+DTEND:20260729T113000Z
+SUMMARY:💰 HUM - Humana (BMO)
+DESCRIPTION:HUM - Humana\nWednesday 29 July 2026\n\nSession\nBEFORE THE O
+ PEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.
+ \n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up
+  for this name. Check the link below for current estimates.\n\nLink\nhtt
+ ps://finance.yahoo.com/quote/HUM\n\nSource: Earnings Hub week of 27 Jul 
+ 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/HUM
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-WING-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T110000Z
+DTEND:20260729T113000Z
+SUMMARY:💰 WING - Wingstop (BMO)
+DESCRIPTION:WING - Wingstop\nWednesday 29 July 2026\n\nSession\nBEFORE TH
+ E OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am 
+ ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked
+  up for this name. Check the link below for current estimates.\n\nLink\n
+ https://finance.yahoo.com/quote/WING\n\nSource: Earnings Hub week of 27 
+ Jul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/WING
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-UBS-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T110000Z
+DTEND:20260729T113000Z
+SUMMARY:💰 UBS - UBS (BMO)
+DESCRIPTION:UBS - UBS\nWednesday 29 July 2026\n\nSession\nBEFORE THE OPEN
+ \nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\n\
+ nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up fo
+ r this name. Check the link below for current estimates.\n\nLink\nhttps:
+ //finance.yahoo.com/quote/UBS\n\nSource: Earnings Hub week of 27 Jul 202
+ 6. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/UBS
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-RIO-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T110000Z
+DTEND:20260729T113000Z
+SUMMARY:💰 RIO - Rio Tinto (BMO)
+DESCRIPTION:RIO - Rio Tinto\nWednesday 29 July 2026\n\nSession\nBEFORE TH
+ E OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am 
+ ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked
+  up for this name. Check the link below for current estimates.\n\nLink\n
+ https://finance.yahoo.com/quote/RIO\n\nSource: Earnings Hub week of 27 J
+ ul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/RIO
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-MSFT-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T200500Z
+DTEND:20260729T203500Z
+SUMMARY:💰 MSFT * - Microsoft (AMC)
+DESCRIPTION:MSFT - Microsoft\nWednesday 29 July 2026\n\nSession\nAFTER TH
+ E CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm
+  ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus (Q4 FY2026
+ )\nEPS $4.22-4.24  |  Revenue $87.5-87.7bn\n\nCall 5:30pm ET. Azure grow
+ th is the swing factor - it ran ~40% last quarter. Stock is ~31% below i
+ ts record\, so the bar is low but capex commentary matters more than the
+  print.\n\nLink\nhttps://finance.yahoo.com/quote/MSFT\n\nSource: Earning
+ s Hub week of 27 Jul 2026. Companies move dates at short notice - reconf
+ irm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/MSFT
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-META-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T200500Z
+DTEND:20260729T203500Z
+SUMMARY:💰 META * - Meta Platforms (AMC)
+DESCRIPTION:META - Meta Platforms\nWednesday 29 July 2026\n\nSession\nAFT
+ ER THE CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5
+ :00pm ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus (Q2 2
+ 026)\nEPS $7.18-7.23  |  Revenue ~$60.2bn (+27% YoY)\n\nCall 5:00pm ET. 
+ Guidance was $58-61bn. Note the split: revenue +27% but underlying EPS g
+ rowth only ~1%. Meta beat on both lines last quarter and still fell 6-7%
+  purely on capex - full-year capex guidance is $125-145bn.\n\nLink\nhttp
+ s://finance.yahoo.com/quote/META\n\nSource: Earnings Hub week of 27 Jul 
+ 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/META
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-HOOD-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T200500Z
+DTEND:20260729T203500Z
+SUMMARY:💰 HOOD - Robinhood (AMC)
+DESCRIPTION:HOOD - Robinhood\nWednesday 29 July 2026\n\nSession\nAFTER TH
+ E CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm
+  ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looke
+ d up for this name. Check the link below for current estimates.\n\nLink\
+ nhttps://finance.yahoo.com/quote/HOOD\n\nSource: Earnings Hub week of 27
+  Jul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/HOOD
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-ARM-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T200500Z
+DTEND:20260729T203500Z
+SUMMARY:💰 ARM * - Arm Holdings (AMC)
+DESCRIPTION:ARM - Arm Holdings\nWednesday 29 July 2026\n\nSession\nAFTER 
+ THE CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00
+ pm ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot loo
+ ked up for this name. Check the link below for current estimates.\n\nLin
+ k\nhttps://finance.yahoo.com/quote/ARM\n\nSource: Earnings Hub week of 2
+ 7 Jul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/ARM
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-QCOM-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T200500Z
+DTEND:20260729T203500Z
+SUMMARY:💰 QCOM * - Qualcomm (AMC)
+DESCRIPTION:QCOM - Qualcomm\nWednesday 29 July 2026\n\nSession\nAFTER THE
+  CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm 
+ ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked
+  up for this name. Check the link below for current estimates.\n\nLink\n
+ https://finance.yahoo.com/quote/QCOM\n\nSource: Earnings Hub week of 27 
+ Jul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/QCOM
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-SBUX-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T200500Z
+DTEND:20260729T203500Z
+SUMMARY:💰 SBUX * - Starbucks (AMC)
+DESCRIPTION:SBUX - Starbucks\nWednesday 29 July 2026\n\nSession\nAFTER TH
+ E CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm
+  ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looke
+ d up for this name. Check the link below for current estimates.\n\nLink\
+ nhttps://finance.yahoo.com/quote/SBUX\n\nSource: Earnings Hub week of 27
+  Jul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/SBUX
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-CMG-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T200500Z
+DTEND:20260729T203500Z
+SUMMARY:💰 CMG - Chipotle (AMC)
+DESCRIPTION:CMG - Chipotle\nWednesday 29 July 2026\n\nSession\nAFTER THE 
+ CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm E
+ T.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked 
+ up for this name. Check the link below for current estimates.\n\nLink\nh
+ ttps://finance.yahoo.com/quote/CMG\n\nSource: Earnings Hub week of 27 Ju
+ l 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/CMG
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-LRCX-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T200500Z
+DTEND:20260729T203500Z
+SUMMARY:💰 LRCX - Lam Research (AMC)
+DESCRIPTION:LRCX - Lam Research\nWednesday 29 July 2026\n\nSession\nAFTER
+  THE CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:0
+ 0pm ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot lo
+ oked up for this name. Check the link below for current estimates.\n\nLi
+ nk\nhttps://finance.yahoo.com/quote/LRCX\n\nSource: Earnings Hub week of
+  27 Jul 2026. Companies move dates at short notice - reconfirm on the da
+ y.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/LRCX
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-FTNT-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T200500Z
+DTEND:20260729T203500Z
+SUMMARY:💰 FTNT - Fortinet (AMC)
+DESCRIPTION:FTNT - Fortinet\nWednesday 29 July 2026\n\nSession\nAFTER THE
+  CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm 
+ ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked
+  up for this name. Check the link below for current estimates.\n\nLink\n
+ https://finance.yahoo.com/quote/FTNT\n\nSource: Earnings Hub week of 27 
+ Jul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/FTNT
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-CVNA-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T200500Z
+DTEND:20260729T203500Z
+SUMMARY:💰 CVNA - Carvana (AMC)
+DESCRIPTION:CVNA - Carvana\nWednesday 29 July 2026\n\nSession\nAFTER THE 
+ CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm E
+ T.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked 
+ up for this name. Check the link below for current estimates.\n\nLink\nh
+ ttps://finance.yahoo.com/quote/CVNA\n\nSource: Earnings Hub week of 27 J
+ ul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/CVNA
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-VICI-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T200500Z
+DTEND:20260729T203500Z
+SUMMARY:💰 VICI - VICI Properties (AMC)
+DESCRIPTION:VICI - VICI Properties\nWednesday 29 July 2026\n\nSession\nAF
+ TER THE CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 
+ 5:00pm ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot
+  looked up for this name. Check the link below for current estimates.\n\
+ nLink\nhttps://finance.yahoo.com/quote/VICI\n\nSource: Earnings Hub week
+  of 27 Jul 2026. Companies move dates at short notice - reconfirm on the
+  day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/VICI
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-FICO-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T200500Z
+DTEND:20260729T203500Z
+SUMMARY:💰 FICO - Fair Isaac (AMC)
+DESCRIPTION:FICO - Fair Isaac\nWednesday 29 July 2026\n\nSession\nAFTER T
+ HE CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00p
+ m ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot look
+ ed up for this name. Check the link below for current estimates.\n\nLink
+ \nhttps://finance.yahoo.com/quote/FICO\n\nSource: Earnings Hub week of 2
+ 7 Jul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/FICO
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-VKTX-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T200500Z
+DTEND:20260729T203500Z
+SUMMARY:💰 VKTX - Viking Therapeutics (AMC)
+DESCRIPTION:VKTX - Viking Therapeutics\nWednesday 29 July 2026\n\nSession
+ \nAFTER THE CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typica
+ lly 5:00pm ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\
+ nNot looked up for this name. Check the link below for current estimates
+ .\n\nLink\nhttps://finance.yahoo.com/quote/VKTX\n\nSource: Earnings Hub 
+ week of 27 Jul 2026. Companies move dates at short notice - reconfirm on
+  the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/VKTX
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-EA-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T200500Z
+DTEND:20260729T203500Z
+SUMMARY:💰 EA - Electronic Arts (AMC)
+DESCRIPTION:EA - Electronic Arts\nWednesday 29 July 2026\n\nSession\nAFTE
+ R THE CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:
+ 00pm ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot l
+ ooked up for this name. Check the link below for current estimates.\n\nL
+ ink\nhttps://finance.yahoo.com/quote/EA\n\nSource: Earnings Hub week of 
+ 27 Jul 2026. Companies move dates at short notice - reconfirm on the day
+ .
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/EA
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-SFM-20260729@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T200500Z
+DTEND:20260729T203500Z
+SUMMARY:💰 SFM - Sprouts Farmers Market (AMC)
+DESCRIPTION:SFM - Sprouts Farmers Market\nWednesday 29 July 2026\n\nSessi
+ on\nAFTER THE CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typi
+ cally 5:00pm ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensu
+ s\nNot looked up for this name. Check the link below for current estimat
+ es.\n\nLink\nhttps://finance.yahoo.com/quote/SFM\n\nSource: Earnings Hub
+  week of 27 Jul 2026. Companies move dates at short notice - reconfirm o
+ n the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/SFM
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-MA-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T110000Z
+DTEND:20260730T113000Z
+SUMMARY:💰 MA * - Mastercard (BMO)
+DESCRIPTION:MA - Mastercard\nThursday 30 July 2026\n\nSession\nBEFORE THE
+  OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am E
+ T.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked 
+ up for this name. Check the link below for current estimates.\n\nLink\nh
+ ttps://finance.yahoo.com/quote/MA\n\nSource: Earnings Hub week of 27 Jul
+  2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/MA
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-RACE-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T110000Z
+DTEND:20260730T113000Z
+SUMMARY:💰 RACE - Ferrari (BMO)
+DESCRIPTION:RACE - Ferrari\nThursday 30 July 2026\n\nSession\nBEFORE THE 
+ OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET
+ .\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked u
+ p for this name. Check the link below for current estimates.\n\nLink\nht
+ tps://finance.yahoo.com/quote/RACE\n\nSource: Earnings Hub week of 27 Ju
+ l 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/RACE
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-MO-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T110000Z
+DTEND:20260730T113000Z
+SUMMARY:💰 MO - Altria (BMO)
+DESCRIPTION:MO - Altria\nThursday 30 July 2026\n\nSession\nBEFORE THE OPE
+ N\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\n
+ \nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up f
+ or this name. Check the link below for current estimates.\n\nLink\nhttps
+ ://finance.yahoo.com/quote/MO\n\nSource: Earnings Hub week of 27 Jul 202
+ 6. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/MO
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-SHEL-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T110000Z
+DTEND:20260730T113000Z
+SUMMARY:💰 SHEL - Shell (BMO)
+DESCRIPTION:SHEL - Shell\nThursday 30 July 2026\n\nSession\nBEFORE THE OP
+ EN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\
+ n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up 
+ for this name. Check the link below for current estimates.\n\nLink\nhttp
+ s://finance.yahoo.com/quote/SHEL\n\nSource: Earnings Hub week of 27 Jul 
+ 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/SHEL
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-BMY-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T110000Z
+DTEND:20260730T113000Z
+SUMMARY:💰 BMY - Bristol Myers Squibb (BMO)
+DESCRIPTION:BMY - Bristol Myers Squibb\nThursday 30 July 2026\n\nSession\
+ nBEFORE THE OPEN\nRelease usually 6:00-8:00am ET\; earnings call typical
+ ly 8:30am ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\n
+ Not looked up for this name. Check the link below for current estimates.
+ \n\nLink\nhttps://finance.yahoo.com/quote/BMY\n\nSource: Earnings Hub we
+ ek of 27 Jul 2026. Companies move dates at short notice - reconfirm on t
+ he day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/BMY
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-PGY-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T110000Z
+DTEND:20260730T113000Z
+SUMMARY:💰 PGY - Pagaya (BMO)
+DESCRIPTION:PGY - Pagaya\nThursday 30 July 2026\n\nSession\nBEFORE THE OP
+ EN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\
+ n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up 
+ for this name. Check the link below for current estimates.\n\nLink\nhttp
+ s://finance.yahoo.com/quote/PGY\n\nSource: Earnings Hub week of 27 Jul 2
+ 026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/PGY
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-CROX-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T110000Z
+DTEND:20260730T113000Z
+SUMMARY:💰 CROX - Crocs (BMO)
+DESCRIPTION:CROX - Crocs\nThursday 30 July 2026\n\nSession\nBEFORE THE OP
+ EN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\
+ n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up 
+ for this name. Check the link below for current estimates.\n\nLink\nhttp
+ s://finance.yahoo.com/quote/CROX\n\nSource: Earnings Hub week of 27 Jul 
+ 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/CROX
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-HSY-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T110000Z
+DTEND:20260730T113000Z
+SUMMARY:💰 HSY - Hershey (BMO)
+DESCRIPTION:HSY - Hershey\nThursday 30 July 2026\n\nSession\nBEFORE THE O
+ PEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.
+ \n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up
+  for this name. Check the link below for current estimates.\n\nLink\nhtt
+ ps://finance.yahoo.com/quote/HSY\n\nSource: Earnings Hub week of 27 Jul 
+ 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/HSY
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-PWR-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T110000Z
+DTEND:20260730T113000Z
+SUMMARY:💰 PWR - Quanta Services (BMO)
+DESCRIPTION:PWR - Quanta Services\nThursday 30 July 2026\n\nSession\nBEFO
+ RE THE OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:
+ 30am ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot l
+ ooked up for this name. Check the link below for current estimates.\n\nL
+ ink\nhttps://finance.yahoo.com/quote/PWR\n\nSource: Earnings Hub week of
+  27 Jul 2026. Companies move dates at short notice - reconfirm on the da
+ y.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/PWR
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-KKR-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T110000Z
+DTEND:20260730T113000Z
+SUMMARY:💰 KKR - KKR (BMO)
+DESCRIPTION:KKR - KKR\nThursday 30 July 2026\n\nSession\nBEFORE THE OPEN\
+ nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\n\n
+ Scheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up for
+  this name. Check the link below for current estimates.\n\nLink\nhttps:/
+ /finance.yahoo.com/quote/KKR\n\nSource: Earnings Hub week of 27 Jul 2026
+ . Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/KKR
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-CI-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T110000Z
+DTEND:20260730T113000Z
+SUMMARY:💰 CI - Cigna (BMO)
+DESCRIPTION:CI - Cigna\nThursday 30 July 2026\n\nSession\nBEFORE THE OPEN
+ \nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\n\
+ nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up fo
+ r this name. Check the link below for current estimates.\n\nLink\nhttps:
+ //finance.yahoo.com/quote/CI\n\nSource: Earnings Hub week of 27 Jul 2026
+ . Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/CI
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-BTI-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T110000Z
+DTEND:20260730T113000Z
+SUMMARY:💰 BTI - British American Tobacco (BMO)
+DESCRIPTION:BTI - British American Tobacco\nThursday 30 July 2026\n\nSess
+ ion\nBEFORE THE OPEN\nRelease usually 6:00-8:00am ET\; earnings call typ
+ ically 8:30am ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsens
+ us\nNot looked up for this name. Check the link below for current estima
+ tes.\n\nLink\nhttps://finance.yahoo.com/quote/BTI\n\nSource: Earnings Hu
+ b week of 27 Jul 2026. Companies move dates at short notice - reconfirm 
+ on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/BTI
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-EPD-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T110000Z
+DTEND:20260730T113000Z
+SUMMARY:💰 EPD - Enterprise Products (BMO)
+DESCRIPTION:EPD - Enterprise Products\nThursday 30 July 2026\n\nSession\n
+ BEFORE THE OPEN\nRelease usually 6:00-8:00am ET\; earnings call typicall
+ y 8:30am ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nN
+ ot looked up for this name. Check the link below for current estimates.\
+ n\nLink\nhttps://finance.yahoo.com/quote/EPD\n\nSource: Earnings Hub wee
+ k of 27 Jul 2026. Companies move dates at short notice - reconfirm on th
+ e day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/EPD
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-SO-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T110000Z
+DTEND:20260730T113000Z
+SUMMARY:💰 SO - Southern Company (BMO)
+DESCRIPTION:SO - Southern Company\nThursday 30 July 2026\n\nSession\nBEFO
+ RE THE OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:
+ 30am ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot l
+ ooked up for this name. Check the link below for current estimates.\n\nL
+ ink\nhttps://finance.yahoo.com/quote/SO\n\nSource: Earnings Hub week of 
+ 27 Jul 2026. Companies move dates at short notice - reconfirm on the day
+ .
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/SO
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-SIRI-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T110000Z
+DTEND:20260730T113000Z
+SUMMARY:💰 SIRI - SiriusXM (BMO)
+DESCRIPTION:SIRI - SiriusXM\nThursday 30 July 2026\n\nSession\nBEFORE THE
+  OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am E
+ T.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked 
+ up for this name. Check the link below for current estimates.\n\nLink\nh
+ ttps://finance.yahoo.com/quote/SIRI\n\nSource: Earnings Hub week of 27 J
+ ul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/SIRI
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-AAPL-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T200500Z
+DTEND:20260730T203500Z
+SUMMARY:💰 AAPL * - Apple (AMC)
+DESCRIPTION:AAPL - Apple\nThursday 30 July 2026\n\nSession\nAFTER THE CLO
+ SE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm ET.\
+ n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus (Fiscal Q3 2026
+ )\nEPS $1.88-1.89  |  Revenue $108.8-108.9bn\n\nCall 5:00pm ET. iPhone d
+ emand\, Services momentum\, China\, and margin pressure from rising memo
+ ry costs.\n\nLink\nhttps://finance.yahoo.com/quote/AAPL\n\nSource: Earni
+ ngs Hub week of 27 Jul 2026. Companies move dates at short notice - reco
+ nfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/AAPL
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-AMZN-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T200500Z
+DTEND:20260730T203500Z
+SUMMARY:💰 AMZN * - Amazon (AMC)
+DESCRIPTION:AMZN - Amazon\nThursday 30 July 2026\n\nSession\nAFTER THE CL
+ OSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm ET.
+ \n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus (Q2 2026)\nEPS
+  ~$1.81-1.85  |  Revenue ~$196.0bn\n\nCall 5:00pm ET. AWS growth is the 
+ swing factor\; North America segment revenue seen near $113.8bn. Watch f
+ ull-year capex guidance.\n\nLink\nhttps://finance.yahoo.com/quote/AMZN\n
+ \nSource: Earnings Hub week of 27 Jul 2026. Companies move dates at shor
+ t notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/AMZN
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-COIN-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T200500Z
+DTEND:20260730T203500Z
+SUMMARY:💰 COIN - Coinbase (AMC)
+DESCRIPTION:COIN - Coinbase\nThursday 30 July 2026\n\nSession\nAFTER THE 
+ CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm E
+ T.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked 
+ up for this name. Check the link below for current estimates.\n\nLink\nh
+ ttps://finance.yahoo.com/quote/COIN\n\nSource: Earnings Hub week of 27 J
+ ul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/COIN
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-MSTR-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T200500Z
+DTEND:20260730T203500Z
+SUMMARY:💰 MSTR - Strategy (AMC)
+DESCRIPTION:MSTR - Strategy\nThursday 30 July 2026\n\nSession\nAFTER THE 
+ CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm E
+ T.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked 
+ up for this name. Check the link below for current estimates.\n\nLink\nh
+ ttps://finance.yahoo.com/quote/MSTR\n\nSource: Earnings Hub week of 27 J
+ ul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/MSTR
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-RDDT-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T200500Z
+DTEND:20260730T203500Z
+SUMMARY:💰 RDDT - Reddit (AMC)
+DESCRIPTION:RDDT - Reddit\nThursday 30 July 2026\n\nSession\nAFTER THE CL
+ OSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm ET.
+ \n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked up
+  for this name. Check the link below for current estimates.\n\nLink\nhtt
+ ps://finance.yahoo.com/quote/RDDT\n\nSource: Earnings Hub week of 27 Jul
+  2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/RDDT
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-RIVN-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T200500Z
+DTEND:20260730T203500Z
+SUMMARY:💰 RIVN - Rivian (AMC)
+DESCRIPTION:RIVN - Rivian\nThursday 30 July 2026\n\nSession\nAFTER THE CL
+ OSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm ET.
+ \n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked up
+  for this name. Check the link below for current estimates.\n\nLink\nhtt
+ ps://finance.yahoo.com/quote/RIVN\n\nSource: Earnings Hub week of 27 Jul
+  2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/RIVN
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-TEM-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T200500Z
+DTEND:20260730T203500Z
+SUMMARY:💰 TEM - Tempus AI (AMC)
+DESCRIPTION:TEM - Tempus AI\nThursday 30 July 2026\n\nSession\nAFTER THE 
+ CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm E
+ T.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked 
+ up for this name. Check the link below for current estimates.\n\nLink\nh
+ ttps://finance.yahoo.com/quote/TEM\n\nSource: Earnings Hub week of 27 Ju
+ l 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/TEM
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-BBAI-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T200500Z
+DTEND:20260730T203500Z
+SUMMARY:💰 BBAI - BigBear.ai (AMC)
+DESCRIPTION:BBAI - BigBear.ai\nThursday 30 July 2026\n\nSession\nAFTER TH
+ E CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm
+  ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looke
+ d up for this name. Check the link below for current estimates.\n\nLink\
+ nhttps://finance.yahoo.com/quote/BBAI\n\nSource: Earnings Hub week of 27
+  Jul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/BBAI
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-RBLX-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T200500Z
+DTEND:20260730T203500Z
+SUMMARY:💰 RBLX - Roblox (AMC)
+DESCRIPTION:RBLX - Roblox\nThursday 30 July 2026\n\nSession\nAFTER THE CL
+ OSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm ET.
+ \n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked up
+  for this name. Check the link below for current estimates.\n\nLink\nhtt
+ ps://finance.yahoo.com/quote/RBLX\n\nSource: Earnings Hub week of 27 Jul
+  2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/RBLX
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-FSLR-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T200500Z
+DTEND:20260730T203500Z
+SUMMARY:💰 FSLR - First Solar (AMC)
+DESCRIPTION:FSLR - First Solar\nThursday 30 July 2026\n\nSession\nAFTER T
+ HE CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00p
+ m ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot look
+ ed up for this name. Check the link below for current estimates.\n\nLink
+ \nhttps://finance.yahoo.com/quote/FSLR\n\nSource: Earnings Hub week of 2
+ 7 Jul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/FSLR
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-NXT-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T200500Z
+DTEND:20260730T203500Z
+SUMMARY:💰 NXT - Nextracker (AMC)
+DESCRIPTION:NXT - Nextracker\nThursday 30 July 2026\n\nSession\nAFTER THE
+  CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm 
+ ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked
+  up for this name. Check the link below for current estimates.\n\nLink\n
+ https://finance.yahoo.com/quote/NXT\n\nSource: Earnings Hub week of 27 J
+ ul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/NXT
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-AXTI-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T200500Z
+DTEND:20260730T203500Z
+SUMMARY:💰 AXTI - AXT Inc (AMC)
+DESCRIPTION:AXTI - AXT Inc\nThursday 30 July 2026\n\nSession\nAFTER THE C
+ LOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm ET
+ .\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked u
+ p for this name. Check the link below for current estimates.\n\nLink\nht
+ tps://finance.yahoo.com/quote/AXTI\n\nSource: Earnings Hub week of 27 Ju
+ l 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/AXTI
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-MPWR-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T200500Z
+DTEND:20260730T203500Z
+SUMMARY:💰 MPWR - Monolithic Power (AMC)
+DESCRIPTION:MPWR - Monolithic Power\nThursday 30 July 2026\n\nSession\nAF
+ TER THE CLOSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 
+ 5:00pm ET.\n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot
+  looked up for this name. Check the link below for current estimates.\n\
+ nLink\nhttps://finance.yahoo.com/quote/MPWR\n\nSource: Earnings Hub week
+  of 27 Jul 2026. Companies move dates at short notice - reconfirm on the
+  day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/MPWR
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-SYK-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T200500Z
+DTEND:20260730T203500Z
+SUMMARY:💰 SYK - Stryker (AMC)
+DESCRIPTION:SYK - Stryker\nThursday 30 July 2026\n\nSession\nAFTER THE CL
+ OSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm ET.
+ \n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked up
+  for this name. Check the link below for current estimates.\n\nLink\nhtt
+ ps://finance.yahoo.com/quote/SYK\n\nSource: Earnings Hub week of 27 Jul 
+ 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/SYK
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-DXCM-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T200500Z
+DTEND:20260730T203500Z
+SUMMARY:💰 DXCM - Dexcom (AMC)
+DESCRIPTION:DXCM - Dexcom\nThursday 30 July 2026\n\nSession\nAFTER THE CL
+ OSE\nRelease usually 4:05-4:30pm ET\; earnings call typically 5:00pm ET.
+ \n\nScheduled time\n4:05 PM ET  |  20:05 UTC\n\nConsensus\nNot looked up
+  for this name. Check the link below for current estimates.\n\nLink\nhtt
+ ps://finance.yahoo.com/quote/DXCM\n\nSource: Earnings Hub week of 27 Jul
+  2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,AMC
+URL:https://finance.yahoo.com/quote/DXCM
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-CVX-20260731@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260731T110000Z
+DTEND:20260731T113000Z
+SUMMARY:💰 CVX * - Chevron (BMO)
+DESCRIPTION:CVX - Chevron\nFriday 31 July 2026\n\nSession\nBEFORE THE OPE
+ N\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\n
+ \nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up f
+ or this name. Check the link below for current estimates.\n\nLink\nhttps
+ ://finance.yahoo.com/quote/CVX\n\nSource: Earnings Hub week of 27 Jul 20
+ 26. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/CVX
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-XOM-20260731@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260731T110000Z
+DTEND:20260731T113000Z
+SUMMARY:💰 XOM * - ExxonMobil (BMO)
+DESCRIPTION:XOM - ExxonMobil\nFriday 31 July 2026\n\nSession\nBEFORE THE 
+ OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET
+ .\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked u
+ p for this name. Check the link below for current estimates.\n\nLink\nht
+ tps://finance.yahoo.com/quote/XOM\n\nSource: Earnings Hub week of 27 Jul
+  2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/XOM
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-ABBV-20260731@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260731T110000Z
+DTEND:20260731T113000Z
+SUMMARY:💰 ABBV * - AbbVie (BMO)
+DESCRIPTION:ABBV - AbbVie\nFriday 31 July 2026\n\nSession\nBEFORE THE OPE
+ N\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\n
+ \nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up f
+ or this name. Check the link below for current estimates.\n\nLink\nhttps
+ ://finance.yahoo.com/quote/ABBV\n\nSource: Earnings Hub week of 27 Jul 2
+ 026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/ABBV
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-CCJ-20260731@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260731T110000Z
+DTEND:20260731T113000Z
+SUMMARY:💰 CCJ - Cameco (BMO)
+DESCRIPTION:CCJ - Cameco\nFriday 31 July 2026\n\nSession\nBEFORE THE OPEN
+ \nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\n\
+ nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up fo
+ r this name. Check the link below for current estimates.\n\nLink\nhttps:
+ //finance.yahoo.com/quote/CCJ\n\nSource: Earnings Hub week of 27 Jul 202
+ 6. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/CCJ
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-MRNA-20260731@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260731T110000Z
+DTEND:20260731T113000Z
+SUMMARY:💰 MRNA - Moderna (BMO)
+DESCRIPTION:MRNA - Moderna\nFriday 31 July 2026\n\nSession\nBEFORE THE OP
+ EN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\
+ n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up 
+ for this name. Check the link below for current estimates.\n\nLink\nhttp
+ s://finance.yahoo.com/quote/MRNA\n\nSource: Earnings Hub week of 27 Jul 
+ 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/MRNA
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-ETN-20260731@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260731T110000Z
+DTEND:20260731T113000Z
+SUMMARY:💰 ETN - Eaton (BMO)
+DESCRIPTION:ETN - Eaton\nFriday 31 July 2026\n\nSession\nBEFORE THE OPEN\
+ nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\n\n
+ Scheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up for
+  this name. Check the link below for current estimates.\n\nLink\nhttps:/
+ /finance.yahoo.com/quote/ETN\n\nSource: Earnings Hub week of 27 Jul 2026
+ . Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/ETN
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-MDT-20260731@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260731T110000Z
+DTEND:20260731T113000Z
+SUMMARY:💰 MDT - Medtronic (BMO)
+DESCRIPTION:MDT - Medtronic\nFriday 31 July 2026\n\nSession\nBEFORE THE O
+ PEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.
+ \n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up
+  for this name. Check the link below for current estimates.\n\nLink\nhtt
+ ps://finance.yahoo.com/quote/MDT\n\nSource: Earnings Hub week of 27 Jul 
+ 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/MDT
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-LIN-20260731@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260731T110000Z
+DTEND:20260731T113000Z
+SUMMARY:💰 LIN * - Linde (BMO)
+DESCRIPTION:LIN - Linde\nFriday 31 July 2026\n\nSession\nBEFORE THE OPEN\
+ nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\n\n
+ Scheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up for
+  this name. Check the link below for current estimates.\n\nLink\nhttps:/
+ /finance.yahoo.com/quote/LIN\n\nSource: Earnings Hub week of 27 Jul 2026
+ . Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/LIN
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-CL-20260731@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260731T110000Z
+DTEND:20260731T113000Z
+SUMMARY:💰 CL - Colgate-Palmolive (BMO)
+DESCRIPTION:CL - Colgate-Palmolive\nFriday 31 July 2026\n\nSession\nBEFOR
+ E THE OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:3
+ 0am ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot lo
+ oked up for this name. Check the link below for current estimates.\n\nLi
+ nk\nhttps://finance.yahoo.com/quote/CL\n\nSource: Earnings Hub week of 2
+ 7 Jul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/CL
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-ENB-20260731@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260731T110000Z
+DTEND:20260731T113000Z
+SUMMARY:💰 ENB - Enbridge (BMO)
+DESCRIPTION:ENB - Enbridge\nFriday 31 July 2026\n\nSession\nBEFORE THE OP
+ EN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.\
+ n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up 
+ for this name. Check the link below for current estimates.\n\nLink\nhttp
+ s://finance.yahoo.com/quote/ENB\n\nSource: Earnings Hub week of 27 Jul 2
+ 026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/ENB
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-TROW-20260731@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260731T110000Z
+DTEND:20260731T113000Z
+SUMMARY:💰 TROW - T. Rowe Price (BMO)
+DESCRIPTION:TROW - T. Rowe Price\nFriday 31 July 2026\n\nSession\nBEFORE 
+ THE OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30a
+ m ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot look
+ ed up for this name. Check the link below for current estimates.\n\nLink
+ \nhttps://finance.yahoo.com/quote/TROW\n\nSource: Earnings Hub week of 2
+ 7 Jul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/TROW
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-SATS-20260731@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260731T110000Z
+DTEND:20260731T113000Z
+SUMMARY:💰 SATS - EchoStar (BMO)
+DESCRIPTION:SATS - EchoStar\nFriday 31 July 2026\n\nSession\nBEFORE THE O
+ PEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am ET.
+ \n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looked up
+  for this name. Check the link below for current estimates.\n\nLink\nhtt
+ ps://finance.yahoo.com/quote/SATS\n\nSource: Earnings Hub week of 27 Jul
+  2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/SATS
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-D-20260731@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260731T110000Z
+DTEND:20260731T113000Z
+SUMMARY:💰 D - Dominion Energy (BMO)
+DESCRIPTION:D - Dominion Energy\nFriday 31 July 2026\n\nSession\nBEFORE T
+ HE OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30am
+  ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot looke
+ d up for this name. Check the link below for current estimates.\n\nLink\
+ nhttps://finance.yahoo.com/quote/D\n\nSource: Earnings Hub week of 27 Ju
+ l 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/D
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-NVT-20260731@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260731T110000Z
+DTEND:20260731T113000Z
+SUMMARY:💰 NVT - nVent Electric (BMO)
+DESCRIPTION:NVT - nVent Electric\nFriday 31 July 2026\n\nSession\nBEFORE 
+ THE OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30a
+ m ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot look
+ ed up for this name. Check the link below for current estimates.\n\nLink
+ \nhttps://finance.yahoo.com/quote/NVT\n\nSource: Earnings Hub week of 27
+  Jul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/NVT
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:earn-LYB-20260731@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260731T110000Z
+DTEND:20260731T113000Z
+SUMMARY:💰 LYB - LyondellBasell (BMO)
+DESCRIPTION:LYB - LyondellBasell\nFriday 31 July 2026\n\nSession\nBEFORE 
+ THE OPEN\nRelease usually 6:00-8:00am ET\; earnings call typically 8:30a
+ m ET.\n\nScheduled time\n7:00 AM ET  |  11:00 UTC\n\nConsensus\nNot look
+ ed up for this name. Check the link below for current estimates.\n\nLink
+ \nhttps://finance.yahoo.com/quote/LYB\n\nSource: Earnings Hub week of 27
+  Jul 2026. Companies move dates at short notice - reconfirm on the day.
+CATEGORIES:Earnings,BMO
+URL:https://finance.yahoo.com/quote/LYB
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ipo-jmke-20260730@claude-earnings
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T133000Z
+DTEND:20260730T140000Z
+SUMMARY:🔔 IPO: JMKE - Jersey Mike's Subs
+DESCRIPTION:Jersey Mike's Subs Inc (JMKE)\nThursday 30 July 2026\n\nIPO e
+ xpected to price and begin trading this day. Opening time is set by the 
+ exchange on the morning and is often well after 9:30am.\n\nSource: Earni
+ ngs Hub week of 27 Jul 2026.
+CATEGORIES:Earnings,IPO
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1706 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//US Economic Data 2026//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:US Economic Data 2026
+X-WR-CALDESC:US economic releases with exact Eastern times\, stored in UT
+ C so they render in your local zone.
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:econ-202607291400-38560@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T180000Z
+DTEND:20260729T183000Z
+SUMMARY:🏛 Fed Interest Rate Decision
+DESCRIPTION:🏛 Fed Interest Rate Decision\nWednesday 29 July 2026\n\nTy
+ pe\nFed\n\nRelease time\n2:00 PM ET  |  18:00 UTC\n\nFigures (as of 28 J
+ ul 2026)\nPrevious 3.75%  |  Consensus 3.75%  |  Forecast 3.75%\n\nDate 
+ status\nOfficial - Federal Reserve FOMC calendar.\n\nNotes\nPolicy state
+ ment at 2:00pm ET.
+CATEGORIES:US Economic Data,Fed
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202607291430-542435@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260729T183000Z
+DTEND:20260729T193000Z
+SUMMARY:🏛 Fed Press Conference
+DESCRIPTION:🏛 Fed Press Conference\nWednesday 29 July 2026\n\nType\nFe
+ d\n\nRelease time\n2:30 PM ET  |  18:30 UTC\n\nDate status\nOfficial - F
+ ederal Reserve FOMC calendar.\n\nNotes\nChair press conference. Frequent
+ ly moves the index more than the decision itself.
+CATEGORIES:US Economic Data,Fed
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202607300830-927355@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T123000Z
+DTEND:20260730T130000Z
+SUMMARY:📈 Core PCE Price Index MoM (June)
+DESCRIPTION:📈 Core PCE Price Index MoM (June)\nThursday 30 July 2026\n
+ \nType\nInflation\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nFigures (
+ as of 28 Jul 2026)\nPrevious 0.3%  |  Consensus 0.2%  |  Forecast 0.1%\n
+ \nDate status\nOfficial - OMB/OIRA Principal Federal Economic Indicators
+  schedule 2026.\n\nNotes\nThe Fed's target inflation gauge\, in the June
+  2026 Personal Income and Outlays report.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202607300830-21797@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T123000Z
+DTEND:20260730T130000Z
+SUMMARY:🛒 Personal Spending MoM (June)
+DESCRIPTION:🛒 Personal Spending MoM (June)\nThursday 30 July 2026\n\nT
+ ype\nConsumer\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nFigures (as o
+ f 28 Jul 2026)\nPrevious 0.7%  |  Consensus 0.3%  |  Forecast 0.2%\n\nDa
+ te status\nOfficial - OMB/OIRA Principal Federal Economic Indicators sch
+ edule 2026.\n\nNotes\nSame release as Core PCE. Feeds GDP nowcasts.
+CATEGORIES:US Economic Data,Consumer
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202607300830-318012@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T123000Z
+DTEND:20260730T130000Z
+SUMMARY:💵 Personal Income MoM (June)
+DESCRIPTION:💵 Personal Income MoM (June)\nThursday 30 July 2026\n\nTyp
+ e\nIncome\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nFigures (as of 28
+  Jul 2026)\nPrevious 0.7%  |  Consensus 0.3%  |  Forecast 0.4%\n\nDate s
+ tatus\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedul
+ e 2026.\n\nNotes\nSame release as Core PCE. Rarely trades on its own.
+CATEGORIES:US Economic Data,Income
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202607300830-19735@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260730T123000Z
+DTEND:20260730T130000Z
+SUMMARY:📊 GDP Growth Rate QoQ Adv (Q2 2026)
+DESCRIPTION:📊 GDP Growth Rate QoQ Adv (Q2 2026)\nThursday 30 July 2026
+ \n\nType\nGrowth\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nFigures (a
+ s of 28 Jul 2026)\nPrevious 2.1%  |  Consensus 2.1%  |  Forecast 2.2%\n\
+ nDate status\nOfficial - OMB/OIRA Principal Federal Economic Indicators 
+ schedule 2026.\n\nNotes\nFirst estimate of Q2 2026 GDP. The advance prin
+ t is the one that moves.
+CATEGORIES:US Economic Data,Growth
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202608031000-983924@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260803T140000Z
+DTEND:20260803T143000Z
+SUMMARY:🏭 ISM Manufacturing PMI (July)
+DESCRIPTION:🏭 ISM Manufacturing PMI (July)\nMonday 3 August 2026\n\nTy
+ pe\nPMI\n\nRelease time\n10:00 AM ET  |  14:00 UTC\n\nFigures (as of 28 
+ Jul 2026)\nPrevious 53.3  |  Forecast 52.8\n\nDate status\nOfficial - IS
+ M PMI Reports release calendar.\n\nNotes\nFirst business day of the mont
+ h\, 10:00am ET. Above 50 = expansion.
+CATEGORIES:US Economic Data,PMI
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202608041000-16766@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260804T140000Z
+DTEND:20260804T143000Z
+SUMMARY:👷 JOLTs Job Openings
+DESCRIPTION:👷 JOLTs Job Openings\nTuesday 4 August 2026\n\nType\nLabou
+ r\n\nRelease time\n10:00 AM ET  |  14:00 UTC\n\nFigures (as of 28 Jul 20
+ 26)\nPrevious 7.594M  |  Forecast 6.9M\n\nDate status\nDERIVED from the 
+ usual release pattern - not an published date.\n\nNotes\nJob Openings an
+ d Labor Turnover Survey\, BLS\, 10:00am ET. Lags the reference month by 
+ about five weeks and is not on the OMB principal-indicator schedule.
+CATEGORIES:US Economic Data,Labour
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202608051000-924697@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260805T140000Z
+DTEND:20260805T143000Z
+SUMMARY:🏭 ISM Services PMI (July)
+DESCRIPTION:🏭 ISM Services PMI (July)\nWednesday 5 August 2026\n\nType
+ \nPMI\n\nRelease time\n10:00 AM ET  |  14:00 UTC\n\nFigures (as of 28 Ju
+ l 2026)\nPrevious 54.0\n\nDate status\nOfficial - ISM PMI Reports releas
+ e calendar.\n\nNotes\nThird business day\, 10:00am ET. Services is aroun
+ d 70% of the economy\, so this usually outweighs the manufacturing print
+ .
+CATEGORIES:US Economic Data,PMI
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202608070830-353753@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260807T123000Z
+DTEND:20260807T130000Z
+SUMMARY:👷 Non Farm Payrolls (July)
+DESCRIPTION:👷 Non Farm Payrolls (July)\nFriday 7 August 2026\n\nType\n
+ Labour\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nFigures (as of 28 Ju
+ l 2026)\nPrevious 57K\n\nDate status\nOfficial - OMB/OIRA Principal Fede
+ ral Economic Indicators schedule 2026.\n\nNotes\nBLS Employment Situatio
+ n for July 2026.
+CATEGORIES:US Economic Data,Labour
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202608070830-705906@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260807T123000Z
+DTEND:20260807T130000Z
+SUMMARY:👷 Unemployment Rate (July)
+DESCRIPTION:👷 Unemployment Rate (July)\nFriday 7 August 2026\n\nType\n
+ Labour\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nFigures (as of 28 Ju
+ l 2026)\nPrevious 4.2%\n\nDate status\nOfficial - OMB/OIRA Principal Fed
+ eral Economic Indicators schedule 2026.\n\nNotes\nReleased in the same 8
+ :30am Employment Situation report as payrolls.
+CATEGORIES:US Economic Data,Labour
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202608111000-351626@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260811T140000Z
+DTEND:20260811T143000Z
+SUMMARY:🏠 Existing Home Sales (July)
+DESCRIPTION:🏠 Existing Home Sales (July)\nTuesday 11 August 2026\n\nTy
+ pe\nHousing\n\nRelease time\n10:00 AM ET  |  14:00 UTC\n\nFigures (as of
+  28 Jul 2026)\nPrevious 4.09M\n\nDate status\nOfficial - NAR Statistical
+  News Release Schedule 2026.\n\nNotes\nNational Association of Realtors\
+ , July 2026. All NAR releases are 10:00am ET.
+CATEGORIES:US Economic Data,Housing
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202608120830-36795@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260812T123000Z
+DTEND:20260812T130000Z
+SUMMARY:📈 Inflation Rate MoM (July)
+DESCRIPTION:📈 Inflation Rate MoM (July)\nWednesday 12 August 2026\n\nT
+ ype\nInflation\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nFigures (as 
+ of 28 Jul 2026)\nPrevious -0.4%\n\nDate status\nOfficial - OMB/OIRA Prin
+ cipal Federal Economic Indicators schedule 2026.\n\nNotes\nPart of the B
+ LS Consumer Price Index release for July 2026. All four CPI lines print 
+ together at 8:30am ET.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202608120830-397969@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260812T123000Z
+DTEND:20260812T130000Z
+SUMMARY:📈 Inflation Rate YoY (July)
+DESCRIPTION:📈 Inflation Rate YoY (July)\nWednesday 12 August 2026\n\nT
+ ype\nInflation\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nFigures (as 
+ of 28 Jul 2026)\nPrevious 3.5%\n\nDate status\nOfficial - OMB/OIRA Princ
+ ipal Federal Economic Indicators schedule 2026.\n\nNotes\nPart of the BL
+ S Consumer Price Index release for July 2026. All four CPI lines print t
+ ogether at 8:30am ET.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202608120830-468475@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260812T123000Z
+DTEND:20260812T130000Z
+SUMMARY:📈 Core Inflation Rate MoM (July)
+DESCRIPTION:📈 Core Inflation Rate MoM (July)\nWednesday 12 August 2026
+ \n\nType\nInflation\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nFigures
+  (as of 28 Jul 2026)\nPrevious 0%\n\nDate status\nOfficial - OMB/OIRA Pr
+ incipal Federal Economic Indicators schedule 2026.\n\nNotes\nPart of the
+  BLS Consumer Price Index release for July 2026. All four CPI lines prin
+ t together at 8:30am ET.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202608120830-638841@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260812T123000Z
+DTEND:20260812T130000Z
+SUMMARY:📈 Core Inflation Rate YoY (July)
+DESCRIPTION:📈 Core Inflation Rate YoY (July)\nWednesday 12 August 2026
+ \n\nType\nInflation\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nFigures
+  (as of 28 Jul 2026)\nPrevious 2.6%\n\nDate status\nOfficial - OMB/OIRA 
+ Principal Federal Economic Indicators schedule 2026.\n\nNotes\nPart of t
+ he BLS Consumer Price Index release for July 2026. All four CPI lines pr
+ int together at 8:30am ET.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202608130830-80438@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260813T123000Z
+DTEND:20260813T130000Z
+SUMMARY:📈 PPI MoM (July)
+DESCRIPTION:📈 PPI MoM (July)\nThursday 13 August 2026\n\nType\nInflati
+ on\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nFigures (as of 28 Jul 20
+ 26)\nPrevious -0.3%\n\nDate status\nOfficial - OMB/OIRA Principal Federa
+ l Economic Indicators schedule 2026.\n\nNotes\nProducer Price Index for 
+ July 2026 - wholesale inflation. Lands a day either side of CPI and feed
+ s the PCE estimate.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202608140830-653630@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260814T123000Z
+DTEND:20260814T130000Z
+SUMMARY:🛒 Retail Sales MoM (July)
+DESCRIPTION:🛒 Retail Sales MoM (July)\nFriday 14 August 2026\n\nType\n
+ Consumer\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nFigures (as of 28 
+ Jul 2026)\nPrevious 0.2%\n\nDate status\nOfficial - OMB/OIRA Principal F
+ ederal Economic Indicators schedule 2026.\n\nNotes\nAdvance retail and f
+ ood services sales for July 2026. The consumer read - drives discretiona
+ ry names and the broad tape.
+CATEGORIES:US Economic Data,Consumer
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202608141000-201359@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260814T140000Z
+DTEND:20260814T143000Z
+SUMMARY:🙂 Michigan Consumer Sentiment Prel
+DESCRIPTION:🙂 Michigan Consumer Sentiment Prel\nFriday 14 August 2026\
+ n\nType\nConsumer\n\nRelease time\n10:00 AM ET  |  14:00 UTC\n\nDate sta
+ tus\nDERIVED from the usual release pattern - not an published date.\n\n
+ Notes\nUniversity of Michigan preliminary reading\, normally the second 
+ Friday at 10:00am ET. Watch the inflation-expectations component - that 
+ is the part the Fed quotes.
+CATEGORIES:US Economic Data,Consumer
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202608180830-577010@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260818T123000Z
+DTEND:20260818T130000Z
+SUMMARY:🏠 Housing Starts (July)
+DESCRIPTION:🏠 Housing Starts (July)\nTuesday 18 August 2026\n\nType\nH
+ ousing\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nFigures (as of 28 Ju
+ l 2026)\nPrevious 1.427M\n\nDate status\nOfficial - OMB/OIRA Principal F
+ ederal Economic Indicators schedule 2026.\n\nNotes\nNew Residential Cons
+ truction\, July 2026.
+CATEGORIES:US Economic Data,Housing
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202608180830-13957@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260818T123000Z
+DTEND:20260818T130000Z
+SUMMARY:🏠 Building Permits Prel (July)
+DESCRIPTION:🏠 Building Permits Prel (July)\nTuesday 18 August 2026\n\n
+ Type\nHousing\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nFigures (as o
+ f 28 Jul 2026)\nPrevious 1.374M\n\nDate status\nOfficial - OMB/OIRA Prin
+ cipal Federal Economic Indicators schedule 2026.\n\nNotes\nPreliminary p
+ ermits\, same 8:30am release as housing starts. The more forward-looking
+  of the two.
+CATEGORIES:US Economic Data,Housing
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202608191400-464208@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260819T180000Z
+DTEND:20260819T183000Z
+SUMMARY:📝 FOMC Minutes
+DESCRIPTION:📝 FOMC Minutes\nWednesday 19 August 2026\n\nType\nFed\n\nR
+ elease time\n2:00 PM ET  |  18:00 UTC\n\nDate status\nDERIVED from the u
+ sual release pattern - not an published date.\n\nNotes\nMinutes of the 2
+ 9 July meeting. Published about three weeks after each decision.
+CATEGORIES:US Economic Data,Fed
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202608260830-829262@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260826T123000Z
+DTEND:20260826T130000Z
+SUMMARY:📈 Core PCE Price Index MoM (July)
+DESCRIPTION:📈 Core PCE Price Index MoM (July)\nWednesday 26 August 202
+ 6\n\nType\nInflation\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate s
+ tatus\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedul
+ e 2026.\n\nNotes\nThe Fed's target inflation gauge\, in the July 2026 Pe
+ rsonal Income and Outlays report.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202608260830-431386@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260826T123000Z
+DTEND:20260826T130000Z
+SUMMARY:🛒 Personal Spending MoM (July)
+DESCRIPTION:🛒 Personal Spending MoM (July)\nWednesday 26 August 2026\n
+ \nType\nConsumer\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate statu
+ s\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedule 20
+ 26.\n\nNotes\nSame release as Core PCE. Feeds GDP nowcasts.
+CATEGORIES:US Economic Data,Consumer
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202608260830-677620@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260826T123000Z
+DTEND:20260826T130000Z
+SUMMARY:💵 Personal Income MoM (July)
+DESCRIPTION:💵 Personal Income MoM (July)\nWednesday 26 August 2026\n\n
+ Type\nIncome\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nO
+ fficial - OMB/OIRA Principal Federal Economic Indicators schedule 2026.\
+ n\nNotes\nSame release as Core PCE. Rarely trades on its own.
+CATEGORIES:US Economic Data,Income
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202608260830-968132@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260826T123000Z
+DTEND:20260826T130000Z
+SUMMARY:📊 GDP Growth Rate QoQ 2nd Est (Q2 2026)
+DESCRIPTION:📊 GDP Growth Rate QoQ 2nd Est (Q2 2026)\nWednesday 26 Augu
+ st 2026\n\nType\nGrowth\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDat
+ e status\nOfficial - OMB/OIRA Principal Federal Economic Indicators sche
+ dule 2026.\n\nNotes\nSecond estimate of Q2 2026 GDP. Revisions are usual
+ ly small and the data is already stale.
+CATEGORIES:US Economic Data,Growth
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202608260830-809808@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260826T123000Z
+DTEND:20260826T130000Z
+SUMMARY:📦 Durable Goods Orders MoM (July)
+DESCRIPTION:📦 Durable Goods Orders MoM (July)\nWednesday 26 August 202
+ 6\n\nType\nManufacturing\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDa
+ te status\nOfficial - OMB/OIRA Principal Federal Economic Indicators sch
+ edule 2026.\n\nNotes\nAdvance report for July 2026. Watch the core capit
+ al goods ex-aircraft line rather than the volatile headline.
+CATEGORIES:US Economic Data,Manufacturing
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202609011000-929430@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260901T140000Z
+DTEND:20260901T143000Z
+SUMMARY:🏭 ISM Manufacturing PMI (August)
+DESCRIPTION:🏭 ISM Manufacturing PMI (August)\nTuesday 1 September 2026
+ \n\nType\nPMI\n\nRelease time\n10:00 AM ET  |  14:00 UTC\n\nDate status\
+ nOfficial - ISM PMI Reports release calendar.\n\nNotes\nFirst business d
+ ay of the month\, 10:00am ET. Above 50 = expansion.
+CATEGORIES:US Economic Data,PMI
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202609011000-16766@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260901T140000Z
+DTEND:20260901T143000Z
+SUMMARY:👷 JOLTs Job Openings
+DESCRIPTION:👷 JOLTs Job Openings\nTuesday 1 September 2026\n\nType\nLa
+ bour\n\nRelease time\n10:00 AM ET  |  14:00 UTC\n\nDate status\nDERIVED 
+ from the usual release pattern - not an published date.\n\nNotes\nJob Op
+ enings and Labor Turnover Survey\, BLS\, 10:00am ET. Lags the reference 
+ month by about five weeks and is not on the OMB principal-indicator sche
+ dule.
+CATEGORIES:US Economic Data,Labour
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202609031000-653591@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260903T140000Z
+DTEND:20260903T143000Z
+SUMMARY:🏭 ISM Services PMI (August)
+DESCRIPTION:🏭 ISM Services PMI (August)\nThursday 3 September 2026\n\n
+ Type\nPMI\n\nRelease time\n10:00 AM ET  |  14:00 UTC\n\nDate status\nOff
+ icial - ISM PMI Reports release calendar.\n\nNotes\nThird business day\,
+  10:00am ET. Services is around 70% of the economy\, so this usually out
+ weighs the manufacturing print.
+CATEGORIES:US Economic Data,PMI
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202609040830-350070@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260904T123000Z
+DTEND:20260904T130000Z
+SUMMARY:👷 Non Farm Payrolls (August)
+DESCRIPTION:👷 Non Farm Payrolls (August)\nFriday 4 September 2026\n\nT
+ ype\nLabour\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOf
+ ficial - OMB/OIRA Principal Federal Economic Indicators schedule 2026.\n
+ \nNotes\nBLS Employment Situation for August 2026.
+CATEGORIES:US Economic Data,Labour
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202609040830-790459@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260904T123000Z
+DTEND:20260904T130000Z
+SUMMARY:👷 Unemployment Rate (August)
+DESCRIPTION:👷 Unemployment Rate (August)\nFriday 4 September 2026\n\nT
+ ype\nLabour\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOf
+ ficial - OMB/OIRA Principal Federal Economic Indicators schedule 2026.\n
+ \nNotes\nReleased in the same 8:30am Employment Situation report as payr
+ olls.
+CATEGORIES:US Economic Data,Labour
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202609100830-108077@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260910T123000Z
+DTEND:20260910T130000Z
+SUMMARY:📈 PPI MoM (August)
+DESCRIPTION:📈 PPI MoM (August)\nThursday 10 September 2026\n\nType\nIn
+ flation\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOffici
+ al - OMB/OIRA Principal Federal Economic Indicators schedule 2026.\n\nNo
+ tes\nProducer Price Index for August 2026 - wholesale inflation. Lands a
+  day either side of CPI and feeds the PCE estimate.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202609101000-759868@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260910T140000Z
+DTEND:20260910T143000Z
+SUMMARY:🏠 Existing Home Sales (August)
+DESCRIPTION:🏠 Existing Home Sales (August)\nThursday 10 September 2026
+ \n\nType\nHousing\n\nRelease time\n10:00 AM ET  |  14:00 UTC\n\nDate sta
+ tus\nOfficial - NAR Statistical News Release Schedule 2026.\n\nNotes\nNa
+ tional Association of Realtors\, August 2026. All NAR releases are 10:00
+ am ET.
+CATEGORIES:US Economic Data,Housing
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202609110830-363593@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260911T123000Z
+DTEND:20260911T130000Z
+SUMMARY:📈 Inflation Rate MoM (August)
+DESCRIPTION:📈 Inflation Rate MoM (August)\nFriday 11 September 2026\n\
+ nType\nInflation\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate statu
+ s\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedule 20
+ 26.\n\nNotes\nPart of the BLS Consumer Price Index release for August 20
+ 26. All four CPI lines print together at 8:30am ET.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202609110830-274271@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260911T123000Z
+DTEND:20260911T130000Z
+SUMMARY:📈 Inflation Rate YoY (August)
+DESCRIPTION:📈 Inflation Rate YoY (August)\nFriday 11 September 2026\n\
+ nType\nInflation\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate statu
+ s\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedule 20
+ 26.\n\nNotes\nPart of the BLS Consumer Price Index release for August 20
+ 26. All four CPI lines print together at 8:30am ET.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202609110830-216367@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260911T123000Z
+DTEND:20260911T130000Z
+SUMMARY:📈 Core Inflation Rate MoM (August)
+DESCRIPTION:📈 Core Inflation Rate MoM (August)\nFriday 11 September 20
+ 26\n\nType\nInflation\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate 
+ status\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedu
+ le 2026.\n\nNotes\nPart of the BLS Consumer Price Index release for Augu
+ st 2026. All four CPI lines print together at 8:30am ET.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202609110830-803883@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260911T123000Z
+DTEND:20260911T130000Z
+SUMMARY:📈 Core Inflation Rate YoY (August)
+DESCRIPTION:📈 Core Inflation Rate YoY (August)\nFriday 11 September 20
+ 26\n\nType\nInflation\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate 
+ status\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedu
+ le 2026.\n\nNotes\nPart of the BLS Consumer Price Index release for Augu
+ st 2026. All four CPI lines print together at 8:30am ET.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202609111000-201359@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260911T140000Z
+DTEND:20260911T143000Z
+SUMMARY:🙂 Michigan Consumer Sentiment Prel
+DESCRIPTION:🙂 Michigan Consumer Sentiment Prel\nFriday 11 September 20
+ 26\n\nType\nConsumer\n\nRelease time\n10:00 AM ET  |  14:00 UTC\n\nDate 
+ status\nDERIVED from the usual release pattern - not an published date.\
+ n\nNotes\nUniversity of Michigan preliminary reading\, normally the seco
+ nd Friday at 10:00am ET. Watch the inflation-expectations component - th
+ at is the part the Fed quotes.
+CATEGORIES:US Economic Data,Consumer
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202609160830-707407@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260916T123000Z
+DTEND:20260916T130000Z
+SUMMARY:🛒 Retail Sales MoM (August)
+DESCRIPTION:🛒 Retail Sales MoM (August)\nWednesday 16 September 2026\n
+ \nType\nConsumer\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate statu
+ s\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedule 20
+ 26.\n\nNotes\nAdvance retail and food services sales for August 2026. Th
+ e consumer read - drives discretionary names and the broad tape.
+CATEGORIES:US Economic Data,Consumer
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202609161400-38560@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260916T180000Z
+DTEND:20260916T183000Z
+SUMMARY:🏛 Fed Interest Rate Decision
+DESCRIPTION:🏛 Fed Interest Rate Decision\nWednesday 16 September 2026\
+ n\nType\nFed\n\nRelease time\n2:00 PM ET  |  18:00 UTC\n\nDate status\nO
+ fficial - Federal Reserve FOMC calendar.\n\nNotes\nPolicy statement at 2
+ :00pm ET. Dot plot and Summary of Economic Projections land with it.
+CATEGORIES:US Economic Data,Fed
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202609161430-542435@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260916T183000Z
+DTEND:20260916T193000Z
+SUMMARY:🏛 Fed Press Conference
+DESCRIPTION:🏛 Fed Press Conference\nWednesday 16 September 2026\n\nTyp
+ e\nFed\n\nRelease time\n2:30 PM ET  |  18:30 UTC\n\nDate status\nOfficia
+ l - Federal Reserve FOMC calendar.\n\nNotes\nChair press conference. Fre
+ quently moves the index more than the decision itself.
+CATEGORIES:US Economic Data,Fed
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202609170830-389074@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260917T123000Z
+DTEND:20260917T130000Z
+SUMMARY:🏠 Housing Starts (August)
+DESCRIPTION:🏠 Housing Starts (August)\nThursday 17 September 2026\n\nT
+ ype\nHousing\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nO
+ fficial - OMB/OIRA Principal Federal Economic Indicators schedule 2026.\
+ n\nNotes\nNew Residential Construction\, August 2026.
+CATEGORIES:US Economic Data,Housing
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202609170830-561879@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260917T123000Z
+DTEND:20260917T130000Z
+SUMMARY:🏠 Building Permits Prel (August)
+DESCRIPTION:🏠 Building Permits Prel (August)\nThursday 17 September 20
+ 26\n\nType\nHousing\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate st
+ atus\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedule
+  2026.\n\nNotes\nPreliminary permits\, same 8:30am release as housing st
+ arts. The more forward-looking of the two.
+CATEGORIES:US Economic Data,Housing
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202609250830-170173@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260925T123000Z
+DTEND:20260925T130000Z
+SUMMARY:📦 Durable Goods Orders MoM (August)
+DESCRIPTION:📦 Durable Goods Orders MoM (August)\nFriday 25 September 2
+ 026\n\nType\nManufacturing\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\n
+ Date status\nOfficial - OMB/OIRA Principal Federal Economic Indicators s
+ chedule 2026.\n\nNotes\nAdvance report for August 2026. Watch the core c
+ apital goods ex-aircraft line rather than the volatile headline.
+CATEGORIES:US Economic Data,Manufacturing
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202609300830-704396@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260930T123000Z
+DTEND:20260930T130000Z
+SUMMARY:📈 Core PCE Price Index MoM (August)
+DESCRIPTION:📈 Core PCE Price Index MoM (August)\nWednesday 30 Septembe
+ r 2026\n\nType\nInflation\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nD
+ ate status\nOfficial - OMB/OIRA Principal Federal Economic Indicators sc
+ hedule 2026.\n\nNotes\nThe Fed's target inflation gauge\, in the August 
+ 2026 Personal Income and Outlays report.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202609300830-653648@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260930T123000Z
+DTEND:20260930T130000Z
+SUMMARY:🛒 Personal Spending MoM (August)
+DESCRIPTION:🛒 Personal Spending MoM (August)\nWednesday 30 September 2
+ 026\n\nType\nConsumer\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate 
+ status\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedu
+ le 2026.\n\nNotes\nSame release as Core PCE. Feeds GDP nowcasts.
+CATEGORIES:US Economic Data,Consumer
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202609300830-509910@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20260930T123000Z
+DTEND:20260930T130000Z
+SUMMARY:💵 Personal Income MoM (August)
+DESCRIPTION:💵 Personal Income MoM (August)\nWednesday 30 September 202
+ 6\n\nType\nIncome\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate stat
+ us\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedule 2
+ 026.\n\nNotes\nSame release as Core PCE. Rarely trades on its own.
+CATEGORIES:US Economic Data,Income
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610011000-34923@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261001T140000Z
+DTEND:20261001T143000Z
+SUMMARY:🏭 ISM Manufacturing PMI (September)
+DESCRIPTION:🏭 ISM Manufacturing PMI (September)\nThursday 1 October 20
+ 26\n\nType\nPMI\n\nRelease time\n10:00 AM ET  |  14:00 UTC\n\nDate statu
+ s\nOfficial - ISM PMI Reports release calendar.\n\nNotes\nFirst business
+  day of the month\, 10:00am ET. Above 50 = expansion.
+CATEGORIES:US Economic Data,PMI
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610020830-210634@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261002T123000Z
+DTEND:20261002T130000Z
+SUMMARY:👷 Non Farm Payrolls (September)
+DESCRIPTION:👷 Non Farm Payrolls (September)\nFriday 2 October 2026\n\n
+ Type\nLabour\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nO
+ fficial - OMB/OIRA Principal Federal Economic Indicators schedule 2026.\
+ n\nNotes\nBLS Employment Situation for September 2026.
+CATEGORIES:US Economic Data,Labour
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610020830-692454@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261002T123000Z
+DTEND:20261002T130000Z
+SUMMARY:👷 Unemployment Rate (September)
+DESCRIPTION:👷 Unemployment Rate (September)\nFriday 2 October 2026\n\n
+ Type\nLabour\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nO
+ fficial - OMB/OIRA Principal Federal Economic Indicators schedule 2026.\
+ n\nNotes\nReleased in the same 8:30am Employment Situation report as pay
+ rolls.
+CATEGORIES:US Economic Data,Labour
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610051000-859614@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261005T140000Z
+DTEND:20261005T143000Z
+SUMMARY:🏭 ISM Services PMI (September)
+DESCRIPTION:🏭 ISM Services PMI (September)\nMonday 5 October 2026\n\nT
+ ype\nPMI\n\nRelease time\n10:00 AM ET  |  14:00 UTC\n\nDate status\nOffi
+ cial - ISM PMI Reports release calendar.\n\nNotes\nThird business day\, 
+ 10:00am ET. Services is around 70% of the economy\, so this usually outw
+ eighs the manufacturing print.
+CATEGORIES:US Economic Data,PMI
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610061000-16766@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261006T140000Z
+DTEND:20261006T143000Z
+SUMMARY:👷 JOLTs Job Openings
+DESCRIPTION:👷 JOLTs Job Openings\nTuesday 6 October 2026\n\nType\nLabo
+ ur\n\nRelease time\n10:00 AM ET  |  14:00 UTC\n\nDate status\nDERIVED fr
+ om the usual release pattern - not an published date.\n\nNotes\nJob Open
+ ings and Labor Turnover Survey\, BLS\, 10:00am ET. Lags the reference mo
+ nth by about five weeks and is not on the OMB principal-indicator schedu
+ le.
+CATEGORIES:US Economic Data,Labour
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610071400-464208@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261007T180000Z
+DTEND:20261007T183000Z
+SUMMARY:📝 FOMC Minutes
+DESCRIPTION:📝 FOMC Minutes\nWednesday 7 October 2026\n\nType\nFed\n\nR
+ elease time\n2:00 PM ET  |  18:00 UTC\n\nDate status\nDERIVED from the u
+ sual release pattern - not an published date.\n\nNotes\nMinutes of the 1
+ 6 September meeting. Published about three weeks after each decision.
+CATEGORIES:US Economic Data,Fed
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610091000-201359@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261009T140000Z
+DTEND:20261009T143000Z
+SUMMARY:🙂 Michigan Consumer Sentiment Prel
+DESCRIPTION:🙂 Michigan Consumer Sentiment Prel\nFriday 9 October 2026\
+ n\nType\nConsumer\n\nRelease time\n10:00 AM ET  |  14:00 UTC\n\nDate sta
+ tus\nDERIVED from the usual release pattern - not an published date.\n\n
+ Notes\nUniversity of Michigan preliminary reading\, normally the second 
+ Friday at 10:00am ET. Watch the inflation-expectations component - that 
+ is the part the Fed quotes.
+CATEGORIES:US Economic Data,Consumer
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610131000-544750@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261013T140000Z
+DTEND:20261013T143000Z
+SUMMARY:🏠 Existing Home Sales (September)
+DESCRIPTION:🏠 Existing Home Sales (September)\nTuesday 13 October 2026
+ \n\nType\nHousing\n\nRelease time\n10:00 AM ET  |  14:00 UTC\n\nDate sta
+ tus\nOfficial - NAR Statistical News Release Schedule 2026.\n\nNotes\nNa
+ tional Association of Realtors\, September 2026. All NAR releases are 10
+ :00am ET.
+CATEGORIES:US Economic Data,Housing
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610140830-919016@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261014T123000Z
+DTEND:20261014T130000Z
+SUMMARY:📈 Inflation Rate MoM (September)
+DESCRIPTION:📈 Inflation Rate MoM (September)\nWednesday 14 October 202
+ 6\n\nType\nInflation\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate s
+ tatus\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedul
+ e 2026.\n\nNotes\nPart of the BLS Consumer Price Index release for Septe
+ mber 2026. All four CPI lines print together at 8:30am ET.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610140830-150462@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261014T123000Z
+DTEND:20261014T130000Z
+SUMMARY:📈 Inflation Rate YoY (September)
+DESCRIPTION:📈 Inflation Rate YoY (September)\nWednesday 14 October 202
+ 6\n\nType\nInflation\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate s
+ tatus\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedul
+ e 2026.\n\nNotes\nPart of the BLS Consumer Price Index release for Septe
+ mber 2026. All four CPI lines print together at 8:30am ET.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610140830-633072@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261014T123000Z
+DTEND:20261014T130000Z
+SUMMARY:📈 Core Inflation Rate MoM (September)
+DESCRIPTION:📈 Core Inflation Rate MoM (September)\nWednesday 14 Octobe
+ r 2026\n\nType\nInflation\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nD
+ ate status\nOfficial - OMB/OIRA Principal Federal Economic Indicators sc
+ hedule 2026.\n\nNotes\nPart of the BLS Consumer Price Index release for 
+ September 2026. All four CPI lines print together at 8:30am ET.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610140830-246584@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261014T123000Z
+DTEND:20261014T130000Z
+SUMMARY:📈 Core Inflation Rate YoY (September)
+DESCRIPTION:📈 Core Inflation Rate YoY (September)\nWednesday 14 Octobe
+ r 2026\n\nType\nInflation\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nD
+ ate status\nOfficial - OMB/OIRA Principal Federal Economic Indicators sc
+ hedule 2026.\n\nNotes\nPart of the BLS Consumer Price Index release for 
+ September 2026. All four CPI lines print together at 8:30am ET.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610150830-590378@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261015T123000Z
+DTEND:20261015T130000Z
+SUMMARY:📈 PPI MoM (September)
+DESCRIPTION:📈 PPI MoM (September)\nThursday 15 October 2026\n\nType\nI
+ nflation\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nOffic
+ ial - OMB/OIRA Principal Federal Economic Indicators schedule 2026.\n\nN
+ otes\nProducer Price Index for September 2026 - wholesale inflation. Lan
+ ds a day either side of CPI and feeds the PCE estimate.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610150830-619850@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261015T123000Z
+DTEND:20261015T130000Z
+SUMMARY:🛒 Retail Sales MoM (September)
+DESCRIPTION:🛒 Retail Sales MoM (September)\nThursday 15 October 2026\n
+ \nType\nConsumer\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate statu
+ s\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedule 20
+ 26.\n\nNotes\nAdvance retail and food services sales for September 2026.
+  The consumer read - drives discretionary names and the broad tape.
+CATEGORIES:US Economic Data,Consumer
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610200830-169938@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261020T123000Z
+DTEND:20261020T130000Z
+SUMMARY:🏠 Housing Starts (September)
+DESCRIPTION:🏠 Housing Starts (September)\nTuesday 20 October 2026\n\nT
+ ype\nHousing\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate status\nO
+ fficial - OMB/OIRA Principal Federal Economic Indicators schedule 2026.\
+ n\nNotes\nNew Residential Construction\, September 2026.
+CATEGORIES:US Economic Data,Housing
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610200830-667899@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261020T123000Z
+DTEND:20261020T130000Z
+SUMMARY:🏠 Building Permits Prel (September)
+DESCRIPTION:🏠 Building Permits Prel (September)\nTuesday 20 October 20
+ 26\n\nType\nHousing\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate st
+ atus\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedule
+  2026.\n\nNotes\nPreliminary permits\, same 8:30am release as housing st
+ arts. The more forward-looking of the two.
+CATEGORIES:US Economic Data,Housing
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610270830-430930@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261027T123000Z
+DTEND:20261027T130000Z
+SUMMARY:📦 Durable Goods Orders MoM (September)
+DESCRIPTION:📦 Durable Goods Orders MoM (September)\nTuesday 27 October
+  2026\n\nType\nManufacturing\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n
+ \nDate status\nOfficial - OMB/OIRA Principal Federal Economic Indicators
+  schedule 2026.\n\nNotes\nAdvance report for September 2026. Watch the c
+ ore capital goods ex-aircraft line rather than the volatile headline.
+CATEGORIES:US Economic Data,Manufacturing
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610281400-38560@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261028T180000Z
+DTEND:20261028T183000Z
+SUMMARY:🏛 Fed Interest Rate Decision
+DESCRIPTION:🏛 Fed Interest Rate Decision\nWednesday 28 October 2026\n\
+ nType\nFed\n\nRelease time\n2:00 PM ET  |  18:00 UTC\n\nDate status\nOff
+ icial - Federal Reserve FOMC calendar.\n\nNotes\nPolicy statement at 2:0
+ 0pm ET.
+CATEGORIES:US Economic Data,Fed
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610281430-542435@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261028T183000Z
+DTEND:20261028T193000Z
+SUMMARY:🏛 Fed Press Conference
+DESCRIPTION:🏛 Fed Press Conference\nWednesday 28 October 2026\n\nType\
+ nFed\n\nRelease time\n2:30 PM ET  |  18:30 UTC\n\nDate status\nOfficial 
+ - Federal Reserve FOMC calendar.\n\nNotes\nChair press conference. Frequ
+ ently moves the index more than the decision itself.
+CATEGORIES:US Economic Data,Fed
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610290830-101511@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261029T123000Z
+DTEND:20261029T130000Z
+SUMMARY:📈 Core PCE Price Index MoM (September)
+DESCRIPTION:📈 Core PCE Price Index MoM (September)\nThursday 29 Octobe
+ r 2026\n\nType\nInflation\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nD
+ ate status\nOfficial - OMB/OIRA Principal Federal Economic Indicators sc
+ hedule 2026.\n\nNotes\nThe Fed's target inflation gauge\, in the Septemb
+ er 2026 Personal Income and Outlays report.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610290830-452625@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261029T123000Z
+DTEND:20261029T130000Z
+SUMMARY:🛒 Personal Spending MoM (September)
+DESCRIPTION:🛒 Personal Spending MoM (September)\nThursday 29 October 2
+ 026\n\nType\nConsumer\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate 
+ status\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedu
+ le 2026.\n\nNotes\nSame release as Core PCE. Feeds GDP nowcasts.
+CATEGORIES:US Economic Data,Consumer
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610290830-180319@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261029T123000Z
+DTEND:20261029T130000Z
+SUMMARY:💵 Personal Income MoM (September)
+DESCRIPTION:💵 Personal Income MoM (September)\nThursday 29 October 202
+ 6\n\nType\nIncome\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate stat
+ us\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedule 2
+ 026.\n\nNotes\nSame release as Core PCE. Rarely trades on its own.
+CATEGORIES:US Economic Data,Income
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202610290830-919928@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261029T123000Z
+DTEND:20261029T130000Z
+SUMMARY:📊 GDP Growth Rate QoQ Adv (Q3 2026)
+DESCRIPTION:📊 GDP Growth Rate QoQ Adv (Q3 2026)\nThursday 29 October 2
+ 026\n\nType\nGrowth\n\nRelease time\n8:30 AM ET  |  12:30 UTC\n\nDate st
+ atus\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedule
+  2026.\n\nNotes\nFirst estimate of Q3 2026 GDP. The advance print is the
+  one that moves.
+CATEGORIES:US Economic Data,Growth
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202611021000-498869@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261102T150000Z
+DTEND:20261102T153000Z
+SUMMARY:🏭 ISM Manufacturing PMI (October)
+DESCRIPTION:🏭 ISM Manufacturing PMI (October)\nMonday 2 November 2026\
+ n\nType\nPMI\n\nRelease time\n10:00 AM ET  |  15:00 UTC\n\nDate status\n
+ Official - ISM PMI Reports release calendar.\n\nNotes\nFirst business da
+ y of the month\, 10:00am ET. Above 50 = expansion.
+CATEGORIES:US Economic Data,PMI
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202611031000-16766@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261103T150000Z
+DTEND:20261103T153000Z
+SUMMARY:👷 JOLTs Job Openings
+DESCRIPTION:👷 JOLTs Job Openings\nTuesday 3 November 2026\n\nType\nLab
+ our\n\nRelease time\n10:00 AM ET  |  15:00 UTC\n\nDate status\nDERIVED f
+ rom the usual release pattern - not an published date.\n\nNotes\nJob Ope
+ nings and Labor Turnover Survey\, BLS\, 10:00am ET. Lags the reference m
+ onth by about five weeks and is not on the OMB principal-indicator sched
+ ule.
+CATEGORIES:US Economic Data,Labour
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202611041000-992063@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261104T150000Z
+DTEND:20261104T153000Z
+SUMMARY:🏭 ISM Services PMI (October)
+DESCRIPTION:🏭 ISM Services PMI (October)\nWednesday 4 November 2026\n\
+ nType\nPMI\n\nRelease time\n10:00 AM ET  |  15:00 UTC\n\nDate status\nOf
+ ficial - ISM PMI Reports release calendar.\n\nNotes\nThird business day\
+ , 10:00am ET. Services is around 70% of the economy\, so this usually ou
+ tweighs the manufacturing print.
+CATEGORIES:US Economic Data,PMI
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202611060830-727445@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261106T133000Z
+DTEND:20261106T140000Z
+SUMMARY:👷 Non Farm Payrolls (October)
+DESCRIPTION:👷 Non Farm Payrolls (October)\nFriday 6 November 2026\n\nT
+ ype\nLabour\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nOf
+ ficial - OMB/OIRA Principal Federal Economic Indicators schedule 2026.\n
+ \nNotes\nBLS Employment Situation for October 2026.
+CATEGORIES:US Economic Data,Labour
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202611060830-71988@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261106T133000Z
+DTEND:20261106T140000Z
+SUMMARY:👷 Unemployment Rate (October)
+DESCRIPTION:👷 Unemployment Rate (October)\nFriday 6 November 2026\n\nT
+ ype\nLabour\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nOf
+ ficial - OMB/OIRA Principal Federal Economic Indicators schedule 2026.\n
+ \nNotes\nReleased in the same 8:30am Employment Situation report as payr
+ olls.
+CATEGORIES:US Economic Data,Labour
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202611100830-358105@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261110T133000Z
+DTEND:20261110T140000Z
+SUMMARY:📈 Inflation Rate MoM (October)
+DESCRIPTION:📈 Inflation Rate MoM (October)\nTuesday 10 November 2026\n
+ \nType\nInflation\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate stat
+ us\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedule 2
+ 026.\n\nNotes\nPart of the BLS Consumer Price Index release for October 
+ 2026. All four CPI lines print together at 8:30am ET.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202611100830-934630@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261110T133000Z
+DTEND:20261110T140000Z
+SUMMARY:📈 Inflation Rate YoY (October)
+DESCRIPTION:📈 Inflation Rate YoY (October)\nTuesday 10 November 2026\n
+ \nType\nInflation\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate stat
+ us\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedule 2
+ 026.\n\nNotes\nPart of the BLS Consumer Price Index release for October 
+ 2026. All four CPI lines print together at 8:30am ET.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202611100830-295185@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261110T133000Z
+DTEND:20261110T140000Z
+SUMMARY:📈 Core Inflation Rate MoM (October)
+DESCRIPTION:📈 Core Inflation Rate MoM (October)\nTuesday 10 November 2
+ 026\n\nType\nInflation\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate
+  status\nOfficial - OMB/OIRA Principal Federal Economic Indicators sched
+ ule 2026.\n\nNotes\nPart of the BLS Consumer Price Index release for Oct
+ ober 2026. All four CPI lines print together at 8:30am ET.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202611100830-585294@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261110T133000Z
+DTEND:20261110T140000Z
+SUMMARY:📈 Core Inflation Rate YoY (October)
+DESCRIPTION:📈 Core Inflation Rate YoY (October)\nTuesday 10 November 2
+ 026\n\nType\nInflation\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate
+  status\nOfficial - OMB/OIRA Principal Federal Economic Indicators sched
+ ule 2026.\n\nNotes\nPart of the BLS Consumer Price Index release for Oct
+ ober 2026. All four CPI lines print together at 8:30am ET.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202611121000-599189@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261112T150000Z
+DTEND:20261112T153000Z
+SUMMARY:🏠 Existing Home Sales (October)
+DESCRIPTION:🏠 Existing Home Sales (October)\nThursday 12 November 2026
+ \n\nType\nHousing\n\nRelease time\n10:00 AM ET  |  15:00 UTC\n\nDate sta
+ tus\nOfficial - NAR Statistical News Release Schedule 2026.\n\nNotes\nNa
+ tional Association of Realtors\, October 2026. All NAR releases are 10:0
+ 0am ET.
+CATEGORIES:US Economic Data,Housing
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202611130830-461635@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261113T133000Z
+DTEND:20261113T140000Z
+SUMMARY:📈 PPI MoM (October)
+DESCRIPTION:📈 PPI MoM (October)\nFriday 13 November 2026\n\nType\nInfl
+ ation\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nOfficial
+  - OMB/OIRA Principal Federal Economic Indicators schedule 2026.\n\nNote
+ s\nProducer Price Index for October 2026 - wholesale inflation. Lands a 
+ day either side of CPI and feeds the PCE estimate.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202611131000-201359@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261113T150000Z
+DTEND:20261113T153000Z
+SUMMARY:🙂 Michigan Consumer Sentiment Prel
+DESCRIPTION:🙂 Michigan Consumer Sentiment Prel\nFriday 13 November 202
+ 6\n\nType\nConsumer\n\nRelease time\n10:00 AM ET  |  15:00 UTC\n\nDate s
+ tatus\nDERIVED from the usual release pattern - not an published date.\n
+ \nNotes\nUniversity of Michigan preliminary reading\, normally the secon
+ d Friday at 10:00am ET. Watch the inflation-expectations component - tha
+ t is the part the Fed quotes.
+CATEGORIES:US Economic Data,Consumer
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202611170830-628780@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261117T133000Z
+DTEND:20261117T140000Z
+SUMMARY:🛒 Retail Sales MoM (October)
+DESCRIPTION:🛒 Retail Sales MoM (October)\nTuesday 17 November 2026\n\n
+ Type\nConsumer\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\
+ nOfficial - OMB/OIRA Principal Federal Economic Indicators schedule 2026
+ .\n\nNotes\nAdvance retail and food services sales for October 2026. The
+  consumer read - drives discretionary names and the broad tape.
+CATEGORIES:US Economic Data,Consumer
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202611180830-823695@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261118T133000Z
+DTEND:20261118T140000Z
+SUMMARY:🏠 Housing Starts (October)
+DESCRIPTION:🏠 Housing Starts (October)\nWednesday 18 November 2026\n\n
+ Type\nHousing\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\n
+ Official - OMB/OIRA Principal Federal Economic Indicators schedule 2026.
+ \n\nNotes\nNew Residential Construction\, October 2026.
+CATEGORIES:US Economic Data,Housing
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202611180830-330043@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261118T133000Z
+DTEND:20261118T140000Z
+SUMMARY:🏠 Building Permits Prel (October)
+DESCRIPTION:🏠 Building Permits Prel (October)\nWednesday 18 November 2
+ 026\n\nType\nHousing\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate s
+ tatus\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedul
+ e 2026.\n\nNotes\nPreliminary permits\, same 8:30am release as housing s
+ tarts. The more forward-looking of the two.
+CATEGORIES:US Economic Data,Housing
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202611181400-464208@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261118T190000Z
+DTEND:20261118T193000Z
+SUMMARY:📝 FOMC Minutes
+DESCRIPTION:📝 FOMC Minutes\nWednesday 18 November 2026\n\nType\nFed\n\
+ nRelease time\n2:00 PM ET  |  19:00 UTC\n\nDate status\nDERIVED from the
+  usual release pattern - not an published date.\n\nNotes\nMinutes of the
+  28 October meeting. Published about three weeks after each decision.
+CATEGORIES:US Economic Data,Fed
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202611250830-923689@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261125T133000Z
+DTEND:20261125T140000Z
+SUMMARY:📈 Core PCE Price Index MoM (October)
+DESCRIPTION:📈 Core PCE Price Index MoM (October)\nWednesday 25 Novembe
+ r 2026\n\nType\nInflation\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nD
+ ate status\nOfficial - OMB/OIRA Principal Federal Economic Indicators sc
+ hedule 2026.\n\nNotes\nThe Fed's target inflation gauge\, in the October
+  2026 Personal Income and Outlays report.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202611250830-641581@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261125T133000Z
+DTEND:20261125T140000Z
+SUMMARY:🛒 Personal Spending MoM (October)
+DESCRIPTION:🛒 Personal Spending MoM (October)\nWednesday 25 November 2
+ 026\n\nType\nConsumer\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate 
+ status\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedu
+ le 2026.\n\nNotes\nSame release as Core PCE. Feeds GDP nowcasts.
+CATEGORIES:US Economic Data,Consumer
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202611250830-317743@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261125T133000Z
+DTEND:20261125T140000Z
+SUMMARY:💵 Personal Income MoM (October)
+DESCRIPTION:💵 Personal Income MoM (October)\nWednesday 25 November 202
+ 6\n\nType\nIncome\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate stat
+ us\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedule 2
+ 026.\n\nNotes\nSame release as Core PCE. Rarely trades on its own.
+CATEGORIES:US Economic Data,Income
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202611250830-402078@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261125T133000Z
+DTEND:20261125T140000Z
+SUMMARY:📊 GDP Growth Rate QoQ 2nd Est (Q3 2026)
+DESCRIPTION:📊 GDP Growth Rate QoQ 2nd Est (Q3 2026)\nWednesday 25 Nove
+ mber 2026\n\nType\nGrowth\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nD
+ ate status\nOfficial - OMB/OIRA Principal Federal Economic Indicators sc
+ hedule 2026.\n\nNotes\nSecond estimate of Q3 2026 GDP. Revisions are usu
+ ally small and the data is already stale.
+CATEGORIES:US Economic Data,Growth
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202611250830-713939@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261125T133000Z
+DTEND:20261125T140000Z
+SUMMARY:📦 Durable Goods Orders MoM (October)
+DESCRIPTION:📦 Durable Goods Orders MoM (October)\nWednesday 25 Novembe
+ r 2026\n\nType\nManufacturing\n\nRelease time\n8:30 AM ET  |  13:30 UTC\
+ n\nDate status\nOfficial - OMB/OIRA Principal Federal Economic Indicator
+ s schedule 2026.\n\nNotes\nAdvance report for October 2026. Watch the co
+ re capital goods ex-aircraft line rather than the volatile headline.
+CATEGORIES:US Economic Data,Manufacturing
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202612011000-209145@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261201T150000Z
+DTEND:20261201T153000Z
+SUMMARY:🏭 ISM Manufacturing PMI (November)
+DESCRIPTION:🏭 ISM Manufacturing PMI (November)\nTuesday 1 December 202
+ 6\n\nType\nPMI\n\nRelease time\n10:00 AM ET  |  15:00 UTC\n\nDate status
+ \nOfficial - ISM PMI Reports release calendar.\n\nNotes\nFirst business 
+ day of the month\, 10:00am ET. Above 50 = expansion.
+CATEGORIES:US Economic Data,PMI
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202612011000-16766@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261201T150000Z
+DTEND:20261201T153000Z
+SUMMARY:👷 JOLTs Job Openings
+DESCRIPTION:👷 JOLTs Job Openings\nTuesday 1 December 2026\n\nType\nLab
+ our\n\nRelease time\n10:00 AM ET  |  15:00 UTC\n\nDate status\nDERIVED f
+ rom the usual release pattern - not an published date.\n\nNotes\nJob Ope
+ nings and Labor Turnover Survey\, BLS\, 10:00am ET. Lags the reference m
+ onth by about five weeks and is not on the OMB principal-indicator sched
+ ule.
+CATEGORIES:US Economic Data,Labour
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202612031000-777977@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261203T150000Z
+DTEND:20261203T153000Z
+SUMMARY:🏭 ISM Services PMI (November)
+DESCRIPTION:🏭 ISM Services PMI (November)\nThursday 3 December 2026\n\
+ nType\nPMI\n\nRelease time\n10:00 AM ET  |  15:00 UTC\n\nDate status\nOf
+ ficial - ISM PMI Reports release calendar.\n\nNotes\nThird business day\
+ , 10:00am ET. Services is around 70% of the economy\, so this usually ou
+ tweighs the manufacturing print.
+CATEGORIES:US Economic Data,PMI
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202612040830-299430@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261204T133000Z
+DTEND:20261204T140000Z
+SUMMARY:👷 Non Farm Payrolls (November)
+DESCRIPTION:👷 Non Farm Payrolls (November)\nFriday 4 December 2026\n\n
+ Type\nLabour\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nO
+ fficial - OMB/OIRA Principal Federal Economic Indicators schedule 2026.\
+ n\nNotes\nBLS Employment Situation for November 2026.
+CATEGORIES:US Economic Data,Labour
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202612040830-491608@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261204T133000Z
+DTEND:20261204T140000Z
+SUMMARY:👷 Unemployment Rate (November)
+DESCRIPTION:👷 Unemployment Rate (November)\nFriday 4 December 2026\n\n
+ Type\nLabour\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nO
+ fficial - OMB/OIRA Principal Federal Economic Indicators schedule 2026.\
+ n\nNotes\nReleased in the same 8:30am Employment Situation report as pay
+ rolls.
+CATEGORIES:US Economic Data,Labour
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202612091000-647978@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261209T150000Z
+DTEND:20261209T153000Z
+SUMMARY:🏠 Existing Home Sales (November)
+DESCRIPTION:🏠 Existing Home Sales (November)\nWednesday 9 December 202
+ 6\n\nType\nHousing\n\nRelease time\n10:00 AM ET  |  15:00 UTC\n\nDate st
+ atus\nOfficial - NAR Statistical News Release Schedule 2026.\n\nNotes\nN
+ ational Association of Realtors\, November 2026. All NAR releases are 10
+ :00am ET.
+CATEGORIES:US Economic Data,Housing
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202612091400-38560@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261209T190000Z
+DTEND:20261209T193000Z
+SUMMARY:🏛 Fed Interest Rate Decision
+DESCRIPTION:🏛 Fed Interest Rate Decision\nWednesday 9 December 2026\n\
+ nType\nFed\n\nRelease time\n2:00 PM ET  |  19:00 UTC\n\nDate status\nOff
+ icial - Federal Reserve FOMC calendar.\n\nNotes\nPolicy statement at 2:0
+ 0pm ET. Dot plot and Summary of Economic Projections land with it.
+CATEGORIES:US Economic Data,Fed
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202612091430-542435@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261209T193000Z
+DTEND:20261209T203000Z
+SUMMARY:🏛 Fed Press Conference
+DESCRIPTION:🏛 Fed Press Conference\nWednesday 9 December 2026\n\nType\
+ nFed\n\nRelease time\n2:30 PM ET  |  19:30 UTC\n\nDate status\nOfficial 
+ - Federal Reserve FOMC calendar.\n\nNotes\nChair press conference. Frequ
+ ently moves the index more than the decision itself.
+CATEGORIES:US Economic Data,Fed
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202612100830-270186@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261210T133000Z
+DTEND:20261210T140000Z
+SUMMARY:📈 Inflation Rate MoM (November)
+DESCRIPTION:📈 Inflation Rate MoM (November)\nThursday 10 December 2026
+ \n\nType\nInflation\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate st
+ atus\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedule
+  2026.\n\nNotes\nPart of the BLS Consumer Price Index release for Novemb
+ er 2026. All four CPI lines print together at 8:30am ET.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202612100830-673925@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261210T133000Z
+DTEND:20261210T140000Z
+SUMMARY:📈 Inflation Rate YoY (November)
+DESCRIPTION:📈 Inflation Rate YoY (November)\nThursday 10 December 2026
+ \n\nType\nInflation\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate st
+ atus\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedule
+  2026.\n\nNotes\nPart of the BLS Consumer Price Index release for Novemb
+ er 2026. All four CPI lines print together at 8:30am ET.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202612100830-318641@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261210T133000Z
+DTEND:20261210T140000Z
+SUMMARY:📈 Core Inflation Rate MoM (November)
+DESCRIPTION:📈 Core Inflation Rate MoM (November)\nThursday 10 December
+  2026\n\nType\nInflation\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDa
+ te status\nOfficial - OMB/OIRA Principal Federal Economic Indicators sch
+ edule 2026.\n\nNotes\nPart of the BLS Consumer Price Index release for N
+ ovember 2026. All four CPI lines print together at 8:30am ET.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202612100830-672429@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261210T133000Z
+DTEND:20261210T140000Z
+SUMMARY:📈 Core Inflation Rate YoY (November)
+DESCRIPTION:📈 Core Inflation Rate YoY (November)\nThursday 10 December
+  2026\n\nType\nInflation\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDa
+ te status\nOfficial - OMB/OIRA Principal Federal Economic Indicators sch
+ edule 2026.\n\nNotes\nPart of the BLS Consumer Price Index release for N
+ ovember 2026. All four CPI lines print together at 8:30am ET.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202612111000-201359@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261211T150000Z
+DTEND:20261211T153000Z
+SUMMARY:🙂 Michigan Consumer Sentiment Prel
+DESCRIPTION:🙂 Michigan Consumer Sentiment Prel\nFriday 11 December 202
+ 6\n\nType\nConsumer\n\nRelease time\n10:00 AM ET  |  15:00 UTC\n\nDate s
+ tatus\nDERIVED from the usual release pattern - not an published date.\n
+ \nNotes\nUniversity of Michigan preliminary reading\, normally the secon
+ d Friday at 10:00am ET. Watch the inflation-expectations component - tha
+ t is the part the Fed quotes.
+CATEGORIES:US Economic Data,Consumer
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202612150830-470331@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261215T133000Z
+DTEND:20261215T140000Z
+SUMMARY:📈 PPI MoM (November)
+DESCRIPTION:📈 PPI MoM (November)\nTuesday 15 December 2026\n\nType\nIn
+ flation\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\nOffici
+ al - OMB/OIRA Principal Federal Economic Indicators schedule 2026.\n\nNo
+ tes\nProducer Price Index for November 2026 - wholesale inflation. Lands
+  a day either side of CPI and feeds the PCE estimate.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202612160830-618389@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261216T133000Z
+DTEND:20261216T140000Z
+SUMMARY:🛒 Retail Sales MoM (November)
+DESCRIPTION:🛒 Retail Sales MoM (November)\nWednesday 16 December 2026\
+ n\nType\nConsumer\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate stat
+ us\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedule 2
+ 026.\n\nNotes\nAdvance retail and food services sales for November 2026.
+  The consumer read - drives discretionary names and the broad tape.
+CATEGORIES:US Economic Data,Consumer
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202612170830-64507@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261217T133000Z
+DTEND:20261217T140000Z
+SUMMARY:🏠 Housing Starts (November)
+DESCRIPTION:🏠 Housing Starts (November)\nThursday 17 December 2026\n\n
+ Type\nHousing\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate status\n
+ Official - OMB/OIRA Principal Federal Economic Indicators schedule 2026.
+ \n\nNotes\nNew Residential Construction\, November 2026.
+CATEGORIES:US Economic Data,Housing
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202612170830-512105@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261217T133000Z
+DTEND:20261217T140000Z
+SUMMARY:🏠 Building Permits Prel (November)
+DESCRIPTION:🏠 Building Permits Prel (November)\nThursday 17 December 2
+ 026\n\nType\nHousing\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate s
+ tatus\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedul
+ e 2026.\n\nNotes\nPreliminary permits\, same 8:30am release as housing s
+ tarts. The more forward-looking of the two.
+CATEGORIES:US Economic Data,Housing
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202612230830-291971@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261223T133000Z
+DTEND:20261223T140000Z
+SUMMARY:📈 Core PCE Price Index MoM (November)
+DESCRIPTION:📈 Core PCE Price Index MoM (November)\nWednesday 23 Decemb
+ er 2026\n\nType\nInflation\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\n
+ Date status\nOfficial - OMB/OIRA Principal Federal Economic Indicators s
+ chedule 2026.\n\nNotes\nThe Fed's target inflation gauge\, in the Novemb
+ er 2026 Personal Income and Outlays report.
+CATEGORIES:US Economic Data,Inflation
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202612230830-486970@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261223T133000Z
+DTEND:20261223T140000Z
+SUMMARY:🛒 Personal Spending MoM (November)
+DESCRIPTION:🛒 Personal Spending MoM (November)\nWednesday 23 December 
+ 2026\n\nType\nConsumer\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate
+  status\nOfficial - OMB/OIRA Principal Federal Economic Indicators sched
+ ule 2026.\n\nNotes\nSame release as Core PCE. Feeds GDP nowcasts.
+CATEGORIES:US Economic Data,Consumer
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202612230830-544042@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261223T133000Z
+DTEND:20261223T140000Z
+SUMMARY:💵 Personal Income MoM (November)
+DESCRIPTION:💵 Personal Income MoM (November)\nWednesday 23 December 20
+ 26\n\nType\nIncome\n\nRelease time\n8:30 AM ET  |  13:30 UTC\n\nDate sta
+ tus\nOfficial - OMB/OIRA Principal Federal Economic Indicators schedule 
+ 2026.\n\nNotes\nSame release as Core PCE. Rarely trades on its own.
+CATEGORIES:US Economic Data,Income
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202612230830-687730@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261223T133000Z
+DTEND:20261223T140000Z
+SUMMARY:📦 Durable Goods Orders MoM (November)
+DESCRIPTION:📦 Durable Goods Orders MoM (November)\nWednesday 23 Decemb
+ er 2026\n\nType\nManufacturing\n\nRelease time\n8:30 AM ET  |  13:30 UTC
+ \n\nDate status\nOfficial - OMB/OIRA Principal Federal Economic Indicato
+ rs schedule 2026.\n\nNotes\nAdvance report for November 2026. Watch the 
+ core capital goods ex-aircraft line rather than the volatile headline.
+CATEGORIES:US Economic Data,Manufacturing
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:econ-202612301400-464208@claude-econ
+DTSTAMP:20260728T090000Z
+DTSTART:20261230T190000Z
+DTEND:20261230T193000Z
+SUMMARY:📝 FOMC Minutes
+DESCRIPTION:📝 FOMC Minutes\nWednesday 30 December 2026\n\nType\nFed\n\
+ nRelease time\n2:00 PM ET  |  19:00 UTC\n\nDate status\nDERIVED from the
+  usual release pattern - not an published date.\n\nNotes\nMinutes of the
+  9 December meeting. Published about three weeks after each decision.
+CATEGORIES:US Economic Data,Fed
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

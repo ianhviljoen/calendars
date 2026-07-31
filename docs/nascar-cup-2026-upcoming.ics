@@ -1,0 +1,347 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//NASCAR Cup Series 2026//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:🏎 NASCAR Cup 2026 - Upcoming
+X-WR-CALDESC:Remaining 2026 NASCAR Cup Series races with green-flag times
+ . US broadcast listings.
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:nascar-iowa-2026@claude-nascar-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260809T193000Z
+DTEND:20260809T230000Z
+SUMMARY:🏎 NASCAR Cup - Iowa Speedway
+LOCATION:Iowa Speedway\, 3333 Rusty Wallace Dr\, Newton\, IA 50208\, USA
+GEO:41.676843;-93.011004
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="3333 Rusty Wallace Dr, N
+ ewton, IA 50208, USA";X-APPLE-RADIUS=300;X-TITLE="Iowa Speedway":geo:41.
+ 676843,-93.011004
+DESCRIPTION:Iowa Speedway\nSunday 9 August 2026\n\nGreen flag\n3:30 PM ET
+   |  19:30 UTC\n\nTV\nUSA Network (also SiriusXM NASCAR Radio)\n\nTrack:
+  Iowa Speedway\nAddress: 3333 Rusty Wallace Dr\, Newton\, IA 50208\, USA
+ \nStage: Regular season\n\nNotes\nBack from the summer off-weekend of Au
+ gust 2.\n\nEnd time is an estimate - races typically run 3 to 4 hours in
+ cluding cautions. Practice and qualifying times are released roughly two
+  weeks before each event.
+CATEGORIES:NASCAR Cup Series,Regular season
+URL:https://www.nascar.com/nascar-cup-series/2026/schedule/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-richmond-2026@claude-nascar-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260815T230000Z
+DTEND:20260816T023000Z
+SUMMARY:🏎 NASCAR Cup - Richmond Raceway
+LOCATION:Richmond Raceway\, 600 E Laburnum Ave\, Richmond\, VA 23222\, US
+ A
+GEO:37.588318;-77.421959
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="600 E Laburnum Ave, Rich
+ mond, VA 23222, USA";X-APPLE-RADIUS=300;X-TITLE="Richmond Raceway":geo:3
+ 7.588318,-77.421959
+DESCRIPTION:Richmond Raceway\nSaturday 15 August 2026\n\nGreen flag\n7:00
+  PM ET  |  23:00 UTC\n\nTV\nUSA Network (also SiriusXM NASCAR Radio)\n\n
+ Track: Richmond Raceway\nAddress: 600 E Laburnum Ave\, Richmond\, VA 232
+ 22\, USA\nStage: Regular season\n\nNotes\nSaturday night short-track rac
+ e.\n\nEnd time is an estimate - races typically run 3 to 4 hours includi
+ ng cautions. Practice and qualifying times are released roughly two week
+ s before each event.
+CATEGORIES:NASCAR Cup Series,Regular season
+URL:https://www.nascar.com/nascar-cup-series/2026/schedule/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-newhampshire-2026@claude-nascar-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260823T190000Z
+DTEND:20260823T223000Z
+SUMMARY:🏎 NASCAR Cup - New Hampshire Motor Speedway
+LOCATION:New Hampshire Motor Speedway\, 1122 NH-106\, Loudon\, NH 03307\,
+  USA
+GEO:43.36268;-71.460573
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="1122 NH-106, Loudon, NH 
+ 03307, USA";X-APPLE-RADIUS=300;X-TITLE="New Hampshire Motor Speedway":ge
+ o:43.36268,-71.460573
+DESCRIPTION:New Hampshire Motor Speedway\nSunday 23 August 2026\n\nGreen 
+ flag\n3:00 PM ET  |  19:00 UTC\n\nTV\nUSA Network (also SiriusXM NASCAR 
+ Radio)\n\nTrack: New Hampshire Motor Speedway\nAddress: 1122 NH-106\, Lo
+ udon\, NH 03307\, USA\nStage: Regular season\n\nNotes\nPenultimate race 
+ of the regular season.\n\nEnd time is an estimate - races typically run 
+ 3 to 4 hours including cautions. Practice and qualifying times are relea
+ sed roughly two weeks before each event.
+CATEGORIES:NASCAR Cup Series,Regular season
+URL:https://www.nascar.com/nascar-cup-series/2026/schedule/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-daytona-aug-2026@claude-nascar-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260829T233000Z
+DTEND:20260830T030000Z
+SUMMARY:🏎 NASCAR Cup - Daytona (Regular-Season Finale)
+LOCATION:Daytona International Speedway\, 1801 W International Speedway B
+ lvd\, Daytona Beach\, FL 32114\, USA
+GEO:29.185167;-81.070694
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="1801 W International Spe
+ edway Blvd, Daytona Beach, FL 32114, USA";X-APPLE-RADIUS=300;X-TITLE="Da
+ ytona International Speedway":geo:29.185167,-81.070694
+DESCRIPTION:Daytona (Regular-Season Finale)\nSaturday 29 August 2026\n\nG
+ reen flag\n7:30 PM ET  |  23:30 UTC\n\nTV\nNBC (also SiriusXM NASCAR Rad
+ io)\n\nTrack: Daytona International Speedway\nAddress: 1801 W Internatio
+ nal Speedway Blvd\, Daytona Beach\, FL 32114\, USA\nStage: Regular seaso
+ n\n\nNotes\nREGULAR-SEASON FINALE. Saturday night at Daytona - the last 
+ chance to make the playoff field.\n\nEnd time is an estimate - races typ
+ ically run 3 to 4 hours including cautions. Practice and qualifying time
+ s are released roughly two weeks before each event.
+CATEGORIES:NASCAR Cup Series,Regular season
+URL:https://www.nascar.com/nascar-cup-series/2026/schedule/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-darlington-2026@claude-nascar-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260906T210000Z
+DTEND:20260907T003000Z
+SUMMARY:🏎 NASCAR Cup - Southern 500 (Darlington)
+LOCATION:Darlington Raceway\, 1301 Harry Byrd Hwy\, Darlington\, SC 29532
+ \, USA
+GEO:34.297315;-79.905162
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="1301 Harry Byrd Hwy, Dar
+ lington, SC 29532, USA";X-APPLE-RADIUS=300;X-TITLE="Darlington Raceway":
+ geo:34.297315,-79.905162
+DESCRIPTION:Southern 500 (Darlington)\nSunday 6 September 2026\n\nGreen f
+ lag\n5:00 PM ET  |  21:00 UTC\n\nTV\nUSA Network (also SiriusXM NASCAR R
+ adio)\n\nTrack: Darlington Raceway\nAddress: 1301 Harry Byrd Hwy\, Darli
+ ngton\, SC 29532\, USA\nStage: Playoffs - race 1 of 10\n\nNotes\nPLAYOFF
+  OPENER on Labor Day weekend. The Southern 500 is one of the sport's cro
+ wn-jewel races.\n\nEnd time is an estimate - races typically run 3 to 4 
+ hours including cautions. Practice and qualifying times are released rou
+ ghly two weeks before each event.
+CATEGORIES:NASCAR Cup Series,Playoffs - race 1 of 10
+URL:https://www.nascar.com/nascar-cup-series/2026/schedule/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-gateway-2026@claude-nascar-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260913T190000Z
+DTEND:20260913T223000Z
+SUMMARY:🏎 NASCAR Cup - World Wide Technology Raceway
+LOCATION:World Wide Technology Raceway\, 700 Raceway Blvd\, Madison\, IL 
+ 62060\, USA
+GEO:38.650754;-90.135355
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="700 Raceway Blvd, Madiso
+ n, IL 62060, USA";X-APPLE-RADIUS=300;X-TITLE="World Wide Technology Race
+ way":geo:38.650754,-90.135355
+DESCRIPTION:World Wide Technology Raceway\nSunday 13 September 2026\n\nGr
+ een flag\n3:00 PM ET  |  19:00 UTC\n\nTV\nUSA Network (also SiriusXM NAS
+ CAR Radio)\n\nTrack: World Wide Technology Raceway\nAddress: 700 Raceway
+  Blvd\, Madison\, IL 62060\, USA\nStage: Playoffs - race 2 of 10\n\nEnd 
+ time is an estimate - races typically run 3 to 4 hours including caution
+ s. Practice and qualifying times are released roughly two weeks before e
+ ach event.
+CATEGORIES:NASCAR Cup Series,Playoffs - race 2 of 10
+URL:https://www.nascar.com/nascar-cup-series/2026/schedule/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-bristol-2026@claude-nascar-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260919T233000Z
+DTEND:20260920T030000Z
+SUMMARY:🏎 NASCAR Cup - Bristol Motor Speedway
+LOCATION:Bristol Motor Speedway\, 151 Speedway Blvd\, Bristol\, TN 37620\
+ , USA
+GEO:36.515694;-82.256967
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="151 Speedway Blvd, Brist
+ ol, TN 37620, USA";X-APPLE-RADIUS=300;X-TITLE="Bristol Motor Speedway":g
+ eo:36.515694,-82.256967
+DESCRIPTION:Bristol Motor Speedway\nSaturday 19 September 2026\n\nGreen f
+ lag\n7:30 PM ET  |  23:30 UTC\n\nTV\nUSA Network (also SiriusXM NASCAR R
+ adio)\n\nTrack: Bristol Motor Speedway\nAddress: 151 Speedway Blvd\, Bri
+ stol\, TN 37620\, USA\nStage: Playoffs - race 3 of 10\n\nNotes\nThe Bris
+ tol night race under the lights.\n\nEnd time is an estimate - races typi
+ cally run 3 to 4 hours including cautions. Practice and qualifying times
+  are released roughly two weeks before each event.
+CATEGORIES:NASCAR Cup Series,Playoffs - race 3 of 10
+URL:https://www.nascar.com/nascar-cup-series/2026/schedule/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-kansas-2026@claude-nascar-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20260927T190000Z
+DTEND:20260927T223000Z
+SUMMARY:🏎 NASCAR Cup - Kansas Speedway
+LOCATION:Kansas Speedway\, 400 Speedway Blvd\, Kansas City\, KS 66111\, U
+ SA
+GEO:39.116987;-94.83439
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="400 Speedway Blvd, Kansa
+ s City, KS 66111, USA";X-APPLE-RADIUS=300;X-TITLE="Kansas Speedway":geo:
+ 39.116987,-94.83439
+DESCRIPTION:Kansas Speedway\nSunday 27 September 2026\n\nGreen flag\n3:00
+  PM ET  |  19:00 UTC\n\nTV\nUSA Network (also SiriusXM NASCAR Radio)\n\n
+ Track: Kansas Speedway\nAddress: 400 Speedway Blvd\, Kansas City\, KS 66
+ 111\, USA\nStage: Playoffs - race 4 of 10\n\nEnd time is an estimate - r
+ aces typically run 3 to 4 hours including cautions. Practice and qualify
+ ing times are released roughly two weeks before each event.
+CATEGORIES:NASCAR Cup Series,Playoffs - race 4 of 10
+URL:https://www.nascar.com/nascar-cup-series/2026/schedule/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-vegas-2026@claude-nascar-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261004T213000Z
+DTEND:20261005T010000Z
+SUMMARY:🏎 NASCAR Cup - Las Vegas Motor Speedway
+LOCATION:Las Vegas Motor Speedway\, 7000 Las Vegas Blvd N\, Las Vegas\, N
+ V 89115\, USA
+GEO:36.273357;-115.011441
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="7000 Las Vegas Blvd N, L
+ as Vegas, NV 89115, USA";X-APPLE-RADIUS=300;X-TITLE="Las Vegas Motor Spe
+ edway":geo:36.273357,-115.011441
+DESCRIPTION:Las Vegas Motor Speedway\nSunday 4 October 2026\n\nGreen flag
+ \n5:30 PM ET  |  21:30 UTC\n\nTV\nUSA Network (also SiriusXM NASCAR Radi
+ o)\n\nTrack: Las Vegas Motor Speedway\nAddress: 7000 Las Vegas Blvd N\, 
+ Las Vegas\, NV 89115\, USA\nStage: Playoffs - race 5 of 10\n\nEnd time i
+ s an estimate - races typically run 3 to 4 hours including cautions. Pra
+ ctice and qualifying times are released roughly two weeks before each ev
+ ent.
+CATEGORIES:NASCAR Cup Series,Playoffs - race 5 of 10
+URL:https://www.nascar.com/nascar-cup-series/2026/schedule/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-roval-2026@claude-nascar-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261011T190000Z
+DTEND:20261011T223000Z
+SUMMARY:🏎 NASCAR Cup - Charlotte ROVAL
+LOCATION:Charlotte Motor Speedway (ROVAL)\, 5555 Concord Pkwy S\, Concord
+ \, NC 28027\, USA
+GEO:35.352626;-80.685659
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="5555 Concord Pkwy S, Con
+ cord, NC 28027, USA";X-APPLE-RADIUS=300;X-TITLE="Charlotte Motor Speedwa
+ y (ROVAL)":geo:35.352626,-80.685659
+DESCRIPTION:Charlotte ROVAL\nSunday 11 October 2026\n\nGreen flag\n3:00 P
+ M ET  |  19:00 UTC\n\nTV\nUSA Network (also SiriusXM NASCAR Radio)\n\nTr
+ ack: Charlotte Motor Speedway (ROVAL)\nAddress: 5555 Concord Pkwy S\, Co
+ ncord\, NC 28027\, USA\nStage: Playoffs - race 6 of 10\n\nNotes\nRun on 
+ the road-course layout inside the oval.\n\nEnd time is an estimate - rac
+ es typically run 3 to 4 hours including cautions. Practice and qualifyin
+ g times are released roughly two weeks before each event.
+CATEGORIES:NASCAR Cup Series,Playoffs - race 6 of 10
+URL:https://www.nascar.com/nascar-cup-series/2026/schedule/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-phoenix-2026@claude-nascar-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261018T190000Z
+DTEND:20261018T223000Z
+SUMMARY:🏎 NASCAR Cup - Phoenix Raceway
+LOCATION:Phoenix Raceway\, 7602 Jimmie Johnson Dr\, Avondale\, AZ 85323\,
+  USA
+GEO:33.375042;-112.311154
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="7602 Jimmie Johnson Dr, 
+ Avondale, AZ 85323, USA";X-APPLE-RADIUS=300;X-TITLE="Phoenix Raceway":ge
+ o:33.375042,-112.311154
+DESCRIPTION:Phoenix Raceway\nSunday 18 October 2026\n\nGreen flag\n3:00 P
+ M ET  |  19:00 UTC\n\nTV\nUSA Network (also SiriusXM NASCAR Radio)\n\nTr
+ ack: Phoenix Raceway\nAddress: 7602 Jimmie Johnson Dr\, Avondale\, AZ 85
+ 323\, USA\nStage: Playoffs - race 7 of 10\n\nNotes\nPhoenix hosted the t
+ itle decider for the past six seasons - not in 2026.\n\nEnd time is an e
+ stimate - races typically run 3 to 4 hours including cautions. Practice 
+ and qualifying times are released roughly two weeks before each event.
+CATEGORIES:NASCAR Cup Series,Playoffs - race 7 of 10
+URL:https://www.nascar.com/nascar-cup-series/2026/schedule/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-talladega-2026@claude-nascar-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261025T180000Z
+DTEND:20261025T213000Z
+SUMMARY:🏎 NASCAR Cup - Talladega Superspeedway
+LOCATION:Talladega Superspeedway\, 3366 Speedway Blvd\, Lincoln\, AL 3509
+ 6\, USA
+GEO:33.566227;-86.069868
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="3366 Speedway Blvd, Linc
+ oln, AL 35096, USA";X-APPLE-RADIUS=300;X-TITLE="Talladega Superspeedway"
+ :geo:33.566227,-86.069868
+DESCRIPTION:Talladega Superspeedway\nSunday 25 October 2026\n\nGreen flag
+ \n2:00 PM ET  |  18:00 UTC\n\nTV\nNBC (also SiriusXM NASCAR Radio)\n\nTr
+ ack: Talladega Superspeedway\nAddress: 3366 Speedway Blvd\, Lincoln\, AL
+  35096\, USA\nStage: Playoffs - race 8 of 10\n\nNotes\nBiggest track on 
+ the circuit and the biggest wildcard of the playoffs.\n\nEnd time is an 
+ estimate - races typically run 3 to 4 hours including cautions. Practice
+  and qualifying times are released roughly two weeks before each event.
+CATEGORIES:NASCAR Cup Series,Playoffs - race 8 of 10
+URL:https://www.nascar.com/nascar-cup-series/2026/schedule/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-martinsville-2026@claude-nascar-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261101T190000Z
+DTEND:20261101T223000Z
+SUMMARY:🏎 NASCAR Cup - Martinsville Speedway
+LOCATION:Martinsville Speedway\, 340 Speedway Rd\, Ridgeway\, VA 24148\, 
+ USA
+GEO:36.634027;-79.851677
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="340 Speedway Rd, Ridgewa
+ y, VA 24148, USA";X-APPLE-RADIUS=300;X-TITLE="Martinsville Speedway":geo
+ :36.634027,-79.851677
+DESCRIPTION:Martinsville Speedway\nSunday 1 November 2026\n\nGreen flag\n
+ 2:00 PM ET  |  19:00 UTC\n\nTV\nNBC (also SiriusXM NASCAR Radio)\n\nTrac
+ k: Martinsville Speedway\nAddress: 340 Speedway Rd\, Ridgeway\, VA 24148
+ \, USA\nStage: Playoffs - race 9 of 10\n\nNotes\nLast race before the fi
+ nale.\n\nEnd time is an estimate - races typically run 3 to 4 hours incl
+ uding cautions. Practice and qualifying times are released roughly two w
+ eeks before each event.
+CATEGORIES:NASCAR Cup Series,Playoffs - race 9 of 10
+URL:https://www.nascar.com/nascar-cup-series/2026/schedule/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-homestead-2026@claude-nascar-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20261108T200000Z
+DTEND:20261108T233000Z
+SUMMARY:🏎 NASCAR Cup - CHAMPIONSHIP RACE (Homestead-Miami)
+LOCATION:Homestead-Miami Speedway\, One Ralph Sanchez Speedway Blvd\, Hom
+ estead\, FL 33035\, USA
+GEO:25.453285;-80.409305
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="One Ralph Sanchez Speedw
+ ay Blvd, Homestead, FL 33035, USA";X-APPLE-RADIUS=300;X-TITLE="Homestead
+ -Miami Speedway":geo:25.453285,-80.409305
+DESCRIPTION:CHAMPIONSHIP RACE (Homestead-Miami)\nSunday 8 November 2026\n
+ \nGreen flag\n3:00 PM ET  |  20:00 UTC\n\nTV\nNBC (also SiriusXM NASCAR 
+ Radio)\n\nTrack: Homestead-Miami Speedway\nAddress: One Ralph Sanchez Sp
+ eedway Blvd\, Homestead\, FL 33035\, USA\nStage: Playoffs - CHAMPIONSHIP
+ \n\nNotes\nSEASON FINALE. The title race returns to Homestead-Miami for 
+ the first time since 2019\, after six years at Phoenix.\n\nEnd time is a
+ n estimate - races typically run 3 to 4 hours including cautions. Practi
+ ce and qualifying times are released roughly two weeks before each event
+ .
+CATEGORIES:NASCAR Cup Series,Playoffs - CHAMPIONSHIP
+URL:https://www.nascar.com/nascar-cup-series/2026/schedule/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

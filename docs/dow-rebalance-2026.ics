@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//Dow Jones Rebalance//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Dow Jones Rebalance 2026
+X-APPLE-CALENDAR-COLOR:#0F2B5B
+X-WR-CALDESC:Dow Jones Industrial Average quarterly share and divisor upd
+ ates.
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:dow-rebalance-202609210930-62629@claude-mkt
+DTSTAMP:20260728T090000Z
+DTSTART:20260921T133000Z
+DTEND:20260921T140000Z
+SUMMARY:♻ DJIA September Rebalance - effective
+DESCRIPTION:DJIA September Rebalance - effective\nMonday 21 September 202
+ 6\n\nTime\n9:30 AM ET  |  13:30 UTC\n\nNotes\nQuarterly share-count and 
+ divisor updates for the Dow\, run by S&P DJI on the same third-Friday cy
+ cle as the S&P 500.\n\nNote the Dow is price-weighted with only 30 membe
+ rs\, and COMPONENT changes are made ad hoc by committee rather than on t
+ his schedule - they can be announced at any time\, usually triggered by 
+ a merger or a split.
+CATEGORIES:Dow Jones Rebalance
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dow-rebalance-202612210930-89980@claude-mkt
+DTSTAMP:20260728T090000Z
+DTSTART:20261221T143000Z
+DTEND:20261221T150000Z
+SUMMARY:♻ DJIA December Rebalance - effective
+DESCRIPTION:DJIA December Rebalance - effective\nMonday 21 December 2026\
+ n\nTime\n9:30 AM ET  |  14:30 UTC\n\nNotes\nQuarterly share-count and di
+ visor updates for the Dow\, run by S&P DJI on the same third-Friday cycl
+ e as the S&P 500.\n\nNote the Dow is price-weighted with only 30 members
+ \, and COMPONENT changes are made ad hoc by committee rather than on thi
+ s schedule - they can be announced at any time\, usually triggered by a 
+ merger or a split.
+CATEGORIES:Dow Jones Rebalance
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
