@@ -2,9 +2,9 @@ name: Refresh calendars
 
 on:
   schedule:
-    # 06:00 UTC every Tuesday - after Monday Night Football, so flex
-    # scheduling changes from the weekend are already in the data
-    - cron: "0 6 * * 2"
+    # 06:00 UTC daily. NFL flex changes are announced ~12 days ahead, so
+    # daily catches everything with margin. ~30 runs a month.
+    - cron: "0 6 * * *"
   workflow_dispatch:        # lets you trigger it by hand from the Actions tab
 
 permissions:

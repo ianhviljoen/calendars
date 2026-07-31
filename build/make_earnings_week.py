@@ -115,7 +115,7 @@ def z(dt):
 lines = [
     "BEGIN:VCALENDAR", "VERSION:2.0",
     "PRODID:-//Claude//Earnings Week 27 Jul 2026//EN", "CALSCALE:GREGORIAN",
-    "X-WR-CALNAME:Earnings",
+    "X-WR-CALNAME:\U0001F4B0 Earnings",
     "X-APPLE-CALENDAR-COLOR:#00897B",
     fold("X-WR-CALDESC:" + esc(
         "US earnings for the week of 27 July 2026. BMO = before open, "

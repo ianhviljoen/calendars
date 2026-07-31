@@ -91,7 +91,7 @@ def z(dt):
 lines = [
     "BEGIN:VCALENDAR", "VERSION:2.0",
     "PRODID:-//Claude//NASCAR Cup Series 2026//EN", "CALSCALE:GREGORIAN",
-    f"X-WR-CALNAME:{CAR} NASCAR Cup 2026 - Upcoming",
+    f"X-WR-CALNAME:{CAR} NASCAR Cup",
     fold("X-WR-CALDESC:" + esc(
         "Remaining 2026 NASCAR Cup Series races with green-flag times. "
         "US broadcast listings.")),

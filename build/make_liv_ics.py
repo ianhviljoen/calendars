@@ -78,7 +78,7 @@ lines = [
     "BEGIN:VCALENDAR", "VERSION:2.0",
     "PRODID:-//Claude//LIV Golf 2026 Upcoming Schedule//EN",
     "CALSCALE:GREGORIAN",
-    "X-WR-CALNAME:\u26f3 LIV Golf 2026 - Upcoming",
+    "X-WR-CALNAME:\u26f3 LIV Golf",
     fold("X-WR-CALDESC:" + esc(
         "Remaining 2026 LIV Golf season: New York, Indianapolis and the Team "
         "Championship in Michigan.")),

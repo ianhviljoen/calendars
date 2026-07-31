@@ -142,7 +142,7 @@ lines = [
     "BEGIN:VCALENDAR", "VERSION:2.0",
     "PRODID:-//Claude//PGA TOUR 2026 Upcoming Schedule//EN",
     "CALSCALE:GREGORIAN",
-    "X-WR-CALNAME:\u26f3 PGA TOUR 2026 - Upcoming",
+    "X-WR-CALNAME:\u26f3 PGA Tour",
     fold("X-WR-CALDESC:" + esc(
         "All 56 remaining round-days of the 2026 PGA TOUR season: FedExCup "
         "regular season, Playoffs, Presidents Cup and FedExCup Fall.")),

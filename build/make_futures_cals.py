@@ -25,6 +25,12 @@ def nth_friday(y, m, n):
         d += timedelta(days=1)
 
 
+CAL_EMOJI = {
+    "futures-roll": "\U0001F504", "options-expiry": "\u26A1",
+    "rebalance-sp500": "\u267B\uFE0F", "rebalance-dow": "\u267B\uFE0F",
+    "rebalance-nasdaq": "\u267B\uFE0F", "rebalance-russell": "\u267B\uFE0F",
+}
+
 CALS = {}
 
 
@@ -205,7 +211,7 @@ for key, c in CALS.items():
     lines = [
         "BEGIN:VCALENDAR", "VERSION:2.0",
         f"PRODID:-//Claude//{c['name']}//EN", "CALSCALE:GREGORIAN",
-        f"X-WR-CALNAME:{c['name']}",
+        f"X-WR-CALNAME:{CAL_EMOJI[key]} {c['name']}",
         f"X-APPLE-CALENDAR-COLOR:{c['colour']}",
         fold("X-WR-CALDESC:" + esc(c["desc"])),
         "X-WR-TIMEZONE:America/New_York",

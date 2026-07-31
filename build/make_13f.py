@@ -66,7 +66,7 @@ def z(dt):
 lines = [
     "BEGIN:VCALENDAR", "VERSION:2.0",
     "PRODID:-//Claude//SEC 13F Deadlines//EN", "CALSCALE:GREGORIAN",
-    "X-WR-CALNAME:SEC 13F Deadlines",
+    "X-WR-CALNAME:\U0001F4CB SEC 13F Deadlines",
     "X-APPLE-CALENDAR-COLOR:#546E7A",
     fold("X-WR-CALDESC:" + esc(
         "SEC Form 13F deadlines and the quarter-end snapshot dates the "

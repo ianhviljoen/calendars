@@ -145,7 +145,7 @@ HOME = {t: c.most_common(1)[0][0] for t, c in home_ct.items()}
 lines = [
     "BEGIN:VCALENDAR", "VERSION:2.0",
     "PRODID:-//Claude//NFL 2026 Full Season//EN", "CALSCALE:GREGORIAN",
-    f"X-WR-CALNAME:{BALL} NFL 2026 Season",
+    f"X-WR-CALNAME:{BALL} NFL",
     "X-APPLE-CALENDAR-COLOR:#013369",
     fold("X-WR-CALDESC:" + esc(
         "The complete 2026 NFL season - Hall of Fame Game, all 48 preseason "
