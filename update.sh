@@ -33,11 +33,17 @@ curl -sSfL --retry 3 \
 curl -sSfL --retry 3 \
   https://raw.githubusercontent.com/sportstimes/f1/main/_db/f1/2026.json \
   -o build/f1.json
+curl -sSfL --retry 3 \
+  https://raw.githubusercontent.com/openfootball/england/master/2026-27/1-premierleague.txt \
+  -o build/epl.txt
+curl -sSfL --retry 3 \
+  "https://lldev.thespacedevs.com/2.2.0/launch/upcoming/?limit=100&ordering=net" \
+  -o build/launches.json
 
 echo "==> Rebuilding"
 cd build
 if [[ $LIVE_ONLY -eq 1 ]]; then
-  SCRIPTS="make_nfl_full.py make_f1_sessions.py"
+  SCRIPTS="make_nfl_full.py make_f1_sessions.py make_epl_ics.py make_launches_ics.py"
 else
   SCRIPTS=$(ls make_*.py)
 fi
@@ -45,7 +51,7 @@ for s in $SCRIPTS; do
   printf '    %-26s ' "$s"
   python3 "$s" >/dev/null 2>&1 && echo "ok" || { echo "FAILED"; exit 1; }
 done
-rm -f nfl.csv f1.json
+rm -f nfl.csv f1.json epl.txt launches.json
 cd ..
 
 echo "==> Validating"

@@ -165,7 +165,7 @@ def emit(uid, summary, when, vkey, comp, note, extra=""):
               f"DTEND;VALUE=DATE:{(when + timedelta(days=1)).strftime('%Y%m%d')}"]
         n_allday += 1
     desc = (f"{summary[2:]}\n\nCompetition: {comp}\n{ko}\n\nVenue: {vname}\n"
-            f"Address: {street}\n\nTV\n{TV}\n\nNotes\n{note}{extra}")
+            f"Address: {street}\n\nNotes\n{note}{extra}")
     lines.extend([
         "BEGIN:VEVENT", f"UID:{uid}-2026@claude-rugby-cal",
         f"DTSTAMP:{stamp}", *dt,

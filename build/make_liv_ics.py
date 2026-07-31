@@ -35,22 +35,25 @@ EVENTS = [
          street="44045 Five Mile Rd, Plymouth, MI 48170, USA",
          lat=42.393536, lon=-83.478617,
          cat="LIV Golf - Team Championship",
-         notes="*** EXPECTED TO BE CANCELLED - NOT YET OFFICIAL ***\n\n"
-               "Status as of Wed 29 July 2026: LIV has NOT announced anything. "
-               "But this is no longer one person's speculation - it was first "
-               "reported by Tom Hobbs (Flushing It) and then confirmed by "
-               "sources to Front Office Sports, with Golf Channel, Yahoo and "
-               "others carrying it. An official announcement was expected "
-               "Wednesday.\n\n"
-               "Supporting signs: contractors report travel and accommodation "
-               "cancelled with money still owed; the Detroit News reported no "
-               "infrastructure had been built at the course; the championship "
-               "rings reportedly remain unpaid for.\n\n"
-               "Background: PIF announced in April it would stop funding LIV "
-               "after this season, and the money has dried up sooner than "
-               "expected. LIV is seeking up to $350m from new investors and "
-               "is working to a 1 September deadline to fund 2027. This would "
-               "be the second cancelled event of 2026 after Louisiana.\n\n"
+         notes="*** EXPECTED TO BE CANCELLED - STILL OFFICIALLY ON ***\n\n"
+               "Status at 31 July 2026: LIV has DELAYED any announcement and "
+               "said nothing this week, so the event technically remains on "
+               "the schedule. But Front Office Sports and multiple outlets "
+               "report, from sources, that it will be cancelled. No "
+               "tournament infrastructure or fan hospitality has been built "
+               "at the venue, contractors say travel was cancelled with money "
+               "still owed, and the championship rings reportedly remain "
+               "unpaid for.\n\n"
+               "Why the delay: LIV is mid-negotiation with potential backers "
+               "after the Saudi PIF said in April it would stop funding the "
+               "league. It reportedly holds multiple written commitments from "
+               "blue-chip firms willing to act as anchor investors, and is "
+               "weighing options for what it internally calls LIV 2.0. The "
+               "working deadline for new funding is around 1 September.\n\n"
+               "If it goes, elements of the team championship may be folded "
+               "into Indianapolis instead. That would leave LIV with 12 "
+               "events this season rather than 14 - Louisiana was already "
+               "cancelled in April.\n\n"
                "As scheduled: $40m purse (down from $50m), $11.2m to the "
                "winning team, at The Cardinal at Saint John's."),
 ]
@@ -97,9 +100,6 @@ for ev in EVENTS:
         desc = (
             f"{label} - {day.strftime('%A %-d %B %Y')}\n"
             f"\n"
-            f"TV\n"
-            f"{TV}\n"
-            f"\n"
             f"Venue: {ev['venue']}\n"
             f"Address: {ev['street']}\n"
             f"Tournament dates: {window}\n"
@@ -110,7 +110,6 @@ for ev in EVENTS:
             f"{ev['notes']}\n"
             f"\n"
             f"Tee times confirmed the week of the event - livgolf.com/schedule\n"
-            f"Broadcast listings can change."
         )
         lines += [
             "BEGIN:VEVENT",

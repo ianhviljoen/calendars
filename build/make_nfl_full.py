@@ -176,7 +176,6 @@ emit("nfl-2026-hof", f"{BALL} {LOGO['ARI']} Cardinals vs {LOGO['CAR']} "
      f"{LOGO['ARI']} Cardinals vs {LOGO['CAR']} Panthers\n"
      f"Pro Football Hall of Fame Game - {hof.strftime('%A %-d %B %Y')}\n\n"
      f"Kick-off\n8:00 PM ET  |  {hof.astimezone(UTC).strftime('%H:%M')} UTC\n\n"
-     f"TV\nNBC / Peacock / NFL+\n\n"
      f"Venue\nTom Benson Hall of Fame Stadium, Canton, Ohio\n\n"
      f"Notes\nThe first game of the 2026 season, a week before preseason "
      f"proper. Arizona and Carolina therefore play four preseason games "
@@ -198,14 +197,9 @@ for date_s, time_s, away, home, tv, wk in PRE:
          f"Preseason Week {wk} - {start.strftime('%A %-d %B %Y')}\n\n"
          f"Kick-off\n{start.strftime('%-I:%M %p')} ET  |  "
          f"{start.astimezone(UTC).strftime('%H:%M')} UTC\n\n"
-         f"TV\n{tv}\n\n"
          f"Venue\n{HOME[ht]}\n\n"
          f"Notes\nExhibition - results do not count. Starters play sparingly, "
-         f"and there is no overtime, so level scores end as ties.\n\n"
-         f"Only five preseason games are national: NBC on 6 Aug, ESPN on "
-         f"20 Aug, FOX on 23 Aug, Prime Video on 27 Aug and CBS on 28 Aug. "
-         f"NFL Network and the ESPN App carry out-of-market games, blacked "
-         f"out in the participating teams' markets.",
+         f"and there is no overtime, so level scores end as ties.",
          HOME[ht], f"Preseason Week {wk}")
     n_pre += 1
 

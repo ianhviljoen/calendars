@@ -163,9 +163,6 @@ for ev in EVENTS:
         desc = (
             f"{label} - {day.strftime('%A %-d %B %Y')}\n"
             f"\n"
-            f"TV\n"
-            f"{ev['tv']}\n"
-            f"\n"
             f"Venue: {ev['venue']}\n"
             f"Address: {street}\n"
             f"Tournament dates: {window}\n"
@@ -176,7 +173,6 @@ for ev in EVENTS:
             f"{ev['notes']}\n"
             f"\n"
             f"Tee times are confirmed the week of the event - pgatour.com/schedule\n"
-            f"TV listings are US broadcasters and can change."
         )
         lines += [
             "BEGIN:VEVENT",

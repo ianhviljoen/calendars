@@ -18,7 +18,8 @@ V = {
     "paris": ("Accor Arena", "8 Bd de Bercy, 75012 Paris, France", 48.838604, 2.378470),
     "glendale": ("Desert Diamond Arena", "9400 W Maryland Ave, Glendale, AZ 85305, USA", 33.532074, -112.261216),
     "la": ("Crypto.com Arena", "1111 S Figueroa St, Los Angeles, CA 90015, USA", 34.043018, -118.267254),
-    "edmonton": ("Rogers Place", "10220 104 Ave NW, Edmonton, AB T5J 0H6, Canada", 53.546975, -113.497800),
+    "abudhabi": ("Etihad Arena", "Yas Island, Abu Dhabi, United Arab Emirates", 24.460342, 54.604357),
+ "edmonton": ("Rogers Place", "10220 104 Ave NW, Edmonton, AB T5J 0H6, Canada", 53.546975, -113.497800),
 }
 
 # (uid, name, numbered?, main-card ET datetime OR date if TBC, prelims ET or None,
@@ -27,12 +28,11 @@ EVENTS = [
     ("fn-medic-rodriguez", "UFC Fight Night: Medic vs. Rodriguez", False,
      (2026, 8, 1, 13, 0), (2026, 8, 1, 10, 0), "belgrade",
      "Welterweight main event: #14 Uros Medic v #15 Daniel Rodriguez. Early "
-     "start for US viewers because it is a European card. NOT simulcast on "
-     "CBS - Paramount+ only."),
+     "start for US viewers because it is a European card."),
     ("fn-gamrot-salkilld", "UFC Fight Night: Gamrot vs. Salkilld", False,
      (2026, 8, 8, 17, 0), None, "belgrade",
-     "First UFC main event for Australian prospect Quillan Salkilld. Note: "
-     "Paramount+ lists Belgrade Arena for a second straight week, which is "
+     "First UFC main event for Australian prospect Quillan Salkilld. Note: the "
+     "schedule lists Belgrade Arena for a second straight week, which is "
      "unusual - worth reconfirming the venue closer to the date."),
     ("ufc-330", "UFC 330: Makhachev vs. Machado Garry", True,
      (2026, 8, 15, 21, 0), None, "philly",
@@ -45,18 +45,34 @@ EVENTS = [
      (2026, 8, 29, 6, 0), None, "shanghai",
      "Bantamweight main event: Umar Nurmagomedov v Song Yadong. A 6 AM ET "
      "start - this is a morning card in the US and an evening one in China."),
-    ("fn-paris", "UFC Fight Night: Paris", False,
-     date(2026, 9, 5), None, "paris",
-     "UFC returns to Paris. Main event not yet announced, and no start time "
-     "published - the UFC confirms cards and times roughly 8-12 weeks out."),
+    ("fn-paris", "UFC Fight Night: Hooker vs. Parnasse", False,
+     (2026, 9, 5, 15, 0), (2026, 9, 5, 12, 0), "paris",
+     "Lightweight main event: Dan Hooker v Salahdine Parnasse, a recent UFC "
+     "signee making his promotional debut in front of a home crowd.\n\n"
+     "Main card also features Michael Page v Nursulton Ruziboev, Losene "
+     "Keita v Muhammad Naimov, Mario Pinto v Ryan Spann and Oumar Sy v "
+     "Modestas Bukauskas.\n\nFifth straight year at Bercy. Early start for "
+     "US viewers - it is an evening card in Paris."),
     ("noche-ufc", "Noche UFC", False,
      date(2026, 9, 12), None, "glendale",
      "The annual Mexican Independence Day card. Main event and start time not "
      "yet announced."),
-    ("ufc-331", "UFC 331", True,
+    ("ufc-331", "UFC 331: Oliveira vs. Tsarukyan 2", True,
      date(2026, 9, 19), None, "la",
-     "Numbered event at Crypto.com Arena. Main event and start time not yet "
-     "announced."),
+     "Charles Oliveira defends the BMF title against Arman Tsarukyan in a "
+     "rematch of their UFC 300 meeting, which Tsarukyan won by split "
+     "decision. A flyweight title rematch between champion Joshua Van and "
+     "Alexandre Pantoja is also expected.\n\nREPORTED, NOT YET OFFICIAL - "
+     "widely reported but the UFC has not confirmed the card. Start time not "
+     "announced.\n\nUFC's sixth visit to Los Angeles and first since "
+     "UFC 227 in August 2018."),
+    ("ufc-333", "UFC 333", True,
+     date(2026, 10, 24), None, "abudhabi",
+     "Officially announced by the UFC on 25 July. A featherweight title fight between two-time champion "
+     "Alexander Volkanovski and undefeated Movsar Evloev is reported but not "
+     "confirmed, and no bouts were announced with the date.\n\nThe UFC's "
+     "24th visit to Abu Dhabi and its eleventh numbered event there. Returns "
+     "as part of Abu Dhabi Showdown Week. Start time not yet announced."),
     ("fn-edmonton", "UFC Fight Night: Edmonton", False,
      date(2026, 10, 17), None, "edmonton",
      "UFC returns to Edmonton. Main event and start time not yet announced."),
@@ -124,7 +140,7 @@ for uid, name, numbered, main, prelim, vkey, note in EVENTS:
         allday += 1
 
     desc = (f"{name}\n{kind}\n{day_str}\n\nStart times\n{times}\n"
-            f"Venue: {venue}\nAddress: {street}\n\nTV\n{TV}\n\nNotes\n{note}\n"
+            f"Venue: {venue}\nAddress: {street}\n\nNotes\n{note}\n"
             f"\nCards change often - check ufc.com closer to the date.")
     lines += [
         "BEGIN:VEVENT", f"UID:{uid}-2026@claude-ufc-cal", f"DTSTAMP:{stamp}",

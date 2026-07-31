@@ -129,9 +129,6 @@ def emit(uid, summary, start, end_excl, ev, headline):
     desc = (
         f"{headline}\n"
         f"\n"
-        f"TV\n"
-        f"{ev['tv']}\n"
-        f"\n"
         f"Venue: {ev['venue']}\n"
         f"Address: {ev['street']}\n"
         f"Tournament dates: {ev['start'].strftime('%a %-d %b')} - "
@@ -145,7 +142,6 @@ def emit(uid, summary, start, end_excl, ev, headline):
         f"{ev['notes']}\n"
         f"\n"
         f"Order of play is published the evening before each day.\n"
-        f"US broadcast listings can change."
     )
     lines.extend([
         "BEGIN:VEVENT",
