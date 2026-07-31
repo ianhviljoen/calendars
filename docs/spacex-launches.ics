@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//Rocket Launches//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:🚀 SpaceX Launches
+X-APPLE-CALENDAR-COLOR:#0B3D91
+X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
+ hip - from the Launch Library 2 API. Only launches with a real date are 
+ included\; vaguely scheduled missions are left out. Times UTC.
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:launch-24675e3d-2458-48a3-8c70-5196e44d4dc3@claude-launches
+DTSTAMP:20260731T033754Z
+DTSTART:20260730T070900Z
+DTEND:20260730T080900Z
+SUMMARY:🚀 Falcon 9 Block 5 | NROL-95
+LOCATION:Space Launch Complex 40\, Cape Canaveral SFS\, FL\, USA
+DESCRIPTION:Falcon 9 Block 5 | NROL-95\n\nStatus\nGo for launch - date an
+ d time confirmed\n\nLift-off\n07:09 UTC\, Thursday 30 July 2026\n\nProvi
+ der\nSpaceX\n\nSite\nSpace Launch Complex 40\, Cape Canaveral SFS\, FL\,
+  USA\n\nOrbit\nUnknown\n\nMission\nClassified payload for the US Nationa
+ l Reconnaissance Office.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, tec
+ hnical holds and range availability move them\, often by days and someti
+ mes by hours on the day itself. This calendar rebuilds daily\, but alway
+ s check before setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:launch-0448d030-5175-4c1f-bd0b-4f3f87072921@claude-launches
+DTSTAMP:20260731T033754Z
+DTSTART:20260801T140000Z
+DTEND:20260801T150000Z
+SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 17-53
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:Falcon 9 Block 5 | Starlink Group 17-53\n\nStatus\nGo for lau
+ nch - date and time confirmed\n\nLift-off\n14:00 UTC\, Saturday 1 August
+  2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg 
+ SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 24 satel
+ lites for the Starlink mega-constellation - SpaceX's project for space-b
+ ased Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY - we
+ ather\, technical holds and range availability move them\, often by days
+  and sometimes by hours on the day itself. This calendar rebuilds daily\
+ , but always check before setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:launch-521f3a1c-f977-4306-9b7f-495858719adf@claude-launches
+DTSTAMP:20260731T033754Z
+DTSTART:20260830T112000Z
+DTEND:20260830T122000Z
+SUMMARY:🚀 Falcon Heavy | Nancy Grace Roman Space Telescope
+LOCATION:Launch Complex 39A\, Kennedy Space Center\, FL\, USA
+DESCRIPTION:Falcon Heavy | Nancy Grace Roman Space Telescope\n\nStatus\nG
+ o for launch - date and time confirmed\n\nLift-off\n11:20 UTC\, Sunday 3
+ 0 August 2026\n\nProvider\nSpaceX\n\nSite\nLaunch Complex 39A\, Kennedy 
+ Space Center\, FL\, USA\n\nOrbit\nSun-Earth L2\n\nMission\nThe Nancy Gra
+ ce Roman Space Telescope is a NASA infrared space telescope with a 2.4 m
+  (7.9 ft) wide field of view primary mirror and two scientific instrumen
+ ts. The Wide-Field Instrument (WFI) is a 300.8-megapixel multi-band visi
+ ble and near-infrared camera\, providing a sharpness of images comparabl
+ e to that achieved by the Hubble Space Telescope over a 0.28 square degr
+ ee field of view\, 100 times larger than imaging cameras on the Hubble. 
+ The Coronagraphic Instrument (CGI) is a high-contrast\, small field of v
+ iew camera and spectrometer covering visible and near-infrared wavelengt
+ hs using...\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical holds 
+ and range availability move them\, often by days and sometimes by hours 
+ on the day itself. This calendar rebuilds daily\, but always check befor
+ e setting an alarm.
+CATEGORIES:SpaceX,Falcon Heavy
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
