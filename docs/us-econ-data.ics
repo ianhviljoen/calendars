@@ -2,8 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Claude//US Economic Data 2026//EN
 CALSCALE:GREGORIAN
-X-WR-CALNAME:US Economic Data
- C so they render in your local zone.
+X-WR-CALNAME:📊 US Economic Data
 X-WR-TIMEZONE:America/New_York
 X-WR-CALDESC:US economic releases with exact Eastern times\, stored in UT
  C. Fed\, CPI\, PPI\, PCE\, GDP\, payrolls\, jobless claims\, ISM\, retai
