@@ -36,20 +36,18 @@ DTSTAMP:20260728T090000Z
 DTSTART:20260808T210000Z
 DTEND:20260809T010000Z
 SUMMARY:🥊 UFC Fight Night: Gamrot vs. Salkilld
-LOCATION:Belgrade Arena\, Bulevar Arsenija Carnojevica 58\, 11070 Beograd
- \, Serbia
-GEO:44.814434;20.421276
-X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Bulevar Arsenija Carnoje
- vica 58, 11070 Beograd, Serbia";X-APPLE-RADIUS=200;X-TITLE="Belgrade Are
- na":geo:44.814434,20.421276
+LOCATION:Meta APEX\, 6650 El Camino Rd\, Las Vegas\, NV 89118\, USA
+GEO:36.068484;-115.228275
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="6650 El Camino Rd, Las V
+ egas, NV 89118, USA";X-APPLE-RADIUS=200;X-TITLE="Meta APEX":geo:36.06848
+ 4,-115.228275
 DESCRIPTION:UFC Fight Night: Gamrot vs. Salkilld\nFight Night\nSaturday 8
   August 2026\n\nStart times\nMain card: 5:00 PM ET  |  21:00 UTC\nPrelim
- s:   not yet announced\n\nVenue: Belgrade Arena\nAddress: Bulevar Arseni
- ja Carnojevica 58\, 11070 Beograd\, Serbia\n\nNotes\nFirst UFC main even
- t for Australian prospect Quillan Salkilld. Note: the schedule lists Bel
- grade Arena for a second straight week\, which is unusual - worth reconf
- irming the venue closer to the date.\n\nCards change often - check ufc.c
- om closer to the date.
+ s:   2:00 PM ET  |  18:00 UTC\n\nVenue: Meta APEX\nAddress: 6650 El Cami
+ no Rd\, Las Vegas\, NV 89118\, USA\n\nNotes\nFirst UFC main event for Au
+ stralian prospect Quillan Salkilld\, who enters on a 12-fight win streak
+  against #8 Mateusz Gamrot. Also known as UFC Vegas 120.\n\nCards change
+  often - check ufc.com closer to the date.
 CATEGORIES:UFC,Fight Night
 URL:https://www.ufc.com/events
 TRANSP:TRANSPARENT
