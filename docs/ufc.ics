@@ -154,10 +154,11 @@ DESCRIPTION:UFC Fight Night: Paris\nFight Night\nSaturday 5 September 202
  entry until then.\n\nVenue: Accor Arena\nAddress: 8 Bd de Bercy\, 75012 
  Paris\, France\n\nTV\nParamount+ - every card\, US. There is NO pay-per-
  view in 2026\; it is included with a Paramount+ subscription. Select num
- bered events also simulcast on CBS.\n\nNotes\nUFC returns to Paris. Main
-  event not yet announced\, and no start time published - the UFC confirm
- s cards and times roughly 8-12 weeks out.\n\nCards change often - check 
- ufc.com closer to the date.
+ bered events also simulcast on CBS.\n\nNotes\nFifth straight year at Ber
+ cy. Card still under wraps\, but the UFC has teased bouts for Ciryl Gane
+  and Benoit Saint-Denis. No start time published - cards and times are c
+ onfirmed roughly 8-12 weeks out.\n\nCards change often - check ufc.com c
+ loser to the date.
 CATEGORIES:UFC,Fight Night
 URL:https://www.ufc.com/events
 TRANSP:TRANSPARENT
@@ -194,22 +195,57 @@ UID:ufc-331-2026@claude-ufc-cal
 DTSTAMP:20260728T090000Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-SUMMARY:🏆 UFC 331
+SUMMARY:🏆 UFC 331: Oliveira vs. Tsarukyan 2
 LOCATION:Crypto.com Arena\, 1111 S Figueroa St\, Los Angeles\, CA 90015\,
   USA
 GEO:34.043018;-118.267254
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="1111 S Figueroa St, Los 
  Angeles, CA 90015, USA";X-APPLE-RADIUS=200;X-TITLE="Crypto.com Arena":ge
  o:34.043018,-118.267254
-DESCRIPTION:UFC 331\nNumbered event\nSaturday 19 September 2026\n\nStart 
- times\nSTART TIME NOT YET ANNOUNCED. The UFC confirms cards and start ti
- mes about 8-12 weeks before an event\, so this is an all-day entry until
-  then.\n\nVenue: Crypto.com Arena\nAddress: 1111 S Figueroa St\, Los Ang
- eles\, CA 90015\, USA\n\nTV\nParamount+ - every card\, US. There is NO p
- ay-per-view in 2026\; it is included with a Paramount+ subscription. Sel
- ect numbered events also simulcast on CBS.\n\nNotes\nNumbered event at C
- rypto.com Arena. Main event and start time not yet announced.\n\nCards c
- hange often - check ufc.com closer to the date.
+DESCRIPTION:UFC 331: Oliveira vs. Tsarukyan 2\nNumbered event\nSaturday 1
+ 9 September 2026\n\nStart times\nSTART TIME NOT YET ANNOUNCED. The UFC c
+ onfirms cards and start times about 8-12 weeks before an event\, so this
+  is an all-day entry until then.\n\nVenue: Crypto.com Arena\nAddress: 11
+ 11 S Figueroa St\, Los Angeles\, CA 90015\, USA\n\nTV\nParamount+ - ever
+ y card\, US. There is NO pay-per-view in 2026\; it is included with a Pa
+ ramount+ subscription. Select numbered events also simulcast on CBS.\n\n
+ Notes\nCharles Oliveira defends the BMF title against Arman Tsarukyan in
+  a rematch of their UFC 300 meeting\, which Tsarukyan won by split decis
+ ion. A flyweight title rematch between champion Joshua Van and Alexandre
+  Pantoja is also expected.\n\nREPORTED\, NOT YET OFFICIAL - widely repor
+ ted but the UFC has not confirmed the card. Start time not announced.\n\
+ nUFC's sixth visit to Los Angeles and first since UFC 227 in August 2018
+ .\n\nCards change often - check ufc.com closer to the date.
+CATEGORIES:UFC,Numbered event
+URL:https://www.ufc.com/events
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ufc-333-2026@claude-ufc-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:🏆 UFC 333
+LOCATION:Etihad Arena\, Yas Island\, Abu Dhabi\, United Arab Emirates
+GEO:24.460342;54.604357
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Yas Island, Abu Dhabi, U
+ nited Arab Emirates";X-APPLE-RADIUS=200;X-TITLE="Etihad Arena":geo:24.46
+ 0342,54.604357
+DESCRIPTION:UFC 333\nNumbered event\nSaturday 24 October 2026\n\nStart ti
+ mes\nSTART TIME NOT YET ANNOUNCED. The UFC confirms cards and start time
+ s about 8-12 weeks before an event\, so this is an all-day entry until t
+ hen.\n\nVenue: Etihad Arena\nAddress: Yas Island\, Abu Dhabi\, United Ar
+ ab Emirates\n\nTV\nParamount+ - every card\, US. There is NO pay-per-vie
+ w in 2026\; it is included with a Paramount+ subscription. Select number
+ ed events also simulcast on CBS.\n\nNotes\nOfficially announced by the U
+ FC on 25 July during the UFC Abu Dhabi broadcast. A featherweight title 
+ fight between two-time champion Alexander Volkanovski and undefeated Mov
+ sar Evloev is reported but not confirmed\, and no bouts were announced w
+ ith the date.\n\nThe UFC's 24th visit to Abu Dhabi and its eleventh numb
+ ered event there. Returns as part of Abu Dhabi Showdown Week. Start time
+  not yet announced.\n\nCards change often - check ufc.com closer to the 
+ date.
 CATEGORIES:UFC,Numbered event
 URL:https://www.ufc.com/events
 TRANSP:TRANSPARENT
