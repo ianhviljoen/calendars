@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Upcoming rocket launches -> docs/rocket-launches.ics
+"""Upcoming SpaceX launches -> docs/spacex-launches.ics
 
 Reads launches.json (Launch Library 2, /launch/upcoming/), which update.sh
 downloads. All times are UTC in the source and stored as UTC here.
@@ -15,9 +15,18 @@ from zoneinfo import ZoneInfo
 UTC = ZoneInfo("UTC")
 ROCKET = "\U0001F680"
 
-# net_precision abbreviations worth putting in a calendar
-PRECISE = {"Minute", "Hour"}          # -> timed event
-DAY_ONLY = {"Day"}                    # -> all-day event
+# Vague precisions get placeholder dates in LL2 (a whole quarter's launches
+# dumped on one day), so they are excluded. Anything sharper than a day gets a
+# real time; day-level becomes an all-day entry. Using a denylist rather than an
+# allowlist so new precision names do not silently drop launches.
+VAGUE_WORDS = ("week", "month", "quarter", "half", "year")
+
+
+def bucket(precision_name):
+    p = (precision_name or "").strip().lower()
+    if not p or any(w in p for w in VAGUE_WORDS):
+        return None                   # skip
+    return "day" if p == "day" else "timed"
 
 # status abbrev -> plain english
 STATUS = {
@@ -64,20 +73,26 @@ results = data.get("results", [])
 lines = [
     "BEGIN:VCALENDAR", "VERSION:2.0",
     "PRODID:-//Claude//Rocket Launches//EN", "CALSCALE:GREGORIAN",
-    f"X-WR-CALNAME:{ROCKET} Rocket Launches",
+    f"X-WR-CALNAME:{ROCKET} SpaceX Launches",
     "X-APPLE-CALENDAR-COLOR:#0B3D91",
     fold("X-WR-CALDESC:" + esc(
-        "Upcoming orbital launches worldwide, from the Launch Library 2 API. "
-        "Only launches with a real date are included - vaguely scheduled "
-        "missions are left out. Times UTC.")),
+        "Upcoming SpaceX launches - Falcon 9, Falcon Heavy and Starship - "
+        "from the Launch Library 2 API. Only launches with a real date are "
+        "included; vaguely scheduled missions are left out. Times UTC.")),
     "X-WR-TIMEZONE:UTC",
 ]
 stamp = datetime.now(UTC).strftime("%Y%m%dT%H%M%SZ")
 n_timed = n_day = n_skipped = 0
 
 for L in results:
+    if "spacex" not in ((L.get("launch_service_provider") or {})
+                        .get("name", "")).lower():
+        n_skipped += 1
+        continue
+
     prec = ((L.get("net_precision") or {}).get("name") or "").strip()
-    if prec not in PRECISE and prec not in DAY_ONLY:
+    kind = bucket(prec)
+    if kind is None:
         n_skipped += 1
         continue
 
@@ -86,6 +101,9 @@ for L in results:
         n_skipped += 1
         continue
     start = datetime.fromisoformat(net.replace("Z", "+00:00")).astimezone(UTC)
+    if start < datetime.now(UTC) - timedelta(hours=12):
+        n_skipped += 1
+        continue
 
     name = L.get("name") or "Launch"
     rocket = ((L.get("rocket") or {}).get("configuration") or {})
@@ -106,7 +124,7 @@ for L in results:
     body.append(STATUS.get(status.get("abbrev", ""),
                            status.get("name", "Unknown")))
     body.append("")
-    if prec in PRECISE:
+    if kind == "timed":
         body.append("Lift-off")
         body.append(f"{start.strftime('%H:%M')} UTC, "
                     f"{start.strftime('%A %-d %B %Y')}")
@@ -124,7 +142,7 @@ for L in results:
              "always check before setting an alarm."]
 
     uid = f"launch-{L.get('id','x')}@claude-launches"
-    if prec in PRECISE:
+    if kind == "timed":
         dt = [f"DTSTART:{z(start)}",
               f"DTEND:{z(start + timedelta(hours=1))}"]
         n_timed += 1
@@ -139,7 +157,7 @@ for L in results:
         fold("SUMMARY:" + esc(f"{ROCKET} {name}")),
         fold("LOCATION:" + esc(where)),
         fold("DESCRIPTION:" + esc("\n".join(body))),
-        fold("CATEGORIES:" + esc("Rocket Launches") + "," + esc(provider)),
+        fold("CATEGORIES:" + esc("SpaceX") + "," + esc(rocket.get("name", "Launch"))),
         "URL:https://nextspaceflight.com/launches/",
         "TRANSP:TRANSPARENT",
         "STATUS:" + ("CONFIRMED" if status.get("abbrev") == "Go"
@@ -148,7 +166,7 @@ for L in results:
     ]
 
 lines.append("END:VCALENDAR")
-with open("../docs/rocket-launches.ics", "w", encoding="utf-8",
+with open("../docs/spacex-launches.ics", "w", encoding="utf-8",
           newline="") as f:
     f.write("\r\n".join(lines) + "\r\n")
 print(f"Wrote {n_timed + n_day} launches ({n_timed} timed, {n_day} date-only); "

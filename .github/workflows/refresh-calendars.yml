@@ -48,7 +48,7 @@ jobs:
       - name: Fetch upcoming rocket launches (Launch Library 2)
         run: |
           curl -sSfL --retry 3 \
-            "https://lldev.thespacedevs.com/2.2.0/launch/upcoming/?limit=100&ordering=net" \
+            "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=100&ordering=net&lsp__name=SpaceX" \
             -o build/launches.json
 
       - name: Rebuild calendars

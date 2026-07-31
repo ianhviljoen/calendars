@@ -37,7 +37,7 @@ curl -sSfL --retry 3 \
   https://raw.githubusercontent.com/openfootball/england/master/2026-27/1-premierleague.txt \
   -o build/epl.txt
 curl -sSfL --retry 3 \
-  "https://lldev.thespacedevs.com/2.2.0/launch/upcoming/?limit=100&ordering=net" \
+  "https://ll.thespacedevs.com/2.2.0/launch/upcoming/?limit=100&ordering=net&lsp__name=SpaceX" \
   -o build/launches.json
 
 echo "==> Rebuilding"

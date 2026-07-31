@@ -12,7 +12,8 @@ TV = ("Paramount+ - every card, US. There is NO pay-per-view in 2026; "
 
 V = {
     "belgrade": ("Belgrade Arena", "Bulevar Arsenija Carnojevica 58, 11070 Beograd, Serbia", 44.814434, 20.421276),
-    "philly": ("Xfinity Mobile Arena", "3601 S Broad St, Philadelphia, PA 19148, USA", 39.901202, -75.171979),
+    "apex": ("Meta APEX", "6650 El Camino Rd, Las Vegas, NV 89118, USA", 36.068484, -115.228275),
+ "philly": ("Xfinity Mobile Arena", "3601 S Broad St, Philadelphia, PA 19148, USA", 39.901202, -75.171979),
     "sacramento": ("Golden 1 Center", "500 David J Stern Walk, Sacramento, CA 95814, USA", 38.580205, -121.499660),
     "shanghai": ("Shanghai Oriental Sports Center", "Yanjiang Rd, Pudong, Shanghai 200126, China", 31.155555, 121.473030),
     "paris": ("Accor Arena", "8 Bd de Bercy, 75012 Paris, France", 48.838604, 2.378470),
@@ -30,10 +31,10 @@ EVENTS = [
      "Welterweight main event: #14 Uros Medic v #15 Daniel Rodriguez. Early "
      "start for US viewers because it is a European card."),
     ("fn-gamrot-salkilld", "UFC Fight Night: Gamrot vs. Salkilld", False,
-     (2026, 8, 8, 17, 0), None, "belgrade",
-     "First UFC main event for Australian prospect Quillan Salkilld. Note: the "
-     "schedule lists Belgrade Arena for a second straight week, which is "
-     "unusual - worth reconfirming the venue closer to the date."),
+     (2026, 8, 8, 17, 0), (2026, 8, 8, 14, 0), "apex",
+     "First UFC main event for Australian prospect Quillan Salkilld, who "
+     "enters on a 12-fight win streak against #8 Mateusz Gamrot. Also known "
+     "as UFC Vegas 120."),
     ("ufc-330", "UFC 330: Makhachev vs. Machado Garry", True,
      (2026, 8, 15, 21, 0), None, "philly",
      "Islam Makhachev defends the welterweight title against Ian Machado "
