@@ -1,8 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Claude//13F Filing Deadlines//EN
+PRODID:-//Claude//SEC 13F Deadlines//EN
 CALSCALE:GREGORIAN
-X-WR-CALNAME:13F Filing Deadlines
+X-WR-CALNAME:SEC 13F Deadlines
 X-APPLE-CALENDAR-COLOR:#546E7A
 X-WR-CALDESC:SEC Form 13F deadlines and the quarter-end snapshot dates th
  e holdings actually refer to. Times Eastern\, stored in UTC.

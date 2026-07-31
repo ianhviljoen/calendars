@@ -112,7 +112,7 @@ lines = [
     "BEGIN:VCALENDAR", "VERSION:2.0",
     "PRODID:-//Claude//Tennis 2026 ATP 1000 + Slams//EN",
     "CALSCALE:GREGORIAN",
-    f"X-WR-CALNAME:{BALL} Tennis 2026 - ATP 1000 & Slams",
+    f"X-WR-CALNAME:{BALL} Tennis - ATP 1000 & Slams",
     fold("X-WR-CALDESC:" + esc(
         "Remaining 2026 ATP Masters 1000 events and the US Open. "
         "US broadcast listings.")),
@@ -185,7 +185,7 @@ for ev in TOURNAMENTS:
 
 lines.append("END:VCALENDAR")
 
-out = "../docs/tennis-2026-atp1000-slams.ics"
+out = "../docs/atp-tennis.ics"
 with open(out, "w", encoding="utf-8", newline="") as f:
     f.write("\r\n".join(lines) + "\r\n")
 

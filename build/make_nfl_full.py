@@ -275,7 +275,7 @@ for r in sorted(rows, key=lambda r: (r["gameday"], r["gametime"])):
     n_reg += 1
 
 lines.append("END:VCALENDAR")
-with open("../docs/nfl-2026-season.ics", "w",
+with open("../docs/nfl.ics", "w",
           encoding="utf-8", newline="") as f:
     f.write("\r\n".join(lines) + "\r\n")
 print(f"Wrote {n_pre} preseason + {n_key} key dates + {n_reg} regular season "

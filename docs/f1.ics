@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Claude//F1 2026 Sessions//EN
 CALSCALE:GREGORIAN
-X-WR-CALNAME:🏁 F1 2026 - Sessions
+X-WR-CALNAME:🏁 Formula 1
 X-WR-CALDESC:Every remaining session of the 2026 F1 season\, rounds 12-22
  \, with exact start times. Times stored in UTC and shown in your local z
  one.

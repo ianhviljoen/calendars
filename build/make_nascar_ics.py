@@ -134,7 +134,7 @@ for uid, label, t, venue, street, lat, lon, tv, phase, note in R:
     ]
 
 lines.append("END:VCALENDAR")
-with open("../docs/nascar-cup-2026-upcoming.ics", "w",
+with open("../docs/nascar.ics", "w",
           encoding="utf-8", newline="") as f:
     f.write("\r\n".join(lines) + "\r\n")
 print(f"Wrote {len(R)} races.")

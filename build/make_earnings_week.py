@@ -115,7 +115,7 @@ def z(dt):
 lines = [
     "BEGIN:VCALENDAR", "VERSION:2.0",
     "PRODID:-//Claude//Earnings Week 27 Jul 2026//EN", "CALSCALE:GREGORIAN",
-    "X-WR-CALNAME:Earnings - Week of 27 Jul 2026",
+    "X-WR-CALNAME:Earnings",
     "X-APPLE-CALENDAR-COLOR:#00897B",
     fold("X-WR-CALDESC:" + esc(
         "US earnings for the week of 27 July 2026. BMO = before open, "
@@ -190,7 +190,7 @@ lines += [
 n += 1
 lines.append("END:VCALENDAR")
 
-with open("../docs/earnings-week-27jul2026.ics", "w",
+with open("../docs/earnings.ics", "w",
           encoding="utf-8", newline="") as f:
     f.write("\r\n".join(lines) + "\r\n")
 print(f"Wrote {n} events ({len(CONS)} with verified consensus).")

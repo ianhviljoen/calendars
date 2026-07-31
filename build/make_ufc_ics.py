@@ -85,7 +85,7 @@ def z(dt):
 
 lines = [
     "BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Claude//UFC 2026//EN",
-    "CALSCALE:GREGORIAN", f"X-WR-CALNAME:{GLOVE} UFC 2026 - Upcoming",
+    "CALSCALE:GREGORIAN", f"X-WR-CALNAME:{GLOVE} UFC",
     fold("X-WR-CALDESC:" + esc(
         "Upcoming UFC numbered events and Fight Nights. All on Paramount+ in "
         "the US.")),
@@ -141,7 +141,7 @@ for uid, name, numbered, main, prelim, vkey, note in EVENTS:
     ]
 
 lines.append("END:VCALENDAR")
-with open("../docs/ufc-2026-upcoming.ics", "w",
+with open("../docs/ufc.ics", "w",
           encoding="utf-8", newline="") as f:
     f.write("\r\n".join(lines) + "\r\n")
 print(f"Wrote {timed + allday} events ({timed} timed, {allday} time TBC).")

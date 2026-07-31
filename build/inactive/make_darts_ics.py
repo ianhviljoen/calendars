@@ -129,7 +129,7 @@ for ev in TOURNAMENTS:
         count += 1
 
 lines.append("END:VCALENDAR")
-with open("../docs/pdc-darts-2026.ics", "w",
+with open("../docs/pdc-darts.ics", "w",
           encoding="utf-8", newline="") as f:
     f.write("\r\n".join(lines) + "\r\n")
 print(f"Wrote {count} days across {len(TOURNAMENTS)} tournaments.")

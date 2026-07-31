@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Claude//Earnings Week 27 Jul 2026//EN
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Earnings - Week of 27 Jul 2026
+X-WR-CALNAME:Earnings
 X-APPLE-CALENDAR-COLOR:#00897B
 X-WR-CALDESC:US earnings for the week of 27 July 2026. BMO = before open\
  , AMC = after close. Times Eastern\, stored in UTC.

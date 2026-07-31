@@ -65,8 +65,8 @@ def z(dt):
 
 lines = [
     "BEGIN:VCALENDAR", "VERSION:2.0",
-    "PRODID:-//Claude//13F Filing Deadlines//EN", "CALSCALE:GREGORIAN",
-    "X-WR-CALNAME:13F Filing Deadlines",
+    "PRODID:-//Claude//SEC 13F Deadlines//EN", "CALSCALE:GREGORIAN",
+    "X-WR-CALNAME:SEC 13F Deadlines",
     "X-APPLE-CALENDAR-COLOR:#546E7A",
     fold("X-WR-CALDESC:" + esc(
         "SEC Form 13F deadlines and the quarter-end snapshot dates the "
@@ -128,7 +128,7 @@ for kind, label, snap, t, mins, conf, extra in E:
     ]
 
 lines.append("END:VCALENDAR")
-with open("../docs/13f-filing-deadlines.ics", "w",
+with open("../docs/sec-13f.ics", "w",
           encoding="utf-8", newline="") as f:
     f.write("\r\n".join(lines) + "\r\n")
 print(f"Wrote {len(E)} events.")

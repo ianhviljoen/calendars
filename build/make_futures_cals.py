@@ -91,37 +91,37 @@ for m in (8, 9, 10, 11, 12):
        f"sit far from where VIX last traded.{extra}")
 
 # ============================================================
-cal("sp500-rebalance", "S&P 500 Rebalance", "#CC0000",
+cal("rebalance-sp500", "S&P 500 Rebalance", "#CC0000",
     "S&P Dow Jones Indices quarterly rebalance of the S&P 500.")
 
 for m, q in [(9, "September"), (12, "December")]:
     ann = nth_friday(2026, m, 1)
     tf = third_friday(2026, m)
     eff = tf + timedelta(days=3)
-    ev("sp500-rebalance", "\U0001F4E2", f"S&P 500 {q} Rebalance - announcement",
+    ev("rebalance-sp500", "\U0001F4E2", f"S&P 500 {q} Rebalance - announcement",
        (ann.year, ann.month, ann.day, 17, 15), 45,
        "S&P DJI normally announces quarterly constituent changes on the first "
        "Friday of the rebalance month, after the close. Added names typically "
        "gap on the announcement, not on the effective date. Date derived from "
        "that pattern - S&P confirms nearer the time.")
-    ev("sp500-rebalance", "\u267B", f"S&P 500 {q} Rebalance - trade at close",
+    ev("rebalance-sp500", "\u267B", f"S&P 500 {q} Rebalance - trade at close",
        (tf.year, tf.month, tf.day, 16, 0), 30,
        "Index funds execute the rebalance in the closing auction of the third "
        "Friday, alongside quadruple witching. This is where the volume is.")
-    ev("sp500-rebalance", "\u267B", f"S&P 500 {q} Rebalance - effective",
+    ev("rebalance-sp500", "\u267B", f"S&P 500 {q} Rebalance - effective",
        (eff.year, eff.month, eff.day, 9, 30), 30,
        f"Changes take effect prior to the open on the Monday after the third "
        f"Friday. The June 2026 cycle ran the same way - announced 5 June, "
        f"effective before the open on 22 June.")
 
 # ============================================================
-cal("dow-rebalance", "Dow Jones Rebalance", "#0F2B5B",
+cal("rebalance-dow", "Dow Jones Rebalance", "#0F2B5B",
     "Dow Jones Industrial Average quarterly share and divisor updates.")
 
 for m, q in [(9, "September"), (12, "December")]:
     tf = third_friday(2026, m)
     eff = tf + timedelta(days=3)
-    ev("dow-rebalance", "\u267B", f"DJIA {q} Rebalance - effective",
+    ev("rebalance-dow", "\u267B", f"DJIA {q} Rebalance - effective",
        (eff.year, eff.month, eff.day, 9, 30), 30,
        "Quarterly share-count and divisor updates for the Dow, run by S&P DJI "
        "on the same third-Friday cycle as the S&P 500.\n\nNote the Dow is "
@@ -130,24 +130,24 @@ for m, q in [(9, "September"), (12, "December")]:
        "announced at any time, usually triggered by a merger or a split.")
 
 # ============================================================
-cal("nasdaq-rebalance", "Nasdaq-100 Rebalance", "#0796D3",
+cal("rebalance-nasdaq", "Nasdaq-100 Rebalance", "#0796D3",
     "Nasdaq-100 quarterly rank-based reviews and the December annual "
     "reconstitution.")
 
 tf9 = third_friday(2026, 9)
-ev("nasdaq-rebalance", "\u267B", "Nasdaq-100 September Review - effective",
+ev("rebalance-nasdaq", "\u267B", "Nasdaq-100 September Review - effective",
    ((tf9 + timedelta(days=3)).year, (tf9 + timedelta(days=3)).month,
     (tf9 + timedelta(days=3)).day, 9, 30), 30,
    "Quarterly rank-based review, effective at the open of the first trading "
    "day after the third Friday. From 2026 the NDX runs this review every "
    "quarter, so membership can change year-round rather than only in December.")
-ev("nasdaq-rebalance", "\U0001F4E2",
+ev("rebalance-nasdaq", "\U0001F4E2",
    "Nasdaq-100 Annual Reconstitution - announcement",
    (2026, 12, 11, 20, 0), 30,
    "Nasdaq publishes the annual reconstitution in mid-December, normally the "
    "second Friday after the close. Date derived from that pattern.")
 tf12 = third_friday(2026, 12)
-ev("nasdaq-rebalance", "\u267B",
+ev("rebalance-nasdaq", "\u267B",
    "Nasdaq-100 Annual Reconstitution + Q4 Review - effective",
    ((tf12 + timedelta(days=3)).year, (tf12 + timedelta(days=3)).month,
     (tf12 + timedelta(days=3)).day, 9, 30), 30,
@@ -155,16 +155,16 @@ ev("nasdaq-rebalance", "\u267B",
    "same morning. The largest scheduled NDX flow of the year.")
 
 # ============================================================
-cal("russell-rebalance", "Russell Reconstitution", "#582C83",
+cal("rebalance-russell", "Russell Reconstitution", "#582C83",
     "FTSE Russell US Indexes - the first ever December semi-annual "
     "reconstitution.")
 
-ev("russell-rebalance", "\U0001F4CB", "Russell Rank Day (December cycle)",
+ev("rebalance-russell", "\U0001F4CB", "Russell Rank Day (December cycle)",
    (2026, 10, 30, 16, 0), 30,
    "Last business day of October - the cut-off on which index eligibility and "
    "market caps are assessed for the December reconstitution. Preliminary "
    "constituent lists follow in the weeks after.")
-ev("russell-rebalance", "\u267B",
+ev("rebalance-russell", "\u267B",
    "Russell Semi-Annual Reconstitution - effective",
    (2026, 12, 11, 16, 0), 30,
    "FIRST EVER December reconstitution of the Russell US Indexes. Effective "
@@ -175,7 +175,7 @@ ev("russell-rebalance", "\u267B",
    "indexes, though flows here are expected to be smaller than June's. "
    "December style-index changes are limited to new additions and size-driven "
    "moves.")
-ev("russell-rebalance", "\u267B", "Russell Reconstitution - reflected at open",
+ev("rebalance-russell", "\u267B", "Russell Reconstitution - reflected at open",
    (2026, 12, 14, 9, 30), 30,
    "New Russell index composition is live from this open.")
 
@@ -205,7 +205,7 @@ for key, c in CALS.items():
     lines = [
         "BEGIN:VCALENDAR", "VERSION:2.0",
         f"PRODID:-//Claude//{c['name']}//EN", "CALSCALE:GREGORIAN",
-        f"X-WR-CALNAME:{c['name']} 2026",
+        f"X-WR-CALNAME:{c['name']}",
         f"X-APPLE-CALENDAR-COLOR:{c['colour']}",
         fold("X-WR-CALDESC:" + esc(c["desc"])),
         "X-WR-TIMEZONE:America/New_York",
@@ -231,7 +231,7 @@ for key, c in CALS.items():
             "TRANSP:TRANSPARENT", "STATUS:CONFIRMED", "END:VEVENT",
         ]
     lines.append("END:VCALENDAR")
-    with open(f"../docs/{key}-2026.ics", "w",
+    with open(f"../docs/{key}.ics", "w",
               encoding="utf-8", newline="") as f:
         f.write("\r\n".join(lines) + "\r\n")
     print(f"{c['name']:<28} {len(c['events']):>2} events  {c['colour']}")

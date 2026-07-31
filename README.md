@@ -19,8 +19,8 @@ calendars/
 │   ├─ make_f1_sessions.py
 │   └─ ... (the rest)
 └─ docs/                  <- the published .ics files (GitHub Pages root)
-    ├─ nfl-2026-season.ics
-    ├─ f1-2026-sessions.ics
+    ├─ nfl.ics
+    ├─ f1.ics
     └─ ...
 ```
 
@@ -31,7 +31,7 @@ as `text/plain`, which some clients refuse. Pages serves it as `text/calendar`.
 Your URLs become:
 
 ```
-https://<username>.github.io/calendars/nfl-2026-season.ics
+https://<username>.github.io/calendars/nfl.ics
 ```
 
 ## Subscribing

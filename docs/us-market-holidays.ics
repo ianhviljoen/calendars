@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Claude//US Trading Holidays 2026-2028//EN
 CALSCALE:GREGORIAN
-X-WR-CALNAME:US Trading Holidays 2026-2028
+X-WR-CALNAME:US Market Holidays
 X-WR-CALDESC:NYSE and Nasdaq full-day closures and 1:00pm ET early closes
   for 2026\, 2027 and 2028.
 X-WR-TIMEZONE:America/New_York

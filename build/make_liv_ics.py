@@ -136,7 +136,7 @@ for ev in EVENTS:
 
 lines.append("END:VCALENDAR")
 
-out = "../docs/liv-golf-2026-upcoming.ics"
+out = "../docs/liv-golf.ics"
 with open(out, "w", encoding="utf-8", newline="") as f:
     f.write("\r\n".join(lines) + "\r\n")
 

@@ -171,7 +171,7 @@ emit("world-rapid-blitz-2026",
      "", "", None, "World Rapid & Blitz")
 
 lines.append("END:VCALENDAR")
-with open("../docs/fide-chess-2026.ics", "w",
+with open("../docs/fide-chess.ics", "w",
           encoding="utf-8", newline="") as f:
     f.write("\r\n".join(lines) + "\r\n")
 print(f"Wrote {n} events.")

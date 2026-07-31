@@ -137,7 +137,7 @@ lines = [
     "BEGIN:VCALENDAR", "VERSION:2.0",
     "PRODID:-//Claude//Rugby Internationals 2026//EN",
     "CALSCALE:GREGORIAN",
-    f"X-WR-CALNAME:{BALL} Rugby Internationals 2026",
+    f"X-WR-CALNAME:{BALL} Rugby Internationals",
     fold("X-WR-CALDESC:" + esc(
         "All remaining 2026 men's Test matches for Argentina, Australia, "
         "England, Fiji, France, Ireland, Italy, Japan, New Zealand, Scotland, "
@@ -192,7 +192,7 @@ for uid, label, matchup, day in FINALS:
          f"play is decided by the final pool tables after Round 6 on 21 Nov.")
 
 lines.append("END:VCALENDAR")
-with open("../docs/rugby-internationals-2026.ics", "w",
+with open("../docs/rugby-internationals.ics", "w",
           encoding="utf-8", newline="") as f:
     f.write("\r\n".join(lines) + "\r\n")
 print(f"Wrote {n_timed + n_allday} matches ({n_timed} timed, {n_allday} TBC).")

@@ -116,7 +116,7 @@ lines = [
     "BEGIN:VCALENDAR", "VERSION:2.0",
     "PRODID:-//Claude//F1 2026 Sessions//EN",
     "CALSCALE:GREGORIAN",
-    "X-WR-CALNAME:\U0001F3C1 F1 2026 - Sessions",
+    "X-WR-CALNAME:\U0001F3C1 Formula 1",
     fold("X-WR-CALDESC:" + esc(
         "Every remaining session of the 2026 F1 season, rounds 12-22, with "
         "exact start times. Times stored in UTC and shown in your local zone.")),
@@ -187,7 +187,7 @@ for slug, meta in META.items():
 
 lines.append("END:VCALENDAR")
 
-with open("../docs/f1-2026-sessions.ics", "w",
+with open("../docs/f1.ics", "w",
           encoding="utf-8", newline="") as f:
     f.write("\r\n".join(lines) + "\r\n")
 
