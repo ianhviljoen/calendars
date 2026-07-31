@@ -140,25 +140,26 @@ END:VEVENT
 BEGIN:VEVENT
 UID:fn-paris-2026@claude-ufc-cal
 DTSTAMP:20260728T090000Z
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-SUMMARY:🥊 UFC Fight Night: Paris
+DTSTART:20260905T190000Z
+DTEND:20260905T230000Z
+SUMMARY:🥊 UFC Fight Night: Hooker vs. Parnasse
 LOCATION:Accor Arena\, 8 Bd de Bercy\, 75012 Paris\, France
 GEO:48.838604;2.37847
 X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="8 Bd de Bercy, 75012 Par
  is, France";X-APPLE-RADIUS=200;X-TITLE="Accor Arena":geo:48.838604,2.378
  47
-DESCRIPTION:UFC Fight Night: Paris\nFight Night\nSaturday 5 September 202
- 6\n\nStart times\nSTART TIME NOT YET ANNOUNCED. The UFC confirms cards a
- nd start times about 8-12 weeks before an event\, so this is an all-day 
- entry until then.\n\nVenue: Accor Arena\nAddress: 8 Bd de Bercy\, 75012 
- Paris\, France\n\nTV\nParamount+ - every card\, US. There is NO pay-per-
- view in 2026\; it is included with a Paramount+ subscription. Select num
- bered events also simulcast on CBS.\n\nNotes\nFifth straight year at Ber
- cy. Card still under wraps\, but the UFC has teased bouts for Ciryl Gane
-  and Benoit Saint-Denis. No start time published - cards and times are c
- onfirmed roughly 8-12 weeks out.\n\nCards change often - check ufc.com c
- loser to the date.
+DESCRIPTION:UFC Fight Night: Hooker vs. Parnasse\nFight Night\nSaturday 5
+  September 2026\n\nStart times\nMain card: 3:00 PM ET  |  19:00 UTC\nPre
+ lims:   12:00 PM ET  |  16:00 UTC\n\nVenue: Accor Arena\nAddress: 8 Bd d
+ e Bercy\, 75012 Paris\, France\n\nTV\nParamount+ - every card\, US. Ther
+ e is NO pay-per-view in 2026\; it is included with a Paramount+ subscrip
+ tion. Select numbered events also simulcast on CBS.\n\nNotes\nLightweigh
+ t main event: Dan Hooker v Salahdine Parnasse\, a recent UFC signee maki
+ ng his promotional debut in front of a home crowd.\n\nMain card also fea
+ tures Michael Page v Nursulton Ruziboev\, Losene Keita v Muhammad Naimov
+ \, Mario Pinto v Ryan Spann and Oumar Sy v Modestas Bukauskas.\n\nFifth 
+ straight year at Bercy. Early start for US viewers - it is an evening ca
+ rd in Paris.\n\nCards change often - check ufc.com closer to the date.
 CATEGORIES:UFC,Fight Night
 URL:https://www.ufc.com/events
 TRANSP:TRANSPARENT
