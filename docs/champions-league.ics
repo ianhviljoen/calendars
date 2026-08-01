@@ -1,0 +1,735 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//UEFA Champions League//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:🏆 Champions League
+X-APPLE-CALENDAR-COLOR:#00256C
+X-WR-CALDESC:UEFA Champions League 2026/27 - confirmed matchday and knock
+ out dates. Fixtures follow the league phase draw on 27 August 2026.
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:ucl-2627-draw@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART:20260827T160000Z
+DTEND:20260827T180000Z
+SUMMARY:🏆 Champions League - League Phase Draw
+LOCATION:UEFA HQ\, Route de Geneve 46\, 1260 Nyon\, Switzerland
+GEO:46.379444;6.226389
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Route de Geneve 46, 1260
+  Nyon, Switzerland";X-APPLE-RADIUS=200;X-TITLE="UEFA HQ":geo:46.379444,6
+ .226389
+DESCRIPTION:Champions League league phase draw\nThursday 27 August 2026\n
+ \n17:00 UK time\, from UEFA headquarters in Nyon.\n\n36 clubs drawn into
+  four pots of nine. Each club is drawn against two teams from every pot\
+ , one home and one away.\n\nAfter this\, the full fixture list is releas
+ ed and this calendar can be rebuilt with actual matches.
+CATEGORIES:Champions League,Draw
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2026-09-08@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:🏆 Champions League - Matchday 1
+DESCRIPTION:Champions League - Matchday 1 (day 1 of 3)\nTuesday 8 Septemb
+ er 2026\n\nNotes\nOpens a week earlier than last season\, and unusually 
+ spread over three days. A full month then follows before Matchday 2 beca
+ use of an extended international break.\n\n72nd season\, second under th
+ e 36-team league phase format. Each club plays eight different opponents
+ \, four home and four away.\\n\\nTop eight go straight to the last 16\; 
+ ninth to 24th enter a two-legged knockout play-off. PSG are two-time def
+ ending champions after beating Arsenal on penalties in Budapest.\\n\\nSi
+ x Premier League clubs qualified - the largest representation of any cou
+ ntry.\\n\\nFIXTURES ARE NOT YET KNOWN. The league phase draw is on 27 Au
+ gust 2026\, so these entries mark the matchday windows only. Kick-offs a
+ re normally 17:45 and 20:00 UK time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Matchday 1
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2026-09-09@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:🏆 Champions League - Matchday 1
+DESCRIPTION:Champions League - Matchday 1 (day 2 of 3)\nWednesday 9 Septe
+ mber 2026\n\nNotes\nOpens a week earlier than last season\, and unusuall
+ y spread over three days. A full month then follows before Matchday 2 be
+ cause of an extended international break.\n\n72nd season\, second under 
+ the 36-team league phase format. Each club plays eight different opponen
+ ts\, four home and four away.\\n\\nTop eight go straight to the last 16\
+ ; ninth to 24th enter a two-legged knockout play-off. PSG are two-time d
+ efending champions after beating Arsenal on penalties in Budapest.\\n\\n
+ Six Premier League clubs qualified - the largest representation of any c
+ ountry.\\n\\nFIXTURES ARE NOT YET KNOWN. The league phase draw is on 27 
+ August 2026\, so these entries mark the matchday windows only. Kick-offs
+  are normally 17:45 and 20:00 UK time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Matchday 1
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2026-09-10@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:🏆 Champions League - Matchday 1
+DESCRIPTION:Champions League - Matchday 1 (day 3 of 3)\nThursday 10 Septe
+ mber 2026\n\nNotes\nOpens a week earlier than last season\, and unusuall
+ y spread over three days. A full month then follows before Matchday 2 be
+ cause of an extended international break.\n\n72nd season\, second under 
+ the 36-team league phase format. Each club plays eight different opponen
+ ts\, four home and four away.\\n\\nTop eight go straight to the last 16\
+ ; ninth to 24th enter a two-legged knockout play-off. PSG are two-time d
+ efending champions after beating Arsenal on penalties in Budapest.\\n\\n
+ Six Premier League clubs qualified - the largest representation of any c
+ ountry.\\n\\nFIXTURES ARE NOT YET KNOWN. The league phase draw is on 27 
+ August 2026\, so these entries mark the matchday windows only. Kick-offs
+  are normally 17:45 and 20:00 UK time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Matchday 1
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2026-10-13@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:🏆 Champions League - Matchday 2
+DESCRIPTION:Champions League - Matchday 2 (day 1 of 2)\nTuesday 13 Octobe
+ r 2026\n\n72nd season\, second under the 36-team league phase format. Ea
+ ch club plays eight different opponents\, four home and four away.\\n\\n
+ Top eight go straight to the last 16\; ninth to 24th enter a two-legged 
+ knockout play-off. PSG are two-time defending champions after beating Ar
+ senal on penalties in Budapest.\\n\\nSix Premier League clubs qualified 
+ - the largest representation of any country.\\n\\nFIXTURES ARE NOT YET K
+ NOWN. The league phase draw is on 27 August 2026\, so these entries mark
+  the matchday windows only. Kick-offs are normally 17:45 and 20:00 UK ti
+ me on Tuesday and Wednesday.
+CATEGORIES:Champions League,Matchday 2
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2026-10-14@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🏆 Champions League - Matchday 2
+DESCRIPTION:Champions League - Matchday 2 (day 2 of 2)\nWednesday 14 Octo
+ ber 2026\n\n72nd season\, second under the 36-team league phase format. 
+ Each club plays eight different opponents\, four home and four away.\\n\
+ \nTop eight go straight to the last 16\; ninth to 24th enter a two-legge
+ d knockout play-off. PSG are two-time defending champions after beating 
+ Arsenal on penalties in Budapest.\\n\\nSix Premier League clubs qualifie
+ d - the largest representation of any country.\\n\\nFIXTURES ARE NOT YET
+  KNOWN. The league phase draw is on 27 August 2026\, so these entries ma
+ rk the matchday windows only. Kick-offs are normally 17:45 and 20:00 UK 
+ time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Matchday 2
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2026-10-20@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:🏆 Champions League - Matchday 3
+DESCRIPTION:Champions League - Matchday 3 (day 1 of 2)\nTuesday 20 Octobe
+ r 2026\n\n72nd season\, second under the 36-team league phase format. Ea
+ ch club plays eight different opponents\, four home and four away.\\n\\n
+ Top eight go straight to the last 16\; ninth to 24th enter a two-legged 
+ knockout play-off. PSG are two-time defending champions after beating Ar
+ senal on penalties in Budapest.\\n\\nSix Premier League clubs qualified 
+ - the largest representation of any country.\\n\\nFIXTURES ARE NOT YET K
+ NOWN. The league phase draw is on 27 August 2026\, so these entries mark
+  the matchday windows only. Kick-offs are normally 17:45 and 20:00 UK ti
+ me on Tuesday and Wednesday.
+CATEGORIES:Champions League,Matchday 3
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2026-10-21@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🏆 Champions League - Matchday 3
+DESCRIPTION:Champions League - Matchday 3 (day 2 of 2)\nWednesday 21 Octo
+ ber 2026\n\n72nd season\, second under the 36-team league phase format. 
+ Each club plays eight different opponents\, four home and four away.\\n\
+ \nTop eight go straight to the last 16\; ninth to 24th enter a two-legge
+ d knockout play-off. PSG are two-time defending champions after beating 
+ Arsenal on penalties in Budapest.\\n\\nSix Premier League clubs qualifie
+ d - the largest representation of any country.\\n\\nFIXTURES ARE NOT YET
+  KNOWN. The league phase draw is on 27 August 2026\, so these entries ma
+ rk the matchday windows only. Kick-offs are normally 17:45 and 20:00 UK 
+ time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Matchday 3
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2026-11-03@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:🏆 Champions League - Matchday 4
+DESCRIPTION:Champions League - Matchday 4 (day 1 of 2)\nTuesday 3 Novembe
+ r 2026\n\n72nd season\, second under the 36-team league phase format. Ea
+ ch club plays eight different opponents\, four home and four away.\\n\\n
+ Top eight go straight to the last 16\; ninth to 24th enter a two-legged 
+ knockout play-off. PSG are two-time defending champions after beating Ar
+ senal on penalties in Budapest.\\n\\nSix Premier League clubs qualified 
+ - the largest representation of any country.\\n\\nFIXTURES ARE NOT YET K
+ NOWN. The league phase draw is on 27 August 2026\, so these entries mark
+  the matchday windows only. Kick-offs are normally 17:45 and 20:00 UK ti
+ me on Tuesday and Wednesday.
+CATEGORIES:Champions League,Matchday 4
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2026-11-04@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🏆 Champions League - Matchday 4
+DESCRIPTION:Champions League - Matchday 4 (day 2 of 2)\nWednesday 4 Novem
+ ber 2026\n\n72nd season\, second under the 36-team league phase format. 
+ Each club plays eight different opponents\, four home and four away.\\n\
+ \nTop eight go straight to the last 16\; ninth to 24th enter a two-legge
+ d knockout play-off. PSG are two-time defending champions after beating 
+ Arsenal on penalties in Budapest.\\n\\nSix Premier League clubs qualifie
+ d - the largest representation of any country.\\n\\nFIXTURES ARE NOT YET
+  KNOWN. The league phase draw is on 27 August 2026\, so these entries ma
+ rk the matchday windows only. Kick-offs are normally 17:45 and 20:00 UK 
+ time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Matchday 4
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2026-11-24@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:🏆 Champions League - Matchday 5
+DESCRIPTION:Champions League - Matchday 5 (day 1 of 2)\nTuesday 24 Novemb
+ er 2026\n\n72nd season\, second under the 36-team league phase format. E
+ ach club plays eight different opponents\, four home and four away.\\n\\
+ nTop eight go straight to the last 16\; ninth to 24th enter a two-legged
+  knockout play-off. PSG are two-time defending champions after beating A
+ rsenal on penalties in Budapest.\\n\\nSix Premier League clubs qualified
+  - the largest representation of any country.\\n\\nFIXTURES ARE NOT YET 
+ KNOWN. The league phase draw is on 27 August 2026\, so these entries mar
+ k the matchday windows only. Kick-offs are normally 17:45 and 20:00 UK t
+ ime on Tuesday and Wednesday.
+CATEGORIES:Champions League,Matchday 5
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2026-11-25@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🏆 Champions League - Matchday 5
+DESCRIPTION:Champions League - Matchday 5 (day 2 of 2)\nWednesday 25 Nove
+ mber 2026\n\n72nd season\, second under the 36-team league phase format.
+  Each club plays eight different opponents\, four home and four away.\\n
+ \\nTop eight go straight to the last 16\; ninth to 24th enter a two-legg
+ ed knockout play-off. PSG are two-time defending champions after beating
+  Arsenal on penalties in Budapest.\\n\\nSix Premier League clubs qualifi
+ ed - the largest representation of any country.\\n\\nFIXTURES ARE NOT YE
+ T KNOWN. The league phase draw is on 27 August 2026\, so these entries m
+ ark the matchday windows only. Kick-offs are normally 17:45 and 20:00 UK
+  time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Matchday 5
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2026-12-08@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:🏆 Champions League - Matchday 6
+DESCRIPTION:Champions League - Matchday 6 (day 1 of 2)\nTuesday 8 Decembe
+ r 2026\n\n72nd season\, second under the 36-team league phase format. Ea
+ ch club plays eight different opponents\, four home and four away.\\n\\n
+ Top eight go straight to the last 16\; ninth to 24th enter a two-legged 
+ knockout play-off. PSG are two-time defending champions after beating Ar
+ senal on penalties in Budapest.\\n\\nSix Premier League clubs qualified 
+ - the largest representation of any country.\\n\\nFIXTURES ARE NOT YET K
+ NOWN. The league phase draw is on 27 August 2026\, so these entries mark
+  the matchday windows only. Kick-offs are normally 17:45 and 20:00 UK ti
+ me on Tuesday and Wednesday.
+CATEGORIES:Champions League,Matchday 6
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2026-12-09@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:🏆 Champions League - Matchday 6
+DESCRIPTION:Champions League - Matchday 6 (day 2 of 2)\nWednesday 9 Decem
+ ber 2026\n\n72nd season\, second under the 36-team league phase format. 
+ Each club plays eight different opponents\, four home and four away.\\n\
+ \nTop eight go straight to the last 16\; ninth to 24th enter a two-legge
+ d knockout play-off. PSG are two-time defending champions after beating 
+ Arsenal on penalties in Budapest.\\n\\nSix Premier League clubs qualifie
+ d - the largest representation of any country.\\n\\nFIXTURES ARE NOT YET
+  KNOWN. The league phase draw is on 27 August 2026\, so these entries ma
+ rk the matchday windows only. Kick-offs are normally 17:45 and 20:00 UK 
+ time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Matchday 6
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2027-01-19@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:🏆 Champions League - Matchday 7
+DESCRIPTION:Champions League - Matchday 7 (day 1 of 2)\nTuesday 19 Januar
+ y 2027\n\n72nd season\, second under the 36-team league phase format. Ea
+ ch club plays eight different opponents\, four home and four away.\\n\\n
+ Top eight go straight to the last 16\; ninth to 24th enter a two-legged 
+ knockout play-off. PSG are two-time defending champions after beating Ar
+ senal on penalties in Budapest.\\n\\nSix Premier League clubs qualified 
+ - the largest representation of any country.\\n\\nFIXTURES ARE NOT YET K
+ NOWN. The league phase draw is on 27 August 2026\, so these entries mark
+  the matchday windows only. Kick-offs are normally 17:45 and 20:00 UK ti
+ me on Tuesday and Wednesday.
+CATEGORIES:Champions League,Matchday 7
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2027-01-20@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:🏆 Champions League - Matchday 7
+DESCRIPTION:Champions League - Matchday 7 (day 2 of 2)\nWednesday 20 Janu
+ ary 2027\n\n72nd season\, second under the 36-team league phase format. 
+ Each club plays eight different opponents\, four home and four away.\\n\
+ \nTop eight go straight to the last 16\; ninth to 24th enter a two-legge
+ d knockout play-off. PSG are two-time defending champions after beating 
+ Arsenal on penalties in Budapest.\\n\\nSix Premier League clubs qualifie
+ d - the largest representation of any country.\\n\\nFIXTURES ARE NOT YET
+  KNOWN. The league phase draw is on 27 August 2026\, so these entries ma
+ rk the matchday windows only. Kick-offs are normally 17:45 and 20:00 UK 
+ time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Matchday 7
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2027-01-27@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:🏆 Champions League - Matchday 8
+DESCRIPTION:Champions League - Matchday 8\nWednesday 27 January 2027\n\nN
+ otes\nFinal league phase round - all 18 matches kick off simultaneously\
+ , and the top-eight places and play-off spots are settled on the night.\
+ n\n72nd season\, second under the 36-team league phase format. Each club
+  plays eight different opponents\, four home and four away.\\n\\nTop eig
+ ht go straight to the last 16\; ninth to 24th enter a two-legged knockou
+ t play-off. PSG are two-time defending champions after beating Arsenal o
+ n penalties in Budapest.\\n\\nSix Premier League clubs qualified - the l
+ argest representation of any country.\\n\\nFIXTURES ARE NOT YET KNOWN. T
+ he league phase draw is on 27 August 2026\, so these entries mark the ma
+ tchday windows only. Kick-offs are normally 17:45 and 20:00 UK time on T
+ uesday and Wednesday.
+CATEGORIES:Champions League,Matchday 8
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2027-02-16@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:🏆 Champions League - Knockout Play-off - 1st leg
+DESCRIPTION:Champions League - Knockout Play-off - 1st leg (day 1 of 2)\n
+ Tuesday 16 February 2027\n\nNotes\nTeams ranked 9th to 24th in the leagu
+ e phase.\n\n72nd season\, second under the 36-team league phase format. 
+ Each club plays eight different opponents\, four home and four away.\\n\
+ \nTop eight go straight to the last 16\; ninth to 24th enter a two-legge
+ d knockout play-off. PSG are two-time defending champions after beating 
+ Arsenal on penalties in Budapest.\\n\\nSix Premier League clubs qualifie
+ d - the largest representation of any country.\\n\\nFIXTURES ARE NOT YET
+  KNOWN. The league phase draw is on 27 August 2026\, so these entries ma
+ rk the matchday windows only. Kick-offs are normally 17:45 and 20:00 UK 
+ time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Knockout Play-off - 1st leg
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2027-02-17@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:🏆 Champions League - Knockout Play-off - 1st leg
+DESCRIPTION:Champions League - Knockout Play-off - 1st leg (day 2 of 2)\n
+ Wednesday 17 February 2027\n\nNotes\nTeams ranked 9th to 24th in the lea
+ gue phase.\n\n72nd season\, second under the 36-team league phase format
+ . Each club plays eight different opponents\, four home and four away.\\
+ n\\nTop eight go straight to the last 16\; ninth to 24th enter a two-leg
+ ged knockout play-off. PSG are two-time defending champions after beatin
+ g Arsenal on penalties in Budapest.\\n\\nSix Premier League clubs qualif
+ ied - the largest representation of any country.\\n\\nFIXTURES ARE NOT Y
+ ET KNOWN. The league phase draw is on 27 August 2026\, so these entries 
+ mark the matchday windows only. Kick-offs are normally 17:45 and 20:00 U
+ K time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Knockout Play-off - 1st leg
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2027-02-23@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:🏆 Champions League - Knockout Play-off - 2nd leg
+DESCRIPTION:Champions League - Knockout Play-off - 2nd leg (day 1 of 2)\n
+ Tuesday 23 February 2027\n\n72nd season\, second under the 36-team leagu
+ e phase format. Each club plays eight different opponents\, four home an
+ d four away.\\n\\nTop eight go straight to the last 16\; ninth to 24th e
+ nter a two-legged knockout play-off. PSG are two-time defending champion
+ s after beating Arsenal on penalties in Budapest.\\n\\nSix Premier Leagu
+ e clubs qualified - the largest representation of any country.\\n\\nFIXT
+ URES ARE NOT YET KNOWN. The league phase draw is on 27 August 2026\, so 
+ these entries mark the matchday windows only. Kick-offs are normally 17:
+ 45 and 20:00 UK time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Knockout Play-off - 2nd leg
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2027-02-24@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:🏆 Champions League - Knockout Play-off - 2nd leg
+DESCRIPTION:Champions League - Knockout Play-off - 2nd leg (day 2 of 2)\n
+ Wednesday 24 February 2027\n\n72nd season\, second under the 36-team lea
+ gue phase format. Each club plays eight different opponents\, four home 
+ and four away.\\n\\nTop eight go straight to the last 16\; ninth to 24th
+  enter a two-legged knockout play-off. PSG are two-time defending champi
+ ons after beating Arsenal on penalties in Budapest.\\n\\nSix Premier Lea
+ gue clubs qualified - the largest representation of any country.\\n\\nFI
+ XTURES ARE NOT YET KNOWN. The league phase draw is on 27 August 2026\, s
+ o these entries mark the matchday windows only. Kick-offs are normally 1
+ 7:45 and 20:00 UK time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Knockout Play-off - 2nd leg
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2027-03-09@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:🏆 Champions League - Round of 16 - 1st leg
+DESCRIPTION:Champions League - Round of 16 - 1st leg (day 1 of 2)\nTuesda
+ y 9 March 2027\n\n72nd season\, second under the 36-team league phase fo
+ rmat. Each club plays eight different opponents\, four home and four awa
+ y.\\n\\nTop eight go straight to the last 16\; ninth to 24th enter a two
+ -legged knockout play-off. PSG are two-time defending champions after be
+ ating Arsenal on penalties in Budapest.\\n\\nSix Premier League clubs qu
+ alified - the largest representation of any country.\\n\\nFIXTURES ARE N
+ OT YET KNOWN. The league phase draw is on 27 August 2026\, so these entr
+ ies mark the matchday windows only. Kick-offs are normally 17:45 and 20:
+ 00 UK time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Round of 16 - 1st leg
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2027-03-10@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:🏆 Champions League - Round of 16 - 1st leg
+DESCRIPTION:Champions League - Round of 16 - 1st leg (day 2 of 2)\nWednes
+ day 10 March 2027\n\n72nd season\, second under the 36-team league phase
+  format. Each club plays eight different opponents\, four home and four 
+ away.\\n\\nTop eight go straight to the last 16\; ninth to 24th enter a 
+ two-legged knockout play-off. PSG are two-time defending champions after
+  beating Arsenal on penalties in Budapest.\\n\\nSix Premier League clubs
+  qualified - the largest representation of any country.\\n\\nFIXTURES AR
+ E NOT YET KNOWN. The league phase draw is on 27 August 2026\, so these e
+ ntries mark the matchday windows only. Kick-offs are normally 17:45 and 
+ 20:00 UK time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Round of 16 - 1st leg
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2027-03-16@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:🏆 Champions League - Round of 16 - 2nd leg
+DESCRIPTION:Champions League - Round of 16 - 2nd leg (day 1 of 2)\nTuesda
+ y 16 March 2027\n\n72nd season\, second under the 36-team league phase f
+ ormat. Each club plays eight different opponents\, four home and four aw
+ ay.\\n\\nTop eight go straight to the last 16\; ninth to 24th enter a tw
+ o-legged knockout play-off. PSG are two-time defending champions after b
+ eating Arsenal on penalties in Budapest.\\n\\nSix Premier League clubs q
+ ualified - the largest representation of any country.\\n\\nFIXTURES ARE 
+ NOT YET KNOWN. The league phase draw is on 27 August 2026\, so these ent
+ ries mark the matchday windows only. Kick-offs are normally 17:45 and 20
+ :00 UK time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Round of 16 - 2nd leg
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2027-03-17@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:🏆 Champions League - Round of 16 - 2nd leg
+DESCRIPTION:Champions League - Round of 16 - 2nd leg (day 2 of 2)\nWednes
+ day 17 March 2027\n\n72nd season\, second under the 36-team league phase
+  format. Each club plays eight different opponents\, four home and four 
+ away.\\n\\nTop eight go straight to the last 16\; ninth to 24th enter a 
+ two-legged knockout play-off. PSG are two-time defending champions after
+  beating Arsenal on penalties in Budapest.\\n\\nSix Premier League clubs
+  qualified - the largest representation of any country.\\n\\nFIXTURES AR
+ E NOT YET KNOWN. The league phase draw is on 27 August 2026\, so these e
+ ntries mark the matchday windows only. Kick-offs are normally 17:45 and 
+ 20:00 UK time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Round of 16 - 2nd leg
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2027-04-06@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:🏆 Champions League - Quarter-final - 1st leg
+DESCRIPTION:Champions League - Quarter-final - 1st leg (day 1 of 2)\nTues
+ day 6 April 2027\n\n72nd season\, second under the 36-team league phase 
+ format. Each club plays eight different opponents\, four home and four a
+ way.\\n\\nTop eight go straight to the last 16\; ninth to 24th enter a t
+ wo-legged knockout play-off. PSG are two-time defending champions after 
+ beating Arsenal on penalties in Budapest.\\n\\nSix Premier League clubs 
+ qualified - the largest representation of any country.\\n\\nFIXTURES ARE
+  NOT YET KNOWN. The league phase draw is on 27 August 2026\, so these en
+ tries mark the matchday windows only. Kick-offs are normally 17:45 and 2
+ 0:00 UK time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Quarter-final - 1st leg
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2027-04-07@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:🏆 Champions League - Quarter-final - 1st leg
+DESCRIPTION:Champions League - Quarter-final - 1st leg (day 2 of 2)\nWedn
+ esday 7 April 2027\n\n72nd season\, second under the 36-team league phas
+ e format. Each club plays eight different opponents\, four home and four
+  away.\\n\\nTop eight go straight to the last 16\; ninth to 24th enter a
+  two-legged knockout play-off. PSG are two-time defending champions afte
+ r beating Arsenal on penalties in Budapest.\\n\\nSix Premier League club
+ s qualified - the largest representation of any country.\\n\\nFIXTURES A
+ RE NOT YET KNOWN. The league phase draw is on 27 August 2026\, so these 
+ entries mark the matchday windows only. Kick-offs are normally 17:45 and
+  20:00 UK time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Quarter-final - 1st leg
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2027-04-13@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:🏆 Champions League - Quarter-final - 2nd leg
+DESCRIPTION:Champions League - Quarter-final - 2nd leg (day 1 of 2)\nTues
+ day 13 April 2027\n\n72nd season\, second under the 36-team league phase
+  format. Each club plays eight different opponents\, four home and four 
+ away.\\n\\nTop eight go straight to the last 16\; ninth to 24th enter a 
+ two-legged knockout play-off. PSG are two-time defending champions after
+  beating Arsenal on penalties in Budapest.\\n\\nSix Premier League clubs
+  qualified - the largest representation of any country.\\n\\nFIXTURES AR
+ E NOT YET KNOWN. The league phase draw is on 27 August 2026\, so these e
+ ntries mark the matchday windows only. Kick-offs are normally 17:45 and 
+ 20:00 UK time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Quarter-final - 2nd leg
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2027-04-14@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:🏆 Champions League - Quarter-final - 2nd leg
+DESCRIPTION:Champions League - Quarter-final - 2nd leg (day 2 of 2)\nWedn
+ esday 14 April 2027\n\n72nd season\, second under the 36-team league pha
+ se format. Each club plays eight different opponents\, four home and fou
+ r away.\\n\\nTop eight go straight to the last 16\; ninth to 24th enter 
+ a two-legged knockout play-off. PSG are two-time defending champions aft
+ er beating Arsenal on penalties in Budapest.\\n\\nSix Premier League clu
+ bs qualified - the largest representation of any country.\\n\\nFIXTURES 
+ ARE NOT YET KNOWN. The league phase draw is on 27 August 2026\, so these
+  entries mark the matchday windows only. Kick-offs are normally 17:45 an
+ d 20:00 UK time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Quarter-final - 2nd leg
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2027-04-27@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:🏆 Champions League - Semi-final - 1st leg
+DESCRIPTION:Champions League - Semi-final - 1st leg (day 1 of 2)\nTuesday
+  27 April 2027\n\n72nd season\, second under the 36-team league phase fo
+ rmat. Each club plays eight different opponents\, four home and four awa
+ y.\\n\\nTop eight go straight to the last 16\; ninth to 24th enter a two
+ -legged knockout play-off. PSG are two-time defending champions after be
+ ating Arsenal on penalties in Budapest.\\n\\nSix Premier League clubs qu
+ alified - the largest representation of any country.\\n\\nFIXTURES ARE N
+ OT YET KNOWN. The league phase draw is on 27 August 2026\, so these entr
+ ies mark the matchday windows only. Kick-offs are normally 17:45 and 20:
+ 00 UK time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Semi-final - 1st leg
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2027-04-28@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:🏆 Champions League - Semi-final - 1st leg
+DESCRIPTION:Champions League - Semi-final - 1st leg (day 2 of 2)\nWednesd
+ ay 28 April 2027\n\n72nd season\, second under the 36-team league phase 
+ format. Each club plays eight different opponents\, four home and four a
+ way.\\n\\nTop eight go straight to the last 16\; ninth to 24th enter a t
+ wo-legged knockout play-off. PSG are two-time defending champions after 
+ beating Arsenal on penalties in Budapest.\\n\\nSix Premier League clubs 
+ qualified - the largest representation of any country.\\n\\nFIXTURES ARE
+  NOT YET KNOWN. The league phase draw is on 27 August 2026\, so these en
+ tries mark the matchday windows only. Kick-offs are normally 17:45 and 2
+ 0:00 UK time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Semi-final - 1st leg
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2027-05-04@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:🏆 Champions League - Semi-final - 2nd leg
+DESCRIPTION:Champions League - Semi-final - 2nd leg (day 1 of 2)\nTuesday
+  4 May 2027\n\n72nd season\, second under the 36-team league phase forma
+ t. Each club plays eight different opponents\, four home and four away.\
+ \n\\nTop eight go straight to the last 16\; ninth to 24th enter a two-le
+ gged knockout play-off. PSG are two-time defending champions after beati
+ ng Arsenal on penalties in Budapest.\\n\\nSix Premier League clubs quali
+ fied - the largest representation of any country.\\n\\nFIXTURES ARE NOT 
+ YET KNOWN. The league phase draw is on 27 August 2026\, so these entries
+  mark the matchday windows only. Kick-offs are normally 17:45 and 20:00 
+ UK time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Semi-final - 2nd leg
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-2027-05-05@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:🏆 Champions League - Semi-final - 2nd leg
+DESCRIPTION:Champions League - Semi-final - 2nd leg (day 2 of 2)\nWednesd
+ ay 5 May 2027\n\n72nd season\, second under the 36-team league phase for
+ mat. Each club plays eight different opponents\, four home and four away
+ .\\n\\nTop eight go straight to the last 16\; ninth to 24th enter a two-
+ legged knockout play-off. PSG are two-time defending champions after bea
+ ting Arsenal on penalties in Budapest.\\n\\nSix Premier League clubs qua
+ lified - the largest representation of any country.\\n\\nFIXTURES ARE NO
+ T YET KNOWN. The league phase draw is on 27 August 2026\, so these entri
+ es mark the matchday windows only. Kick-offs are normally 17:45 and 20:0
+ 0 UK time on Tuesday and Wednesday.
+CATEGORIES:Champions League,Semi-final - 2nd leg
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ucl-2627-final@claude-ucl
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:🏆 CHAMPIONS LEAGUE FINAL
+LOCATION:Estadio Metropolitano\, Av. de Luis Aragones 4\, 28022 Madrid\, 
+ Spain
+GEO:40.436111;-3.599444
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Av. de Luis Aragones 4, 
+ 28022 Madrid, Spain";X-APPLE-RADIUS=300;X-TITLE="Estadio Metropolitano":
+ geo:40.436111,-3.599444
+DESCRIPTION:UEFA Champions League Final\nSaturday 5 June 2027\n\nEstadio 
+ Metropolitano\, Madrid - its second final after Liverpool beat Tottenham
+  there in 2019.\n\nThe latest date the final has been held in the modern
+  era\, since 1992. Kick-off time to be confirmed\; recent finals have be
+ en 20:00 UK time.\n\nPSG go for a third straight title.
+CATEGORIES:Champions League,Final
+URL:https://www.uefa.com/uefachampionsleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
