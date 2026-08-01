@@ -1,0 +1,381 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//UEFA Europa League//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:🥉 Europa League
+X-APPLE-CALENDAR-COLOR:#FF6900
+X-WR-CALDESC:UEFA Europa League 2026/27 - confirmed matchday and knockout
+  dates. Fixtures follow the league phase draw on 27 August 2026.
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:uel-2627-draw@claude-uel
+DTSTAMP:20260801T090000Z
+DTSTART:20260828T120000Z
+DTEND:20260828T140000Z
+SUMMARY:🥉 Europa League - League Phase Draw
+LOCATION:UEFA HQ\, Route de Geneve 46\, 1260 Nyon\, Switzerland
+GEO:46.379444;6.226389
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Route de Geneve 46, 1260
+  Nyon, Switzerland";X-APPLE-RADIUS=200;X-TITLE="UEFA HQ":geo:46.379444,6
+ .226389
+DESCRIPTION:Europa League league phase draw\nFriday 28 August 2026\n\nFro
+ m UEFA headquarters in Nyon. Time to be confirmed.\n\n36 clubs drawn int
+ o four pots of nine. Each club is drawn against two teams from every pot
+ \, one home and one away.\n\nAfter this\, the full fixture list is relea
+ sed and this calendar can be rebuilt with actual matches.
+CATEGORIES:Europa League,Draw
+URL:https://www.uefa.com/uefaeuropaleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uel-2627-2026-09-16@claude-uel
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:🥉 Europa League - Matchday 1
+DESCRIPTION:Europa League - Matchday 1 (day 1 of 2)\nWednesday 16 Septemb
+ er 2026\n\nNotes\nLeague phase opens. Europa League nights are Thursdays
+  from Matchday 2 on.\n\n56th season\, second under the 36-team league ph
+ ase. Each club plays eight different opponents\, four home and four away
+ .\\n\\nTop eight go straight to the last 16\; 9th to 24th enter a two-le
+ gged play-off. Aston Villa are holders after beating Freiburg 3-0 in Ist
+ anbul.\\n\\nThe winners qualify for the 2027/28 Champions League league 
+ phase.\\n\\nFIXTURES ARE NOT YET KNOWN - the draw is on 28 August 2026. 
+ Matches are Thursday evenings\, normally 17:45 and 20:00 UK time.
+CATEGORIES:Europa League,Matchday 1
+URL:https://www.uefa.com/uefaeuropaleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uel-2627-2026-09-17@claude-uel
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:🥉 Europa League - Matchday 1
+DESCRIPTION:Europa League - Matchday 1 (day 2 of 2)\nThursday 17 Septembe
+ r 2026\n\nNotes\nLeague phase opens. Europa League nights are Thursdays 
+ from Matchday 2 on.\n\n56th season\, second under the 36-team league pha
+ se. Each club plays eight different opponents\, four home and four away.
+ \\n\\nTop eight go straight to the last 16\; 9th to 24th enter a two-leg
+ ged play-off. Aston Villa are holders after beating Freiburg 3-0 in Ista
+ nbul.\\n\\nThe winners qualify for the 2027/28 Champions League league p
+ hase.\\n\\nFIXTURES ARE NOT YET KNOWN - the draw is on 28 August 2026. M
+ atches are Thursday evenings\, normally 17:45 and 20:00 UK time.
+CATEGORIES:Europa League,Matchday 1
+URL:https://www.uefa.com/uefaeuropaleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uel-2627-2026-10-15@claude-uel
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:🥉 Europa League - Matchday 2
+DESCRIPTION:Europa League - Matchday 2\nThursday 15 October 2026\n\n56th 
+ season\, second under the 36-team league phase. Each club plays eight di
+ fferent opponents\, four home and four away.\\n\\nTop eight go straight 
+ to the last 16\; 9th to 24th enter a two-legged play-off. Aston Villa ar
+ e holders after beating Freiburg 3-0 in Istanbul.\\n\\nThe winners quali
+ fy for the 2027/28 Champions League league phase.\\n\\nFIXTURES ARE NOT 
+ YET KNOWN - the draw is on 28 August 2026. Matches are Thursday evenings
+ \, normally 17:45 and 20:00 UK time.
+CATEGORIES:Europa League,Matchday 2
+URL:https://www.uefa.com/uefaeuropaleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uel-2627-2026-10-22@claude-uel
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:🥉 Europa League - Matchday 3
+DESCRIPTION:Europa League - Matchday 3\nThursday 22 October 2026\n\n56th 
+ season\, second under the 36-team league phase. Each club plays eight di
+ fferent opponents\, four home and four away.\\n\\nTop eight go straight 
+ to the last 16\; 9th to 24th enter a two-legged play-off. Aston Villa ar
+ e holders after beating Freiburg 3-0 in Istanbul.\\n\\nThe winners quali
+ fy for the 2027/28 Champions League league phase.\\n\\nFIXTURES ARE NOT 
+ YET KNOWN - the draw is on 28 August 2026. Matches are Thursday evenings
+ \, normally 17:45 and 20:00 UK time.
+CATEGORIES:Europa League,Matchday 3
+URL:https://www.uefa.com/uefaeuropaleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uel-2627-2026-11-05@claude-uel
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:🥉 Europa League - Matchday 4
+DESCRIPTION:Europa League - Matchday 4\nThursday 5 November 2026\n\n56th 
+ season\, second under the 36-team league phase. Each club plays eight di
+ fferent opponents\, four home and four away.\\n\\nTop eight go straight 
+ to the last 16\; 9th to 24th enter a two-legged play-off. Aston Villa ar
+ e holders after beating Freiburg 3-0 in Istanbul.\\n\\nThe winners quali
+ fy for the 2027/28 Champions League league phase.\\n\\nFIXTURES ARE NOT 
+ YET KNOWN - the draw is on 28 August 2026. Matches are Thursday evenings
+ \, normally 17:45 and 20:00 UK time.
+CATEGORIES:Europa League,Matchday 4
+URL:https://www.uefa.com/uefaeuropaleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uel-2627-2026-11-26@claude-uel
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:🥉 Europa League - Matchday 5
+DESCRIPTION:Europa League - Matchday 5\nThursday 26 November 2026\n\n56th
+  season\, second under the 36-team league phase. Each club plays eight d
+ ifferent opponents\, four home and four away.\\n\\nTop eight go straight
+  to the last 16\; 9th to 24th enter a two-legged play-off. Aston Villa a
+ re holders after beating Freiburg 3-0 in Istanbul.\\n\\nThe winners qual
+ ify for the 2027/28 Champions League league phase.\\n\\nFIXTURES ARE NOT
+  YET KNOWN - the draw is on 28 August 2026. Matches are Thursday evening
+ s\, normally 17:45 and 20:00 UK time.
+CATEGORIES:Europa League,Matchday 5
+URL:https://www.uefa.com/uefaeuropaleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uel-2627-2026-12-10@claude-uel
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:🥉 Europa League - Matchday 6
+DESCRIPTION:Europa League - Matchday 6\nThursday 10 December 2026\n\n56th
+  season\, second under the 36-team league phase. Each club plays eight d
+ ifferent opponents\, four home and four away.\\n\\nTop eight go straight
+  to the last 16\; 9th to 24th enter a two-legged play-off. Aston Villa a
+ re holders after beating Freiburg 3-0 in Istanbul.\\n\\nThe winners qual
+ ify for the 2027/28 Champions League league phase.\\n\\nFIXTURES ARE NOT
+  YET KNOWN - the draw is on 28 August 2026. Matches are Thursday evening
+ s\, normally 17:45 and 20:00 UK time.
+CATEGORIES:Europa League,Matchday 6
+URL:https://www.uefa.com/uefaeuropaleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uel-2627-2027-01-21@claude-uel
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:🥉 Europa League - Matchday 7
+DESCRIPTION:Europa League - Matchday 7\nThursday 21 January 2027\n\n56th 
+ season\, second under the 36-team league phase. Each club plays eight di
+ fferent opponents\, four home and four away.\\n\\nTop eight go straight 
+ to the last 16\; 9th to 24th enter a two-legged play-off. Aston Villa ar
+ e holders after beating Freiburg 3-0 in Istanbul.\\n\\nThe winners quali
+ fy for the 2027/28 Champions League league phase.\\n\\nFIXTURES ARE NOT 
+ YET KNOWN - the draw is on 28 August 2026. Matches are Thursday evenings
+ \, normally 17:45 and 20:00 UK time.
+CATEGORIES:Europa League,Matchday 7
+URL:https://www.uefa.com/uefaeuropaleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uel-2627-2027-01-28@claude-uel
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:🥉 Europa League - Matchday 8
+DESCRIPTION:Europa League - Matchday 8\nThursday 28 January 2027\n\nNotes
+ \nFinal league phase round - all matches kick off simultaneously. Top ei
+ ght go straight to the last 16.\n\n56th season\, second under the 36-tea
+ m league phase. Each club plays eight different opponents\, four home an
+ d four away.\\n\\nTop eight go straight to the last 16\; 9th to 24th ent
+ er a two-legged play-off. Aston Villa are holders after beating Freiburg
+  3-0 in Istanbul.\\n\\nThe winners qualify for the 2027/28 Champions Lea
+ gue league phase.\\n\\nFIXTURES ARE NOT YET KNOWN - the draw is on 28 Au
+ gust 2026. Matches are Thursday evenings\, normally 17:45 and 20:00 UK t
+ ime.
+CATEGORIES:Europa League,Matchday 8
+URL:https://www.uefa.com/uefaeuropaleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uel-2627-2027-02-18@claude-uel
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:🥉 Europa League - Knockout Play-off - 1st leg
+DESCRIPTION:Europa League - Knockout Play-off - 1st leg\nThursday 18 Febr
+ uary 2027\n\nNotes\nTeams ranked 9th to 24th. Those finishing 9th-16th h
+ ost the second leg.\n\n56th season\, second under the 36-team league pha
+ se. Each club plays eight different opponents\, four home and four away.
+ \\n\\nTop eight go straight to the last 16\; 9th to 24th enter a two-leg
+ ged play-off. Aston Villa are holders after beating Freiburg 3-0 in Ista
+ nbul.\\n\\nThe winners qualify for the 2027/28 Champions League league p
+ hase.\\n\\nFIXTURES ARE NOT YET KNOWN - the draw is on 28 August 2026. M
+ atches are Thursday evenings\, normally 17:45 and 20:00 UK time.
+CATEGORIES:Europa League,Knockout Play-off - 1st leg
+URL:https://www.uefa.com/uefaeuropaleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uel-2627-2027-02-25@claude-uel
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:🥉 Europa League - Knockout Play-off - 2nd leg
+DESCRIPTION:Europa League - Knockout Play-off - 2nd leg\nThursday 25 Febr
+ uary 2027\n\n56th season\, second under the 36-team league phase. Each c
+ lub plays eight different opponents\, four home and four away.\\n\\nTop 
+ eight go straight to the last 16\; 9th to 24th enter a two-legged play-o
+ ff. Aston Villa are holders after beating Freiburg 3-0 in Istanbul.\\n\\
+ nThe winners qualify for the 2027/28 Champions League league phase.\\n\\
+ nFIXTURES ARE NOT YET KNOWN - the draw is on 28 August 2026. Matches are
+  Thursday evenings\, normally 17:45 and 20:00 UK time.
+CATEGORIES:Europa League,Knockout Play-off - 2nd leg
+URL:https://www.uefa.com/uefaeuropaleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uel-2627-2027-03-11@claude-uel
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:🥉 Europa League - Round of 16 - 1st leg
+DESCRIPTION:Europa League - Round of 16 - 1st leg\nThursday 11 March 2027
+ \n\n56th season\, second under the 36-team league phase. Each club plays
+  eight different opponents\, four home and four away.\\n\\nTop eight go 
+ straight to the last 16\; 9th to 24th enter a two-legged play-off. Aston
+  Villa are holders after beating Freiburg 3-0 in Istanbul.\\n\\nThe winn
+ ers qualify for the 2027/28 Champions League league phase.\\n\\nFIXTURES
+  ARE NOT YET KNOWN - the draw is on 28 August 2026. Matches are Thursday
+  evenings\, normally 17:45 and 20:00 UK time.
+CATEGORIES:Europa League,Round of 16 - 1st leg
+URL:https://www.uefa.com/uefaeuropaleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uel-2627-2027-03-18@claude-uel
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:🥉 Europa League - Round of 16 - 2nd leg
+DESCRIPTION:Europa League - Round of 16 - 2nd leg\nThursday 18 March 2027
+ \n\n56th season\, second under the 36-team league phase. Each club plays
+  eight different opponents\, four home and four away.\\n\\nTop eight go 
+ straight to the last 16\; 9th to 24th enter a two-legged play-off. Aston
+  Villa are holders after beating Freiburg 3-0 in Istanbul.\\n\\nThe winn
+ ers qualify for the 2027/28 Champions League league phase.\\n\\nFIXTURES
+  ARE NOT YET KNOWN - the draw is on 28 August 2026. Matches are Thursday
+  evenings\, normally 17:45 and 20:00 UK time.
+CATEGORIES:Europa League,Round of 16 - 2nd leg
+URL:https://www.uefa.com/uefaeuropaleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uel-2627-2027-04-08@claude-uel
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:🥉 Europa League - Quarter-final - 1st leg
+DESCRIPTION:Europa League - Quarter-final - 1st leg\nThursday 8 April 202
+ 7\n\n56th season\, second under the 36-team league phase. Each club play
+ s eight different opponents\, four home and four away.\\n\\nTop eight go
+  straight to the last 16\; 9th to 24th enter a two-legged play-off. Asto
+ n Villa are holders after beating Freiburg 3-0 in Istanbul.\\n\\nThe win
+ ners qualify for the 2027/28 Champions League league phase.\\n\\nFIXTURE
+ S ARE NOT YET KNOWN - the draw is on 28 August 2026. Matches are Thursda
+ y evenings\, normally 17:45 and 20:00 UK time.
+CATEGORIES:Europa League,Quarter-final - 1st leg
+URL:https://www.uefa.com/uefaeuropaleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uel-2627-2027-04-15@claude-uel
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:🥉 Europa League - Quarter-final - 2nd leg
+DESCRIPTION:Europa League - Quarter-final - 2nd leg\nThursday 15 April 20
+ 27\n\n56th season\, second under the 36-team league phase. Each club pla
+ ys eight different opponents\, four home and four away.\\n\\nTop eight g
+ o straight to the last 16\; 9th to 24th enter a two-legged play-off. Ast
+ on Villa are holders after beating Freiburg 3-0 in Istanbul.\\n\\nThe wi
+ nners qualify for the 2027/28 Champions League league phase.\\n\\nFIXTUR
+ ES ARE NOT YET KNOWN - the draw is on 28 August 2026. Matches are Thursd
+ ay evenings\, normally 17:45 and 20:00 UK time.
+CATEGORIES:Europa League,Quarter-final - 2nd leg
+URL:https://www.uefa.com/uefaeuropaleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uel-2627-2027-04-29@claude-uel
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:🥉 Europa League - Semi-final - 1st leg
+DESCRIPTION:Europa League - Semi-final - 1st leg\nThursday 29 April 2027\
+ n\n56th season\, second under the 36-team league phase. Each club plays 
+ eight different opponents\, four home and four away.\\n\\nTop eight go s
+ traight to the last 16\; 9th to 24th enter a two-legged play-off. Aston 
+ Villa are holders after beating Freiburg 3-0 in Istanbul.\\n\\nThe winne
+ rs qualify for the 2027/28 Champions League league phase.\\n\\nFIXTURES 
+ ARE NOT YET KNOWN - the draw is on 28 August 2026. Matches are Thursday 
+ evenings\, normally 17:45 and 20:00 UK time.
+CATEGORIES:Europa League,Semi-final - 1st leg
+URL:https://www.uefa.com/uefaeuropaleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uel-2627-2027-05-06@claude-uel
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:🥉 Europa League - Semi-final - 2nd leg
+DESCRIPTION:Europa League - Semi-final - 2nd leg\nThursday 6 May 2027\n\n
+ 56th season\, second under the 36-team league phase. Each club plays eig
+ ht different opponents\, four home and four away.\\n\\nTop eight go stra
+ ight to the last 16\; 9th to 24th enter a two-legged play-off. Aston Vil
+ la are holders after beating Freiburg 3-0 in Istanbul.\\n\\nThe winners 
+ qualify for the 2027/28 Champions League league phase.\\n\\nFIXTURES ARE
+  NOT YET KNOWN - the draw is on 28 August 2026. Matches are Thursday eve
+ nings\, normally 17:45 and 20:00 UK time.
+CATEGORIES:Europa League,Semi-final - 2nd leg
+URL:https://www.uefa.com/uefaeuropaleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:uel-2627-final@claude-uel
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:🥉 EUROPA LEAGUE FINAL
+LOCATION:Deutsche Bank Park\, Moerfelder Landstrasse 362\, 60528 Frankfur
+ t\, Germany
+GEO:50.068611;8.645556
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Moerfelder Landstrasse 3
+ 62, 60528 Frankfurt, Germany";X-APPLE-RADIUS=300;X-TITLE="Deutsche Bank 
+ Park":geo:50.068611,8.645556
+DESCRIPTION:UEFA Europa League Final\nWednesday 26 May 2027\n\nDeutsche B
+ ank Park (Waldstadion)\, Frankfurt.\n\nKick-off to be confirmed\; recent
+  finals have been 20:00 UK time.\n\nAston Villa are defending champions 
+ after beating Freiburg 3-0 in Istanbul. The winners go into the 2027/28 
+ Champions League.
+CATEGORIES:Europa League,Final
+URL:https://www.uefa.com/uefaeuropaleague/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
