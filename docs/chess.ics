@@ -1,0 +1,1025 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//FIDE Chess 2026//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:♟ FIDE Chess - Upcoming
+X-WR-CALDESC:Major chess with confirmed dates only: the 46th Chess Olympi
+ ad and the Gukesh v Sindarov World Championship match.
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:olympiad-2026-d1@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:♟ Chess Olympiad - Opening Ceremony\, Media Day & Technical Mee
+ ting
+LOCATION:Silk Road International Exhibition Centre\, Silk Road Samarkand\
+ , Samarqand 140100\, Uzbekistan
+GEO:39.65818;67.063452
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Silk Road Samarkand, Sam
+ arqand 140100, Uzbekistan";X-APPLE-RADIUS=200;X-TITLE="Silk Road Interna
+ tional Exhibition Centre":geo:39.65818,67.063452
+DESCRIPTION:46th Chess Olympiad\nOpening Ceremony\, Media Day & Technical
+  Meeting\nTuesday 15 September 2026\n\nDay 1 of 13\nVenue: Silk Road Int
+ ernational Exhibition Centre\nAddress: Silk Road Samarkand\, Samarqand 1
+ 40100\, Uzbekistan\nDates: Tue 15 Sep - Sun 27 Sep 2026\n\nNotes\n46th C
+ hess Olympiad\, Samarkand\, Uzbekistan.\n\nAround 200 teams across the O
+ pen and Women's sections\, 11 rounds on the Swiss system over 14 days. I
+ ndia defend the titles they won in Budapest in 2024\, taking gold in bot
+ h sections.\n\nWatch for Javokhir Sindarov on home soil - he plays here 
+ for Uzbekistan two months before challenging Gukesh for the world title\
+ , and Gukesh is expected to play for India.\n\nRound start times were no
+ t in FIDE's published schedule\, so these are all-day entries. Samarkand
+  is UTC+5.
+CATEGORIES:Chess,Chess Olympiad
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:olympiad-2026-d2@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:♟ Chess Olympiad - Round 1
+LOCATION:Silk Road International Exhibition Centre\, Silk Road Samarkand\
+ , Samarqand 140100\, Uzbekistan
+GEO:39.65818;67.063452
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Silk Road Samarkand, Sam
+ arqand 140100, Uzbekistan";X-APPLE-RADIUS=200;X-TITLE="Silk Road Interna
+ tional Exhibition Centre":geo:39.65818,67.063452
+DESCRIPTION:46th Chess Olympiad\nRound 1\nWednesday 16 September 2026\n\n
+ Day 2 of 13\nVenue: Silk Road International Exhibition Centre\nAddress: 
+ Silk Road Samarkand\, Samarqand 140100\, Uzbekistan\nDates: Tue 15 Sep -
+  Sun 27 Sep 2026\n\nNotes\n46th Chess Olympiad\, Samarkand\, Uzbekistan.
+ \n\nAround 200 teams across the Open and Women's sections\, 11 rounds on
+  the Swiss system over 14 days. India defend the titles they won in Buda
+ pest in 2024\, taking gold in both sections.\n\nWatch for Javokhir Sinda
+ rov on home soil - he plays here for Uzbekistan two months before challe
+ nging Gukesh for the world title\, and Gukesh is expected to play for In
+ dia.\n\nRound start times were not in FIDE's published schedule\, so the
+ se are all-day entries. Samarkand is UTC+5.
+CATEGORIES:Chess,Chess Olympiad
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:olympiad-2026-d3@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:♟ Chess Olympiad - Round 2
+LOCATION:Silk Road International Exhibition Centre\, Silk Road Samarkand\
+ , Samarqand 140100\, Uzbekistan
+GEO:39.65818;67.063452
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Silk Road Samarkand, Sam
+ arqand 140100, Uzbekistan";X-APPLE-RADIUS=200;X-TITLE="Silk Road Interna
+ tional Exhibition Centre":geo:39.65818,67.063452
+DESCRIPTION:46th Chess Olympiad\nRound 2\nThursday 17 September 2026\n\nD
+ ay 3 of 13\nVenue: Silk Road International Exhibition Centre\nAddress: S
+ ilk Road Samarkand\, Samarqand 140100\, Uzbekistan\nDates: Tue 15 Sep - 
+ Sun 27 Sep 2026\n\nNotes\n46th Chess Olympiad\, Samarkand\, Uzbekistan.\
+ n\nAround 200 teams across the Open and Women's sections\, 11 rounds on 
+ the Swiss system over 14 days. India defend the titles they won in Budap
+ est in 2024\, taking gold in both sections.\n\nWatch for Javokhir Sindar
+ ov on home soil - he plays here for Uzbekistan two months before challen
+ ging Gukesh for the world title\, and Gukesh is expected to play for Ind
+ ia.\n\nRound start times were not in FIDE's published schedule\, so thes
+ e are all-day entries. Samarkand is UTC+5.
+CATEGORIES:Chess,Chess Olympiad
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:olympiad-2026-d4@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:♟ Chess Olympiad - Round 3
+LOCATION:Silk Road International Exhibition Centre\, Silk Road Samarkand\
+ , Samarqand 140100\, Uzbekistan
+GEO:39.65818;67.063452
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Silk Road Samarkand, Sam
+ arqand 140100, Uzbekistan";X-APPLE-RADIUS=200;X-TITLE="Silk Road Interna
+ tional Exhibition Centre":geo:39.65818,67.063452
+DESCRIPTION:46th Chess Olympiad\nRound 3\nFriday 18 September 2026\n\nDay
+  4 of 13\nVenue: Silk Road International Exhibition Centre\nAddress: Sil
+ k Road Samarkand\, Samarqand 140100\, Uzbekistan\nDates: Tue 15 Sep - Su
+ n 27 Sep 2026\n\nNotes\n46th Chess Olympiad\, Samarkand\, Uzbekistan.\n\
+ nAround 200 teams across the Open and Women's sections\, 11 rounds on th
+ e Swiss system over 14 days. India defend the titles they won in Budapes
+ t in 2024\, taking gold in both sections.\n\nWatch for Javokhir Sindarov
+  on home soil - he plays here for Uzbekistan two months before challengi
+ ng Gukesh for the world title\, and Gukesh is expected to play for India
+ .\n\nRound start times were not in FIDE's published schedule\, so these 
+ are all-day entries. Samarkand is UTC+5.
+CATEGORIES:Chess,Chess Olympiad
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:olympiad-2026-d5@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:♟ Chess Olympiad - Round 4
+LOCATION:Silk Road International Exhibition Centre\, Silk Road Samarkand\
+ , Samarqand 140100\, Uzbekistan
+GEO:39.65818;67.063452
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Silk Road Samarkand, Sam
+ arqand 140100, Uzbekistan";X-APPLE-RADIUS=200;X-TITLE="Silk Road Interna
+ tional Exhibition Centre":geo:39.65818,67.063452
+DESCRIPTION:46th Chess Olympiad\nRound 4\nSaturday 19 September 2026\n\nD
+ ay 5 of 13\nVenue: Silk Road International Exhibition Centre\nAddress: S
+ ilk Road Samarkand\, Samarqand 140100\, Uzbekistan\nDates: Tue 15 Sep - 
+ Sun 27 Sep 2026\n\nNotes\n46th Chess Olympiad\, Samarkand\, Uzbekistan.\
+ n\nAround 200 teams across the Open and Women's sections\, 11 rounds on 
+ the Swiss system over 14 days. India defend the titles they won in Budap
+ est in 2024\, taking gold in both sections.\n\nWatch for Javokhir Sindar
+ ov on home soil - he plays here for Uzbekistan two months before challen
+ ging Gukesh for the world title\, and Gukesh is expected to play for Ind
+ ia.\n\nRound start times were not in FIDE's published schedule\, so thes
+ e are all-day entries. Samarkand is UTC+5.
+CATEGORIES:Chess,Chess Olympiad
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:olympiad-2026-d6@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:♟ Chess Olympiad - Round 5
+LOCATION:Silk Road International Exhibition Centre\, Silk Road Samarkand\
+ , Samarqand 140100\, Uzbekistan
+GEO:39.65818;67.063452
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Silk Road Samarkand, Sam
+ arqand 140100, Uzbekistan";X-APPLE-RADIUS=200;X-TITLE="Silk Road Interna
+ tional Exhibition Centre":geo:39.65818,67.063452
+DESCRIPTION:46th Chess Olympiad\nRound 5\nSunday 20 September 2026\n\nDay
+  6 of 13\nVenue: Silk Road International Exhibition Centre\nAddress: Sil
+ k Road Samarkand\, Samarqand 140100\, Uzbekistan\nDates: Tue 15 Sep - Su
+ n 27 Sep 2026\n\nNotes\n46th Chess Olympiad\, Samarkand\, Uzbekistan.\n\
+ nAround 200 teams across the Open and Women's sections\, 11 rounds on th
+ e Swiss system over 14 days. India defend the titles they won in Budapes
+ t in 2024\, taking gold in both sections.\n\nWatch for Javokhir Sindarov
+  on home soil - he plays here for Uzbekistan two months before challengi
+ ng Gukesh for the world title\, and Gukesh is expected to play for India
+ .\n\nRound start times were not in FIDE's published schedule\, so these 
+ are all-day entries. Samarkand is UTC+5.
+CATEGORIES:Chess,Chess Olympiad
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:olympiad-2026-d7@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:♟ Chess Olympiad - Round 6
+LOCATION:Silk Road International Exhibition Centre\, Silk Road Samarkand\
+ , Samarqand 140100\, Uzbekistan
+GEO:39.65818;67.063452
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Silk Road Samarkand, Sam
+ arqand 140100, Uzbekistan";X-APPLE-RADIUS=200;X-TITLE="Silk Road Interna
+ tional Exhibition Centre":geo:39.65818,67.063452
+DESCRIPTION:46th Chess Olympiad\nRound 6\nMonday 21 September 2026\n\nDay
+  7 of 13\nVenue: Silk Road International Exhibition Centre\nAddress: Sil
+ k Road Samarkand\, Samarqand 140100\, Uzbekistan\nDates: Tue 15 Sep - Su
+ n 27 Sep 2026\n\nNotes\n46th Chess Olympiad\, Samarkand\, Uzbekistan.\n\
+ nAround 200 teams across the Open and Women's sections\, 11 rounds on th
+ e Swiss system over 14 days. India defend the titles they won in Budapes
+ t in 2024\, taking gold in both sections.\n\nWatch for Javokhir Sindarov
+  on home soil - he plays here for Uzbekistan two months before challengi
+ ng Gukesh for the world title\, and Gukesh is expected to play for India
+ .\n\nRound start times were not in FIDE's published schedule\, so these 
+ are all-day entries. Samarkand is UTC+5.
+CATEGORIES:Chess,Chess Olympiad
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:olympiad-2026-d8@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:♟ Chess Olympiad - REST DAY - no play
+LOCATION:Silk Road International Exhibition Centre\, Silk Road Samarkand\
+ , Samarqand 140100\, Uzbekistan
+GEO:39.65818;67.063452
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Silk Road Samarkand, Sam
+ arqand 140100, Uzbekistan";X-APPLE-RADIUS=200;X-TITLE="Silk Road Interna
+ tional Exhibition Centre":geo:39.65818,67.063452
+DESCRIPTION:46th Chess Olympiad\nREST DAY - no play\nTuesday 22 September
+  2026\n\nDay 8 of 13\nVenue: Silk Road International Exhibition Centre\n
+ Address: Silk Road Samarkand\, Samarqand 140100\, Uzbekistan\nDates: Tue
+  15 Sep - Sun 27 Sep 2026\n\nNotes\n46th Chess Olympiad\, Samarkand\, Uz
+ bekistan.\n\nAround 200 teams across the Open and Women's sections\, 11 
+ rounds on the Swiss system over 14 days. India defend the titles they wo
+ n in Budapest in 2024\, taking gold in both sections.\n\nWatch for Javok
+ hir Sindarov on home soil - he plays here for Uzbekistan two months befo
+ re challenging Gukesh for the world title\, and Gukesh is expected to pl
+ ay for India.\n\nRound start times were not in FIDE's published schedule
+ \, so these are all-day entries. Samarkand is UTC+5.
+CATEGORIES:Chess,Chess Olympiad
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:olympiad-2026-d9@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:♟ Chess Olympiad - Round 7
+LOCATION:Silk Road International Exhibition Centre\, Silk Road Samarkand\
+ , Samarqand 140100\, Uzbekistan
+GEO:39.65818;67.063452
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Silk Road Samarkand, Sam
+ arqand 140100, Uzbekistan";X-APPLE-RADIUS=200;X-TITLE="Silk Road Interna
+ tional Exhibition Centre":geo:39.65818,67.063452
+DESCRIPTION:46th Chess Olympiad\nRound 7\nWednesday 23 September 2026\n\n
+ Day 9 of 13\nVenue: Silk Road International Exhibition Centre\nAddress: 
+ Silk Road Samarkand\, Samarqand 140100\, Uzbekistan\nDates: Tue 15 Sep -
+  Sun 27 Sep 2026\n\nNotes\n46th Chess Olympiad\, Samarkand\, Uzbekistan.
+ \n\nAround 200 teams across the Open and Women's sections\, 11 rounds on
+  the Swiss system over 14 days. India defend the titles they won in Buda
+ pest in 2024\, taking gold in both sections.\n\nWatch for Javokhir Sinda
+ rov on home soil - he plays here for Uzbekistan two months before challe
+ nging Gukesh for the world title\, and Gukesh is expected to play for In
+ dia.\n\nRound start times were not in FIDE's published schedule\, so the
+ se are all-day entries. Samarkand is UTC+5.
+CATEGORIES:Chess,Chess Olympiad
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:olympiad-2026-d10@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:♟ Chess Olympiad - Round 8
+LOCATION:Silk Road International Exhibition Centre\, Silk Road Samarkand\
+ , Samarqand 140100\, Uzbekistan
+GEO:39.65818;67.063452
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Silk Road Samarkand, Sam
+ arqand 140100, Uzbekistan";X-APPLE-RADIUS=200;X-TITLE="Silk Road Interna
+ tional Exhibition Centre":geo:39.65818,67.063452
+DESCRIPTION:46th Chess Olympiad\nRound 8\nThursday 24 September 2026\n\nD
+ ay 10 of 13\nVenue: Silk Road International Exhibition Centre\nAddress: 
+ Silk Road Samarkand\, Samarqand 140100\, Uzbekistan\nDates: Tue 15 Sep -
+  Sun 27 Sep 2026\n\nNotes\n46th Chess Olympiad\, Samarkand\, Uzbekistan.
+ \n\nAround 200 teams across the Open and Women's sections\, 11 rounds on
+  the Swiss system over 14 days. India defend the titles they won in Buda
+ pest in 2024\, taking gold in both sections.\n\nWatch for Javokhir Sinda
+ rov on home soil - he plays here for Uzbekistan two months before challe
+ nging Gukesh for the world title\, and Gukesh is expected to play for In
+ dia.\n\nRound start times were not in FIDE's published schedule\, so the
+ se are all-day entries. Samarkand is UTC+5.
+CATEGORIES:Chess,Chess Olympiad
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:olympiad-2026-d11@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:♟ Chess Olympiad - Round 9
+LOCATION:Silk Road International Exhibition Centre\, Silk Road Samarkand\
+ , Samarqand 140100\, Uzbekistan
+GEO:39.65818;67.063452
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Silk Road Samarkand, Sam
+ arqand 140100, Uzbekistan";X-APPLE-RADIUS=200;X-TITLE="Silk Road Interna
+ tional Exhibition Centre":geo:39.65818,67.063452
+DESCRIPTION:46th Chess Olympiad\nRound 9\nFriday 25 September 2026\n\nDay
+  11 of 13\nVenue: Silk Road International Exhibition Centre\nAddress: Si
+ lk Road Samarkand\, Samarqand 140100\, Uzbekistan\nDates: Tue 15 Sep - S
+ un 27 Sep 2026\n\nNotes\n46th Chess Olympiad\, Samarkand\, Uzbekistan.\n
+ \nAround 200 teams across the Open and Women's sections\, 11 rounds on t
+ he Swiss system over 14 days. India defend the titles they won in Budape
+ st in 2024\, taking gold in both sections.\n\nWatch for Javokhir Sindaro
+ v on home soil - he plays here for Uzbekistan two months before challeng
+ ing Gukesh for the world title\, and Gukesh is expected to play for Indi
+ a.\n\nRound start times were not in FIDE's published schedule\, so these
+  are all-day entries. Samarkand is UTC+5.
+CATEGORIES:Chess,Chess Olympiad
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:olympiad-2026-d12@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:♟ Chess Olympiad - Round 10
+LOCATION:Silk Road International Exhibition Centre\, Silk Road Samarkand\
+ , Samarqand 140100\, Uzbekistan
+GEO:39.65818;67.063452
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Silk Road Samarkand, Sam
+ arqand 140100, Uzbekistan";X-APPLE-RADIUS=200;X-TITLE="Silk Road Interna
+ tional Exhibition Centre":geo:39.65818,67.063452
+DESCRIPTION:46th Chess Olympiad\nRound 10\nSaturday 26 September 2026\n\n
+ Day 12 of 13\nVenue: Silk Road International Exhibition Centre\nAddress:
+  Silk Road Samarkand\, Samarqand 140100\, Uzbekistan\nDates: Tue 15 Sep 
+ - Sun 27 Sep 2026\n\nNotes\n46th Chess Olympiad\, Samarkand\, Uzbekistan
+ .\n\nAround 200 teams across the Open and Women's sections\, 11 rounds o
+ n the Swiss system over 14 days. India defend the titles they won in Bud
+ apest in 2024\, taking gold in both sections.\n\nWatch for Javokhir Sind
+ arov on home soil - he plays here for Uzbekistan two months before chall
+ enging Gukesh for the world title\, and Gukesh is expected to play for I
+ ndia.\n\nRound start times were not in FIDE's published schedule\, so th
+ ese are all-day entries. Samarkand is UTC+5.
+CATEGORIES:Chess,Chess Olympiad
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:olympiad-2026-d13@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:♟ Chess Olympiad - Round 11 & Closing Ceremony
+LOCATION:Silk Road International Exhibition Centre\, Silk Road Samarkand\
+ , Samarqand 140100\, Uzbekistan
+GEO:39.65818;67.063452
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Silk Road Samarkand, Sam
+ arqand 140100, Uzbekistan";X-APPLE-RADIUS=200;X-TITLE="Silk Road Interna
+ tional Exhibition Centre":geo:39.65818,67.063452
+DESCRIPTION:46th Chess Olympiad\nRound 11 & Closing Ceremony\nSunday 27 S
+ eptember 2026\n\nDay 13 of 13\nVenue: Silk Road International Exhibition
+  Centre\nAddress: Silk Road Samarkand\, Samarqand 140100\, Uzbekistan\nD
+ ates: Tue 15 Sep - Sun 27 Sep 2026\n\nNotes\n46th Chess Olympiad\, Samar
+ kand\, Uzbekistan.\n\nAround 200 teams across the Open and Women's secti
+ ons\, 11 rounds on the Swiss system over 14 days. India defend the title
+ s they won in Budapest in 2024\, taking gold in both sections.\n\nWatch 
+ for Javokhir Sindarov on home soil - he plays here for Uzbekistan two mo
+ nths before challenging Gukesh for the world title\, and Gukesh is expec
+ ted to play for India.\n\nRound start times were not in FIDE's published
+  schedule\, so these are all-day entries. Samarkand is UTC+5.
+CATEGORIES:Chess,Chess Olympiad
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d1@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:♟ World Chess Championship - Match begins
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nMatch begi
+ ns\nMonday 23 November 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 202
+ 6\nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 20
+ 26\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov (U
+ zbekistan\, challenger).\n\nThe youngest world championship match in his
+ tory - both players are 20. Sindarov won the 2026 Candidates in Cyprus w
+ ith 10/14\, unbeaten\, clinching it with a round to spare. He is also th
+ e youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 million\
+ ; total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED:\
+ n1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and ha
+ d not announced a winner at the time this calendar was built. India and 
+ Uzbekistan are the obvious candidates\; Sindarov has said he would prefe
+ r somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are games 
+ and which are rest days has not been published\, so this is the full 25-
+ day window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d2@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:♟ World Chess Championship - Day 2 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 2 of 2
+ 5\nTuesday 24 November 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 202
+ 6\nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 20
+ 26\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov (U
+ zbekistan\, challenger).\n\nThe youngest world championship match in his
+ tory - both players are 20. Sindarov won the 2026 Candidates in Cyprus w
+ ith 10/14\, unbeaten\, clinching it with a round to spare. He is also th
+ e youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 million\
+ ; total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED:\
+ n1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and ha
+ d not announced a winner at the time this calendar was built. India and 
+ Uzbekistan are the obvious candidates\; Sindarov has said he would prefe
+ r somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are games 
+ and which are rest days has not been published\, so this is the full 25-
+ day window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d3@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:♟ World Chess Championship - Day 3 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 3 of 2
+ 5\nWednesday 25 November 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 2
+ 026\nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 
+ 2026\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov 
+ (Uzbekistan\, challenger).\n\nThe youngest world championship match in h
+ istory - both players are 20. Sindarov won the 2026 Candidates in Cyprus
+  with 10/14\, unbeaten\, clinching it with a round to spare. He is also 
+ the youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 millio
+ n\; total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED
+ :\n1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and 
+ had not announced a winner at the time this calendar was built. India an
+ d Uzbekistan are the obvious candidates\; Sindarov has said he would pre
+ fer somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are game
+ s and which are rest days has not been published\, so this is the full 2
+ 5-day window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d4@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:♟ World Chess Championship - Day 4 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 4 of 2
+ 5\nThursday 26 November 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 20
+ 26\nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 2
+ 026\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov (
+ Uzbekistan\, challenger).\n\nThe youngest world championship match in hi
+ story - both players are 20. Sindarov won the 2026 Candidates in Cyprus 
+ with 10/14\, unbeaten\, clinching it with a round to spare. He is also t
+ he youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 million
+ \; total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED:
+ \n1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and h
+ ad not announced a winner at the time this calendar was built. India and
+  Uzbekistan are the obvious candidates\; Sindarov has said he would pref
+ er somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are games
+  and which are rest days has not been published\, so this is the full 25
+ -day window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d5@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:♟ World Chess Championship - Day 5 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 5 of 2
+ 5\nFriday 27 November 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 2026
+ \nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 202
+ 6\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov (Uz
+ bekistan\, challenger).\n\nThe youngest world championship match in hist
+ ory - both players are 20. Sindarov won the 2026 Candidates in Cyprus wi
+ th 10/14\, unbeaten\, clinching it with a round to spare. He is also the
+  youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 million\;
+  total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED:\n
+ 1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and had
+  not announced a winner at the time this calendar was built. India and U
+ zbekistan are the obvious candidates\; Sindarov has said he would prefer
+  somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are games a
+ nd which are rest days has not been published\, so this is the full 25-d
+ ay window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d6@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:♟ World Chess Championship - Day 6 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 6 of 2
+ 5\nSaturday 28 November 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 20
+ 26\nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 2
+ 026\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov (
+ Uzbekistan\, challenger).\n\nThe youngest world championship match in hi
+ story - both players are 20. Sindarov won the 2026 Candidates in Cyprus 
+ with 10/14\, unbeaten\, clinching it with a round to spare. He is also t
+ he youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 million
+ \; total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED:
+ \n1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and h
+ ad not announced a winner at the time this calendar was built. India and
+  Uzbekistan are the obvious candidates\; Sindarov has said he would pref
+ er somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are games
+  and which are rest days has not been published\, so this is the full 25
+ -day window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d7@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:♟ World Chess Championship - Day 7 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 7 of 2
+ 5\nSunday 29 November 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 2026
+ \nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 202
+ 6\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov (Uz
+ bekistan\, challenger).\n\nThe youngest world championship match in hist
+ ory - both players are 20. Sindarov won the 2026 Candidates in Cyprus wi
+ th 10/14\, unbeaten\, clinching it with a round to spare. He is also the
+  youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 million\;
+  total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED:\n
+ 1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and had
+  not announced a winner at the time this calendar was built. India and U
+ zbekistan are the obvious candidates\; Sindarov has said he would prefer
+  somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are games a
+ nd which are rest days has not been published\, so this is the full 25-d
+ ay window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d8@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:♟ World Chess Championship - Day 8 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 8 of 2
+ 5\nMonday 30 November 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 2026
+ \nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 202
+ 6\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov (Uz
+ bekistan\, challenger).\n\nThe youngest world championship match in hist
+ ory - both players are 20. Sindarov won the 2026 Candidates in Cyprus wi
+ th 10/14\, unbeaten\, clinching it with a round to spare. He is also the
+  youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 million\;
+  total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED:\n
+ 1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and had
+  not announced a winner at the time this calendar was built. India and U
+ zbekistan are the obvious candidates\; Sindarov has said he would prefer
+  somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are games a
+ nd which are rest days has not been published\, so this is the full 25-d
+ ay window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d9@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:♟ World Chess Championship - Day 9 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 9 of 2
+ 5\nTuesday 1 December 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 2026
+ \nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 202
+ 6\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov (Uz
+ bekistan\, challenger).\n\nThe youngest world championship match in hist
+ ory - both players are 20. Sindarov won the 2026 Candidates in Cyprus wi
+ th 10/14\, unbeaten\, clinching it with a round to spare. He is also the
+  youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 million\;
+  total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED:\n
+ 1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and had
+  not announced a winner at the time this calendar was built. India and U
+ zbekistan are the obvious candidates\; Sindarov has said he would prefer
+  somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are games a
+ nd which are rest days has not been published\, so this is the full 25-d
+ ay window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d10@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:♟ World Chess Championship - Day 10 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 10 of 
+ 25\nWednesday 2 December 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 2
+ 026\nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 
+ 2026\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov 
+ (Uzbekistan\, challenger).\n\nThe youngest world championship match in h
+ istory - both players are 20. Sindarov won the 2026 Candidates in Cyprus
+  with 10/14\, unbeaten\, clinching it with a round to spare. He is also 
+ the youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 millio
+ n\; total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED
+ :\n1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and 
+ had not announced a winner at the time this calendar was built. India an
+ d Uzbekistan are the obvious candidates\; Sindarov has said he would pre
+ fer somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are game
+ s and which are rest days has not been published\, so this is the full 2
+ 5-day window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d11@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:♟ World Chess Championship - Day 11 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 11 of 
+ 25\nThursday 3 December 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 20
+ 26\nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 2
+ 026\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov (
+ Uzbekistan\, challenger).\n\nThe youngest world championship match in hi
+ story - both players are 20. Sindarov won the 2026 Candidates in Cyprus 
+ with 10/14\, unbeaten\, clinching it with a round to spare. He is also t
+ he youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 million
+ \; total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED:
+ \n1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and h
+ ad not announced a winner at the time this calendar was built. India and
+  Uzbekistan are the obvious candidates\; Sindarov has said he would pref
+ er somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are games
+  and which are rest days has not been published\, so this is the full 25
+ -day window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d12@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:♟ World Chess Championship - Day 12 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 12 of 
+ 25\nFriday 4 December 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 2026
+ \nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 202
+ 6\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov (Uz
+ bekistan\, challenger).\n\nThe youngest world championship match in hist
+ ory - both players are 20. Sindarov won the 2026 Candidates in Cyprus wi
+ th 10/14\, unbeaten\, clinching it with a round to spare. He is also the
+  youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 million\;
+  total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED:\n
+ 1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and had
+  not announced a winner at the time this calendar was built. India and U
+ zbekistan are the obvious candidates\; Sindarov has said he would prefer
+  somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are games a
+ nd which are rest days has not been published\, so this is the full 25-d
+ ay window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d13@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:♟ World Chess Championship - Day 13 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 13 of 
+ 25\nSaturday 5 December 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 20
+ 26\nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 2
+ 026\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov (
+ Uzbekistan\, challenger).\n\nThe youngest world championship match in hi
+ story - both players are 20. Sindarov won the 2026 Candidates in Cyprus 
+ with 10/14\, unbeaten\, clinching it with a round to spare. He is also t
+ he youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 million
+ \; total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED:
+ \n1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and h
+ ad not announced a winner at the time this calendar was built. India and
+  Uzbekistan are the obvious candidates\; Sindarov has said he would pref
+ er somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are games
+  and which are rest days has not been published\, so this is the full 25
+ -day window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d14@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:♟ World Chess Championship - Day 14 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 14 of 
+ 25\nSunday 6 December 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 2026
+ \nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 202
+ 6\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov (Uz
+ bekistan\, challenger).\n\nThe youngest world championship match in hist
+ ory - both players are 20. Sindarov won the 2026 Candidates in Cyprus wi
+ th 10/14\, unbeaten\, clinching it with a round to spare. He is also the
+  youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 million\;
+  total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED:\n
+ 1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and had
+  not announced a winner at the time this calendar was built. India and U
+ zbekistan are the obvious candidates\; Sindarov has said he would prefer
+  somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are games a
+ nd which are rest days has not been published\, so this is the full 25-d
+ ay window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d15@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:♟ World Chess Championship - Day 15 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 15 of 
+ 25\nMonday 7 December 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 2026
+ \nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 202
+ 6\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov (Uz
+ bekistan\, challenger).\n\nThe youngest world championship match in hist
+ ory - both players are 20. Sindarov won the 2026 Candidates in Cyprus wi
+ th 10/14\, unbeaten\, clinching it with a round to spare. He is also the
+  youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 million\;
+  total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED:\n
+ 1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and had
+  not announced a winner at the time this calendar was built. India and U
+ zbekistan are the obvious candidates\; Sindarov has said he would prefer
+  somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are games a
+ nd which are rest days has not been published\, so this is the full 25-d
+ ay window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d16@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:♟ World Chess Championship - Day 16 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 16 of 
+ 25\nTuesday 8 December 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 202
+ 6\nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 20
+ 26\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov (U
+ zbekistan\, challenger).\n\nThe youngest world championship match in his
+ tory - both players are 20. Sindarov won the 2026 Candidates in Cyprus w
+ ith 10/14\, unbeaten\, clinching it with a round to spare. He is also th
+ e youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 million\
+ ; total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED:\
+ n1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and ha
+ d not announced a winner at the time this calendar was built. India and 
+ Uzbekistan are the obvious candidates\; Sindarov has said he would prefe
+ r somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are games 
+ and which are rest days has not been published\, so this is the full 25-
+ day window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d17@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:♟ World Chess Championship - Day 17 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 17 of 
+ 25\nWednesday 9 December 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 2
+ 026\nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 
+ 2026\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov 
+ (Uzbekistan\, challenger).\n\nThe youngest world championship match in h
+ istory - both players are 20. Sindarov won the 2026 Candidates in Cyprus
+  with 10/14\, unbeaten\, clinching it with a round to spare. He is also 
+ the youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 millio
+ n\; total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED
+ :\n1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and 
+ had not announced a winner at the time this calendar was built. India an
+ d Uzbekistan are the obvious candidates\; Sindarov has said he would pre
+ fer somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are game
+ s and which are rest days has not been published\, so this is the full 2
+ 5-day window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d18@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:♟ World Chess Championship - Day 18 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 18 of 
+ 25\nThursday 10 December 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 2
+ 026\nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 
+ 2026\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov 
+ (Uzbekistan\, challenger).\n\nThe youngest world championship match in h
+ istory - both players are 20. Sindarov won the 2026 Candidates in Cyprus
+  with 10/14\, unbeaten\, clinching it with a round to spare. He is also 
+ the youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 millio
+ n\; total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED
+ :\n1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and 
+ had not announced a winner at the time this calendar was built. India an
+ d Uzbekistan are the obvious candidates\; Sindarov has said he would pre
+ fer somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are game
+ s and which are rest days has not been published\, so this is the full 2
+ 5-day window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d19@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:♟ World Chess Championship - Day 19 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 19 of 
+ 25\nFriday 11 December 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 202
+ 6\nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 20
+ 26\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov (U
+ zbekistan\, challenger).\n\nThe youngest world championship match in his
+ tory - both players are 20. Sindarov won the 2026 Candidates in Cyprus w
+ ith 10/14\, unbeaten\, clinching it with a round to spare. He is also th
+ e youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 million\
+ ; total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED:\
+ n1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and ha
+ d not announced a winner at the time this calendar was built. India and 
+ Uzbekistan are the obvious candidates\; Sindarov has said he would prefe
+ r somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are games 
+ and which are rest days has not been published\, so this is the full 25-
+ day window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d20@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:♟ World Chess Championship - Day 20 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 20 of 
+ 25\nSaturday 12 December 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 2
+ 026\nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 
+ 2026\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov 
+ (Uzbekistan\, challenger).\n\nThe youngest world championship match in h
+ istory - both players are 20. Sindarov won the 2026 Candidates in Cyprus
+  with 10/14\, unbeaten\, clinching it with a round to spare. He is also 
+ the youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 millio
+ n\; total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED
+ :\n1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and 
+ had not announced a winner at the time this calendar was built. India an
+ d Uzbekistan are the obvious candidates\; Sindarov has said he would pre
+ fer somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are game
+ s and which are rest days has not been published\, so this is the full 2
+ 5-day window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d21@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:♟ World Chess Championship - Day 21 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 21 of 
+ 25\nSunday 13 December 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 202
+ 6\nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 20
+ 26\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov (U
+ zbekistan\, challenger).\n\nThe youngest world championship match in his
+ tory - both players are 20. Sindarov won the 2026 Candidates in Cyprus w
+ ith 10/14\, unbeaten\, clinching it with a round to spare. He is also th
+ e youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 million\
+ ; total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED:\
+ n1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and ha
+ d not announced a winner at the time this calendar was built. India and 
+ Uzbekistan are the obvious candidates\; Sindarov has said he would prefe
+ r somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are games 
+ and which are rest days has not been published\, so this is the full 25-
+ day window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d22@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:♟ World Chess Championship - Day 22 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 22 of 
+ 25\nMonday 14 December 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 202
+ 6\nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 20
+ 26\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov (U
+ zbekistan\, challenger).\n\nThe youngest world championship match in his
+ tory - both players are 20. Sindarov won the 2026 Candidates in Cyprus w
+ ith 10/14\, unbeaten\, clinching it with a round to spare. He is also th
+ e youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 million\
+ ; total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED:\
+ n1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and ha
+ d not announced a winner at the time this calendar was built. India and 
+ Uzbekistan are the obvious candidates\; Sindarov has said he would prefe
+ r somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are games 
+ and which are rest days has not been published\, so this is the full 25-
+ day window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d23@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:♟ World Chess Championship - Day 23 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 23 of 
+ 25\nTuesday 15 December 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 20
+ 26\nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship 2
+ 026\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov (
+ Uzbekistan\, challenger).\n\nThe youngest world championship match in hi
+ story - both players are 20. Sindarov won the 2026 Candidates in Cyprus 
+ with 10/14\, unbeaten\, clinching it with a round to spare. He is also t
+ he youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 million
+ \; total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRMED:
+ \n1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and h
+ ad not announced a winner at the time this calendar was built. India and
+  Uzbekistan are the obvious candidates\; Sindarov has said he would pref
+ er somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are games
+  and which are rest days has not been published\, so this is the full 25
+ -day window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d24@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:♟ World Chess Championship - Day 24 of 25
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nDay 24 of 
+ 25\nWednesday 16 December 2026\n\nMatch window: Mon 23 Nov - Thu 17 Dec 
+ 2026\nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Championship
+  2026\nGukesh Dommaraju (India\, defending champion) v Javokhir Sindarov
+  (Uzbekistan\, challenger).\n\nThe youngest world championship match in 
+ history - both players are 20. Sindarov won the 2026 Candidates in Cypru
+ s with 10/14\, unbeaten\, clinching it with a round to spare. He is also
+  the youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5 milli
+ on\; total event budget around USD 8.5 million.\n\nTWO THINGS UNCONFIRME
+ D:\n1. HOST CITY. FIDE opened bidding with a deadline of 31 May 2026 and
+  had not announced a winner at the time this calendar was built. India a
+ nd Uzbekistan are the obvious candidates\; Sindarov has said he would pr
+ efer somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days are gam
+ es and which are rest days has not been published\, so this is the full 
+ 25-day window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wcc-2026-d25@claude-chess-cal
+DTSTAMP:20260728T090000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:♟ World Chess Championship - Final scheduled day
+DESCRIPTION:World Chess Championship 2026 - Gukesh v Sindarov\nFinal sche
+ duled day\nThursday 17 December 2026\n\nMatch window: Mon 23 Nov - Thu 1
+ 7 Dec 2026\nHost city: TO BE CONFIRMED\n\nNotes\nFIDE World Chess Champi
+ onship 2026\nGukesh Dommaraju (India\, defending champion) v Javokhir Si
+ ndarov (Uzbekistan\, challenger).\n\nThe youngest world championship mat
+ ch in history - both players are 20. Sindarov won the 2026 Candidates in
+  Cyprus with 10/14\, unbeaten\, clinching it with a round to spare. He i
+ s also the youngest ever World Cup winner.\n\nMinimum prize fund USD 2.5
+  million\; total event budget around USD 8.5 million.\n\nTWO THINGS UNCO
+ NFIRMED:\n1. HOST CITY. FIDE opened bidding with a deadline of 31 May 20
+ 26 and had not announced a winner at the time this calendar was built. I
+ ndia and Uzbekistan are the obvious candidates\; Sindarov has said he wo
+ uld prefer somewhere warm\, like Cyprus.\n2. GAME SCHEDULE. Which days a
+ re games and which are rest days has not been published\, so this is the
+  full 25-day window.
+CATEGORIES:Chess,World Championship
+URL:https://www.fide.com/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
