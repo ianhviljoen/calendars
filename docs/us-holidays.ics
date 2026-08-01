@@ -1,0 +1,1721 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//US Holidays//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:🇺🇸 US Holidays
+X-APPLE-CALENDAR-COLOR:#B71C1C
+X-WR-CALDESC:US federal public holidays. Generated from the statutory rul
+ es\, so this extends automatically - no annual update needed. Note this 
+ is not the same as market closures: Columbus Day and Veterans Day are fe
+ deral holidays on which the stock market stays open.
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:usfed-newye-2026-01-01@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:🇺🇸 New Year's Day
+DESCRIPTION:New Year's Day\nThursday 1 January 2026\n\nNotes\nFederal hol
+ iday. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-martin-2026-01-19@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:🇺🇸 Martin Luther King\, Jr. Day
+DESCRIPTION:Martin Luther King\, Jr. Day\nMonday 19 January 2026\n\nNotes
+ \nThird Monday in January. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-washin-2026-02-16@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:🇺🇸 Washington's Birthday
+DESCRIPTION:Washington's Birthday\nMonday 16 February 2026\n\nNotes\nThir
+ d Monday in February\, commonly called Presidents' Day - but the statuto
+ ry federal name is Washington's Birthday. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-memori-2026-05-25@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:🇺🇸 Memorial Day
+DESCRIPTION:Memorial Day\nMonday 25 May 2026\n\nNotes\nLast Monday in May
+ . Federal holiday\, markets closed. Traditionally marks the start of sum
+ mer.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-junete-2026-06-19@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:🇺🇸 Juneteenth National Independence Day
+DESCRIPTION:Juneteenth National Independence Day\nFriday 19 June 2026\n\n
+ Notes\nBecame a federal holiday in 2021\, the newest one. Markets closed
+ .
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-indepe-2026-07-03@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:🇺🇸 Independence Day (observed)
+DESCRIPTION:Independence Day (observed)\nFriday 3 July 2026\n\nFalls on S
+ aturday 4 July\, so it is observed on Friday under the federal in-lieu-o
+ f rule.\n\nNotes\nFederal holiday\, markets closed. The market usually c
+ loses early at 1:00pm ET on the preceding trading day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-labor-2026-09-07@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:🇺🇸 Labor Day
+DESCRIPTION:Labor Day\nMonday 7 September 2026\n\nNotes\nFirst Monday in 
+ September. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-columb-2026-10-12@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:🇺🇸 Columbus Day
+DESCRIPTION:Columbus Day\nMonday 12 October 2026\n\nNotes\nSecond Monday 
+ in October. FEDERAL HOLIDAY BUT THE STOCK MARKET IS OPEN - banks and the
+  bond market close\, equities trade normally. Some states observe it as 
+ Indigenous Peoples' Day instead.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-vetera-2026-11-11@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🇺🇸 Veterans Day
+DESCRIPTION:Veterans Day\nWednesday 11 November 2026\n\nNotes\nFEDERAL HO
+ LIDAY BUT THE STOCK MARKET IS OPEN - banks and the bond market close\, e
+ quities trade normally.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-thanks-2026-11-26@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:🇺🇸 Thanksgiving Day
+DESCRIPTION:Thanksgiving Day\nThursday 26 November 2026\n\nNotes\nFourth 
+ Thursday in November. Federal holiday\, markets closed\, and the market 
+ closes early at 1:00pm ET the following day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-christ-2026-12-25@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:🇺🇸 Christmas Day
+DESCRIPTION:Christmas Day\nFriday 25 December 2026\n\nNotes\nFederal holi
+ day\, markets closed. Christmas Eve is usually a 1:00pm ET early close w
+ hen it falls on a weekday.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-newye-2027-01-01@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:🇺🇸 New Year's Day
+DESCRIPTION:New Year's Day\nFriday 1 January 2027\n\nNotes\nFederal holid
+ ay. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-martin-2027-01-18@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:🇺🇸 Martin Luther King\, Jr. Day
+DESCRIPTION:Martin Luther King\, Jr. Day\nMonday 18 January 2027\n\nNotes
+ \nThird Monday in January. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-washin-2027-02-15@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:🇺🇸 Washington's Birthday
+DESCRIPTION:Washington's Birthday\nMonday 15 February 2027\n\nNotes\nThir
+ d Monday in February\, commonly called Presidents' Day - but the statuto
+ ry federal name is Washington's Birthday. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-memori-2027-05-31@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:🇺🇸 Memorial Day
+DESCRIPTION:Memorial Day\nMonday 31 May 2027\n\nNotes\nLast Monday in May
+ . Federal holiday\, markets closed. Traditionally marks the start of sum
+ mer.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-junete-2027-06-18@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:🇺🇸 Juneteenth National Independence Day (observed)
+DESCRIPTION:Juneteenth National Independence Day (observed)\nFriday 18 Ju
+ ne 2027\n\nFalls on Saturday 19 June\, so it is observed on Friday under
+  the federal in-lieu-of rule.\n\nNotes\nBecame a federal holiday in 2021
+ \, the newest one. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-indepe-2027-07-05@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:🇺🇸 Independence Day (observed)
+DESCRIPTION:Independence Day (observed)\nMonday 5 July 2027\n\nFalls on S
+ unday 4 July\, so it is observed on Monday under the federal in-lieu-of 
+ rule.\n\nNotes\nFederal holiday\, markets closed. The market usually clo
+ ses early at 1:00pm ET on the preceding trading day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-labor-2027-09-06@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:🇺🇸 Labor Day
+DESCRIPTION:Labor Day\nMonday 6 September 2027\n\nNotes\nFirst Monday in 
+ September. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-columb-2027-10-11@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
+SUMMARY:🇺🇸 Columbus Day
+DESCRIPTION:Columbus Day\nMonday 11 October 2027\n\nNotes\nSecond Monday 
+ in October. FEDERAL HOLIDAY BUT THE STOCK MARKET IS OPEN - banks and the
+  bond market close\, equities trade normally. Some states observe it as 
+ Indigenous Peoples' Day instead.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-vetera-2027-11-11@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+SUMMARY:🇺🇸 Veterans Day
+DESCRIPTION:Veterans Day\nThursday 11 November 2027\n\nNotes\nFEDERAL HOL
+ IDAY BUT THE STOCK MARKET IS OPEN - banks and the bond market close\, eq
+ uities trade normally.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-thanks-2027-11-25@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20271125
+DTEND;VALUE=DATE:20271126
+SUMMARY:🇺🇸 Thanksgiving Day
+DESCRIPTION:Thanksgiving Day\nThursday 25 November 2027\n\nNotes\nFourth 
+ Thursday in November. Federal holiday\, markets closed\, and the market 
+ closes early at 1:00pm ET the following day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-christ-2027-12-24@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+SUMMARY:🇺🇸 Christmas Day (observed)
+DESCRIPTION:Christmas Day (observed)\nFriday 24 December 2027\n\nFalls on
+  Saturday 25 December\, so it is observed on Friday under the federal in
+ -lieu-of rule.\n\nNotes\nFederal holiday\, markets closed. Christmas Eve
+  is usually a 1:00pm ET early close when it falls on a weekday.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-newye-2027-12-31@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:🇺🇸 New Year's Day (observed)
+DESCRIPTION:New Year's Day (observed)\nFriday 31 December 2027\n\nFalls o
+ n Saturday 1 January\, so it is observed on Friday under the federal in-
+ lieu-of rule.\n\nNotes\nFederal holiday. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-martin-2028-01-17@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20280117
+DTEND;VALUE=DATE:20280118
+SUMMARY:🇺🇸 Martin Luther King\, Jr. Day
+DESCRIPTION:Martin Luther King\, Jr. Day\nMonday 17 January 2028\n\nNotes
+ \nThird Monday in January. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-washin-2028-02-21@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20280221
+DTEND;VALUE=DATE:20280222
+SUMMARY:🇺🇸 Washington's Birthday
+DESCRIPTION:Washington's Birthday\nMonday 21 February 2028\n\nNotes\nThir
+ d Monday in February\, commonly called Presidents' Day - but the statuto
+ ry federal name is Washington's Birthday. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-memori-2028-05-29@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20280529
+DTEND;VALUE=DATE:20280530
+SUMMARY:🇺🇸 Memorial Day
+DESCRIPTION:Memorial Day\nMonday 29 May 2028\n\nNotes\nLast Monday in May
+ . Federal holiday\, markets closed. Traditionally marks the start of sum
+ mer.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-junete-2028-06-19@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20280619
+DTEND;VALUE=DATE:20280620
+SUMMARY:🇺🇸 Juneteenth National Independence Day
+DESCRIPTION:Juneteenth National Independence Day\nMonday 19 June 2028\n\n
+ Notes\nBecame a federal holiday in 2021\, the newest one. Markets closed
+ .
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-indepe-2028-07-04@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20280704
+DTEND;VALUE=DATE:20280705
+SUMMARY:🇺🇸 Independence Day
+DESCRIPTION:Independence Day\nTuesday 4 July 2028\n\nNotes\nFederal holid
+ ay\, markets closed. The market usually closes early at 1:00pm ET on the
+  preceding trading day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-labor-2028-09-04@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20280904
+DTEND;VALUE=DATE:20280905
+SUMMARY:🇺🇸 Labor Day
+DESCRIPTION:Labor Day\nMonday 4 September 2028\n\nNotes\nFirst Monday in 
+ September. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-columb-2028-10-09@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20281009
+DTEND;VALUE=DATE:20281010
+SUMMARY:🇺🇸 Columbus Day
+DESCRIPTION:Columbus Day\nMonday 9 October 2028\n\nNotes\nSecond Monday i
+ n October. FEDERAL HOLIDAY BUT THE STOCK MARKET IS OPEN - banks and the 
+ bond market close\, equities trade normally. Some states observe it as I
+ ndigenous Peoples' Day instead.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-vetera-2028-11-10@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20281110
+DTEND;VALUE=DATE:20281111
+SUMMARY:🇺🇸 Veterans Day (observed)
+DESCRIPTION:Veterans Day (observed)\nFriday 10 November 2028\n\nFalls on 
+ Saturday 11 November\, so it is observed on Friday under the federal in-
+ lieu-of rule.\n\nNotes\nFEDERAL HOLIDAY BUT THE STOCK MARKET IS OPEN - b
+ anks and the bond market close\, equities trade normally.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-thanks-2028-11-23@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20281123
+DTEND;VALUE=DATE:20281124
+SUMMARY:🇺🇸 Thanksgiving Day
+DESCRIPTION:Thanksgiving Day\nThursday 23 November 2028\n\nNotes\nFourth 
+ Thursday in November. Federal holiday\, markets closed\, and the market 
+ closes early at 1:00pm ET the following day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-christ-2028-12-25@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:🇺🇸 Christmas Day
+DESCRIPTION:Christmas Day\nMonday 25 December 2028\n\nNotes\nFederal holi
+ day\, markets closed. Christmas Eve is usually a 1:00pm ET early close w
+ hen it falls on a weekday.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-newye-2029-01-01@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20290101
+DTEND;VALUE=DATE:20290102
+SUMMARY:🇺🇸 New Year's Day
+DESCRIPTION:New Year's Day\nMonday 1 January 2029\n\nNotes\nFederal holid
+ ay. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-martin-2029-01-15@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20290115
+DTEND;VALUE=DATE:20290116
+SUMMARY:🇺🇸 Martin Luther King\, Jr. Day
+DESCRIPTION:Martin Luther King\, Jr. Day\nMonday 15 January 2029\n\nNotes
+ \nThird Monday in January. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-washin-2029-02-19@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20290219
+DTEND;VALUE=DATE:20290220
+SUMMARY:🇺🇸 Washington's Birthday
+DESCRIPTION:Washington's Birthday\nMonday 19 February 2029\n\nNotes\nThir
+ d Monday in February\, commonly called Presidents' Day - but the statuto
+ ry federal name is Washington's Birthday. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-memori-2029-05-28@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20290528
+DTEND;VALUE=DATE:20290529
+SUMMARY:🇺🇸 Memorial Day
+DESCRIPTION:Memorial Day\nMonday 28 May 2029\n\nNotes\nLast Monday in May
+ . Federal holiday\, markets closed. Traditionally marks the start of sum
+ mer.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-junete-2029-06-19@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20290619
+DTEND;VALUE=DATE:20290620
+SUMMARY:🇺🇸 Juneteenth National Independence Day
+DESCRIPTION:Juneteenth National Independence Day\nTuesday 19 June 2029\n\
+ nNotes\nBecame a federal holiday in 2021\, the newest one. Markets close
+ d.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-indepe-2029-07-04@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20290704
+DTEND;VALUE=DATE:20290705
+SUMMARY:🇺🇸 Independence Day
+DESCRIPTION:Independence Day\nWednesday 4 July 2029\n\nNotes\nFederal hol
+ iday\, markets closed. The market usually closes early at 1:00pm ET on t
+ he preceding trading day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-labor-2029-09-03@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20290903
+DTEND;VALUE=DATE:20290904
+SUMMARY:🇺🇸 Labor Day
+DESCRIPTION:Labor Day\nMonday 3 September 2029\n\nNotes\nFirst Monday in 
+ September. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-columb-2029-10-08@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20291008
+DTEND;VALUE=DATE:20291009
+SUMMARY:🇺🇸 Columbus Day
+DESCRIPTION:Columbus Day\nMonday 8 October 2029\n\nNotes\nSecond Monday i
+ n October. FEDERAL HOLIDAY BUT THE STOCK MARKET IS OPEN - banks and the 
+ bond market close\, equities trade normally. Some states observe it as I
+ ndigenous Peoples' Day instead.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-vetera-2029-11-12@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20291112
+DTEND;VALUE=DATE:20291113
+SUMMARY:🇺🇸 Veterans Day (observed)
+DESCRIPTION:Veterans Day (observed)\nMonday 12 November 2029\n\nFalls on 
+ Sunday 11 November\, so it is observed on Monday under the federal in-li
+ eu-of rule.\n\nNotes\nFEDERAL HOLIDAY BUT THE STOCK MARKET IS OPEN - ban
+ ks and the bond market close\, equities trade normally.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-thanks-2029-11-22@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20291122
+DTEND;VALUE=DATE:20291123
+SUMMARY:🇺🇸 Thanksgiving Day
+DESCRIPTION:Thanksgiving Day\nThursday 22 November 2029\n\nNotes\nFourth 
+ Thursday in November. Federal holiday\, markets closed\, and the market 
+ closes early at 1:00pm ET the following day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-christ-2029-12-25@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20291225
+DTEND;VALUE=DATE:20291226
+SUMMARY:🇺🇸 Christmas Day
+DESCRIPTION:Christmas Day\nTuesday 25 December 2029\n\nNotes\nFederal hol
+ iday\, markets closed. Christmas Eve is usually a 1:00pm ET early close 
+ when it falls on a weekday.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-newye-2030-01-01@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:🇺🇸 New Year's Day
+DESCRIPTION:New Year's Day\nTuesday 1 January 2030\n\nNotes\nFederal holi
+ day. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-martin-2030-01-21@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20300121
+DTEND;VALUE=DATE:20300122
+SUMMARY:🇺🇸 Martin Luther King\, Jr. Day
+DESCRIPTION:Martin Luther King\, Jr. Day\nMonday 21 January 2030\n\nNotes
+ \nThird Monday in January. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-washin-2030-02-18@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20300218
+DTEND;VALUE=DATE:20300219
+SUMMARY:🇺🇸 Washington's Birthday
+DESCRIPTION:Washington's Birthday\nMonday 18 February 2030\n\nNotes\nThir
+ d Monday in February\, commonly called Presidents' Day - but the statuto
+ ry federal name is Washington's Birthday. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-memori-2030-05-27@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20300527
+DTEND;VALUE=DATE:20300528
+SUMMARY:🇺🇸 Memorial Day
+DESCRIPTION:Memorial Day\nMonday 27 May 2030\n\nNotes\nLast Monday in May
+ . Federal holiday\, markets closed. Traditionally marks the start of sum
+ mer.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-junete-2030-06-19@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20300619
+DTEND;VALUE=DATE:20300620
+SUMMARY:🇺🇸 Juneteenth National Independence Day
+DESCRIPTION:Juneteenth National Independence Day\nWednesday 19 June 2030\
+ n\nNotes\nBecame a federal holiday in 2021\, the newest one. Markets clo
+ sed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-indepe-2030-07-04@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20300704
+DTEND;VALUE=DATE:20300705
+SUMMARY:🇺🇸 Independence Day
+DESCRIPTION:Independence Day\nThursday 4 July 2030\n\nNotes\nFederal holi
+ day\, markets closed. The market usually closes early at 1:00pm ET on th
+ e preceding trading day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-labor-2030-09-02@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20300902
+DTEND;VALUE=DATE:20300903
+SUMMARY:🇺🇸 Labor Day
+DESCRIPTION:Labor Day\nMonday 2 September 2030\n\nNotes\nFirst Monday in 
+ September. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-columb-2030-10-14@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20301014
+DTEND;VALUE=DATE:20301015
+SUMMARY:🇺🇸 Columbus Day
+DESCRIPTION:Columbus Day\nMonday 14 October 2030\n\nNotes\nSecond Monday 
+ in October. FEDERAL HOLIDAY BUT THE STOCK MARKET IS OPEN - banks and the
+  bond market close\, equities trade normally. Some states observe it as 
+ Indigenous Peoples' Day instead.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-vetera-2030-11-11@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20301111
+DTEND;VALUE=DATE:20301112
+SUMMARY:🇺🇸 Veterans Day
+DESCRIPTION:Veterans Day\nMonday 11 November 2030\n\nNotes\nFEDERAL HOLID
+ AY BUT THE STOCK MARKET IS OPEN - banks and the bond market close\, equi
+ ties trade normally.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-thanks-2030-11-28@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20301128
+DTEND;VALUE=DATE:20301129
+SUMMARY:🇺🇸 Thanksgiving Day
+DESCRIPTION:Thanksgiving Day\nThursday 28 November 2030\n\nNotes\nFourth 
+ Thursday in November. Federal holiday\, markets closed\, and the market 
+ closes early at 1:00pm ET the following day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-christ-2030-12-25@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20301225
+DTEND;VALUE=DATE:20301226
+SUMMARY:🇺🇸 Christmas Day
+DESCRIPTION:Christmas Day\nWednesday 25 December 2030\n\nNotes\nFederal h
+ oliday\, markets closed. Christmas Eve is usually a 1:00pm ET early clos
+ e when it falls on a weekday.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-newye-2031-01-01@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20310101
+DTEND;VALUE=DATE:20310102
+SUMMARY:🇺🇸 New Year's Day
+DESCRIPTION:New Year's Day\nWednesday 1 January 2031\n\nNotes\nFederal ho
+ liday. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-martin-2031-01-20@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20310120
+DTEND;VALUE=DATE:20310121
+SUMMARY:🇺🇸 Martin Luther King\, Jr. Day
+DESCRIPTION:Martin Luther King\, Jr. Day\nMonday 20 January 2031\n\nNotes
+ \nThird Monday in January. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-washin-2031-02-17@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20310217
+DTEND;VALUE=DATE:20310218
+SUMMARY:🇺🇸 Washington's Birthday
+DESCRIPTION:Washington's Birthday\nMonday 17 February 2031\n\nNotes\nThir
+ d Monday in February\, commonly called Presidents' Day - but the statuto
+ ry federal name is Washington's Birthday. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-memori-2031-05-26@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20310526
+DTEND;VALUE=DATE:20310527
+SUMMARY:🇺🇸 Memorial Day
+DESCRIPTION:Memorial Day\nMonday 26 May 2031\n\nNotes\nLast Monday in May
+ . Federal holiday\, markets closed. Traditionally marks the start of sum
+ mer.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-junete-2031-06-19@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20310619
+DTEND;VALUE=DATE:20310620
+SUMMARY:🇺🇸 Juneteenth National Independence Day
+DESCRIPTION:Juneteenth National Independence Day\nThursday 19 June 2031\n
+ \nNotes\nBecame a federal holiday in 2021\, the newest one. Markets clos
+ ed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-indepe-2031-07-04@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20310704
+DTEND;VALUE=DATE:20310705
+SUMMARY:🇺🇸 Independence Day
+DESCRIPTION:Independence Day\nFriday 4 July 2031\n\nNotes\nFederal holida
+ y\, markets closed. The market usually closes early at 1:00pm ET on the 
+ preceding trading day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-labor-2031-09-01@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20310901
+DTEND;VALUE=DATE:20310902
+SUMMARY:🇺🇸 Labor Day
+DESCRIPTION:Labor Day\nMonday 1 September 2031\n\nNotes\nFirst Monday in 
+ September. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-columb-2031-10-13@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20311013
+DTEND;VALUE=DATE:20311014
+SUMMARY:🇺🇸 Columbus Day
+DESCRIPTION:Columbus Day\nMonday 13 October 2031\n\nNotes\nSecond Monday 
+ in October. FEDERAL HOLIDAY BUT THE STOCK MARKET IS OPEN - banks and the
+  bond market close\, equities trade normally. Some states observe it as 
+ Indigenous Peoples' Day instead.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-vetera-2031-11-11@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20311111
+DTEND;VALUE=DATE:20311112
+SUMMARY:🇺🇸 Veterans Day
+DESCRIPTION:Veterans Day\nTuesday 11 November 2031\n\nNotes\nFEDERAL HOLI
+ DAY BUT THE STOCK MARKET IS OPEN - banks and the bond market close\, equ
+ ities trade normally.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-thanks-2031-11-27@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20311127
+DTEND;VALUE=DATE:20311128
+SUMMARY:🇺🇸 Thanksgiving Day
+DESCRIPTION:Thanksgiving Day\nThursday 27 November 2031\n\nNotes\nFourth 
+ Thursday in November. Federal holiday\, markets closed\, and the market 
+ closes early at 1:00pm ET the following day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-christ-2031-12-25@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20311225
+DTEND;VALUE=DATE:20311226
+SUMMARY:🇺🇸 Christmas Day
+DESCRIPTION:Christmas Day\nThursday 25 December 2031\n\nNotes\nFederal ho
+ liday\, markets closed. Christmas Eve is usually a 1:00pm ET early close
+  when it falls on a weekday.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-newye-2032-01-01@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20320101
+DTEND;VALUE=DATE:20320102
+SUMMARY:🇺🇸 New Year's Day
+DESCRIPTION:New Year's Day\nThursday 1 January 2032\n\nNotes\nFederal hol
+ iday. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-martin-2032-01-19@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20320119
+DTEND;VALUE=DATE:20320120
+SUMMARY:🇺🇸 Martin Luther King\, Jr. Day
+DESCRIPTION:Martin Luther King\, Jr. Day\nMonday 19 January 2032\n\nNotes
+ \nThird Monday in January. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-washin-2032-02-16@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20320216
+DTEND;VALUE=DATE:20320217
+SUMMARY:🇺🇸 Washington's Birthday
+DESCRIPTION:Washington's Birthday\nMonday 16 February 2032\n\nNotes\nThir
+ d Monday in February\, commonly called Presidents' Day - but the statuto
+ ry federal name is Washington's Birthday. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-memori-2032-05-31@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20320531
+DTEND;VALUE=DATE:20320601
+SUMMARY:🇺🇸 Memorial Day
+DESCRIPTION:Memorial Day\nMonday 31 May 2032\n\nNotes\nLast Monday in May
+ . Federal holiday\, markets closed. Traditionally marks the start of sum
+ mer.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-junete-2032-06-18@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20320618
+DTEND;VALUE=DATE:20320619
+SUMMARY:🇺🇸 Juneteenth National Independence Day (observed)
+DESCRIPTION:Juneteenth National Independence Day (observed)\nFriday 18 Ju
+ ne 2032\n\nFalls on Saturday 19 June\, so it is observed on Friday under
+  the federal in-lieu-of rule.\n\nNotes\nBecame a federal holiday in 2021
+ \, the newest one. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-indepe-2032-07-05@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20320705
+DTEND;VALUE=DATE:20320706
+SUMMARY:🇺🇸 Independence Day (observed)
+DESCRIPTION:Independence Day (observed)\nMonday 5 July 2032\n\nFalls on S
+ unday 4 July\, so it is observed on Monday under the federal in-lieu-of 
+ rule.\n\nNotes\nFederal holiday\, markets closed. The market usually clo
+ ses early at 1:00pm ET on the preceding trading day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-labor-2032-09-06@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20320906
+DTEND;VALUE=DATE:20320907
+SUMMARY:🇺🇸 Labor Day
+DESCRIPTION:Labor Day\nMonday 6 September 2032\n\nNotes\nFirst Monday in 
+ September. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-columb-2032-10-11@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20321011
+DTEND;VALUE=DATE:20321012
+SUMMARY:🇺🇸 Columbus Day
+DESCRIPTION:Columbus Day\nMonday 11 October 2032\n\nNotes\nSecond Monday 
+ in October. FEDERAL HOLIDAY BUT THE STOCK MARKET IS OPEN - banks and the
+  bond market close\, equities trade normally. Some states observe it as 
+ Indigenous Peoples' Day instead.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-vetera-2032-11-11@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20321111
+DTEND;VALUE=DATE:20321112
+SUMMARY:🇺🇸 Veterans Day
+DESCRIPTION:Veterans Day\nThursday 11 November 2032\n\nNotes\nFEDERAL HOL
+ IDAY BUT THE STOCK MARKET IS OPEN - banks and the bond market close\, eq
+ uities trade normally.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-thanks-2032-11-25@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20321125
+DTEND;VALUE=DATE:20321126
+SUMMARY:🇺🇸 Thanksgiving Day
+DESCRIPTION:Thanksgiving Day\nThursday 25 November 2032\n\nNotes\nFourth 
+ Thursday in November. Federal holiday\, markets closed\, and the market 
+ closes early at 1:00pm ET the following day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-christ-2032-12-24@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20321224
+DTEND;VALUE=DATE:20321225
+SUMMARY:🇺🇸 Christmas Day (observed)
+DESCRIPTION:Christmas Day (observed)\nFriday 24 December 2032\n\nFalls on
+  Saturday 25 December\, so it is observed on Friday under the federal in
+ -lieu-of rule.\n\nNotes\nFederal holiday\, markets closed. Christmas Eve
+  is usually a 1:00pm ET early close when it falls on a weekday.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-newye-2032-12-31@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20321231
+DTEND;VALUE=DATE:20330101
+SUMMARY:🇺🇸 New Year's Day (observed)
+DESCRIPTION:New Year's Day (observed)\nFriday 31 December 2032\n\nFalls o
+ n Saturday 1 January\, so it is observed on Friday under the federal in-
+ lieu-of rule.\n\nNotes\nFederal holiday. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-martin-2033-01-17@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20330117
+DTEND;VALUE=DATE:20330118
+SUMMARY:🇺🇸 Martin Luther King\, Jr. Day
+DESCRIPTION:Martin Luther King\, Jr. Day\nMonday 17 January 2033\n\nNotes
+ \nThird Monday in January. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-washin-2033-02-21@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20330221
+DTEND;VALUE=DATE:20330222
+SUMMARY:🇺🇸 Washington's Birthday
+DESCRIPTION:Washington's Birthday\nMonday 21 February 2033\n\nNotes\nThir
+ d Monday in February\, commonly called Presidents' Day - but the statuto
+ ry federal name is Washington's Birthday. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-memori-2033-05-30@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20330530
+DTEND;VALUE=DATE:20330531
+SUMMARY:🇺🇸 Memorial Day
+DESCRIPTION:Memorial Day\nMonday 30 May 2033\n\nNotes\nLast Monday in May
+ . Federal holiday\, markets closed. Traditionally marks the start of sum
+ mer.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-junete-2033-06-20@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20330620
+DTEND;VALUE=DATE:20330621
+SUMMARY:🇺🇸 Juneteenth National Independence Day (observed)
+DESCRIPTION:Juneteenth National Independence Day (observed)\nMonday 20 Ju
+ ne 2033\n\nFalls on Sunday 19 June\, so it is observed on Monday under t
+ he federal in-lieu-of rule.\n\nNotes\nBecame a federal holiday in 2021\,
+  the newest one. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-indepe-2033-07-04@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20330704
+DTEND;VALUE=DATE:20330705
+SUMMARY:🇺🇸 Independence Day
+DESCRIPTION:Independence Day\nMonday 4 July 2033\n\nNotes\nFederal holida
+ y\, markets closed. The market usually closes early at 1:00pm ET on the 
+ preceding trading day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-labor-2033-09-05@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20330905
+DTEND;VALUE=DATE:20330906
+SUMMARY:🇺🇸 Labor Day
+DESCRIPTION:Labor Day\nMonday 5 September 2033\n\nNotes\nFirst Monday in 
+ September. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-columb-2033-10-10@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20331010
+DTEND;VALUE=DATE:20331011
+SUMMARY:🇺🇸 Columbus Day
+DESCRIPTION:Columbus Day\nMonday 10 October 2033\n\nNotes\nSecond Monday 
+ in October. FEDERAL HOLIDAY BUT THE STOCK MARKET IS OPEN - banks and the
+  bond market close\, equities trade normally. Some states observe it as 
+ Indigenous Peoples' Day instead.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-vetera-2033-11-11@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20331111
+DTEND;VALUE=DATE:20331112
+SUMMARY:🇺🇸 Veterans Day
+DESCRIPTION:Veterans Day\nFriday 11 November 2033\n\nNotes\nFEDERAL HOLID
+ AY BUT THE STOCK MARKET IS OPEN - banks and the bond market close\, equi
+ ties trade normally.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-thanks-2033-11-24@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20331124
+DTEND;VALUE=DATE:20331125
+SUMMARY:🇺🇸 Thanksgiving Day
+DESCRIPTION:Thanksgiving Day\nThursday 24 November 2033\n\nNotes\nFourth 
+ Thursday in November. Federal holiday\, markets closed\, and the market 
+ closes early at 1:00pm ET the following day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-christ-2033-12-26@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20331226
+DTEND;VALUE=DATE:20331227
+SUMMARY:🇺🇸 Christmas Day (observed)
+DESCRIPTION:Christmas Day (observed)\nMonday 26 December 2033\n\nFalls on
+  Sunday 25 December\, so it is observed on Monday under the federal in-l
+ ieu-of rule.\n\nNotes\nFederal holiday\, markets closed. Christmas Eve i
+ s usually a 1:00pm ET early close when it falls on a weekday.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-newye-2034-01-02@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20340102
+DTEND;VALUE=DATE:20340103
+SUMMARY:🇺🇸 New Year's Day (observed)
+DESCRIPTION:New Year's Day (observed)\nMonday 2 January 2034\n\nFalls on 
+ Sunday 1 January\, so it is observed on Monday under the federal in-lieu
+ -of rule.\n\nNotes\nFederal holiday. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-martin-2034-01-16@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20340116
+DTEND;VALUE=DATE:20340117
+SUMMARY:🇺🇸 Martin Luther King\, Jr. Day
+DESCRIPTION:Martin Luther King\, Jr. Day\nMonday 16 January 2034\n\nNotes
+ \nThird Monday in January. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-washin-2034-02-20@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20340220
+DTEND;VALUE=DATE:20340221
+SUMMARY:🇺🇸 Washington's Birthday
+DESCRIPTION:Washington's Birthday\nMonday 20 February 2034\n\nNotes\nThir
+ d Monday in February\, commonly called Presidents' Day - but the statuto
+ ry federal name is Washington's Birthday. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-memori-2034-05-29@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20340529
+DTEND;VALUE=DATE:20340530
+SUMMARY:🇺🇸 Memorial Day
+DESCRIPTION:Memorial Day\nMonday 29 May 2034\n\nNotes\nLast Monday in May
+ . Federal holiday\, markets closed. Traditionally marks the start of sum
+ mer.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-junete-2034-06-19@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20340619
+DTEND;VALUE=DATE:20340620
+SUMMARY:🇺🇸 Juneteenth National Independence Day
+DESCRIPTION:Juneteenth National Independence Day\nMonday 19 June 2034\n\n
+ Notes\nBecame a federal holiday in 2021\, the newest one. Markets closed
+ .
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-indepe-2034-07-04@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20340704
+DTEND;VALUE=DATE:20340705
+SUMMARY:🇺🇸 Independence Day
+DESCRIPTION:Independence Day\nTuesday 4 July 2034\n\nNotes\nFederal holid
+ ay\, markets closed. The market usually closes early at 1:00pm ET on the
+  preceding trading day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-labor-2034-09-04@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20340904
+DTEND;VALUE=DATE:20340905
+SUMMARY:🇺🇸 Labor Day
+DESCRIPTION:Labor Day\nMonday 4 September 2034\n\nNotes\nFirst Monday in 
+ September. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-columb-2034-10-09@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20341009
+DTEND;VALUE=DATE:20341010
+SUMMARY:🇺🇸 Columbus Day
+DESCRIPTION:Columbus Day\nMonday 9 October 2034\n\nNotes\nSecond Monday i
+ n October. FEDERAL HOLIDAY BUT THE STOCK MARKET IS OPEN - banks and the 
+ bond market close\, equities trade normally. Some states observe it as I
+ ndigenous Peoples' Day instead.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-vetera-2034-11-10@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20341110
+DTEND;VALUE=DATE:20341111
+SUMMARY:🇺🇸 Veterans Day (observed)
+DESCRIPTION:Veterans Day (observed)\nFriday 10 November 2034\n\nFalls on 
+ Saturday 11 November\, so it is observed on Friday under the federal in-
+ lieu-of rule.\n\nNotes\nFEDERAL HOLIDAY BUT THE STOCK MARKET IS OPEN - b
+ anks and the bond market close\, equities trade normally.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-thanks-2034-11-23@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20341123
+DTEND;VALUE=DATE:20341124
+SUMMARY:🇺🇸 Thanksgiving Day
+DESCRIPTION:Thanksgiving Day\nThursday 23 November 2034\n\nNotes\nFourth 
+ Thursday in November. Federal holiday\, markets closed\, and the market 
+ closes early at 1:00pm ET the following day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-christ-2034-12-25@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20341225
+DTEND;VALUE=DATE:20341226
+SUMMARY:🇺🇸 Christmas Day
+DESCRIPTION:Christmas Day\nMonday 25 December 2034\n\nNotes\nFederal holi
+ day\, markets closed. Christmas Eve is usually a 1:00pm ET early close w
+ hen it falls on a weekday.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-newye-2035-01-01@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20350101
+DTEND;VALUE=DATE:20350102
+SUMMARY:🇺🇸 New Year's Day
+DESCRIPTION:New Year's Day\nMonday 1 January 2035\n\nNotes\nFederal holid
+ ay. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-martin-2035-01-15@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20350115
+DTEND;VALUE=DATE:20350116
+SUMMARY:🇺🇸 Martin Luther King\, Jr. Day
+DESCRIPTION:Martin Luther King\, Jr. Day\nMonday 15 January 2035\n\nNotes
+ \nThird Monday in January. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-washin-2035-02-19@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20350219
+DTEND;VALUE=DATE:20350220
+SUMMARY:🇺🇸 Washington's Birthday
+DESCRIPTION:Washington's Birthday\nMonday 19 February 2035\n\nNotes\nThir
+ d Monday in February\, commonly called Presidents' Day - but the statuto
+ ry federal name is Washington's Birthday. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-memori-2035-05-28@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20350528
+DTEND;VALUE=DATE:20350529
+SUMMARY:🇺🇸 Memorial Day
+DESCRIPTION:Memorial Day\nMonday 28 May 2035\n\nNotes\nLast Monday in May
+ . Federal holiday\, markets closed. Traditionally marks the start of sum
+ mer.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-junete-2035-06-19@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20350619
+DTEND;VALUE=DATE:20350620
+SUMMARY:🇺🇸 Juneteenth National Independence Day
+DESCRIPTION:Juneteenth National Independence Day\nTuesday 19 June 2035\n\
+ nNotes\nBecame a federal holiday in 2021\, the newest one. Markets close
+ d.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-indepe-2035-07-04@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20350704
+DTEND;VALUE=DATE:20350705
+SUMMARY:🇺🇸 Independence Day
+DESCRIPTION:Independence Day\nWednesday 4 July 2035\n\nNotes\nFederal hol
+ iday\, markets closed. The market usually closes early at 1:00pm ET on t
+ he preceding trading day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-labor-2035-09-03@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20350903
+DTEND;VALUE=DATE:20350904
+SUMMARY:🇺🇸 Labor Day
+DESCRIPTION:Labor Day\nMonday 3 September 2035\n\nNotes\nFirst Monday in 
+ September. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-columb-2035-10-08@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20351008
+DTEND;VALUE=DATE:20351009
+SUMMARY:🇺🇸 Columbus Day
+DESCRIPTION:Columbus Day\nMonday 8 October 2035\n\nNotes\nSecond Monday i
+ n October. FEDERAL HOLIDAY BUT THE STOCK MARKET IS OPEN - banks and the 
+ bond market close\, equities trade normally. Some states observe it as I
+ ndigenous Peoples' Day instead.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-vetera-2035-11-12@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20351112
+DTEND;VALUE=DATE:20351113
+SUMMARY:🇺🇸 Veterans Day (observed)
+DESCRIPTION:Veterans Day (observed)\nMonday 12 November 2035\n\nFalls on 
+ Sunday 11 November\, so it is observed on Monday under the federal in-li
+ eu-of rule.\n\nNotes\nFEDERAL HOLIDAY BUT THE STOCK MARKET IS OPEN - ban
+ ks and the bond market close\, equities trade normally.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-thanks-2035-11-22@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20351122
+DTEND;VALUE=DATE:20351123
+SUMMARY:🇺🇸 Thanksgiving Day
+DESCRIPTION:Thanksgiving Day\nThursday 22 November 2035\n\nNotes\nFourth 
+ Thursday in November. Federal holiday\, markets closed\, and the market 
+ closes early at 1:00pm ET the following day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-christ-2035-12-25@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20351225
+DTEND;VALUE=DATE:20351226
+SUMMARY:🇺🇸 Christmas Day
+DESCRIPTION:Christmas Day\nTuesday 25 December 2035\n\nNotes\nFederal hol
+ iday\, markets closed. Christmas Eve is usually a 1:00pm ET early close 
+ when it falls on a weekday.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-newye-2036-01-01@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20360101
+DTEND;VALUE=DATE:20360102
+SUMMARY:🇺🇸 New Year's Day
+DESCRIPTION:New Year's Day\nTuesday 1 January 2036\n\nNotes\nFederal holi
+ day. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-martin-2036-01-21@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20360121
+DTEND;VALUE=DATE:20360122
+SUMMARY:🇺🇸 Martin Luther King\, Jr. Day
+DESCRIPTION:Martin Luther King\, Jr. Day\nMonday 21 January 2036\n\nNotes
+ \nThird Monday in January. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-washin-2036-02-18@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20360218
+DTEND;VALUE=DATE:20360219
+SUMMARY:🇺🇸 Washington's Birthday
+DESCRIPTION:Washington's Birthday\nMonday 18 February 2036\n\nNotes\nThir
+ d Monday in February\, commonly called Presidents' Day - but the statuto
+ ry federal name is Washington's Birthday. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-memori-2036-05-26@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20360526
+DTEND;VALUE=DATE:20360527
+SUMMARY:🇺🇸 Memorial Day
+DESCRIPTION:Memorial Day\nMonday 26 May 2036\n\nNotes\nLast Monday in May
+ . Federal holiday\, markets closed. Traditionally marks the start of sum
+ mer.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-junete-2036-06-19@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20360619
+DTEND;VALUE=DATE:20360620
+SUMMARY:🇺🇸 Juneteenth National Independence Day
+DESCRIPTION:Juneteenth National Independence Day\nThursday 19 June 2036\n
+ \nNotes\nBecame a federal holiday in 2021\, the newest one. Markets clos
+ ed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-indepe-2036-07-04@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20360704
+DTEND;VALUE=DATE:20360705
+SUMMARY:🇺🇸 Independence Day
+DESCRIPTION:Independence Day\nFriday 4 July 2036\n\nNotes\nFederal holida
+ y\, markets closed. The market usually closes early at 1:00pm ET on the 
+ preceding trading day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-labor-2036-09-01@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20360901
+DTEND;VALUE=DATE:20360902
+SUMMARY:🇺🇸 Labor Day
+DESCRIPTION:Labor Day\nMonday 1 September 2036\n\nNotes\nFirst Monday in 
+ September. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-columb-2036-10-13@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20361013
+DTEND;VALUE=DATE:20361014
+SUMMARY:🇺🇸 Columbus Day
+DESCRIPTION:Columbus Day\nMonday 13 October 2036\n\nNotes\nSecond Monday 
+ in October. FEDERAL HOLIDAY BUT THE STOCK MARKET IS OPEN - banks and the
+  bond market close\, equities trade normally. Some states observe it as 
+ Indigenous Peoples' Day instead.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-vetera-2036-11-11@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20361111
+DTEND;VALUE=DATE:20361112
+SUMMARY:🇺🇸 Veterans Day
+DESCRIPTION:Veterans Day\nTuesday 11 November 2036\n\nNotes\nFEDERAL HOLI
+ DAY BUT THE STOCK MARKET IS OPEN - banks and the bond market close\, equ
+ ities trade normally.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-thanks-2036-11-27@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20361127
+DTEND;VALUE=DATE:20361128
+SUMMARY:🇺🇸 Thanksgiving Day
+DESCRIPTION:Thanksgiving Day\nThursday 27 November 2036\n\nNotes\nFourth 
+ Thursday in November. Federal holiday\, markets closed\, and the market 
+ closes early at 1:00pm ET the following day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-christ-2036-12-25@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20361225
+DTEND;VALUE=DATE:20361226
+SUMMARY:🇺🇸 Christmas Day
+DESCRIPTION:Christmas Day\nThursday 25 December 2036\n\nNotes\nFederal ho
+ liday\, markets closed. Christmas Eve is usually a 1:00pm ET early close
+  when it falls on a weekday.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-newye-2037-01-01@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20370101
+DTEND;VALUE=DATE:20370102
+SUMMARY:🇺🇸 New Year's Day
+DESCRIPTION:New Year's Day\nThursday 1 January 2037\n\nNotes\nFederal hol
+ iday. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-martin-2037-01-19@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20370119
+DTEND;VALUE=DATE:20370120
+SUMMARY:🇺🇸 Martin Luther King\, Jr. Day
+DESCRIPTION:Martin Luther King\, Jr. Day\nMonday 19 January 2037\n\nNotes
+ \nThird Monday in January. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-washin-2037-02-16@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20370216
+DTEND;VALUE=DATE:20370217
+SUMMARY:🇺🇸 Washington's Birthday
+DESCRIPTION:Washington's Birthday\nMonday 16 February 2037\n\nNotes\nThir
+ d Monday in February\, commonly called Presidents' Day - but the statuto
+ ry federal name is Washington's Birthday. Markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-memori-2037-05-25@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20370525
+DTEND;VALUE=DATE:20370526
+SUMMARY:🇺🇸 Memorial Day
+DESCRIPTION:Memorial Day\nMonday 25 May 2037\n\nNotes\nLast Monday in May
+ . Federal holiday\, markets closed. Traditionally marks the start of sum
+ mer.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-junete-2037-06-19@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20370619
+DTEND;VALUE=DATE:20370620
+SUMMARY:🇺🇸 Juneteenth National Independence Day
+DESCRIPTION:Juneteenth National Independence Day\nFriday 19 June 2037\n\n
+ Notes\nBecame a federal holiday in 2021\, the newest one. Markets closed
+ .
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-indepe-2037-07-03@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20370703
+DTEND;VALUE=DATE:20370704
+SUMMARY:🇺🇸 Independence Day (observed)
+DESCRIPTION:Independence Day (observed)\nFriday 3 July 2037\n\nFalls on S
+ aturday 4 July\, so it is observed on Friday under the federal in-lieu-o
+ f rule.\n\nNotes\nFederal holiday\, markets closed. The market usually c
+ loses early at 1:00pm ET on the preceding trading day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-labor-2037-09-07@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20370907
+DTEND;VALUE=DATE:20370908
+SUMMARY:🇺🇸 Labor Day
+DESCRIPTION:Labor Day\nMonday 7 September 2037\n\nNotes\nFirst Monday in 
+ September. Federal holiday\, markets closed.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-columb-2037-10-12@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20371012
+DTEND;VALUE=DATE:20371013
+SUMMARY:🇺🇸 Columbus Day
+DESCRIPTION:Columbus Day\nMonday 12 October 2037\n\nNotes\nSecond Monday 
+ in October. FEDERAL HOLIDAY BUT THE STOCK MARKET IS OPEN - banks and the
+  bond market close\, equities trade normally. Some states observe it as 
+ Indigenous Peoples' Day instead.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-vetera-2037-11-11@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20371111
+DTEND;VALUE=DATE:20371112
+SUMMARY:🇺🇸 Veterans Day
+DESCRIPTION:Veterans Day\nWednesday 11 November 2037\n\nNotes\nFEDERAL HO
+ LIDAY BUT THE STOCK MARKET IS OPEN - banks and the bond market close\, e
+ quities trade normally.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-thanks-2037-11-26@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20371126
+DTEND;VALUE=DATE:20371127
+SUMMARY:🇺🇸 Thanksgiving Day
+DESCRIPTION:Thanksgiving Day\nThursday 26 November 2037\n\nNotes\nFourth 
+ Thursday in November. Federal holiday\, markets closed\, and the market 
+ closes early at 1:00pm ET the following day.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usfed-christ-2037-12-25@claude-usholidays
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20371225
+DTEND;VALUE=DATE:20371226
+SUMMARY:🇺🇸 Christmas Day
+DESCRIPTION:Christmas Day\nFriday 25 December 2037\n\nNotes\nFederal holi
+ day\, markets closed. Christmas Eve is usually a 1:00pm ET early close w
+ hen it falls on a weekday.
+CATEGORIES:US Holidays,Federal Holiday
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
