@@ -13,8 +13,15 @@ EVENTS = [
          street="900 Lamington Rd, Bedminster, NJ 07921, USA",
          lat=40.653751, lon=-74.696966,
          cat="LIV Golf - Regular Season",
-         notes="LIV returns to Bedminster. Round 1 coverage starts 12:00 UTC "
-               "(8am ET) on Thursday 6 August. " + FORMAT_NOTE),
+         notes="LIV returns to Bedminster for the first time since 2023.\n\n"
+               "*** START TIME UNCONFIRMED ***\nLIV's own event page still "
+               "says shotgun start times are to be announced. Reporting "
+               "around the FOX broadcast schedule points to a 1:00pm ET "
+               "broadcast window with a first tee near 1:15pm ET (17:15 UTC), "
+               "which is about five hours later than the placeholder shown "
+               "here. Check livgolf.com before setting an alarm.\n\n"
+               "Purse $30m. Cameron Smith won here in 2023 by seven shots, "
+               "still a LIV record. " + FORMAT_NOTE),
     dict(slug="liv-indianapolis", name="LIV Golf Indianapolis",
          start=date(2026, 8, 20),
          venue="The Club at Chatham Hills",

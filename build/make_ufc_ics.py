@@ -36,11 +36,11 @@ EVENTS = [
      "enters on a 12-fight win streak against #8 Mateusz Gamrot. Also known "
      "as UFC Vegas 120."),
     ("ufc-330", "UFC 330: Makhachev vs. Machado Garry", True,
-     (2026, 8, 15, 21, 0), None, "philly",
+     (2026, 8, 15, 21, 0), (2026, 8, 15, 19, 0), "philly",
      "Islam Makhachev defends the welterweight title against Ian Machado "
      "Garry. The promotion's fourth visit to Philadelphia."),
     ("fn-hernandez-rodrigues", "UFC Fight Night: Hernandez vs. Rodrigues", False,
-     (2026, 8, 22, 20, 0), None, "sacramento",
+     (2026, 8, 22, 20, 0), (2026, 8, 22, 17, 0), "sacramento",
      "Middleweight main event: Anthony Hernandez v Gregory Rodrigues."),
     ("fn-nurmagomedov-song", "UFC Fight Night: Nurmagomedov vs. Song", False,
      (2026, 8, 29, 6, 0), None, "shanghai",

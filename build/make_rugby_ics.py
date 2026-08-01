@@ -58,7 +58,7 @@ M = [
      "Standalone Test in Buenos Aires with a 26-man Springbok squad; the rest "
      "stay home to prep for the All Blacks. SA Rugby quotes 21:00 SAST - worth "
      "reconfirming nearer the date."),
-    ("jpn-aus-1", "Japan", "Australia", U(2026, 8, 8, 11, 15), "hanazono", "Test match",
+    ("jpn-aus-1", "Japan", "Australia", U(2026, 8, 8, 10, 5), "hanazono", "Test match",
      "Leg one of a home-and-away series. Les Kiss's first Test in charge of the Wallabies."),
     ("aus-jpn-2", "Australia", "Japan", U(2026, 8, 15, 5, 0), "townsville", "Flight Centre Series",
      "Leg two of the home-and-away series with Japan."),

@@ -86,6 +86,9 @@ if [[ $DRY -eq 1 ]]; then
   exit 0
 fi
 
+echo "==> Syncing with remote"
+git pull --rebase --autostash -q
+
 echo "==> Publishing"
 git add -A docs
 if git diff --staged --quiet; then
