@@ -306,6 +306,88 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:rydercup-2027-r1@claude-golf
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:⛳ Ryder Cup
+LOCATION:The Golf Course at Adare Manor\, Adare\, Co. Limerick\, V94 W8WR
+ \, Ireland
+GEO:52.563889;-8.789722
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Adare, Co. Limerick, V94
+  W8WR, Ireland";X-APPLE-RADIUS=400;X-TITLE="The Golf Course at Adare Man
+ or":geo:52.563889,-8.789722
+DESCRIPTION:Ryder Cup - Day 1 - Foursomes & Four-balls\nFriday 17 Septemb
+ er 2027\n\n46th edition\n\nVenue: The Golf Course at Adare Manor\nAddres
+ s: Adare\, Co. Limerick\, V94 W8WR\, Ireland\nTournament: Fri 17 - Sun 1
+ 9 September 2027\n\nNotes\nEurope v the United States. First Ryder Cup i
+ n Ireland since 2006 at the K Club\, and the 100th anniversary of the co
+ ntest.\\n\\nLuke Donald captains Europe for a third straight time - the 
+ first European to do so since Bernard Gallacher in the 1990s. Jim Furyk 
+ captains the USA\, a second spell after 2018.\\n\\nThree days of matches
+ : foursomes and four-balls on Friday and Saturday\, twelve singles on Su
+ nday. Build-up days run Mon 13 to Thu 16 September.\\n\\nNo prize money 
+ - the players are unpaid.\n\nTee times are confirmed in tournament week.
+CATEGORIES:Golf Majors
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:rydercup-2027-r2@claude-golf
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:⛳ Ryder Cup
+LOCATION:The Golf Course at Adare Manor\, Adare\, Co. Limerick\, V94 W8WR
+ \, Ireland
+GEO:52.563889;-8.789722
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Adare, Co. Limerick, V94
+  W8WR, Ireland";X-APPLE-RADIUS=400;X-TITLE="The Golf Course at Adare Man
+ or":geo:52.563889,-8.789722
+DESCRIPTION:Ryder Cup - Day 2 - Foursomes & Four-balls\nSaturday 18 Septe
+ mber 2027\n\n46th edition\n\nVenue: The Golf Course at Adare Manor\nAddr
+ ess: Adare\, Co. Limerick\, V94 W8WR\, Ireland\nTournament: Fri 17 - Sun
+  19 September 2027\n\nNotes\nEurope v the United States. First Ryder Cup
+  in Ireland since 2006 at the K Club\, and the 100th anniversary of the 
+ contest.\\n\\nLuke Donald captains Europe for a third straight time - th
+ e first European to do so since Bernard Gallacher in the 1990s. Jim Fury
+ k captains the USA\, a second spell after 2018.\\n\\nThree days of match
+ es: foursomes and four-balls on Friday and Saturday\, twelve singles on 
+ Sunday. Build-up days run Mon 13 to Thu 16 September.\\n\\nNo prize mone
+ y - the players are unpaid.\n\nTee times are confirmed in tournament wee
+ k.
+CATEGORIES:Golf Majors
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:rydercup-2027-r3@claude-golf
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:⛳ Ryder Cup
+LOCATION:The Golf Course at Adare Manor\, Adare\, Co. Limerick\, V94 W8WR
+ \, Ireland
+GEO:52.563889;-8.789722
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Adare, Co. Limerick, V94
+  W8WR, Ireland";X-APPLE-RADIUS=400;X-TITLE="The Golf Course at Adare Man
+ or":geo:52.563889,-8.789722
+DESCRIPTION:Ryder Cup - Day 3 - Singles\nSunday 19 September 2027\n\n46th
+  edition\n\nVenue: The Golf Course at Adare Manor\nAddress: Adare\, Co. 
+ Limerick\, V94 W8WR\, Ireland\nTournament: Fri 17 - Sun 19 September 202
+ 7\n\nNotes\nEurope v the United States. First Ryder Cup in Ireland since
+  2006 at the K Club\, and the 100th anniversary of the contest.\\n\\nLuk
+ e Donald captains Europe for a third straight time - the first European 
+ to do so since Bernard Gallacher in the 1990s. Jim Furyk captains the US
+ A\, a second spell after 2018.\\n\\nThree days of matches: foursomes and
+  four-balls on Friday and Saturday\, twelve singles on Sunday. Build-up 
+ days run Mon 13 to Thu 16 September.\\n\\nNo prize money - the players a
+ re unpaid.\n\nTee times are confirmed in tournament week.
+CATEGORIES:Golf Majors
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:open-2027-r1@claude-golf
 DTSTAMP:20260801T090000Z
 DTSTART;VALUE=DATE:20270715

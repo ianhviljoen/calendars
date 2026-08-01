@@ -1,0 +1,259 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//FA Cup//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:🏴󠁧󠁢󠁥󠁮󠁧󠁿 FA Cup
+X-APPLE-CALENDAR-COLOR:#C8102E
+X-WR-CALDESC:Emirates FA Cup 2026/27 round dates. Ties are drawn a few we
+ eks before each round.
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:facup-2026-08-08@claude-facup
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 FA Cup - Extra Preliminary Round
+DESCRIPTION:FA Cup - Extra Preliminary Round\nSaturday 8 August 2026\n\nQ
+ ualifying round\n\nEmirates FA Cup 2026/27 - the oldest football competi
+ tion in the world\, first played in 1871.\\n\\nTIES ARE NOT YET DRAWN. E
+ ach round's draw is made a few weeks beforehand\, and matches can shift 
+ across the weekend for TV. BBC and TNT Sports share the broadcast rights
+ .
+CATEGORIES:FA Cup
+URL:https://www.thefa.com/competitions/thefacup
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:facup-2026-08-22@claude-facup
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 FA Cup - Preliminary Round
+DESCRIPTION:FA Cup - Preliminary Round\nSaturday 22 August 2026\n\nQualif
+ ying round\n\nEmirates FA Cup 2026/27 - the oldest football competition 
+ in the world\, first played in 1871.\\n\\nTIES ARE NOT YET DRAWN. Each r
+ ound's draw is made a few weeks beforehand\, and matches can shift acros
+ s the weekend for TV. BBC and TNT Sports share the broadcast rights.
+CATEGORIES:FA Cup
+URL:https://www.thefa.com/competitions/thefacup
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:facup-2026-09-05@claude-facup
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 FA Cup - First Round Qualifying
+DESCRIPTION:FA Cup - First Round Qualifying\nSaturday 5 September 2026\n\
+ nQualifying round\n\nEmirates FA Cup 2026/27 - the oldest football compe
+ tition in the world\, first played in 1871.\\n\\nTIES ARE NOT YET DRAWN.
+  Each round's draw is made a few weeks beforehand\, and matches can shif
+ t across the weekend for TV. BBC and TNT Sports share the broadcast righ
+ ts.
+CATEGORIES:FA Cup
+URL:https://www.thefa.com/competitions/thefacup
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:facup-2026-09-19@claude-facup
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 FA Cup - Second Round Qualifying
+DESCRIPTION:FA Cup - Second Round Qualifying\nSaturday 19 September 2026\
+ n\nQualifying round\n\nEmirates FA Cup 2026/27 - the oldest football com
+ petition in the world\, first played in 1871.\\n\\nTIES ARE NOT YET DRAW
+ N. Each round's draw is made a few weeks beforehand\, and matches can sh
+ ift across the weekend for TV. BBC and TNT Sports share the broadcast ri
+ ghts.
+CATEGORIES:FA Cup
+URL:https://www.thefa.com/competitions/thefacup
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:facup-2026-10-03@claude-facup
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 FA Cup - Third Round Qualifying
+DESCRIPTION:FA Cup - Third Round Qualifying\nSaturday 3 October 2026\n\nQ
+ ualifying round\n\nEmirates FA Cup 2026/27 - the oldest football competi
+ tion in the world\, first played in 1871.\\n\\nTIES ARE NOT YET DRAWN. E
+ ach round's draw is made a few weeks beforehand\, and matches can shift 
+ across the weekend for TV. BBC and TNT Sports share the broadcast rights
+ .
+CATEGORIES:FA Cup
+URL:https://www.thefa.com/competitions/thefacup
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:facup-2026-10-17@claude-facup
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 FA Cup - Fourth Round Qualifying
+DESCRIPTION:FA Cup - Fourth Round Qualifying\nSaturday 17 October 2026\n\
+ nQualifying round\n\nNotes\nNational League clubs typically enter here -
+  the last step before the competition proper.\n\nEmirates FA Cup 2026/27
+  - the oldest football competition in the world\, first played in 1871.\
+ \n\\nTIES ARE NOT YET DRAWN. Each round's draw is made a few weeks befor
+ ehand\, and matches can shift across the weekend for TV. BBC and TNT Spo
+ rts share the broadcast rights.
+CATEGORIES:FA Cup
+URL:https://www.thefa.com/competitions/thefacup
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:facup-2026-11-07@claude-facup
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 FA Cup - First Round Proper
+DESCRIPTION:FA Cup - First Round Proper\nSaturday 7 November 2026\n\nComp
+ etition proper\n\nNotes\nLeague One and League Two clubs enter.\n\nEmira
+ tes FA Cup 2026/27 - the oldest football competition in the world\, firs
+ t played in 1871.\\n\\nTIES ARE NOT YET DRAWN. Each round's draw is made
+  a few weeks beforehand\, and matches can shift across the weekend for T
+ V. BBC and TNT Sports share the broadcast rights.
+CATEGORIES:FA Cup
+URL:https://www.thefa.com/competitions/thefacup
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:facup-2026-12-05@claude-facup
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 FA Cup - Second Round Proper
+DESCRIPTION:FA Cup - Second Round Proper\nSaturday 5 December 2026\n\nCom
+ petition proper\n\nEmirates FA Cup 2026/27 - the oldest football competi
+ tion in the world\, first played in 1871.\\n\\nTIES ARE NOT YET DRAWN. E
+ ach round's draw is made a few weeks beforehand\, and matches can shift 
+ across the weekend for TV. BBC and TNT Sports share the broadcast rights
+ .
+CATEGORIES:FA Cup
+URL:https://www.thefa.com/competitions/thefacup
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:facup-2027-01-09@claude-facup
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 FA Cup - Third Round Proper
+DESCRIPTION:FA Cup - Third Round Proper\nSaturday 9 January 2027\n\nCompe
+ tition proper\n\nNotes\nTHE BIG ONE. Premier League and Championship clu
+ bs enter\, so there are no league fixtures in either division this weeke
+ nd. Traditionally the round of giant-killings - Crystal Palace went out 
+ at Macclesfield as holders last season.\n\nEmirates FA Cup 2026/27 - the
+  oldest football competition in the world\, first played in 1871.\\n\\nT
+ IES ARE NOT YET DRAWN. Each round's draw is made a few weeks beforehand\
+ , and matches can shift across the weekend for TV. BBC and TNT Sports sh
+ are the broadcast rights.
+CATEGORIES:FA Cup
+URL:https://www.thefa.com/competitions/thefacup
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:facup-2027-02-13@claude-facup
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 FA Cup - Fourth Round Proper
+DESCRIPTION:FA Cup - Fourth Round Proper\nSaturday 13 February 2027\n\nCo
+ mpetition proper\n\nEmirates FA Cup 2026/27 - the oldest football compet
+ ition in the world\, first played in 1871.\\n\\nTIES ARE NOT YET DRAWN. 
+ Each round's draw is made a few weeks beforehand\, and matches can shift
+  across the weekend for TV. BBC and TNT Sports share the broadcast right
+ s.
+CATEGORIES:FA Cup
+URL:https://www.thefa.com/competitions/thefacup
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:facup-2027-03-06@claude-facup
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 FA Cup - Fifth Round Proper
+DESCRIPTION:FA Cup - Fifth Round Proper\nSaturday 6 March 2027\n\nCompeti
+ tion proper\n\nEmirates FA Cup 2026/27 - the oldest football competition
+  in the world\, first played in 1871.\\n\\nTIES ARE NOT YET DRAWN. Each 
+ round's draw is made a few weeks beforehand\, and matches can shift acro
+ ss the weekend for TV. BBC and TNT Sports share the broadcast rights.
+CATEGORIES:FA Cup
+URL:https://www.thefa.com/competitions/thefacup
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:facup-2027-04-03@claude-facup
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 FA Cup - Quarter-Final
+DESCRIPTION:FA Cup - Quarter-Final\nSaturday 3 April 2027\n\nCompetition 
+ proper\n\nEmirates FA Cup 2026/27 - the oldest football competition in t
+ he world\, first played in 1871.\\n\\nTIES ARE NOT YET DRAWN. Each round
+ 's draw is made a few weeks beforehand\, and matches can shift across th
+ e weekend for TV. BBC and TNT Sports share the broadcast rights.
+CATEGORIES:FA Cup
+URL:https://www.thefa.com/competitions/thefacup
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:facup-2027-04-24@claude-facup
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 FA Cup - Semi-Final
+LOCATION:Wembley Stadium\, London HA9 0WS\, UK
+GEO:51.556025;-0.279618
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Wembley, London HA9 0WS,
+  UK";X-APPLE-RADIUS=300;X-TITLE="Wembley Stadium":geo:51.556025,-0.27961
+ 8
+DESCRIPTION:FA Cup - Semi-Final\nSaturday 24 April 2027\n\nCompetition pr
+ oper\n\nNotes\nPlayed at Wembley over Saturday 24 and Sunday 25 April.\n
+ \nEmirates FA Cup 2026/27 - the oldest football competition in the world
+ \, first played in 1871.\\n\\nTIES ARE NOT YET DRAWN. Each round's draw 
+ is made a few weeks beforehand\, and matches can shift across the weeken
+ d for TV. BBC and TNT Sports share the broadcast rights.
+CATEGORIES:FA Cup
+URL:https://www.thefa.com/competitions/thefacup
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:facup-2027-05-22@claude-facup
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿 FA Cup - FINAL
+LOCATION:Wembley Stadium\, London HA9 0WS\, UK
+GEO:51.556025;-0.279618
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Wembley, London HA9 0WS,
+  UK";X-APPLE-RADIUS=300;X-TITLE="Wembley Stadium":geo:51.556025,-0.27961
+ 8
+DESCRIPTION:FA Cup - FINAL\nSaturday 22 May 2027\n\nCompetition proper\n\
+ nNotes\nWembley Stadium. Manchester City are holders after beating Chels
+ ea last May.\n\nEmirates FA Cup 2026/27 - the oldest football competitio
+ n in the world\, first played in 1871.\\n\\nTIES ARE NOT YET DRAWN. Each
+  round's draw is made a few weeks beforehand\, and matches can shift acr
+ oss the weekend for TV. BBC and TNT Sports share the broadcast rights.
+CATEGORIES:FA Cup
+URL:https://www.thefa.com/competitions/thefacup
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
