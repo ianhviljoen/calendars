@@ -1,0 +1,3449 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//UEFA Nations League//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:⚽ UEFA Nations League
+X-APPLE-CALENDAR-COLOR:#0A2E62
+X-WR-CALDESC:UEFA Nations League 2026/27 league phase - all 162 fixtures 
+ across Leagues A to D. Kick-off times from uefa.com\, stored in UTC.
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:unl-20260924-Net-Ger@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260924T184500Z
+DTEND:20260924T204500Z
+SUMMARY:⚽ 🇳🇱 Netherlands v 🇩🇪 Germany (A2)
+DESCRIPTION:🇳🇱 Netherlands v 🇩🇪 Germany\nMatchday 1 - Group A
+ 2 (League A)\nThursday 24 September 2026\n\nKick-off\n20:45 CET  |  18:4
+ 5 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams ac
+ ross Leagues A-D. League A\, B and C sides play six matches\; League D p
+ lay four.\n\nNew this year: an extended September-October window\, with 
+ four matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeagu
+ e A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. T
+ he four-team Finals are 9-13 June 2027\; host and exact dates still to b
+ e confirmed. Portugal are defending champions.\n\nThe competition also f
+ eeds into EURO 2028 qualifying\, with some teams getting a second route 
+ through the play-offs.
+CATEGORIES:Nations League,League A,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260924-Ser-Gre@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260924T184500Z
+DTEND:20260924T204500Z
+SUMMARY:⚽ 🇷🇸 Serbia v 🇬🇷 Greece (A2)
+DESCRIPTION:🇷🇸 Serbia v 🇬🇷 Greece\nMatchday 1 - Group A2 (Lea
+ gue A)\nThursday 24 September 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\
+ n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across L
+ eagues A-D. League A\, B and C sides play six matches\; League D play fo
+ ur.\n\nNew this year: an extended September-October window\, with four m
+ atchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qu
+ arter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fou
+ r-team Finals are 9-13 June 2027\; host and exact dates still to be conf
+ irmed. Portugal are defending champions.\n\nThe competition also feeds i
+ nto EURO 2028 qualifying\, with some teams getting a second route throug
+ h the play-offs.
+CATEGORIES:Nations League,League A,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260924-Nor-Den@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260924T184500Z
+DTEND:20260924T204500Z
+SUMMARY:⚽ 🇳🇴 Norway v 🇩🇰 Denmark (A4)
+DESCRIPTION:🇳🇴 Norway v 🇩🇰 Denmark\nMatchday 1 - Group A4 (Le
+ ague A)\nThursday 24 September 2026\n\nKick-off\n20:45 CET  |  18:45 UTC
+ \n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across 
+ Leagues A-D. League A\, B and C sides play six matches\; League D play f
+ our.\n\nNew this year: an extended September-October window\, with four 
+ matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A q
+ uarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fo
+ ur-team Finals are 9-13 June 2027\; host and exact dates still to be con
+ firmed. Portugal are defending champions.\n\nThe competition also feeds 
+ into EURO 2028 qualifying\, with some teams getting a second route throu
+ gh the play-offs.
+CATEGORIES:Nations League,League A,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260924-Por-Wal@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260924T184500Z
+DTEND:20260924T204500Z
+SUMMARY:⚽ 🇵🇹 Portugal v 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (A4)
+DESCRIPTION:🇵🇹 Portugal v 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales\nMatch
+ day 1 - Group A4 (League A)\nThursday 24 September 2026\n\nKick-off\n20:
+ 45 CET  |  18:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth editi
+ on. 54 teams across Leagues A-D. League A\, B and C sides play six match
+ es\; League D play four.\n\nNew this year: an extended September-October
+  window\, with four matchdays played in close succession from 24 Sep to 
+ 6 Oct.\n\nLeague A quarter-finals and the A/B and B/C play-offs run 25-3
+ 0 March 2027. The four-team Finals are 9-13 June 2027\; host and exact d
+ ates still to be confirmed. Portugal are defending champions.\n\nThe com
+ petition also feeds into EURO 2028 qualifying\, with some teams getting 
+ a second route through the play-offs.
+CATEGORIES:Nations League,League A,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260924-Aus-Isr@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260924T184500Z
+DTEND:20260924T204500Z
+SUMMARY:⚽ 🇦🇹 Austria v 🇮🇱 Israel (B3)
+DESCRIPTION:🇦🇹 Austria v 🇮🇱 Israel\nMatchday 1 - Group B3 (Le
+ ague B)\nThursday 24 September 2026\n\nKick-off\n20:45 CET  |  18:45 UTC
+ \n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across 
+ Leagues A-D. League A\, B and C sides play six matches\; League D play f
+ our.\n\nNew this year: an extended September-October window\, with four 
+ matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A q
+ uarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fo
+ ur-team Finals are 9-13 June 2027\; host and exact dates still to be con
+ firmed. Portugal are defending champions.\n\nThe competition also feeds 
+ into EURO 2028 qualifying\, with some teams getting a second route throu
+ gh the play-offs.
+CATEGORIES:Nations League,League B,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260924-Kos-Rep@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260924T184500Z
+DTEND:20260924T204500Z
+SUMMARY:⚽ 🇽🇰 Kosovo v 🇮🇪 Republic of Ireland (B3)
+DESCRIPTION:🇽🇰 Kosovo v 🇮🇪 Republic of Ireland\nMatchday 1 - 
+ Group B3 (League B)\nThursday 24 September 2026\n\nKick-off\n20:45 CET  
+ |  18:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 t
+ eams across Leagues A-D. League A\, B and C sides play six matches\; Lea
+ gue D play four.\n\nNew this year: an extended September-October window\
+ , with four matchdays played in close succession from 24 Sep to 6 Oct.\n
+ \nLeague A quarter-finals and the A/B and B/C play-offs run 25-30 March 
+ 2027. The four-team Finals are 9-13 June 2027\; host and exact dates sti
+ ll to be confirmed. Portugal are defending champions.\n\nThe competition
+  also feeds into EURO 2028 qualifying\, with some teams getting a second
+  route through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260924-And-Mal@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260924T184500Z
+DTEND:20260924T204500Z
+SUMMARY:⚽ 🇦🇩 Andorra v 🇲🇹 Malta (D1)
+DESCRIPTION:🇦🇩 Andorra v 🇲🇹 Malta\nMatchday 1 - Group D1 (Lea
+ gue D)\nThursday 24 September 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\
+ n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across L
+ eagues A-D. League A\, B and C sides play six matches\; League D play fo
+ ur.\n\nNew this year: an extended September-October window\, with four m
+ atchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qu
+ arter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fou
+ r-team Finals are 9-13 June 2027\; host and exact dates still to be conf
+ irmed. Portugal are defending champions.\n\nThe competition also feeds i
+ nto EURO 2028 qualifying\, with some teams getting a second route throug
+ h the play-offs.
+CATEGORIES:Nations League,League D,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260924-Lie-Lit@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260924T184500Z
+DTEND:20260924T204500Z
+SUMMARY:⚽ 🇱🇮 Liechtenstein v 🇱🇹 Lithuania (D2)
+DESCRIPTION:🇱🇮 Liechtenstein v 🇱🇹 Lithuania\nMatchday 1 - Gro
+ up D2 (League D)\nThursday 24 September 2026\n\nKick-off\n20:45 CET  |  
+ 18:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 team
+ s across Leagues A-D. League A\, B and C sides play six matches\; League
+  D play four.\n\nNew this year: an extended September-October window\, w
+ ith four matchdays played in close succession from 24 Sep to 6 Oct.\n\nL
+ eague A quarter-finals and the A/B and B/C play-offs run 25-30 March 202
+ 7. The four-team Finals are 9-13 June 2027\; host and exact dates still 
+ to be confirmed. Portugal are defending champions.\n\nThe competition al
+ so feeds into EURO 2028 qualifying\, with some teams getting a second ro
+ ute through the play-offs.
+CATEGORIES:Nations League,League D,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260925-Geo-Nor@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260925T160000Z
+DTEND:20260925T180000Z
+SUMMARY:⚽ 🇬🇪 Georgia v 🏴 Northern Ireland (B2)
+DESCRIPTION:🇬🇪 Georgia v 🏴 Northern Ireland\nMatchday 1 - Group 
+ B2 (League B)\nFriday 25 September 2026\n\nKick-off\n18:00 CET  |  16:00
+  UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams acr
+ oss Leagues A-D. League A\, B and C sides play six matches\; League D pl
+ ay four.\n\nNew this year: an extended September-October window\, with f
+ our matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague
+  A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. Th
+ e four-team Finals are 9-13 June 2027\; host and exact dates still to be
+  confirmed. Portugal are defending champions.\n\nThe competition also fe
+ eds into EURO 2028 qualifying\, with some teams getting a second route t
+ hrough the play-offs.
+CATEGORIES:Nations League,League B,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260925-Arm-Lat@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260925T160000Z
+DTEND:20260925T180000Z
+SUMMARY:⚽ 🇦🇲 Armenia v 🇱🇻 Latvia (C2)
+DESCRIPTION:🇦🇲 Armenia v 🇱🇻 Latvia\nMatchday 1 - Group C2 (Le
+ ague C)\nFriday 25 September 2026\n\nKick-off\n18:00 CET  |  16:00 UTC\n
+ \nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Le
+ agues A-D. League A\, B and C sides play six matches\; League D play fou
+ r.\n\nNew this year: an extended September-October window\, with four ma
+ tchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qua
+ rter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four
+ -team Finals are 9-13 June 2027\; host and exact dates still to be confi
+ rmed. Portugal are defending champions.\n\nThe competition also feeds in
+ to EURO 2028 qualifying\, with some teams getting a second route through
+  the play-offs.
+CATEGORIES:Nations League,League C,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260925-Ita-Bel@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260925T184500Z
+DTEND:20260925T204500Z
+SUMMARY:⚽ 🇮🇹 Italy v 🇧🇪 Belgium (A1)
+DESCRIPTION:🇮🇹 Italy v 🇧🇪 Belgium\nMatchday 1 - Group A1 (Lea
+ gue A)\nFriday 25 September 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n\
+ nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Lea
+ gues A-D. League A\, B and C sides play six matches\; League D play four
+ .\n\nNew this year: an extended September-October window\, with four mat
+ chdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A quar
+ ter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-
+ team Finals are 9-13 June 2027\; host and exact dates still to be confir
+ med. Portugal are defending champions.\n\nThe competition also feeds int
+ o EURO 2028 qualifying\, with some teams getting a second route through 
+ the play-offs.
+CATEGORIES:Nations League,League A,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260925-Tur-Fra@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260925T184500Z
+DTEND:20260925T204500Z
+SUMMARY:⚽ 🇹🇷 Türkiye v 🇫🇷 France (A1)
+DESCRIPTION:🇹🇷 Türkiye v 🇫🇷 France\nMatchday 1 - Group A1 (L
+ eague A)\nFriday 25 September 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\
+ n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across L
+ eagues A-D. League A\, B and C sides play six matches\; League D play fo
+ ur.\n\nNew this year: an extended September-October window\, with four m
+ atchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qu
+ arter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fou
+ r-team Finals are 9-13 June 2027\; host and exact dates still to be conf
+ irmed. Portugal are defending champions.\n\nThe competition also feeds i
+ nto EURO 2028 qualifying\, with some teams getting a second route throug
+ h the play-offs.
+CATEGORIES:Nations League,League A,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260925-Hun-Ukr@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260925T184500Z
+DTEND:20260925T204500Z
+SUMMARY:⚽ 🇭🇺 Hungary v 🇺🇦 Ukraine (B2)
+DESCRIPTION:🇭🇺 Hungary v 🇺🇦 Ukraine\nMatchday 1 - Group B2 (L
+ eague B)\nFriday 25 September 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\
+ n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across L
+ eagues A-D. League A\, B and C sides play six matches\; League D play fo
+ ur.\n\nNew this year: an extended September-October window\, with four m
+ atchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qu
+ arter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fou
+ r-team Finals are 9-13 June 2027\; host and exact dates still to be conf
+ irmed. Portugal are defending champions.\n\nThe competition also feeds i
+ nto EURO 2028 qualifying\, with some teams getting a second route throug
+ h the play-offs.
+CATEGORIES:Nations League,League B,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260925-Pol-Bos@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260925T184500Z
+DTEND:20260925T204500Z
+SUMMARY:⚽ 🇵🇱 Poland v 🇧🇦 Bosnia and Herzegovina (B4)
+DESCRIPTION:🇵🇱 Poland v 🇧🇦 Bosnia and Herzegovina\nMatchday 1
+  - Group B4 (League B)\nFriday 25 September 2026\n\nKick-off\n20:45 CET 
+  |  18:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 
+ teams across Leagues A-D. League A\, B and C sides play six matches\; Le
+ ague D play four.\n\nNew this year: an extended September-October window
+ \, with four matchdays played in close succession from 24 Sep to 6 Oct.\
+ n\nLeague A quarter-finals and the A/B and B/C play-offs run 25-30 March
+  2027. The four-team Finals are 9-13 June 2027\; host and exact dates st
+ ill to be confirmed. Portugal are defending champions.\n\nThe competitio
+ n also feeds into EURO 2028 qualifying\, with some teams getting a secon
+ d route through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260925-Swe-Rom@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260925T184500Z
+DTEND:20260925T204500Z
+SUMMARY:⚽ 🇸🇪 Sweden v 🇷🇴 Romania (B4)
+DESCRIPTION:🇸🇪 Sweden v 🇷🇴 Romania\nMatchday 1 - Group B4 (Le
+ ague B)\nFriday 25 September 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n
+ \nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Le
+ agues A-D. League A\, B and C sides play six matches\; League D play fou
+ r.\n\nNew this year: an extended September-October window\, with four ma
+ tchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qua
+ rter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four
+ -team Finals are 9-13 June 2027\; host and exact dates still to be confi
+ rmed. Portugal are defending champions.\n\nThe competition also feeds in
+ to EURO 2028 qualifying\, with some teams getting a second route through
+  the play-offs.
+CATEGORIES:Nations League,League B,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260925-Mon-Cyp@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260925T184500Z
+DTEND:20260925T204500Z
+SUMMARY:⚽ 🇲🇪 Montenegro v 🇨🇾 Cyprus (C2)
+DESCRIPTION:🇲🇪 Montenegro v 🇨🇾 Cyprus\nMatchday 1 - Group C2 
+ (League C)\nFriday 25 September 2026\n\nKick-off\n20:45 CET  |  18:45 UT
+ C\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across
+  Leagues A-D. League A\, B and C sides play six matches\; League D play 
+ four.\n\nNew this year: an extended September-October window\, with four
+  matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A 
+ quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The f
+ our-team Finals are 9-13 June 2027\; host and exact dates still to be co
+ nfirmed. Portugal are defending champions.\n\nThe competition also feeds
+  into EURO 2028 qualifying\, with some teams getting a second route thro
+ ugh the play-offs.
+CATEGORIES:Nations League,League C,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260926-Slo-Sco@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260926T130000Z
+DTEND:20260926T150000Z
+SUMMARY:⚽ 🇸🇮 Slovenia v 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland (B1
+ )
+DESCRIPTION:🇸🇮 Slovenia v 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland\nMa
+ tchday 1 - Group B1 (League B)\nSaturday 26 September 2026\n\nKick-off\n
+ 15:00 CET  |  13:00 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth ed
+ ition. 54 teams across Leagues A-D. League A\, B and C sides play six ma
+ tches\; League D play four.\n\nNew this year: an extended September-Octo
+ ber window\, with four matchdays played in close succession from 24 Sep 
+ to 6 Oct.\n\nLeague A quarter-finals and the A/B and B/C play-offs run 2
+ 5-30 March 2027. The four-team Finals are 9-13 June 2027\; host and exac
+ t dates still to be confirmed. Portugal are defending champions.\n\nThe 
+ competition also feeds into EURO 2028 qualifying\, with some teams getti
+ ng a second route through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260926-San-Fin@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260926T160000Z
+DTEND:20260926T180000Z
+SUMMARY:⚽ 🇸🇲 San Marino v 🇫🇮 Finland (C1)
+DESCRIPTION:🇸🇲 San Marino v 🇫🇮 Finland\nMatchday 1 - Group C1
+  (League C)\nSaturday 26 September 2026\n\nKick-off\n18:00 CET  |  16:00
+  UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams acr
+ oss Leagues A-D. League A\, B and C sides play six matches\; League D pl
+ ay four.\n\nNew this year: an extended September-October window\, with f
+ our matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague
+  A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. Th
+ e four-team Finals are 9-13 June 2027\; host and exact dates still to be
+  confirmed. Portugal are defending champions.\n\nThe competition also fe
+ eds into EURO 2028 qualifying\, with some teams getting a second route t
+ hrough the play-offs.
+CATEGORIES:Nations League,League C,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260926-Far-Kaz@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260926T160000Z
+DTEND:20260926T180000Z
+SUMMARY:⚽ 🇫🇴 Faroe Islands v 🇰🇿 Kazakhstan (C3)
+DESCRIPTION:🇫🇴 Faroe Islands v 🇰🇿 Kazakhstan\nMatchday 1 - Gr
+ oup C3 (League C)\nSaturday 26 September 2026\n\nKick-off\n18:00 CET  | 
+  16:00 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 tea
+ ms across Leagues A-D. League A\, B and C sides play six matches\; Leagu
+ e D play four.\n\nNew this year: an extended September-October window\, 
+ with four matchdays played in close succession from 24 Sep to 6 Oct.\n\n
+ League A quarter-finals and the A/B and B/C play-offs run 25-30 March 20
+ 27. The four-team Finals are 9-13 June 2027\; host and exact dates still
+  to be confirmed. Portugal are defending champions.\n\nThe competition a
+ lso feeds into EURO 2028 qualifying\, with some teams getting a second r
+ oute through the play-offs.
+CATEGORIES:Nations League,League C,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260926-Bul-Lux@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260926T160000Z
+DTEND:20260926T180000Z
+SUMMARY:⚽ 🇧🇬 Bulgaria v 🇱🇺 Luxembourg (C4)
+DESCRIPTION:🇧🇬 Bulgaria v 🇱🇺 Luxembourg\nMatchday 1 - Group C
+ 4 (League C)\nSaturday 26 September 2026\n\nKick-off\n18:00 CET  |  16:0
+ 0 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams ac
+ ross Leagues A-D. League A\, B and C sides play six matches\; League D p
+ lay four.\n\nNew this year: an extended September-October window\, with 
+ four matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeagu
+ e A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. T
+ he four-team Finals are 9-13 June 2027\; host and exact dates still to b
+ e confirmed. Portugal are defending champions.\n\nThe competition also f
+ eeds into EURO 2028 qualifying\, with some teams getting a second route 
+ through the play-offs.
+CATEGORIES:Nations League,League C,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260926-Ice-Est@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260926T160000Z
+DTEND:20260926T180000Z
+SUMMARY:⚽ 🇮🇸 Iceland v 🇪🇪 Estonia (C4)
+DESCRIPTION:🇮🇸 Iceland v 🇪🇪 Estonia\nMatchday 1 - Group C4 (L
+ eague C)\nSaturday 26 September 2026\n\nKick-off\n18:00 CET  |  16:00 UT
+ C\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across
+  Leagues A-D. League A\, B and C sides play six matches\; League D play 
+ four.\n\nNew this year: an extended September-October window\, with four
+  matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A 
+ quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The f
+ our-team Finals are 9-13 June 2027\; host and exact dates still to be co
+ nfirmed. Portugal are defending champions.\n\nThe competition also feeds
+  into EURO 2028 qualifying\, with some teams getting a second route thro
+ ugh the play-offs.
+CATEGORIES:Nations League,League C,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260926-Cze-Cro@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260926T184500Z
+DTEND:20260926T204500Z
+SUMMARY:⚽ 🇨🇿 Czechia v 🇭🇷 Croatia (A3)
+DESCRIPTION:🇨🇿 Czechia v 🇭🇷 Croatia\nMatchday 1 - Group A3 (L
+ eague A)\nSaturday 26 September 2026\n\nKick-off\n20:45 CET  |  18:45 UT
+ C\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across
+  Leagues A-D. League A\, B and C sides play six matches\; League D play 
+ four.\n\nNew this year: an extended September-October window\, with four
+  matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A 
+ quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The f
+ our-team Finals are 9-13 June 2027\; host and exact dates still to be co
+ nfirmed. Portugal are defending champions.\n\nThe competition also feeds
+  into EURO 2028 qualifying\, with some teams getting a second route thro
+ ugh the play-offs.
+CATEGORIES:Nations League,League A,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260926-Eng-Spa@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260926T184500Z
+DTEND:20260926T204500Z
+SUMMARY:⚽ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England v 🇪🇸 Spain (A3)
+DESCRIPTION:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England v 🇪🇸 Spain\nMatchd
+ ay 1 - Group A3 (League A)\nSaturday 26 September 2026\n\nKick-off\n20:4
+ 5 CET  |  18:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth editio
+ n. 54 teams across Leagues A-D. League A\, B and C sides play six matche
+ s\; League D play four.\n\nNew this year: an extended September-October 
+ window\, with four matchdays played in close succession from 24 Sep to 6
+  Oct.\n\nLeague A quarter-finals and the A/B and B/C play-offs run 25-30
+  March 2027. The four-team Finals are 9-13 June 2027\; host and exact da
+ tes still to be confirmed. Portugal are defending champions.\n\nThe comp
+ etition also feeds into EURO 2028 qualifying\, with some teams getting a
+  second route through the play-offs.
+CATEGORIES:Nations League,League A,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260926-Nor-Swi@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260926T184500Z
+DTEND:20260926T204500Z
+SUMMARY:⚽ 🇲🇰 North Macedonia v 🇨🇭 Switzerland (B1)
+DESCRIPTION:🇲🇰 North Macedonia v 🇨🇭 Switzerland\nMatchday 1 -
+  Group B1 (League B)\nSaturday 26 September 2026\n\nKick-off\n20:45 CET 
+  |  18:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 
+ teams across Leagues A-D. League A\, B and C sides play six matches\; Le
+ ague D play four.\n\nNew this year: an extended September-October window
+ \, with four matchdays played in close succession from 24 Sep to 6 Oct.\
+ n\nLeague A quarter-finals and the A/B and B/C play-offs run 25-30 March
+  2027. The four-team Finals are 9-13 June 2027\; host and exact dates st
+ ill to be confirmed. Portugal are defending champions.\n\nThe competitio
+ n also feeds into EURO 2028 qualifying\, with some teams getting a secon
+ d route through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260926-Alb-Bel@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260926T184500Z
+DTEND:20260926T204500Z
+SUMMARY:⚽ 🇦🇱 Albania v 🇧🇾 Belarus (C1)
+DESCRIPTION:🇦🇱 Albania v 🇧🇾 Belarus\nMatchday 1 - Group C1 (L
+ eague C)\nSaturday 26 September 2026\n\nKick-off\n20:45 CET  |  18:45 UT
+ C\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across
+  Leagues A-D. League A\, B and C sides play six matches\; League D play 
+ four.\n\nNew this year: an extended September-October window\, with four
+  matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A 
+ quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The f
+ our-team Finals are 9-13 June 2027\; host and exact dates still to be co
+ nfirmed. Portugal are defending champions.\n\nThe competition also feeds
+  into EURO 2028 qualifying\, with some teams getting a second route thro
+ ugh the play-offs.
+CATEGORIES:Nations League,League C,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260926-Slo-Mol@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260926T184500Z
+DTEND:20260926T204500Z
+SUMMARY:⚽ 🇸🇰 Slovakia v 🇲🇩 Moldova (C3)
+DESCRIPTION:🇸🇰 Slovakia v 🇲🇩 Moldova\nMatchday 1 - Group C3 (
+ League C)\nSaturday 26 September 2026\n\nKick-off\n20:45 CET  |  18:45 U
+ TC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams acros
+ s Leagues A-D. League A\, B and C sides play six matches\; League D play
+  four.\n\nNew this year: an extended September-October window\, with fou
+ r matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A
+  quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The 
+ four-team Finals are 9-13 June 2027\; host and exact dates still to be c
+ onfirmed. Portugal are defending champions.\n\nThe competition also feed
+ s into EURO 2028 qualifying\, with some teams getting a second route thr
+ ough the play-offs.
+CATEGORIES:Nations League,League C,Matchday 1
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260927-Lit-Aze@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260927T130000Z
+DTEND:20260927T150000Z
+SUMMARY:⚽ 🇱🇹 Lithuania v 🇦🇿 Azerbaijan (D2)
+DESCRIPTION:🇱🇹 Lithuania v 🇦🇿 Azerbaijan\nMatchday 2 - Group 
+ D2 (League D)\nSunday 27 September 2026\n\nKick-off\n15:00 CET  |  13:00
+  UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams acr
+ oss Leagues A-D. League A\, B and C sides play six matches\; League D pl
+ ay four.\n\nNew this year: an extended September-October window\, with f
+ our matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague
+  A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. Th
+ e four-team Finals are 9-13 June 2027\; host and exact dates still to be
+  confirmed. Portugal are defending champions.\n\nThe competition also fe
+ eds into EURO 2028 qualifying\, with some teams getting a second route t
+ hrough the play-offs.
+CATEGORIES:Nations League,League D,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260927-Ser-Net@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260927T160000Z
+DTEND:20260927T180000Z
+SUMMARY:⚽ 🇷🇸 Serbia v 🇳🇱 Netherlands (A2)
+DESCRIPTION:🇷🇸 Serbia v 🇳🇱 Netherlands\nMatchday 2 - Group A2
+  (League A)\nSunday 27 September 2026\n\nKick-off\n18:00 CET  |  16:00 U
+ TC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams acros
+ s Leagues A-D. League A\, B and C sides play six matches\; League D play
+  four.\n\nNew this year: an extended September-October window\, with fou
+ r matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A
+  quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The 
+ four-team Finals are 9-13 June 2027\; host and exact dates still to be c
+ onfirmed. Portugal are defending champions.\n\nThe competition also feed
+ s into EURO 2028 qualifying\, with some teams getting a second route thr
+ ough the play-offs.
+CATEGORIES:Nations League,League A,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260927-Den-Wal@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260927T160000Z
+DTEND:20260927T180000Z
+SUMMARY:⚽ 🇩🇰 Denmark v 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (A4)
+DESCRIPTION:🇩🇰 Denmark v 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales\nMatchd
+ ay 2 - Group A4 (League A)\nSunday 27 September 2026\n\nKick-off\n18:00 
+ CET  |  16:00 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition.
+  54 teams across Leagues A-D. League A\, B and C sides play six matches\
+ ; League D play four.\n\nNew this year: an extended September-October wi
+ ndow\, with four matchdays played in close succession from 24 Sep to 6 O
+ ct.\n\nLeague A quarter-finals and the A/B and B/C play-offs run 25-30 M
+ arch 2027. The four-team Finals are 9-13 June 2027\; host and exact date
+ s still to be confirmed. Portugal are defending champions.\n\nThe compet
+ ition also feeds into EURO 2028 qualifying\, with some teams getting a s
+ econd route through the play-offs.
+CATEGORIES:Nations League,League A,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260927-Aus-Kos@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260927T160000Z
+DTEND:20260927T180000Z
+SUMMARY:⚽ 🇦🇹 Austria v 🇽🇰 Kosovo (B3)
+DESCRIPTION:🇦🇹 Austria v 🇽🇰 Kosovo\nMatchday 2 - Group B3 (Le
+ ague B)\nSunday 27 September 2026\n\nKick-off\n18:00 CET  |  16:00 UTC\n
+ \nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Le
+ agues A-D. League A\, B and C sides play six matches\; League D play fou
+ r.\n\nNew this year: an extended September-October window\, with four ma
+ tchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qua
+ rter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four
+ -team Finals are 9-13 June 2027\; host and exact dates still to be confi
+ rmed. Portugal are defending champions.\n\nThe competition also feeds in
+ to EURO 2028 qualifying\, with some teams getting a second route through
+  the play-offs.
+CATEGORIES:Nations League,League B,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260927-Gib-And@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260927T160000Z
+DTEND:20260927T180000Z
+SUMMARY:⚽ 🇬🇮 Gibraltar v 🇦🇩 Andorra (D1)
+DESCRIPTION:🇬🇮 Gibraltar v 🇦🇩 Andorra\nMatchday 2 - Group D1 
+ (League D)\nSunday 27 September 2026\n\nKick-off\n18:00 CET  |  16:00 UT
+ C\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across
+  Leagues A-D. League A\, B and C sides play six matches\; League D play 
+ four.\n\nNew this year: an extended September-October window\, with four
+  matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A 
+ quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The f
+ our-team Finals are 9-13 June 2027\; host and exact dates still to be co
+ nfirmed. Portugal are defending champions.\n\nThe competition also feeds
+  into EURO 2028 qualifying\, with some teams getting a second route thro
+ ugh the play-offs.
+CATEGORIES:Nations League,League D,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260927-Ger-Gre@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260927T184500Z
+DTEND:20260927T204500Z
+SUMMARY:⚽ 🇩🇪 Germany v 🇬🇷 Greece (A2)
+DESCRIPTION:🇩🇪 Germany v 🇬🇷 Greece\nMatchday 2 - Group A2 (Le
+ ague A)\nSunday 27 September 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n
+ \nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Le
+ agues A-D. League A\, B and C sides play six matches\; League D play fou
+ r.\n\nNew this year: an extended September-October window\, with four ma
+ tchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qua
+ rter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four
+ -team Finals are 9-13 June 2027\; host and exact dates still to be confi
+ rmed. Portugal are defending champions.\n\nThe competition also feeds in
+ to EURO 2028 qualifying\, with some teams getting a second route through
+  the play-offs.
+CATEGORIES:Nations League,League A,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260927-Nor-Por@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260927T184500Z
+DTEND:20260927T204500Z
+SUMMARY:⚽ 🇳🇴 Norway v 🇵🇹 Portugal (A4)
+DESCRIPTION:🇳🇴 Norway v 🇵🇹 Portugal\nMatchday 2 - Group A4 (L
+ eague A)\nSunday 27 September 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\
+ n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across L
+ eagues A-D. League A\, B and C sides play six matches\; League D play fo
+ ur.\n\nNew this year: an extended September-October window\, with four m
+ atchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qu
+ arter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fou
+ r-team Finals are 9-13 June 2027\; host and exact dates still to be conf
+ irmed. Portugal are defending champions.\n\nThe competition also feeds i
+ nto EURO 2028 qualifying\, with some teams getting a second route throug
+ h the play-offs.
+CATEGORIES:Nations League,League A,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260927-Isr-Rep@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260927T184500Z
+DTEND:20260927T204500Z
+SUMMARY:⚽ 🇮🇱 Israel v 🇮🇪 Republic of Ireland (B3)
+DESCRIPTION:🇮🇱 Israel v 🇮🇪 Republic of Ireland\nMatchday 2 - 
+ Group B3 (League B)\nSunday 27 September 2026\n\nKick-off\n20:45 CET  | 
+  18:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 tea
+ ms across Leagues A-D. League A\, B and C sides play six matches\; Leagu
+ e D play four.\n\nNew this year: an extended September-October window\, 
+ with four matchdays played in close succession from 24 Sep to 6 Oct.\n\n
+ League A quarter-finals and the A/B and B/C play-offs run 25-30 March 20
+ 27. The four-team Finals are 9-13 June 2027\; host and exact dates still
+  to be confirmed. Portugal are defending champions.\n\nThe competition a
+ lso feeds into EURO 2028 qualifying\, with some teams getting a second r
+ oute through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260928-Geo-Ukr@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260928T160000Z
+DTEND:20260928T180000Z
+SUMMARY:⚽ 🇬🇪 Georgia v 🇺🇦 Ukraine (B2)
+DESCRIPTION:🇬🇪 Georgia v 🇺🇦 Ukraine\nMatchday 2 - Group B2 (L
+ eague B)\nMonday 28 September 2026\n\nKick-off\n18:00 CET  |  16:00 UTC\
+ n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across L
+ eagues A-D. League A\, B and C sides play six matches\; League D play fo
+ ur.\n\nNew this year: an extended September-October window\, with four m
+ atchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qu
+ arter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fou
+ r-team Finals are 9-13 June 2027\; host and exact dates still to be conf
+ irmed. Portugal are defending champions.\n\nThe competition also feeds i
+ nto EURO 2028 qualifying\, with some teams getting a second route throug
+ h the play-offs.
+CATEGORIES:Nations League,League B,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260928-Arm-Mon@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260928T160000Z
+DTEND:20260928T180000Z
+SUMMARY:⚽ 🇦🇲 Armenia v 🇲🇪 Montenegro (C2)
+DESCRIPTION:🇦🇲 Armenia v 🇲🇪 Montenegro\nMatchday 2 - Group C2
+  (League C)\nMonday 28 September 2026\n\nKick-off\n18:00 CET  |  16:00 U
+ TC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams acros
+ s Leagues A-D. League A\, B and C sides play six matches\; League D play
+  four.\n\nNew this year: an extended September-October window\, with fou
+ r matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A
+  quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The 
+ four-team Finals are 9-13 June 2027\; host and exact dates still to be c
+ onfirmed. Portugal are defending champions.\n\nThe competition also feed
+ s into EURO 2028 qualifying\, with some teams getting a second route thr
+ ough the play-offs.
+CATEGORIES:Nations League,League C,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260928-Bel-Fra@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260928T184500Z
+DTEND:20260928T204500Z
+SUMMARY:⚽ 🇧🇪 Belgium v 🇫🇷 France (A1)
+DESCRIPTION:🇧🇪 Belgium v 🇫🇷 France\nMatchday 2 - Group A1 (Le
+ ague A)\nMonday 28 September 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n
+ \nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Le
+ agues A-D. League A\, B and C sides play six matches\; League D play fou
+ r.\n\nNew this year: an extended September-October window\, with four ma
+ tchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qua
+ rter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four
+ -team Finals are 9-13 June 2027\; host and exact dates still to be confi
+ rmed. Portugal are defending champions.\n\nThe competition also feeds in
+ to EURO 2028 qualifying\, with some teams getting a second route through
+  the play-offs.
+CATEGORIES:Nations League,League A,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260928-Tur-Ita@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260928T184500Z
+DTEND:20260928T204500Z
+SUMMARY:⚽ 🇹🇷 Türkiye v 🇮🇹 Italy (A1)
+DESCRIPTION:🇹🇷 Türkiye v 🇮🇹 Italy\nMatchday 2 - Group A1 (Le
+ ague A)\nMonday 28 September 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n
+ \nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Le
+ agues A-D. League A\, B and C sides play six matches\; League D play fou
+ r.\n\nNew this year: an extended September-October window\, with four ma
+ tchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qua
+ rter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four
+ -team Finals are 9-13 June 2027\; host and exact dates still to be confi
+ rmed. Portugal are defending champions.\n\nThe competition also feeds in
+ to EURO 2028 qualifying\, with some teams getting a second route through
+  the play-offs.
+CATEGORIES:Nations League,League A,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260928-Nor-Hun@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260928T184500Z
+DTEND:20260928T204500Z
+SUMMARY:⚽ 🏴 Northern Ireland v 🇭🇺 Hungary (B2)
+DESCRIPTION:🏴 Northern Ireland v 🇭🇺 Hungary\nMatchday 2 - Group 
+ B2 (League B)\nMonday 28 September 2026\n\nKick-off\n20:45 CET  |  18:45
+  UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams acr
+ oss Leagues A-D. League A\, B and C sides play six matches\; League D pl
+ ay four.\n\nNew this year: an extended September-October window\, with f
+ our matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague
+  A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. Th
+ e four-team Finals are 9-13 June 2027\; host and exact dates still to be
+  confirmed. Portugal are defending champions.\n\nThe competition also fe
+ eds into EURO 2028 qualifying\, with some teams getting a second route t
+ hrough the play-offs.
+CATEGORIES:Nations League,League B,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260928-Rom-Bos@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260928T184500Z
+DTEND:20260928T204500Z
+SUMMARY:⚽ 🇷🇴 Romania v 🇧🇦 Bosnia and Herzegovina (B4)
+DESCRIPTION:🇷🇴 Romania v 🇧🇦 Bosnia and Herzegovina\nMatchday 
+ 2 - Group B4 (League B)\nMonday 28 September 2026\n\nKick-off\n20:45 CET
+   |  18:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54
+  teams across Leagues A-D. League A\, B and C sides play six matches\; L
+ eague D play four.\n\nNew this year: an extended September-October windo
+ w\, with four matchdays played in close succession from 24 Sep to 6 Oct.
+ \n\nLeague A quarter-finals and the A/B and B/C play-offs run 25-30 Marc
+ h 2027. The four-team Finals are 9-13 June 2027\; host and exact dates s
+ till to be confirmed. Portugal are defending champions.\n\nThe competiti
+ on also feeds into EURO 2028 qualifying\, with some teams getting a seco
+ nd route through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260928-Swe-Pol@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260928T184500Z
+DTEND:20260928T204500Z
+SUMMARY:⚽ 🇸🇪 Sweden v 🇵🇱 Poland (B4)
+DESCRIPTION:🇸🇪 Sweden v 🇵🇱 Poland\nMatchday 2 - Group B4 (Lea
+ gue B)\nMonday 28 September 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n\
+ nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Lea
+ gues A-D. League A\, B and C sides play six matches\; League D play four
+ .\n\nNew this year: an extended September-October window\, with four mat
+ chdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A quar
+ ter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-
+ team Finals are 9-13 June 2027\; host and exact dates still to be confir
+ med. Portugal are defending champions.\n\nThe competition also feeds int
+ o EURO 2028 qualifying\, with some teams getting a second route through 
+ the play-offs.
+CATEGORIES:Nations League,League B,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260928-Lat-Cyp@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260928T160000Z
+DTEND:20260928T180000Z
+SUMMARY:⚽ 🇱🇻 Latvia v 🇨🇾 Cyprus (C2)
+DESCRIPTION:🇱🇻 Latvia v 🇨🇾 Cyprus\nMatchday 2 - Group C2 (Lea
+ gue C)\nMonday 28 September 2026\n\nKick-off\n18:00 CET  |  16:00 UTC\n\
+ nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Lea
+ gues A-D. League A\, B and C sides play six matches\; League D play four
+ .\n\nNew this year: an extended September-October window\, with four mat
+ chdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A quar
+ ter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-
+ team Finals are 9-13 June 2027\; host and exact dates still to be confir
+ med. Portugal are defending champions.\n\nThe competition also feeds int
+ o EURO 2028 qualifying\, with some teams getting a second route through 
+ the play-offs.
+CATEGORIES:Nations League,League C,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260929-Mol-Far@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260929T160000Z
+DTEND:20260929T180000Z
+SUMMARY:⚽ 🇲🇩 Moldova v 🇫🇴 Faroe Islands (C3)
+DESCRIPTION:🇲🇩 Moldova v 🇫🇴 Faroe Islands\nMatchday 2 - Group
+  C3 (League C)\nTuesday 29 September 2026\n\nKick-off\n18:00 CET  |  16:
+ 00 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams a
+ cross Leagues A-D. League A\, B and C sides play six matches\; League D 
+ play four.\n\nNew this year: an extended September-October window\, with
+  four matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeag
+ ue A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. 
+ The four-team Finals are 9-13 June 2027\; host and exact dates still to 
+ be confirmed. Portugal are defending champions.\n\nThe competition also 
+ feeds into EURO 2028 qualifying\, with some teams getting a second route
+  through the play-offs.
+CATEGORIES:Nations League,League C,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260929-Cze-Eng@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260929T184500Z
+DTEND:20260929T204500Z
+SUMMARY:⚽ 🇨🇿 Czechia v 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (A3)
+DESCRIPTION:🇨🇿 Czechia v 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England\nMatc
+ hday 2 - Group A3 (League A)\nTuesday 29 September 2026\n\nKick-off\n20:
+ 45 CET  |  18:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth editi
+ on. 54 teams across Leagues A-D. League A\, B and C sides play six match
+ es\; League D play four.\n\nNew this year: an extended September-October
+  window\, with four matchdays played in close succession from 24 Sep to 
+ 6 Oct.\n\nLeague A quarter-finals and the A/B and B/C play-offs run 25-3
+ 0 March 2027. The four-team Finals are 9-13 June 2027\; host and exact d
+ ates still to be confirmed. Portugal are defending champions.\n\nThe com
+ petition also feeds into EURO 2028 qualifying\, with some teams getting 
+ a second route through the play-offs.
+CATEGORIES:Nations League,League A,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260929-Spa-Cro@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260929T184500Z
+DTEND:20260929T204500Z
+SUMMARY:⚽ 🇪🇸 Spain v 🇭🇷 Croatia (A3)
+DESCRIPTION:🇪🇸 Spain v 🇭🇷 Croatia\nMatchday 2 - Group A3 (Lea
+ gue A)\nTuesday 29 September 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n
+ \nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Le
+ agues A-D. League A\, B and C sides play six matches\; League D play fou
+ r.\n\nNew this year: an extended September-October window\, with four ma
+ tchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qua
+ rter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four
+ -team Finals are 9-13 June 2027\; host and exact dates still to be confi
+ rmed. Portugal are defending champions.\n\nThe competition also feeds in
+ to EURO 2028 qualifying\, with some teams getting a second route through
+  the play-offs.
+CATEGORIES:Nations League,League A,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260929-Sco-Swi@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260929T184500Z
+DTEND:20260929T204500Z
+SUMMARY:⚽ 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland v 🇨🇭 Switzerland 
+ (B1)
+DESCRIPTION:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland v 🇨🇭 Switzerland\
+ nMatchday 2 - Group B1 (League B)\nTuesday 29 September 2026\n\nKick-off
+ \n20:45 CET  |  18:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth 
+ edition. 54 teams across Leagues A-D. League A\, B and C sides play six 
+ matches\; League D play four.\n\nNew this year: an extended September-Oc
+ tober window\, with four matchdays played in close succession from 24 Se
+ p to 6 Oct.\n\nLeague A quarter-finals and the A/B and B/C play-offs run
+  25-30 March 2027. The four-team Finals are 9-13 June 2027\; host and ex
+ act dates still to be confirmed. Portugal are defending champions.\n\nTh
+ e competition also feeds into EURO 2028 qualifying\, with some teams get
+ ting a second route through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260929-Slo-Nor@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260929T184500Z
+DTEND:20260929T204500Z
+SUMMARY:⚽ 🇸🇮 Slovenia v 🇲🇰 North Macedonia (B1)
+DESCRIPTION:🇸🇮 Slovenia v 🇲🇰 North Macedonia\nMatchday 2 - Gr
+ oup B1 (League B)\nTuesday 29 September 2026\n\nKick-off\n20:45 CET  |  
+ 18:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 team
+ s across Leagues A-D. League A\, B and C sides play six matches\; League
+  D play four.\n\nNew this year: an extended September-October window\, w
+ ith four matchdays played in close succession from 24 Sep to 6 Oct.\n\nL
+ eague A quarter-finals and the A/B and B/C play-offs run 25-30 March 202
+ 7. The four-team Finals are 9-13 June 2027\; host and exact dates still 
+ to be confirmed. Portugal are defending champions.\n\nThe competition al
+ so feeds into EURO 2028 qualifying\, with some teams getting a second ro
+ ute through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260929-Fin-Bel@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260929T184500Z
+DTEND:20260929T204500Z
+SUMMARY:⚽ 🇫🇮 Finland v 🇧🇾 Belarus (C1)
+DESCRIPTION:🇫🇮 Finland v 🇧🇾 Belarus\nMatchday 2 - Group C1 (L
+ eague C)\nTuesday 29 September 2026\n\nKick-off\n20:45 CET  |  18:45 UTC
+ \n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across 
+ Leagues A-D. League A\, B and C sides play six matches\; League D play f
+ our.\n\nNew this year: an extended September-October window\, with four 
+ matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A q
+ uarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fo
+ ur-team Finals are 9-13 June 2027\; host and exact dates still to be con
+ firmed. Portugal are defending champions.\n\nThe competition also feeds 
+ into EURO 2028 qualifying\, with some teams getting a second route throu
+ gh the play-offs.
+CATEGORIES:Nations League,League C,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260929-San-Alb@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260929T184500Z
+DTEND:20260929T204500Z
+SUMMARY:⚽ 🇸🇲 San Marino v 🇦🇱 Albania (C1)
+DESCRIPTION:🇸🇲 San Marino v 🇦🇱 Albania\nMatchday 2 - Group C1
+  (League C)\nTuesday 29 September 2026\n\nKick-off\n20:45 CET  |  18:45 
+ UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams acro
+ ss Leagues A-D. League A\, B and C sides play six matches\; League D pla
+ y four.\n\nNew this year: an extended September-October window\, with fo
+ ur matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague 
+ A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The
+  four-team Finals are 9-13 June 2027\; host and exact dates still to be 
+ confirmed. Portugal are defending champions.\n\nThe competition also fee
+ ds into EURO 2028 qualifying\, with some teams getting a second route th
+ rough the play-offs.
+CATEGORIES:Nations League,League C,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260929-Slo-Kaz@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260929T184500Z
+DTEND:20260929T204500Z
+SUMMARY:⚽ 🇸🇰 Slovakia v 🇰🇿 Kazakhstan (C3)
+DESCRIPTION:🇸🇰 Slovakia v 🇰🇿 Kazakhstan\nMatchday 2 - Group C
+ 3 (League C)\nTuesday 29 September 2026\n\nKick-off\n20:45 CET  |  18:45
+  UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams acr
+ oss Leagues A-D. League A\, B and C sides play six matches\; League D pl
+ ay four.\n\nNew this year: an extended September-October window\, with f
+ our matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague
+  A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. Th
+ e four-team Finals are 9-13 June 2027\; host and exact dates still to be
+  confirmed. Portugal are defending champions.\n\nThe competition also fe
+ eds into EURO 2028 qualifying\, with some teams getting a second route t
+ hrough the play-offs.
+CATEGORIES:Nations League,League C,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260929-Bul-Est@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260929T184500Z
+DTEND:20260929T204500Z
+SUMMARY:⚽ 🇧🇬 Bulgaria v 🇪🇪 Estonia (C4)
+DESCRIPTION:🇧🇬 Bulgaria v 🇪🇪 Estonia\nMatchday 2 - Group C4 (
+ League C)\nTuesday 29 September 2026\n\nKick-off\n20:45 CET  |  18:45 UT
+ C\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across
+  Leagues A-D. League A\, B and C sides play six matches\; League D play 
+ four.\n\nNew this year: an extended September-October window\, with four
+  matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A 
+ quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The f
+ our-team Finals are 9-13 June 2027\; host and exact dates still to be co
+ nfirmed. Portugal are defending champions.\n\nThe competition also feeds
+  into EURO 2028 qualifying\, with some teams getting a second route thro
+ ugh the play-offs.
+CATEGORIES:Nations League,League C,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20260929-Lux-Ice@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20260929T184500Z
+DTEND:20260929T204500Z
+SUMMARY:⚽ 🇱🇺 Luxembourg v 🇮🇸 Iceland (C4)
+DESCRIPTION:🇱🇺 Luxembourg v 🇮🇸 Iceland\nMatchday 2 - Group C4
+  (League C)\nTuesday 29 September 2026\n\nKick-off\n20:45 CET  |  18:45 
+ UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams acro
+ ss Leagues A-D. League A\, B and C sides play six matches\; League D pla
+ y four.\n\nNew this year: an extended September-October window\, with fo
+ ur matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague 
+ A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The
+  four-team Finals are 9-13 June 2027\; host and exact dates still to be 
+ confirmed. Portugal are defending champions.\n\nThe competition also fee
+ ds into EURO 2028 qualifying\, with some teams getting a second route th
+ rough the play-offs.
+CATEGORIES:Nations League,League C,Matchday 2
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261001-Aze-Lie@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261001T160000Z
+DTEND:20261001T180000Z
+SUMMARY:⚽ 🇦🇿 Azerbaijan v 🇱🇮 Liechtenstein (D2)
+DESCRIPTION:🇦🇿 Azerbaijan v 🇱🇮 Liechtenstein\nMatchday 3 - Gr
+ oup D2 (League D)\nThursday 1 October 2026\n\nKick-off\n18:00 CET  |  16
+ :00 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams 
+ across Leagues A-D. League A\, B and C sides play six matches\; League D
+  play four.\n\nNew this year: an extended September-October window\, wit
+ h four matchdays played in close succession from 24 Sep to 6 Oct.\n\nLea
+ gue A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027.
+  The four-team Finals are 9-13 June 2027\; host and exact dates still to
+  be confirmed. Portugal are defending champions.\n\nThe competition also
+  feeds into EURO 2028 qualifying\, with some teams getting a second rout
+ e through the play-offs.
+CATEGORIES:Nations League,League D,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261001-Ger-Ser@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261001T184500Z
+DTEND:20261001T204500Z
+SUMMARY:⚽ 🇩🇪 Germany v 🇷🇸 Serbia (A2)
+DESCRIPTION:🇩🇪 Germany v 🇷🇸 Serbia\nMatchday 3 - Group A2 (Le
+ ague A)\nThursday 1 October 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n\
+ nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Lea
+ gues A-D. League A\, B and C sides play six matches\; League D play four
+ .\n\nNew this year: an extended September-October window\, with four mat
+ chdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A quar
+ ter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-
+ team Finals are 9-13 June 2027\; host and exact dates still to be confir
+ med. Portugal are defending champions.\n\nThe competition also feeds int
+ o EURO 2028 qualifying\, with some teams getting a second route through 
+ the play-offs.
+CATEGORIES:Nations League,League A,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261001-Gre-Net@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261001T184500Z
+DTEND:20261001T204500Z
+SUMMARY:⚽ 🇬🇷 Greece v 🇳🇱 Netherlands (A2)
+DESCRIPTION:🇬🇷 Greece v 🇳🇱 Netherlands\nMatchday 3 - Group A2
+  (League A)\nThursday 1 October 2026\n\nKick-off\n20:45 CET  |  18:45 UT
+ C\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across
+  Leagues A-D. League A\, B and C sides play six matches\; League D play 
+ four.\n\nNew this year: an extended September-October window\, with four
+  matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A 
+ quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The f
+ our-team Finals are 9-13 June 2027\; host and exact dates still to be co
+ nfirmed. Portugal are defending champions.\n\nThe competition also feeds
+  into EURO 2028 qualifying\, with some teams getting a second route thro
+ ugh the play-offs.
+CATEGORIES:Nations League,League A,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261001-Den-Por@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261001T184500Z
+DTEND:20261001T204500Z
+SUMMARY:⚽ 🇩🇰 Denmark v 🇵🇹 Portugal (A4)
+DESCRIPTION:🇩🇰 Denmark v 🇵🇹 Portugal\nMatchday 3 - Group A4 (
+ League A)\nThursday 1 October 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\
+ n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across L
+ eagues A-D. League A\, B and C sides play six matches\; League D play fo
+ ur.\n\nNew this year: an extended September-October window\, with four m
+ atchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qu
+ arter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fou
+ r-team Finals are 9-13 June 2027\; host and exact dates still to be conf
+ irmed. Portugal are defending champions.\n\nThe competition also feeds i
+ nto EURO 2028 qualifying\, with some teams getting a second route throug
+ h the play-offs.
+CATEGORIES:Nations League,League A,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261001-Wal-Nor@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261001T184500Z
+DTEND:20261001T204500Z
+SUMMARY:⚽ 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales v 🇳🇴 Norway (A4)
+DESCRIPTION:🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales v 🇳🇴 Norway\nMatchda
+ y 3 - Group A4 (League A)\nThursday 1 October 2026\n\nKick-off\n20:45 CE
+ T  |  18:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 5
+ 4 teams across Leagues A-D. League A\, B and C sides play six matches\; 
+ League D play four.\n\nNew this year: an extended September-October wind
+ ow\, with four matchdays played in close succession from 24 Sep to 6 Oct
+ .\n\nLeague A quarter-finals and the A/B and B/C play-offs run 25-30 Mar
+ ch 2027. The four-team Finals are 9-13 June 2027\; host and exact dates 
+ still to be confirmed. Portugal are defending champions.\n\nThe competit
+ ion also feeds into EURO 2028 qualifying\, with some teams getting a sec
+ ond route through the play-offs.
+CATEGORIES:Nations League,League A,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261001-Isr-Kos@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261001T184500Z
+DTEND:20261001T204500Z
+SUMMARY:⚽ 🇮🇱 Israel v 🇽🇰 Kosovo (B3)
+DESCRIPTION:🇮🇱 Israel v 🇽🇰 Kosovo\nMatchday 3 - Group B3 (Lea
+ gue B)\nThursday 1 October 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n\n
+ Notes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Leag
+ ues A-D. League A\, B and C sides play six matches\; League D play four.
+ \n\nNew this year: an extended September-October window\, with four matc
+ hdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A quart
+ er-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-t
+ eam Finals are 9-13 June 2027\; host and exact dates still to be confirm
+ ed. Portugal are defending champions.\n\nThe competition also feeds into
+  EURO 2028 qualifying\, with some teams getting a second route through t
+ he play-offs.
+CATEGORIES:Nations League,League B,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261001-Rep-Aus@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261001T184500Z
+DTEND:20261001T204500Z
+SUMMARY:⚽ 🇮🇪 Republic of Ireland v 🇦🇹 Austria (B3)
+DESCRIPTION:🇮🇪 Republic of Ireland v 🇦🇹 Austria\nMatchday 3 -
+  Group B3 (League B)\nThursday 1 October 2026\n\nKick-off\n20:45 CET  | 
+  18:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 tea
+ ms across Leagues A-D. League A\, B and C sides play six matches\; Leagu
+ e D play four.\n\nNew this year: an extended September-October window\, 
+ with four matchdays played in close succession from 24 Sep to 6 Oct.\n\n
+ League A quarter-finals and the A/B and B/C play-offs run 25-30 March 20
+ 27. The four-team Finals are 9-13 June 2027\; host and exact dates still
+  to be confirmed. Portugal are defending champions.\n\nThe competition a
+ lso feeds into EURO 2028 qualifying\, with some teams getting a second r
+ oute through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261001-Mal-Gib@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261001T184500Z
+DTEND:20261001T204500Z
+SUMMARY:⚽ 🇲🇹 Malta v 🇬🇮 Gibraltar (D1)
+DESCRIPTION:🇲🇹 Malta v 🇬🇮 Gibraltar\nMatchday 3 - Group D1 (L
+ eague D)\nThursday 1 October 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n
+ \nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Le
+ agues A-D. League A\, B and C sides play six matches\; League D play fou
+ r.\n\nNew this year: an extended September-October window\, with four ma
+ tchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qua
+ rter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four
+ -team Finals are 9-13 June 2027\; host and exact dates still to be confi
+ rmed. Portugal are defending champions.\n\nThe competition also feeds in
+ to EURO 2028 qualifying\, with some teams getting a second route through
+  the play-offs.
+CATEGORIES:Nations League,League D,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261002-Kaz-Mol@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261002T140000Z
+DTEND:20261002T160000Z
+SUMMARY:⚽ 🇰🇿 Kazakhstan v 🇲🇩 Moldova (C3)
+DESCRIPTION:🇰🇿 Kazakhstan v 🇲🇩 Moldova\nMatchday 3 - Group C3
+  (League C)\nFriday 2 October 2026\n\nKick-off\n16:00 CET  |  14:00 UTC\
+ n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across L
+ eagues A-D. League A\, B and C sides play six matches\; League D play fo
+ ur.\n\nNew this year: an extended September-October window\, with four m
+ atchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qu
+ arter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fou
+ r-team Finals are 9-13 June 2027\; host and exact dates still to be conf
+ irmed. Portugal are defending champions.\n\nThe competition also feeds i
+ nto EURO 2028 qualifying\, with some teams getting a second route throug
+ h the play-offs.
+CATEGORIES:Nations League,League C,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261002-Cyp-Arm@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261002T160000Z
+DTEND:20261002T180000Z
+SUMMARY:⚽ 🇨🇾 Cyprus v 🇦🇲 Armenia (C2)
+DESCRIPTION:🇨🇾 Cyprus v 🇦🇲 Armenia\nMatchday 3 - Group C2 (Le
+ ague C)\nFriday 2 October 2026\n\nKick-off\n18:00 CET  |  16:00 UTC\n\nN
+ otes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Leagu
+ es A-D. League A\, B and C sides play six matches\; League D play four.\
+ n\nNew this year: an extended September-October window\, with four match
+ days played in close succession from 24 Sep to 6 Oct.\n\nLeague A quarte
+ r-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-te
+ am Finals are 9-13 June 2027\; host and exact dates still to be confirme
+ d. Portugal are defending champions.\n\nThe competition also feeds into 
+ EURO 2028 qualifying\, with some teams getting a second route through th
+ e play-offs.
+CATEGORIES:Nations League,League C,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261002-Bel-Tur@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261002T184500Z
+DTEND:20261002T204500Z
+SUMMARY:⚽ 🇧🇪 Belgium v 🇹🇷 Türkiye (A1)
+DESCRIPTION:🇧🇪 Belgium v 🇹🇷 Türkiye\nMatchday 3 - Group A1 (
+ League A)\nFriday 2 October 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n\
+ nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Lea
+ gues A-D. League A\, B and C sides play six matches\; League D play four
+ .\n\nNew this year: an extended September-October window\, with four mat
+ chdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A quar
+ ter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-
+ team Finals are 9-13 June 2027\; host and exact dates still to be confir
+ med. Portugal are defending champions.\n\nThe competition also feeds int
+ o EURO 2028 qualifying\, with some teams getting a second route through 
+ the play-offs.
+CATEGORIES:Nations League,League A,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261002-Fra-Ita@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261002T184500Z
+DTEND:20261002T204500Z
+SUMMARY:⚽ 🇫🇷 France v 🇮🇹 Italy (A1)
+DESCRIPTION:🇫🇷 France v 🇮🇹 Italy\nMatchday 3 - Group A1 (Leag
+ ue A)\nFriday 2 October 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n\nNot
+ es\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Leagues
+  A-D. League A\, B and C sides play six matches\; League D play four.\n\
+ nNew this year: an extended September-October window\, with four matchda
+ ys played in close succession from 24 Sep to 6 Oct.\n\nLeague A quarter-
+ finals and the A/B and B/C play-offs run 25-30 March 2027. The four-team
+  Finals are 9-13 June 2027\; host and exact dates still to be confirmed.
+  Portugal are defending champions.\n\nThe competition also feeds into EU
+ RO 2028 qualifying\, with some teams getting a second route through the 
+ play-offs.
+CATEGORIES:Nations League,League A,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261002-Hun-Geo@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261002T184500Z
+DTEND:20261002T204500Z
+SUMMARY:⚽ 🇭🇺 Hungary v 🇬🇪 Georgia (B2)
+DESCRIPTION:🇭🇺 Hungary v 🇬🇪 Georgia\nMatchday 3 - Group B2 (L
+ eague B)\nFriday 2 October 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n\n
+ Notes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Leag
+ ues A-D. League A\, B and C sides play six matches\; League D play four.
+ \n\nNew this year: an extended September-October window\, with four matc
+ hdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A quart
+ er-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-t
+ eam Finals are 9-13 June 2027\; host and exact dates still to be confirm
+ ed. Portugal are defending champions.\n\nThe competition also feeds into
+  EURO 2028 qualifying\, with some teams getting a second route through t
+ he play-offs.
+CATEGORIES:Nations League,League B,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261002-Ukr-Nor@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261002T184500Z
+DTEND:20261002T204500Z
+SUMMARY:⚽ 🇺🇦 Ukraine v 🏴 Northern Ireland (B2)
+DESCRIPTION:🇺🇦 Ukraine v 🏴 Northern Ireland\nMatchday 3 - Group 
+ B2 (League B)\nFriday 2 October 2026\n\nKick-off\n20:45 CET  |  18:45 UT
+ C\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across
+  Leagues A-D. League A\, B and C sides play six matches\; League D play 
+ four.\n\nNew this year: an extended September-October window\, with four
+  matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A 
+ quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The f
+ our-team Finals are 9-13 June 2027\; host and exact dates still to be co
+ nfirmed. Portugal are defending champions.\n\nThe competition also feeds
+  into EURO 2028 qualifying\, with some teams getting a second route thro
+ ugh the play-offs.
+CATEGORIES:Nations League,League B,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261002-Bos-Swe@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261002T184500Z
+DTEND:20261002T204500Z
+SUMMARY:⚽ 🇧🇦 Bosnia and Herzegovina v 🇸🇪 Sweden (B4)
+DESCRIPTION:🇧🇦 Bosnia and Herzegovina v 🇸🇪 Sweden\nMatchday 3
+  - Group B4 (League B)\nFriday 2 October 2026\n\nKick-off\n20:45 CET  | 
+  18:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 tea
+ ms across Leagues A-D. League A\, B and C sides play six matches\; Leagu
+ e D play four.\n\nNew this year: an extended September-October window\, 
+ with four matchdays played in close succession from 24 Sep to 6 Oct.\n\n
+ League A quarter-finals and the A/B and B/C play-offs run 25-30 March 20
+ 27. The four-team Finals are 9-13 June 2027\; host and exact dates still
+  to be confirmed. Portugal are defending champions.\n\nThe competition a
+ lso feeds into EURO 2028 qualifying\, with some teams getting a second r
+ oute through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261002-Pol-Rom@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261002T184500Z
+DTEND:20261002T204500Z
+SUMMARY:⚽ 🇵🇱 Poland v 🇷🇴 Romania (B4)
+DESCRIPTION:🇵🇱 Poland v 🇷🇴 Romania\nMatchday 3 - Group B4 (Le
+ ague B)\nFriday 2 October 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n\nN
+ otes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Leagu
+ es A-D. League A\, B and C sides play six matches\; League D play four.\
+ n\nNew this year: an extended September-October window\, with four match
+ days played in close succession from 24 Sep to 6 Oct.\n\nLeague A quarte
+ r-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-te
+ am Finals are 9-13 June 2027\; host and exact dates still to be confirme
+ d. Portugal are defending champions.\n\nThe competition also feeds into 
+ EURO 2028 qualifying\, with some teams getting a second route through th
+ e play-offs.
+CATEGORIES:Nations League,League B,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261002-Lat-Mon@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261002T160000Z
+DTEND:20261002T180000Z
+SUMMARY:⚽ 🇱🇻 Latvia v 🇲🇪 Montenegro (C2)
+DESCRIPTION:🇱🇻 Latvia v 🇲🇪 Montenegro\nMatchday 3 - Group C2 
+ (League C)\nFriday 2 October 2026\n\nKick-off\n18:00 CET  |  16:00 UTC\n
+ \nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Le
+ agues A-D. League A\, B and C sides play six matches\; League D play fou
+ r.\n\nNew this year: an extended September-October window\, with four ma
+ tchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qua
+ rter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four
+ -team Finals are 9-13 June 2027\; host and exact dates still to be confi
+ rmed. Portugal are defending champions.\n\nThe competition also feeds in
+ to EURO 2028 qualifying\, with some teams getting a second route through
+  the play-offs.
+CATEGORIES:Nations League,League C,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261002-Far-Slo@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261002T184500Z
+DTEND:20261002T204500Z
+SUMMARY:⚽ 🇫🇴 Faroe Islands v 🇸🇰 Slovakia (C3)
+DESCRIPTION:🇫🇴 Faroe Islands v 🇸🇰 Slovakia\nMatchday 3 - Grou
+ p C3 (League C)\nFriday 2 October 2026\n\nKick-off\n20:45 CET  |  18:45 
+ UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams acro
+ ss Leagues A-D. League A\, B and C sides play six matches\; League D pla
+ y four.\n\nNew this year: an extended September-October window\, with fo
+ ur matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague 
+ A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The
+  four-team Finals are 9-13 June 2027\; host and exact dates still to be 
+ confirmed. Portugal are defending champions.\n\nThe competition also fee
+ ds into EURO 2028 qualifying\, with some teams getting a second route th
+ rough the play-offs.
+CATEGORIES:Nations League,League C,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261003-Fin-Alb@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261003T130000Z
+DTEND:20261003T150000Z
+SUMMARY:⚽ 🇫🇮 Finland v 🇦🇱 Albania (C1)
+DESCRIPTION:🇫🇮 Finland v 🇦🇱 Albania\nMatchday 3 - Group C1 (L
+ eague C)\nSaturday 3 October 2026\n\nKick-off\n15:00 CET  |  13:00 UTC\n
+ \nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Le
+ agues A-D. League A\, B and C sides play six matches\; League D play fou
+ r.\n\nNew this year: an extended September-October window\, with four ma
+ tchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qua
+ rter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four
+ -team Finals are 9-13 June 2027\; host and exact dates still to be confi
+ rmed. Portugal are defending champions.\n\nThe competition also feeds in
+ to EURO 2028 qualifying\, with some teams getting a second route through
+  the play-offs.
+CATEGORIES:Nations League,League C,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261003-Cro-Eng@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261003T160000Z
+DTEND:20261003T180000Z
+SUMMARY:⚽ 🇭🇷 Croatia v 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (A3)
+DESCRIPTION:🇭🇷 Croatia v 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England\nMatc
+ hday 3 - Group A3 (League A)\nSaturday 3 October 2026\n\nKick-off\n18:00
+  CET  |  16:00 UTC\n\nPlayed BEHIND CLOSED DOORS - Croatia are serving a
+  UEFA sanction.\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 5
+ 4 teams across Leagues A-D. League A\, B and C sides play six matches\; 
+ League D play four.\n\nNew this year: an extended September-October wind
+ ow\, with four matchdays played in close succession from 24 Sep to 6 Oct
+ .\n\nLeague A quarter-finals and the A/B and B/C play-offs run 25-30 Mar
+ ch 2027. The four-team Finals are 9-13 June 2027\; host and exact dates 
+ still to be confirmed. Portugal are defending champions.\n\nThe competit
+ ion also feeds into EURO 2028 qualifying\, with some teams getting a sec
+ ond route through the play-offs.
+CATEGORIES:Nations League,League A,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261003-Bel-San@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261003T160000Z
+DTEND:20261003T180000Z
+SUMMARY:⚽ 🇧🇾 Belarus v 🇸🇲 San Marino (C1)
+DESCRIPTION:🇧🇾 Belarus v 🇸🇲 San Marino\nMatchday 3 - Group C1
+  (League C)\nSaturday 3 October 2026\n\nKick-off\n18:00 CET  |  16:00 UT
+ C\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across
+  Leagues A-D. League A\, B and C sides play six matches\; League D play 
+ four.\n\nNew this year: an extended September-October window\, with four
+  matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A 
+ quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The f
+ our-team Finals are 9-13 June 2027\; host and exact dates still to be co
+ nfirmed. Portugal are defending champions.\n\nThe competition also feeds
+  into EURO 2028 qualifying\, with some teams getting a second route thro
+ ugh the play-offs.
+CATEGORIES:Nations League,League C,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261003-Est-Lux@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261003T160000Z
+DTEND:20261003T180000Z
+SUMMARY:⚽ 🇪🇪 Estonia v 🇱🇺 Luxembourg (C4)
+DESCRIPTION:🇪🇪 Estonia v 🇱🇺 Luxembourg\nMatchday 3 - Group C4
+  (League C)\nSaturday 3 October 2026\n\nKick-off\n18:00 CET  |  16:00 UT
+ C\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across
+  Leagues A-D. League A\, B and C sides play six matches\; League D play 
+ four.\n\nNew this year: an extended September-October window\, with four
+  matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A 
+ quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The f
+ our-team Finals are 9-13 June 2027\; host and exact dates still to be co
+ nfirmed. Portugal are defending champions.\n\nThe competition also feeds
+  into EURO 2028 qualifying\, with some teams getting a second route thro
+ ugh the play-offs.
+CATEGORIES:Nations League,League C,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261003-Ice-Bul@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261003T160000Z
+DTEND:20261003T180000Z
+SUMMARY:⚽ 🇮🇸 Iceland v 🇧🇬 Bulgaria (C4)
+DESCRIPTION:🇮🇸 Iceland v 🇧🇬 Bulgaria\nMatchday 3 - Group C4 (
+ League C)\nSaturday 3 October 2026\n\nKick-off\n18:00 CET  |  16:00 UTC\
+ n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across L
+ eagues A-D. League A\, B and C sides play six matches\; League D play fo
+ ur.\n\nNew this year: an extended September-October window\, with four m
+ atchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qu
+ arter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fou
+ r-team Finals are 9-13 June 2027\; host and exact dates still to be conf
+ irmed. Portugal are defending champions.\n\nThe competition also feeds i
+ nto EURO 2028 qualifying\, with some teams getting a second route throug
+ h the play-offs.
+CATEGORIES:Nations League,League C,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261003-Spa-Cze@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261003T184500Z
+DTEND:20261003T204500Z
+SUMMARY:⚽ 🇪🇸 Spain v 🇨🇿 Czechia (A3)
+DESCRIPTION:🇪🇸 Spain v 🇨🇿 Czechia\nMatchday 3 - Group A3 (Lea
+ gue A)\nSaturday 3 October 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n\n
+ Notes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Leag
+ ues A-D. League A\, B and C sides play six matches\; League D play four.
+ \n\nNew this year: an extended September-October window\, with four matc
+ hdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A quart
+ er-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-t
+ eam Finals are 9-13 June 2027\; host and exact dates still to be confirm
+ ed. Portugal are defending champions.\n\nThe competition also feeds into
+  EURO 2028 qualifying\, with some teams getting a second route through t
+ he play-offs.
+CATEGORIES:Nations League,League A,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261003-Nor-Sco@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261003T184500Z
+DTEND:20261003T204500Z
+SUMMARY:⚽ 🇲🇰 North Macedonia v 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotl
+ and (B1)
+DESCRIPTION:🇲🇰 North Macedonia v 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotl
+ and\nMatchday 3 - Group B1 (League B)\nSaturday 3 October 2026\n\nKick-o
+ ff\n20:45 CET  |  18:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fift
+ h edition. 54 teams across Leagues A-D. League A\, B and C sides play si
+ x matches\; League D play four.\n\nNew this year: an extended September-
+ October window\, with four matchdays played in close succession from 24 
+ Sep to 6 Oct.\n\nLeague A quarter-finals and the A/B and B/C play-offs r
+ un 25-30 March 2027. The four-team Finals are 9-13 June 2027\; host and 
+ exact dates still to be confirmed. Portugal are defending champions.\n\n
+ The competition also feeds into EURO 2028 qualifying\, with some teams g
+ etting a second route through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261003-Swi-Slo@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261003T184500Z
+DTEND:20261003T204500Z
+SUMMARY:⚽ 🇨🇭 Switzerland v 🇸🇮 Slovenia (B1)
+DESCRIPTION:🇨🇭 Switzerland v 🇸🇮 Slovenia\nMatchday 3 - Group 
+ B1 (League B)\nSaturday 3 October 2026\n\nKick-off\n20:45 CET  |  18:45 
+ UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams acro
+ ss Leagues A-D. League A\, B and C sides play six matches\; League D pla
+ y four.\n\nNew this year: an extended September-October window\, with fo
+ ur matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague 
+ A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The
+  four-team Finals are 9-13 June 2027\; host and exact dates still to be 
+ confirmed. Portugal are defending champions.\n\nThe competition also fee
+ ds into EURO 2028 qualifying\, with some teams getting a second route th
+ rough the play-offs.
+CATEGORIES:Nations League,League B,Matchday 3
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261004-Aze-Lit@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261004T130000Z
+DTEND:20261004T150000Z
+SUMMARY:⚽ 🇦🇿 Azerbaijan v 🇱🇹 Lithuania (D2)
+DESCRIPTION:🇦🇿 Azerbaijan v 🇱🇹 Lithuania\nMatchday 4 - Group 
+ D2 (League D)\nSunday 4 October 2026\n\nKick-off\n15:00 CET  |  13:00 UT
+ C\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across
+  Leagues A-D. League A\, B and C sides play six matches\; League D play 
+ four.\n\nNew this year: an extended September-October window\, with four
+  matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A 
+ quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The f
+ our-team Finals are 9-13 June 2027\; host and exact dates still to be co
+ nfirmed. Portugal are defending champions.\n\nThe competition also feeds
+  into EURO 2028 qualifying\, with some teams getting a second route thro
+ ugh the play-offs.
+CATEGORIES:Nations League,League D,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261004-Kos-Aus@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261004T160000Z
+DTEND:20261004T180000Z
+SUMMARY:⚽ 🇽🇰 Kosovo v 🇦🇹 Austria (B3)
+DESCRIPTION:🇽🇰 Kosovo v 🇦🇹 Austria\nMatchday 4 - Group B3 (Le
+ ague B)\nSunday 4 October 2026\n\nKick-off\n18:00 CET  |  16:00 UTC\n\nN
+ otes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Leagu
+ es A-D. League A\, B and C sides play six matches\; League D play four.\
+ n\nNew this year: an extended September-October window\, with four match
+ days played in close succession from 24 Sep to 6 Oct.\n\nLeague A quarte
+ r-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-te
+ am Finals are 9-13 June 2027\; host and exact dates still to be confirme
+ d. Portugal are defending champions.\n\nThe competition also feeds into 
+ EURO 2028 qualifying\, with some teams getting a second route through th
+ e play-offs.
+CATEGORIES:Nations League,League B,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261004-Mal-And@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261004T160000Z
+DTEND:20261004T180000Z
+SUMMARY:⚽ 🇲🇹 Malta v 🇦🇩 Andorra (D1)
+DESCRIPTION:🇲🇹 Malta v 🇦🇩 Andorra\nMatchday 4 - Group D1 (Lea
+ gue D)\nSunday 4 October 2026\n\nKick-off\n18:00 CET  |  16:00 UTC\n\nNo
+ tes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across League
+ s A-D. League A\, B and C sides play six matches\; League D play four.\n
+ \nNew this year: an extended September-October window\, with four matchd
+ ays played in close succession from 24 Sep to 6 Oct.\n\nLeague A quarter
+ -finals and the A/B and B/C play-offs run 25-30 March 2027. The four-tea
+ m Finals are 9-13 June 2027\; host and exact dates still to be confirmed
+ . Portugal are defending champions.\n\nThe competition also feeds into E
+ URO 2028 qualifying\, with some teams getting a second route through the
+  play-offs.
+CATEGORIES:Nations League,League D,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261004-Gre-Ger@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261004T184500Z
+DTEND:20261004T204500Z
+SUMMARY:⚽ 🇬🇷 Greece v 🇩🇪 Germany (A2)
+DESCRIPTION:🇬🇷 Greece v 🇩🇪 Germany\nMatchday 4 - Group A2 (Le
+ ague A)\nSunday 4 October 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n\nN
+ otes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Leagu
+ es A-D. League A\, B and C sides play six matches\; League D play four.\
+ n\nNew this year: an extended September-October window\, with four match
+ days played in close succession from 24 Sep to 6 Oct.\n\nLeague A quarte
+ r-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-te
+ am Finals are 9-13 June 2027\; host and exact dates still to be confirme
+ d. Portugal are defending champions.\n\nThe competition also feeds into 
+ EURO 2028 qualifying\, with some teams getting a second route through th
+ e play-offs.
+CATEGORIES:Nations League,League A,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261004-Net-Ser@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261004T184500Z
+DTEND:20261004T204500Z
+SUMMARY:⚽ 🇳🇱 Netherlands v 🇷🇸 Serbia (A2)
+DESCRIPTION:🇳🇱 Netherlands v 🇷🇸 Serbia\nMatchday 4 - Group A2
+  (League A)\nSunday 4 October 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\
+ n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across L
+ eagues A-D. League A\, B and C sides play six matches\; League D play fo
+ ur.\n\nNew this year: an extended September-October window\, with four m
+ atchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qu
+ arter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fou
+ r-team Finals are 9-13 June 2027\; host and exact dates still to be conf
+ irmed. Portugal are defending champions.\n\nThe competition also feeds i
+ nto EURO 2028 qualifying\, with some teams getting a second route throug
+ h the play-offs.
+CATEGORIES:Nations League,League A,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261004-Por-Nor@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261004T184500Z
+DTEND:20261004T204500Z
+SUMMARY:⚽ 🇵🇹 Portugal v 🇳🇴 Norway (A4)
+DESCRIPTION:🇵🇹 Portugal v 🇳🇴 Norway\nMatchday 4 - Group A4 (L
+ eague A)\nSunday 4 October 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n\n
+ Notes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Leag
+ ues A-D. League A\, B and C sides play six matches\; League D play four.
+ \n\nNew this year: an extended September-October window\, with four matc
+ hdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A quart
+ er-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-t
+ eam Finals are 9-13 June 2027\; host and exact dates still to be confirm
+ ed. Portugal are defending champions.\n\nThe competition also feeds into
+  EURO 2028 qualifying\, with some teams getting a second route through t
+ he play-offs.
+CATEGORIES:Nations League,League A,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261004-Wal-Den@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261004T184500Z
+DTEND:20261004T204500Z
+SUMMARY:⚽ 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales v 🇩🇰 Denmark (A4)
+DESCRIPTION:🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales v 🇩🇰 Denmark\nMatchd
+ ay 4 - Group A4 (League A)\nSunday 4 October 2026\n\nKick-off\n20:45 CET
+   |  18:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54
+  teams across Leagues A-D. League A\, B and C sides play six matches\; L
+ eague D play four.\n\nNew this year: an extended September-October windo
+ w\, with four matchdays played in close succession from 24 Sep to 6 Oct.
+ \n\nLeague A quarter-finals and the A/B and B/C play-offs run 25-30 Marc
+ h 2027. The four-team Finals are 9-13 June 2027\; host and exact dates s
+ till to be confirmed. Portugal are defending champions.\n\nThe competiti
+ on also feeds into EURO 2028 qualifying\, with some teams getting a seco
+ nd route through the play-offs.
+CATEGORIES:Nations League,League A,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261004-Rep-Isr@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261004T184500Z
+DTEND:20261004T204500Z
+SUMMARY:⚽ 🇮🇪 Republic of Ireland v 🇮🇱 Israel (B3)
+DESCRIPTION:🇮🇪 Republic of Ireland v 🇮🇱 Israel\nMatchday 4 - 
+ Group B3 (League B)\nSunday 4 October 2026\n\nKick-off\n20:45 CET  |  18
+ :45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams 
+ across Leagues A-D. League A\, B and C sides play six matches\; League D
+  play four.\n\nNew this year: an extended September-October window\, wit
+ h four matchdays played in close succession from 24 Sep to 6 Oct.\n\nLea
+ gue A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027.
+  The four-team Finals are 9-13 June 2027\; host and exact dates still to
+  be confirmed. Portugal are defending champions.\n\nThe competition also
+  feeds into EURO 2028 qualifying\, with some teams getting a second rout
+ e through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261005-Cyp-Lat@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261005T160000Z
+DTEND:20261005T180000Z
+SUMMARY:⚽ 🇨🇾 Cyprus v 🇱🇻 Latvia (C2)
+DESCRIPTION:🇨🇾 Cyprus v 🇱🇻 Latvia\nMatchday 4 - Group C2 (Lea
+ gue C)\nMonday 5 October 2026\n\nKick-off\n18:00 CET  |  16:00 UTC\n\nNo
+ tes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across League
+ s A-D. League A\, B and C sides play six matches\; League D play four.\n
+ \nNew this year: an extended September-October window\, with four matchd
+ ays played in close succession from 24 Sep to 6 Oct.\n\nLeague A quarter
+ -finals and the A/B and B/C play-offs run 25-30 March 2027. The four-tea
+ m Finals are 9-13 June 2027\; host and exact dates still to be confirmed
+ . Portugal are defending champions.\n\nThe competition also feeds into E
+ URO 2028 qualifying\, with some teams getting a second route through the
+  play-offs.
+CATEGORIES:Nations League,League C,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261005-Fra-Bel@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261005T184500Z
+DTEND:20261005T204500Z
+SUMMARY:⚽ 🇫🇷 France v 🇧🇪 Belgium (A1)
+DESCRIPTION:🇫🇷 France v 🇧🇪 Belgium\nMatchday 4 - Group A1 (Le
+ ague A)\nMonday 5 October 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n\nN
+ otes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Leagu
+ es A-D. League A\, B and C sides play six matches\; League D play four.\
+ n\nNew this year: an extended September-October window\, with four match
+ days played in close succession from 24 Sep to 6 Oct.\n\nLeague A quarte
+ r-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-te
+ am Finals are 9-13 June 2027\; host and exact dates still to be confirme
+ d. Portugal are defending champions.\n\nThe competition also feeds into 
+ EURO 2028 qualifying\, with some teams getting a second route through th
+ e play-offs.
+CATEGORIES:Nations League,League A,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261005-Ita-Tur@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261005T184500Z
+DTEND:20261005T204500Z
+SUMMARY:⚽ 🇮🇹 Italy v 🇹🇷 Türkiye (A1)
+DESCRIPTION:🇮🇹 Italy v 🇹🇷 Türkiye\nMatchday 4 - Group A1 (Le
+ ague A)\nMonday 5 October 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n\nN
+ otes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Leagu
+ es A-D. League A\, B and C sides play six matches\; League D play four.\
+ n\nNew this year: an extended September-October window\, with four match
+ days played in close succession from 24 Sep to 6 Oct.\n\nLeague A quarte
+ r-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-te
+ am Finals are 9-13 June 2027\; host and exact dates still to be confirme
+ d. Portugal are defending champions.\n\nThe competition also feeds into 
+ EURO 2028 qualifying\, with some teams getting a second route through th
+ e play-offs.
+CATEGORIES:Nations League,League A,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261005-Nor-Geo@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261005T184500Z
+DTEND:20261005T204500Z
+SUMMARY:⚽ 🏴 Northern Ireland v 🇬🇪 Georgia (B2)
+DESCRIPTION:🏴 Northern Ireland v 🇬🇪 Georgia\nMatchday 4 - Group 
+ B2 (League B)\nMonday 5 October 2026\n\nKick-off\n20:45 CET  |  18:45 UT
+ C\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across
+  Leagues A-D. League A\, B and C sides play six matches\; League D play 
+ four.\n\nNew this year: an extended September-October window\, with four
+  matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A 
+ quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The f
+ our-team Finals are 9-13 June 2027\; host and exact dates still to be co
+ nfirmed. Portugal are defending champions.\n\nThe competition also feeds
+  into EURO 2028 qualifying\, with some teams getting a second route thro
+ ugh the play-offs.
+CATEGORIES:Nations League,League B,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261005-Ukr-Hun@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261005T184500Z
+DTEND:20261005T204500Z
+SUMMARY:⚽ 🇺🇦 Ukraine v 🇭🇺 Hungary (B2)
+DESCRIPTION:🇺🇦 Ukraine v 🇭🇺 Hungary\nMatchday 4 - Group B2 (L
+ eague B)\nMonday 5 October 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n\n
+ Notes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Leag
+ ues A-D. League A\, B and C sides play six matches\; League D play four.
+ \n\nNew this year: an extended September-October window\, with four matc
+ hdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A quart
+ er-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-t
+ eam Finals are 9-13 June 2027\; host and exact dates still to be confirm
+ ed. Portugal are defending champions.\n\nThe competition also feeds into
+  EURO 2028 qualifying\, with some teams getting a second route through t
+ he play-offs.
+CATEGORIES:Nations League,League B,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261005-Bos-Pol@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261005T184500Z
+DTEND:20261005T204500Z
+SUMMARY:⚽ 🇧🇦 Bosnia and Herzegovina v 🇵🇱 Poland (B4)
+DESCRIPTION:🇧🇦 Bosnia and Herzegovina v 🇵🇱 Poland\nMatchday 4
+  - Group B4 (League B)\nMonday 5 October 2026\n\nKick-off\n20:45 CET  | 
+  18:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 tea
+ ms across Leagues A-D. League A\, B and C sides play six matches\; Leagu
+ e D play four.\n\nNew this year: an extended September-October window\, 
+ with four matchdays played in close succession from 24 Sep to 6 Oct.\n\n
+ League A quarter-finals and the A/B and B/C play-offs run 25-30 March 20
+ 27. The four-team Finals are 9-13 June 2027\; host and exact dates still
+  to be confirmed. Portugal are defending champions.\n\nThe competition a
+ lso feeds into EURO 2028 qualifying\, with some teams getting a second r
+ oute through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261005-Rom-Swe@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261005T184500Z
+DTEND:20261005T204500Z
+SUMMARY:⚽ 🇷🇴 Romania v 🇸🇪 Sweden (B4)
+DESCRIPTION:🇷🇴 Romania v 🇸🇪 Sweden\nMatchday 4 - Group B4 (Le
+ ague B)\nMonday 5 October 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n\nN
+ otes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Leagu
+ es A-D. League A\, B and C sides play six matches\; League D play four.\
+ n\nNew this year: an extended September-October window\, with four match
+ days played in close succession from 24 Sep to 6 Oct.\n\nLeague A quarte
+ r-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-te
+ am Finals are 9-13 June 2027\; host and exact dates still to be confirme
+ d. Portugal are defending champions.\n\nThe competition also feeds into 
+ EURO 2028 qualifying\, with some teams getting a second route through th
+ e play-offs.
+CATEGORIES:Nations League,League B,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261005-Mon-Arm@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261005T184500Z
+DTEND:20261005T204500Z
+SUMMARY:⚽ 🇲🇪 Montenegro v 🇦🇲 Armenia (C2)
+DESCRIPTION:🇲🇪 Montenegro v 🇦🇲 Armenia\nMatchday 4 - Group C2
+  (League C)\nMonday 5 October 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\
+ n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across L
+ eagues A-D. League A\, B and C sides play six matches\; League D play fo
+ ur.\n\nNew this year: an extended September-October window\, with four m
+ atchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qu
+ arter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fou
+ r-team Finals are 9-13 June 2027\; host and exact dates still to be conf
+ irmed. Portugal are defending champions.\n\nThe competition also feeds i
+ nto EURO 2028 qualifying\, with some teams getting a second route throug
+ h the play-offs.
+CATEGORIES:Nations League,League C,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261006-Kaz-Far@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261006T140000Z
+DTEND:20261006T160000Z
+SUMMARY:⚽ 🇰🇿 Kazakhstan v 🇫🇴 Faroe Islands (C3)
+DESCRIPTION:🇰🇿 Kazakhstan v 🇫🇴 Faroe Islands\nMatchday 4 - Gr
+ oup C3 (League C)\nTuesday 6 October 2026\n\nKick-off\n16:00 CET  |  14:
+ 00 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams a
+ cross Leagues A-D. League A\, B and C sides play six matches\; League D 
+ play four.\n\nNew this year: an extended September-October window\, with
+  four matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeag
+ ue A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. 
+ The four-team Finals are 9-13 June 2027\; host and exact dates still to 
+ be confirmed. Portugal are defending champions.\n\nThe competition also 
+ feeds into EURO 2028 qualifying\, with some teams getting a second route
+  through the play-offs.
+CATEGORIES:Nations League,League C,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261006-Cro-Spa@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261006T184500Z
+DTEND:20261006T204500Z
+SUMMARY:⚽ 🇭🇷 Croatia v 🇪🇸 Spain (A3)
+DESCRIPTION:🇭🇷 Croatia v 🇪🇸 Spain\nMatchday 4 - Group A3 (Lea
+ gue A)\nTuesday 6 October 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n\nN
+ otes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Leagu
+ es A-D. League A\, B and C sides play six matches\; League D play four.\
+ n\nNew this year: an extended September-October window\, with four match
+ days played in close succession from 24 Sep to 6 Oct.\n\nLeague A quarte
+ r-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-te
+ am Finals are 9-13 June 2027\; host and exact dates still to be confirme
+ d. Portugal are defending champions.\n\nThe competition also feeds into 
+ EURO 2028 qualifying\, with some teams getting a second route through th
+ e play-offs.
+CATEGORIES:Nations League,League A,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261006-Eng-Cze@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261006T184500Z
+DTEND:20261006T204500Z
+SUMMARY:⚽ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England v 🇨🇿 Czechia (A3)
+DESCRIPTION:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England v 🇨🇿 Czechia\nMatc
+ hday 4 - Group A3 (League A)\nTuesday 6 October 2026\n\nKick-off\n20:45 
+ CET  |  18:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition.
+  54 teams across Leagues A-D. League A\, B and C sides play six matches\
+ ; League D play four.\n\nNew this year: an extended September-October wi
+ ndow\, with four matchdays played in close succession from 24 Sep to 6 O
+ ct.\n\nLeague A quarter-finals and the A/B and B/C play-offs run 25-30 M
+ arch 2027. The four-team Finals are 9-13 June 2027\; host and exact date
+ s still to be confirmed. Portugal are defending champions.\n\nThe compet
+ ition also feeds into EURO 2028 qualifying\, with some teams getting a s
+ econd route through the play-offs.
+CATEGORIES:Nations League,League A,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261006-Sco-Slo@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261006T184500Z
+DTEND:20261006T204500Z
+SUMMARY:⚽ 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland v 🇸🇮 Slovenia (B1
+ )
+DESCRIPTION:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland v 🇸🇮 Slovenia\nMa
+ tchday 4 - Group B1 (League B)\nTuesday 6 October 2026\n\nKick-off\n20:4
+ 5 CET  |  18:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth editio
+ n. 54 teams across Leagues A-D. League A\, B and C sides play six matche
+ s\; League D play four.\n\nNew this year: an extended September-October 
+ window\, with four matchdays played in close succession from 24 Sep to 6
+  Oct.\n\nLeague A quarter-finals and the A/B and B/C play-offs run 25-30
+  March 2027. The four-team Finals are 9-13 June 2027\; host and exact da
+ tes still to be confirmed. Portugal are defending champions.\n\nThe comp
+ etition also feeds into EURO 2028 qualifying\, with some teams getting a
+  second route through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261006-Swi-Nor@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261006T184500Z
+DTEND:20261006T204500Z
+SUMMARY:⚽ 🇨🇭 Switzerland v 🇲🇰 North Macedonia (B1)
+DESCRIPTION:🇨🇭 Switzerland v 🇲🇰 North Macedonia\nMatchday 4 -
+  Group B1 (League B)\nTuesday 6 October 2026\n\nKick-off\n20:45 CET  |  
+ 18:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 team
+ s across Leagues A-D. League A\, B and C sides play six matches\; League
+  D play four.\n\nNew this year: an extended September-October window\, w
+ ith four matchdays played in close succession from 24 Sep to 6 Oct.\n\nL
+ eague A quarter-finals and the A/B and B/C play-offs run 25-30 March 202
+ 7. The four-team Finals are 9-13 June 2027\; host and exact dates still 
+ to be confirmed. Portugal are defending champions.\n\nThe competition al
+ so feeds into EURO 2028 qualifying\, with some teams getting a second ro
+ ute through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261006-Alb-San@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261006T184500Z
+DTEND:20261006T204500Z
+SUMMARY:⚽ 🇦🇱 Albania v 🇸🇲 San Marino (C1)
+DESCRIPTION:🇦🇱 Albania v 🇸🇲 San Marino\nMatchday 4 - Group C1
+  (League C)\nTuesday 6 October 2026\n\nKick-off\n20:45 CET  |  18:45 UTC
+ \n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across 
+ Leagues A-D. League A\, B and C sides play six matches\; League D play f
+ our.\n\nNew this year: an extended September-October window\, with four 
+ matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A q
+ uarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fo
+ ur-team Finals are 9-13 June 2027\; host and exact dates still to be con
+ firmed. Portugal are defending champions.\n\nThe competition also feeds 
+ into EURO 2028 qualifying\, with some teams getting a second route throu
+ gh the play-offs.
+CATEGORIES:Nations League,League C,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261006-Bel-Fin@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261006T184500Z
+DTEND:20261006T204500Z
+SUMMARY:⚽ 🇧🇾 Belarus v 🇫🇮 Finland (C1)
+DESCRIPTION:🇧🇾 Belarus v 🇫🇮 Finland\nMatchday 4 - Group C1 (L
+ eague C)\nTuesday 6 October 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n\
+ nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Lea
+ gues A-D. League A\, B and C sides play six matches\; League D play four
+ .\n\nNew this year: an extended September-October window\, with four mat
+ chdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A quar
+ ter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-
+ team Finals are 9-13 June 2027\; host and exact dates still to be confir
+ med. Portugal are defending champions.\n\nThe competition also feeds int
+ o EURO 2028 qualifying\, with some teams getting a second route through 
+ the play-offs.
+CATEGORIES:Nations League,League C,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261006-Mol-Slo@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261006T184500Z
+DTEND:20261006T204500Z
+SUMMARY:⚽ 🇲🇩 Moldova v 🇸🇰 Slovakia (C3)
+DESCRIPTION:🇲🇩 Moldova v 🇸🇰 Slovakia\nMatchday 4 - Group C3 (
+ League C)\nTuesday 6 October 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n
+ \nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Le
+ agues A-D. League A\, B and C sides play six matches\; League D play fou
+ r.\n\nNew this year: an extended September-October window\, with four ma
+ tchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qua
+ rter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four
+ -team Finals are 9-13 June 2027\; host and exact dates still to be confi
+ rmed. Portugal are defending champions.\n\nThe competition also feeds in
+ to EURO 2028 qualifying\, with some teams getting a second route through
+  the play-offs.
+CATEGORIES:Nations League,League C,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261006-Est-Ice@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261006T184500Z
+DTEND:20261006T204500Z
+SUMMARY:⚽ 🇪🇪 Estonia v 🇮🇸 Iceland (C4)
+DESCRIPTION:🇪🇪 Estonia v 🇮🇸 Iceland\nMatchday 4 - Group C4 (L
+ eague C)\nTuesday 6 October 2026\n\nKick-off\n20:45 CET  |  18:45 UTC\n\
+ nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Lea
+ gues A-D. League A\, B and C sides play six matches\; League D play four
+ .\n\nNew this year: an extended September-October window\, with four mat
+ chdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A quar
+ ter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-
+ team Finals are 9-13 June 2027\; host and exact dates still to be confir
+ med. Portugal are defending champions.\n\nThe competition also feeds int
+ o EURO 2028 qualifying\, with some teams getting a second route through 
+ the play-offs.
+CATEGORIES:Nations League,League C,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261006-Lux-Bul@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261006T184500Z
+DTEND:20261006T204500Z
+SUMMARY:⚽ 🇱🇺 Luxembourg v 🇧🇬 Bulgaria (C4)
+DESCRIPTION:🇱🇺 Luxembourg v 🇧🇬 Bulgaria\nMatchday 4 - Group C
+ 4 (League C)\nTuesday 6 October 2026\n\nKick-off\n20:45 CET  |  18:45 UT
+ C\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across
+  Leagues A-D. League A\, B and C sides play six matches\; League D play 
+ four.\n\nNew this year: an extended September-October window\, with four
+  matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A 
+ quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The f
+ our-team Finals are 9-13 June 2027\; host and exact dates still to be co
+ nfirmed. Portugal are defending champions.\n\nThe competition also feeds
+  into EURO 2028 qualifying\, with some teams getting a second route thro
+ ugh the play-offs.
+CATEGORIES:Nations League,League C,Matchday 4
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261112-Tur-Bel@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261112T170000Z
+DTEND:20261112T190000Z
+SUMMARY:⚽ 🇹🇷 Türkiye v 🇧🇪 Belgium (A1)
+DESCRIPTION:🇹🇷 Türkiye v 🇧🇪 Belgium\nMatchday 5 - Group A1 (
+ League A)\nThursday 12 November 2026\n\nKick-off\n18:00 CET  |  17:00 UT
+ C\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across
+  Leagues A-D. League A\, B and C sides play six matches\; League D play 
+ four.\n\nNew this year: an extended September-October window\, with four
+  matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A 
+ quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The f
+ our-team Finals are 9-13 June 2027\; host and exact dates still to be co
+ nfirmed. Portugal are defending champions.\n\nThe competition also feeds
+  into EURO 2028 qualifying\, with some teams getting a second route thro
+ ugh the play-offs.
+CATEGORIES:Nations League,League A,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261112-Arm-Cyp@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261112T170000Z
+DTEND:20261112T190000Z
+SUMMARY:⚽ 🇦🇲 Armenia v 🇨🇾 Cyprus (C2)
+DESCRIPTION:🇦🇲 Armenia v 🇨🇾 Cyprus\nMatchday 5 - Group C2 (Le
+ ague C)\nThursday 12 November 2026\n\nKick-off\n18:00 CET  |  17:00 UTC\
+ n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across L
+ eagues A-D. League A\, B and C sides play six matches\; League D play fo
+ ur.\n\nNew this year: an extended September-October window\, with four m
+ atchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qu
+ arter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fou
+ r-team Finals are 9-13 June 2027\; host and exact dates still to be conf
+ irmed. Portugal are defending champions.\n\nThe competition also feeds i
+ nto EURO 2028 qualifying\, with some teams getting a second route throug
+ h the play-offs.
+CATEGORIES:Nations League,League C,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261112-Ita-Fra@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261112T194500Z
+DTEND:20261112T214500Z
+SUMMARY:⚽ 🇮🇹 Italy v 🇫🇷 France (A1)
+DESCRIPTION:🇮🇹 Italy v 🇫🇷 France\nMatchday 5 - Group A1 (Leag
+ ue A)\nThursday 12 November 2026\n\nKick-off\n20:45 CET  |  19:45 UTC\n\
+ nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Lea
+ gues A-D. League A\, B and C sides play six matches\; League D play four
+ .\n\nNew this year: an extended September-October window\, with four mat
+ chdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A quar
+ ter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-
+ team Finals are 9-13 June 2027\; host and exact dates still to be confir
+ med. Portugal are defending champions.\n\nThe competition also feeds int
+ o EURO 2028 qualifying\, with some teams getting a second route through 
+ the play-offs.
+CATEGORIES:Nations League,League A,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261112-Cze-Spa@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261112T194500Z
+DTEND:20261112T214500Z
+SUMMARY:⚽ 🇨🇿 Czechia v 🇪🇸 Spain (A3)
+DESCRIPTION:🇨🇿 Czechia v 🇪🇸 Spain\nMatchday 5 - Group A3 (Lea
+ gue A)\nThursday 12 November 2026\n\nKick-off\n20:45 CET  |  19:45 UTC\n
+ \nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Le
+ agues A-D. League A\, B and C sides play six matches\; League D play fou
+ r.\n\nNew this year: an extended September-October window\, with four ma
+ tchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qua
+ rter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four
+ -team Finals are 9-13 June 2027\; host and exact dates still to be confi
+ rmed. Portugal are defending champions.\n\nThe competition also feeds in
+ to EURO 2028 qualifying\, with some teams getting a second route through
+  the play-offs.
+CATEGORIES:Nations League,League A,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261112-Eng-Cro@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261112T194500Z
+DTEND:20261112T214500Z
+SUMMARY:⚽ 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England v 🇭🇷 Croatia (A3)
+DESCRIPTION:🏴󠁧󠁢󠁥󠁮󠁧󠁿 England v 🇭🇷 Croatia\nMatc
+ hday 5 - Group A3 (League A)\nThursday 12 November 2026\n\nKick-off\n20:
+ 45 CET  |  19:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth editi
+ on. 54 teams across Leagues A-D. League A\, B and C sides play six match
+ es\; League D play four.\n\nNew this year: an extended September-October
+  window\, with four matchdays played in close succession from 24 Sep to 
+ 6 Oct.\n\nLeague A quarter-finals and the A/B and B/C play-offs run 25-3
+ 0 March 2027. The four-team Finals are 9-13 June 2027\; host and exact d
+ ates still to be confirmed. Portugal are defending champions.\n\nThe com
+ petition also feeds into EURO 2028 qualifying\, with some teams getting 
+ a second route through the play-offs.
+CATEGORIES:Nations League,League A,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261112-Alb-Fin@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261112T194500Z
+DTEND:20261112T214500Z
+SUMMARY:⚽ 🇦🇱 Albania v 🇫🇮 Finland (C1)
+DESCRIPTION:🇦🇱 Albania v 🇫🇮 Finland\nMatchday 5 - Group C1 (L
+ eague C)\nThursday 12 November 2026\n\nKick-off\n20:45 CET  |  19:45 UTC
+ \n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across 
+ Leagues A-D. League A\, B and C sides play six matches\; League D play f
+ our.\n\nNew this year: an extended September-October window\, with four 
+ matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A q
+ uarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fo
+ ur-team Finals are 9-13 June 2027\; host and exact dates still to be con
+ firmed. Portugal are defending champions.\n\nThe competition also feeds 
+ into EURO 2028 qualifying\, with some teams getting a second route throu
+ gh the play-offs.
+CATEGORIES:Nations League,League C,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261112-San-Bel@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261112T194500Z
+DTEND:20261112T214500Z
+SUMMARY:⚽ 🇸🇲 San Marino v 🇧🇾 Belarus (C1)
+DESCRIPTION:🇸🇲 San Marino v 🇧🇾 Belarus\nMatchday 5 - Group C1
+  (League C)\nThursday 12 November 2026\n\nKick-off\n20:45 CET  |  19:45 
+ UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams acro
+ ss Leagues A-D. League A\, B and C sides play six matches\; League D pla
+ y four.\n\nNew this year: an extended September-October window\, with fo
+ ur matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague 
+ A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The
+  four-team Finals are 9-13 June 2027\; host and exact dates still to be 
+ confirmed. Portugal are defending champions.\n\nThe competition also fee
+ ds into EURO 2028 qualifying\, with some teams getting a second route th
+ rough the play-offs.
+CATEGORIES:Nations League,League C,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261112-Mon-Lat@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261112T194500Z
+DTEND:20261112T214500Z
+SUMMARY:⚽ 🇲🇪 Montenegro v 🇱🇻 Latvia (C2)
+DESCRIPTION:🇲🇪 Montenegro v 🇱🇻 Latvia\nMatchday 5 - Group C2 
+ (League C)\nThursday 12 November 2026\n\nKick-off\n20:45 CET  |  19:45 U
+ TC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams acros
+ s Leagues A-D. League A\, B and C sides play six matches\; League D play
+  four.\n\nNew this year: an extended September-October window\, with fou
+ r matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A
+  quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The 
+ four-team Finals are 9-13 June 2027\; host and exact dates still to be c
+ onfirmed. Portugal are defending champions.\n\nThe competition also feed
+ s into EURO 2028 qualifying\, with some teams getting a second route thr
+ ough the play-offs.
+CATEGORIES:Nations League,League C,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261113-Mol-Kaz@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261113T170000Z
+DTEND:20261113T190000Z
+SUMMARY:⚽ 🇲🇩 Moldova v 🇰🇿 Kazakhstan (C3)
+DESCRIPTION:🇲🇩 Moldova v 🇰🇿 Kazakhstan\nMatchday 5 - Group C3
+  (League C)\nFriday 13 November 2026\n\nKick-off\n18:00 CET  |  17:00 UT
+ C\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across
+  Leagues A-D. League A\, B and C sides play six matches\; League D play 
+ four.\n\nNew this year: an extended September-October window\, with four
+  matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A 
+ quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The f
+ our-team Finals are 9-13 June 2027\; host and exact dates still to be co
+ nfirmed. Portugal are defending champions.\n\nThe competition also feeds
+  into EURO 2028 qualifying\, with some teams getting a second route thro
+ ugh the play-offs.
+CATEGORIES:Nations League,League C,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261113-Net-Gre@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261113T194500Z
+DTEND:20261113T214500Z
+SUMMARY:⚽ 🇳🇱 Netherlands v 🇬🇷 Greece (A2)
+DESCRIPTION:🇳🇱 Netherlands v 🇬🇷 Greece\nMatchday 5 - Group A2
+  (League A)\nFriday 13 November 2026\n\nKick-off\n20:45 CET  |  19:45 UT
+ C\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across
+  Leagues A-D. League A\, B and C sides play six matches\; League D play 
+ four.\n\nNew this year: an extended September-October window\, with four
+  matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A 
+ quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The f
+ our-team Finals are 9-13 June 2027\; host and exact dates still to be co
+ nfirmed. Portugal are defending champions.\n\nThe competition also feeds
+  into EURO 2028 qualifying\, with some teams getting a second route thro
+ ugh the play-offs.
+CATEGORIES:Nations League,League A,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261113-Ser-Ger@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261113T194500Z
+DTEND:20261113T214500Z
+SUMMARY:⚽ 🇷🇸 Serbia v 🇩🇪 Germany (A2)
+DESCRIPTION:🇷🇸 Serbia v 🇩🇪 Germany\nMatchday 5 - Group A2 (Le
+ ague A)\nFriday 13 November 2026\n\nKick-off\n20:45 CET  |  19:45 UTC\n\
+ nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Lea
+ gues A-D. League A\, B and C sides play six matches\; League D play four
+ .\n\nNew this year: an extended September-October window\, with four mat
+ chdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A quar
+ ter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-
+ team Finals are 9-13 June 2027\; host and exact dates still to be confir
+ med. Portugal are defending champions.\n\nThe competition also feeds int
+ o EURO 2028 qualifying\, with some teams getting a second route through 
+ the play-offs.
+CATEGORIES:Nations League,League A,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261113-Sco-Nor@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261113T194500Z
+DTEND:20261113T214500Z
+SUMMARY:⚽ 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland v 🇲🇰 North Macedo
+ nia (B1)
+DESCRIPTION:🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland v 🇲🇰 North Macedo
+ nia\nMatchday 5 - Group B1 (League B)\nFriday 13 November 2026\n\nKick-o
+ ff\n20:45 CET  |  19:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fift
+ h edition. 54 teams across Leagues A-D. League A\, B and C sides play si
+ x matches\; League D play four.\n\nNew this year: an extended September-
+ October window\, with four matchdays played in close succession from 24 
+ Sep to 6 Oct.\n\nLeague A quarter-finals and the A/B and B/C play-offs r
+ un 25-30 March 2027. The four-team Finals are 9-13 June 2027\; host and 
+ exact dates still to be confirmed. Portugal are defending champions.\n\n
+ The competition also feeds into EURO 2028 qualifying\, with some teams g
+ etting a second route through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261113-Slo-Swi@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261113T194500Z
+DTEND:20261113T214500Z
+SUMMARY:⚽ 🇸🇮 Slovenia v 🇨🇭 Switzerland (B1)
+DESCRIPTION:🇸🇮 Slovenia v 🇨🇭 Switzerland\nMatchday 5 - Group 
+ B1 (League B)\nFriday 13 November 2026\n\nKick-off\n20:45 CET  |  19:45 
+ UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams acro
+ ss Leagues A-D. League A\, B and C sides play six matches\; League D pla
+ y four.\n\nNew this year: an extended September-October window\, with fo
+ ur matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague 
+ A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The
+  four-team Finals are 9-13 June 2027\; host and exact dates still to be 
+ confirmed. Portugal are defending champions.\n\nThe competition also fee
+ ds into EURO 2028 qualifying\, with some teams getting a second route th
+ rough the play-offs.
+CATEGORIES:Nations League,League B,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261113-Slo-Far@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261113T194500Z
+DTEND:20261113T214500Z
+SUMMARY:⚽ 🇸🇰 Slovakia v 🇫🇴 Faroe Islands (C3)
+DESCRIPTION:🇸🇰 Slovakia v 🇫🇴 Faroe Islands\nMatchday 5 - Grou
+ p C3 (League C)\nFriday 13 November 2026\n\nKick-off\n20:45 CET  |  19:4
+ 5 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams ac
+ ross Leagues A-D. League A\, B and C sides play six matches\; League D p
+ lay four.\n\nNew this year: an extended September-October window\, with 
+ four matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeagu
+ e A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. T
+ he four-team Finals are 9-13 June 2027\; host and exact dates still to b
+ e confirmed. Portugal are defending champions.\n\nThe competition also f
+ eeds into EURO 2028 qualifying\, with some teams getting a second route 
+ through the play-offs.
+CATEGORIES:Nations League,League C,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261113-Bul-Ice@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261113T194500Z
+DTEND:20261113T214500Z
+SUMMARY:⚽ 🇧🇬 Bulgaria v 🇮🇸 Iceland (C4)
+DESCRIPTION:🇧🇬 Bulgaria v 🇮🇸 Iceland\nMatchday 5 - Group C4 (
+ League C)\nFriday 13 November 2026\n\nKick-off\n20:45 CET  |  19:45 UTC\
+ n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across L
+ eagues A-D. League A\, B and C sides play six matches\; League D play fo
+ ur.\n\nNew this year: an extended September-October window\, with four m
+ atchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qu
+ arter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fou
+ r-team Finals are 9-13 June 2027\; host and exact dates still to be conf
+ irmed. Portugal are defending champions.\n\nThe competition also feeds i
+ nto EURO 2028 qualifying\, with some teams getting a second route throug
+ h the play-offs.
+CATEGORIES:Nations League,League C,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261113-Lux-Est@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261113T194500Z
+DTEND:20261113T214500Z
+SUMMARY:⚽ 🇱🇺 Luxembourg v 🇪🇪 Estonia (C4)
+DESCRIPTION:🇱🇺 Luxembourg v 🇪🇪 Estonia\nMatchday 5 - Group C4
+  (League C)\nFriday 13 November 2026\n\nKick-off\n20:45 CET  |  19:45 UT
+ C\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across
+  Leagues A-D. League A\, B and C sides play six matches\; League D play 
+ four.\n\nNew this year: an extended September-October window\, with four
+  matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A 
+ quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The f
+ our-team Finals are 9-13 June 2027\; host and exact dates still to be co
+ nfirmed. Portugal are defending champions.\n\nThe competition also feeds
+  into EURO 2028 qualifying\, with some teams getting a second route thro
+ ugh the play-offs.
+CATEGORIES:Nations League,League C,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261113-And-Gib@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261113T194500Z
+DTEND:20261113T214500Z
+SUMMARY:⚽ 🇦🇩 Andorra v 🇬🇮 Gibraltar (D1)
+DESCRIPTION:🇦🇩 Andorra v 🇬🇮 Gibraltar\nMatchday 5 - Group D1 
+ (League D)\nFriday 13 November 2026\n\nKick-off\n20:45 CET  |  19:45 UTC
+ \n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across 
+ Leagues A-D. League A\, B and C sides play six matches\; League D play f
+ our.\n\nNew this year: an extended September-October window\, with four 
+ matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A q
+ uarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fo
+ ur-team Finals are 9-13 June 2027\; host and exact dates still to be con
+ firmed. Portugal are defending champions.\n\nThe competition also feeds 
+ into EURO 2028 qualifying\, with some teams getting a second route throu
+ gh the play-offs.
+CATEGORIES:Nations League,League D,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261113-Lie-Aze@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261113T194500Z
+DTEND:20261113T214500Z
+SUMMARY:⚽ 🇱🇮 Liechtenstein v 🇦🇿 Azerbaijan (D2)
+DESCRIPTION:🇱🇮 Liechtenstein v 🇦🇿 Azerbaijan\nMatchday 5 - Gr
+ oup D2 (League D)\nFriday 13 November 2026\n\nKick-off\n20:45 CET  |  19
+ :45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams 
+ across Leagues A-D. League A\, B and C sides play six matches\; League D
+  play four.\n\nNew this year: an extended September-October window\, wit
+ h four matchdays played in close succession from 24 Sep to 6 Oct.\n\nLea
+ gue A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027.
+  The four-team Finals are 9-13 June 2027\; host and exact dates still to
+  be confirmed. Portugal are defending champions.\n\nThe competition also
+  feeds into EURO 2028 qualifying\, with some teams getting a second rout
+ e through the play-offs.
+CATEGORIES:Nations League,League D,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261114-Kos-Isr@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261114T140000Z
+DTEND:20261114T160000Z
+SUMMARY:⚽ 🇽🇰 Kosovo v 🇮🇱 Israel (B3)
+DESCRIPTION:🇽🇰 Kosovo v 🇮🇱 Israel\nMatchday 5 - Group B3 (Lea
+ gue B)\nSaturday 14 November 2026\n\nKick-off\n15:00 CET  |  14:00 UTC\n
+ \nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Le
+ agues A-D. League A\, B and C sides play six matches\; League D play fou
+ r.\n\nNew this year: an extended September-October window\, with four ma
+ tchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qua
+ rter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four
+ -team Finals are 9-13 June 2027\; host and exact dates still to be confi
+ rmed. Portugal are defending champions.\n\nThe competition also feeds in
+ to EURO 2028 qualifying\, with some teams getting a second route through
+  the play-offs.
+CATEGORIES:Nations League,League B,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261114-Nor-Wal@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261114T170000Z
+DTEND:20261114T190000Z
+SUMMARY:⚽ 🇳🇴 Norway v 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales (A4)
+DESCRIPTION:🇳🇴 Norway v 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales\nMatchda
+ y 5 - Group A4 (League A)\nSaturday 14 November 2026\n\nKick-off\n18:00 
+ CET  |  17:00 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition.
+  54 teams across Leagues A-D. League A\, B and C sides play six matches\
+ ; League D play four.\n\nNew this year: an extended September-October wi
+ ndow\, with four matchdays played in close succession from 24 Sep to 6 O
+ ct.\n\nLeague A quarter-finals and the A/B and B/C play-offs run 25-30 M
+ arch 2027. The four-team Finals are 9-13 June 2027\; host and exact date
+ s still to be confirmed. Portugal are defending champions.\n\nThe compet
+ ition also feeds into EURO 2028 qualifying\, with some teams getting a s
+ econd route through the play-offs.
+CATEGORIES:Nations League,League A,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261114-Geo-Hun@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261114T170000Z
+DTEND:20261114T190000Z
+SUMMARY:⚽ 🇬🇪 Georgia v 🇭🇺 Hungary (B2)
+DESCRIPTION:🇬🇪 Georgia v 🇭🇺 Hungary\nMatchday 5 - Group B2 (L
+ eague B)\nSaturday 14 November 2026\n\nKick-off\n18:00 CET  |  17:00 UTC
+ \n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across 
+ Leagues A-D. League A\, B and C sides play six matches\; League D play f
+ our.\n\nNew this year: an extended September-October window\, with four 
+ matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A q
+ uarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fo
+ ur-team Finals are 9-13 June 2027\; host and exact dates still to be con
+ firmed. Portugal are defending champions.\n\nThe competition also feeds 
+ into EURO 2028 qualifying\, with some teams getting a second route throu
+ gh the play-offs.
+CATEGORIES:Nations League,League B,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261114-Por-Den@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261114T194500Z
+DTEND:20261114T214500Z
+SUMMARY:⚽ 🇵🇹 Portugal v 🇩🇰 Denmark (A4)
+DESCRIPTION:🇵🇹 Portugal v 🇩🇰 Denmark\nMatchday 5 - Group A4 (
+ League A)\nSaturday 14 November 2026\n\nKick-off\n20:45 CET  |  19:45 UT
+ C\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across
+  Leagues A-D. League A\, B and C sides play six matches\; League D play 
+ four.\n\nNew this year: an extended September-October window\, with four
+  matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A 
+ quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The f
+ our-team Finals are 9-13 June 2027\; host and exact dates still to be co
+ nfirmed. Portugal are defending champions.\n\nThe competition also feeds
+  into EURO 2028 qualifying\, with some teams getting a second route thro
+ ugh the play-offs.
+CATEGORIES:Nations League,League A,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261114-Nor-Ukr@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261114T194500Z
+DTEND:20261114T214500Z
+SUMMARY:⚽ 🏴 Northern Ireland v 🇺🇦 Ukraine (B2)
+DESCRIPTION:🏴 Northern Ireland v 🇺🇦 Ukraine\nMatchday 5 - Group 
+ B2 (League B)\nSaturday 14 November 2026\n\nKick-off\n20:45 CET  |  19:4
+ 5 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams ac
+ ross Leagues A-D. League A\, B and C sides play six matches\; League D p
+ lay four.\n\nNew this year: an extended September-October window\, with 
+ four matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeagu
+ e A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. T
+ he four-team Finals are 9-13 June 2027\; host and exact dates still to b
+ e confirmed. Portugal are defending champions.\n\nThe competition also f
+ eeds into EURO 2028 qualifying\, with some teams getting a second route 
+ through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261114-Aus-Rep@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261114T194500Z
+DTEND:20261114T214500Z
+SUMMARY:⚽ 🇦🇹 Austria v 🇮🇪 Republic of Ireland (B3)
+DESCRIPTION:🇦🇹 Austria v 🇮🇪 Republic of Ireland\nMatchday 5 -
+  Group B3 (League B)\nSaturday 14 November 2026\n\nKick-off\n20:45 CET  
+ |  19:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 t
+ eams across Leagues A-D. League A\, B and C sides play six matches\; Lea
+ gue D play four.\n\nNew this year: an extended September-October window\
+ , with four matchdays played in close succession from 24 Sep to 6 Oct.\n
+ \nLeague A quarter-finals and the A/B and B/C play-offs run 25-30 March 
+ 2027. The four-team Finals are 9-13 June 2027\; host and exact dates sti
+ ll to be confirmed. Portugal are defending champions.\n\nThe competition
+  also feeds into EURO 2028 qualifying\, with some teams getting a second
+  route through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261114-Rom-Pol@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261114T194500Z
+DTEND:20261114T214500Z
+SUMMARY:⚽ 🇷🇴 Romania v 🇵🇱 Poland (B4)
+DESCRIPTION:🇷🇴 Romania v 🇵🇱 Poland\nMatchday 5 - Group B4 (Le
+ ague B)\nSaturday 14 November 2026\n\nKick-off\n20:45 CET  |  19:45 UTC\
+ n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across L
+ eagues A-D. League A\, B and C sides play six matches\; League D play fo
+ ur.\n\nNew this year: an extended September-October window\, with four m
+ atchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qu
+ arter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fou
+ r-team Finals are 9-13 June 2027\; host and exact dates still to be conf
+ irmed. Portugal are defending champions.\n\nThe competition also feeds i
+ nto EURO 2028 qualifying\, with some teams getting a second route throug
+ h the play-offs.
+CATEGORIES:Nations League,League B,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261114-Swe-Bos@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261114T194500Z
+DTEND:20261114T214500Z
+SUMMARY:⚽ 🇸🇪 Sweden v 🇧🇦 Bosnia and Herzegovina (B4)
+DESCRIPTION:🇸🇪 Sweden v 🇧🇦 Bosnia and Herzegovina\nMatchday 5
+  - Group B4 (League B)\nSaturday 14 November 2026\n\nKick-off\n20:45 CET
+   |  19:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54
+  teams across Leagues A-D. League A\, B and C sides play six matches\; L
+ eague D play four.\n\nNew this year: an extended September-October windo
+ w\, with four matchdays played in close succession from 24 Sep to 6 Oct.
+ \n\nLeague A quarter-finals and the A/B and B/C play-offs run 25-30 Marc
+ h 2027. The four-team Finals are 9-13 June 2027\; host and exact dates s
+ till to be confirmed. Portugal are defending champions.\n\nThe competiti
+ on also feeds into EURO 2028 qualifying\, with some teams getting a seco
+ nd route through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 5
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261115-Cyp-Mon@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T160000Z
+SUMMARY:⚽ 🇨🇾 Cyprus v 🇲🇪 Montenegro (C2)
+DESCRIPTION:🇨🇾 Cyprus v 🇲🇪 Montenegro\nMatchday 6 - Group C2 
+ (League C)\nSunday 15 November 2026\n\nKick-off\n15:00 CET  |  14:00 UTC
+ \n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across 
+ Leagues A-D. League A\, B and C sides play six matches\; League D play f
+ our.\n\nNew this year: an extended September-October window\, with four 
+ matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A q
+ uarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fo
+ ur-team Finals are 9-13 June 2027\; host and exact dates still to be con
+ firmed. Portugal are defending champions.\n\nThe competition also feeds 
+ into EURO 2028 qualifying\, with some teams getting a second route throu
+ gh the play-offs.
+CATEGORIES:Nations League,League C,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261115-Lat-Arm@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261115T140000Z
+DTEND:20261115T160000Z
+SUMMARY:⚽ 🇱🇻 Latvia v 🇦🇲 Armenia (C2)
+DESCRIPTION:🇱🇻 Latvia v 🇦🇲 Armenia\nMatchday 6 - Group C2 (Le
+ ague C)\nSunday 15 November 2026\n\nKick-off\n15:00 CET  |  14:00 UTC\n\
+ nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Lea
+ gues A-D. League A\, B and C sides play six matches\; League D play four
+ .\n\nNew this year: an extended September-October window\, with four mat
+ chdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A quar
+ ter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-
+ team Finals are 9-13 June 2027\; host and exact dates still to be confir
+ med. Portugal are defending champions.\n\nThe competition also feeds int
+ o EURO 2028 qualifying\, with some teams getting a second route through 
+ the play-offs.
+CATEGORIES:Nations League,League C,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261115-Bel-Alb@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261115T170000Z
+DTEND:20261115T190000Z
+SUMMARY:⚽ 🇧🇾 Belarus v 🇦🇱 Albania (C1)
+DESCRIPTION:🇧🇾 Belarus v 🇦🇱 Albania\nMatchday 6 - Group C1 (L
+ eague C)\nSunday 15 November 2026\n\nKick-off\n18:00 CET  |  17:00 UTC\n
+ \nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Le
+ agues A-D. League A\, B and C sides play six matches\; League D play fou
+ r.\n\nNew this year: an extended September-October window\, with four ma
+ tchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qua
+ rter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four
+ -team Finals are 9-13 June 2027\; host and exact dates still to be confi
+ rmed. Portugal are defending champions.\n\nThe competition also feeds in
+ to EURO 2028 qualifying\, with some teams getting a second route through
+  the play-offs.
+CATEGORIES:Nations League,League C,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261115-Fin-San@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261115T170000Z
+DTEND:20261115T190000Z
+SUMMARY:⚽ 🇫🇮 Finland v 🇸🇲 San Marino (C1)
+DESCRIPTION:🇫🇮 Finland v 🇸🇲 San Marino\nMatchday 6 - Group C1
+  (League C)\nSunday 15 November 2026\n\nKick-off\n18:00 CET  |  17:00 UT
+ C\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across
+  Leagues A-D. League A\, B and C sides play six matches\; League D play 
+ four.\n\nNew this year: an extended September-October window\, with four
+  matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A 
+ quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The f
+ our-team Finals are 9-13 June 2027\; host and exact dates still to be co
+ nfirmed. Portugal are defending champions.\n\nThe competition also feeds
+  into EURO 2028 qualifying\, with some teams getting a second route thro
+ ugh the play-offs.
+CATEGORIES:Nations League,League C,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261115-Bel-Ita@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261115T194500Z
+DTEND:20261115T214500Z
+SUMMARY:⚽ 🇧🇪 Belgium v 🇮🇹 Italy (A1)
+DESCRIPTION:🇧🇪 Belgium v 🇮🇹 Italy\nMatchday 6 - Group A1 (Lea
+ gue A)\nSunday 15 November 2026\n\nKick-off\n20:45 CET  |  19:45 UTC\n\n
+ Notes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Leag
+ ues A-D. League A\, B and C sides play six matches\; League D play four.
+ \n\nNew this year: an extended September-October window\, with four matc
+ hdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A quart
+ er-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-t
+ eam Finals are 9-13 June 2027\; host and exact dates still to be confirm
+ ed. Portugal are defending champions.\n\nThe competition also feeds into
+  EURO 2028 qualifying\, with some teams getting a second route through t
+ he play-offs.
+CATEGORIES:Nations League,League A,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261115-Fra-Tur@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261115T194500Z
+DTEND:20261115T214500Z
+SUMMARY:⚽ 🇫🇷 France v 🇹🇷 Türkiye (A1)
+DESCRIPTION:🇫🇷 France v 🇹🇷 Türkiye\nMatchday 6 - Group A1 (L
+ eague A)\nSunday 15 November 2026\n\nKick-off\n20:45 CET  |  19:45 UTC\n
+ \nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Le
+ agues A-D. League A\, B and C sides play six matches\; League D play fou
+ r.\n\nNew this year: an extended September-October window\, with four ma
+ tchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qua
+ rter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four
+ -team Finals are 9-13 June 2027\; host and exact dates still to be confi
+ rmed. Portugal are defending champions.\n\nThe competition also feeds in
+ to EURO 2028 qualifying\, with some teams getting a second route through
+  the play-offs.
+CATEGORIES:Nations League,League A,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261115-Cro-Cze@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261115T194500Z
+DTEND:20261115T214500Z
+SUMMARY:⚽ 🇭🇷 Croatia v 🇨🇿 Czechia (A3)
+DESCRIPTION:🇭🇷 Croatia v 🇨🇿 Czechia\nMatchday 6 - Group A3 (L
+ eague A)\nSunday 15 November 2026\n\nKick-off\n20:45 CET  |  19:45 UTC\n
+ \nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Le
+ agues A-D. League A\, B and C sides play six matches\; League D play fou
+ r.\n\nNew this year: an extended September-October window\, with four ma
+ tchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qua
+ rter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four
+ -team Finals are 9-13 June 2027\; host and exact dates still to be confi
+ rmed. Portugal are defending champions.\n\nThe competition also feeds in
+ to EURO 2028 qualifying\, with some teams getting a second route through
+  the play-offs.
+CATEGORIES:Nations League,League A,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261115-Spa-Eng@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261115T194500Z
+DTEND:20261115T214500Z
+SUMMARY:⚽ 🇪🇸 Spain v 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (A3)
+DESCRIPTION:🇪🇸 Spain v 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England\nMatchd
+ ay 6 - Group A3 (League A)\nSunday 15 November 2026\n\nKick-off\n20:45 C
+ ET  |  19:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 
+ 54 teams across Leagues A-D. League A\, B and C sides play six matches\;
+  League D play four.\n\nNew this year: an extended September-October win
+ dow\, with four matchdays played in close succession from 24 Sep to 6 Oc
+ t.\n\nLeague A quarter-finals and the A/B and B/C play-offs run 25-30 Ma
+ rch 2027. The four-team Finals are 9-13 June 2027\; host and exact dates
+  still to be confirmed. Portugal are defending champions.\n\nThe competi
+ tion also feeds into EURO 2028 qualifying\, with some teams getting a se
+ cond route through the play-offs.
+CATEGORIES:Nations League,League A,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261116-Far-Mol@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261116T150000Z
+DTEND:20261116T170000Z
+SUMMARY:⚽ 🇫🇴 Faroe Islands v 🇲🇩 Moldova (C3)
+DESCRIPTION:🇫🇴 Faroe Islands v 🇲🇩 Moldova\nMatchday 6 - Group
+  C3 (League C)\nMonday 16 November 2026\n\nKick-off\n16:00 CET  |  15:00
+  UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams acr
+ oss Leagues A-D. League A\, B and C sides play six matches\; League D pl
+ ay four.\n\nNew this year: an extended September-October window\, with f
+ our matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague
+  A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. Th
+ e four-team Finals are 9-13 June 2027\; host and exact dates still to be
+  confirmed. Portugal are defending champions.\n\nThe competition also fe
+ eds into EURO 2028 qualifying\, with some teams getting a second route t
+ hrough the play-offs.
+CATEGORIES:Nations League,League C,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261116-Kaz-Slo@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261116T150000Z
+DTEND:20261116T170000Z
+SUMMARY:⚽ 🇰🇿 Kazakhstan v 🇸🇰 Slovakia (C3)
+DESCRIPTION:🇰🇿 Kazakhstan v 🇸🇰 Slovakia\nMatchday 6 - Group C
+ 3 (League C)\nMonday 16 November 2026\n\nKick-off\n16:00 CET  |  15:00 U
+ TC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams acros
+ s Leagues A-D. League A\, B and C sides play six matches\; League D play
+  four.\n\nNew this year: an extended September-October window\, with fou
+ r matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A
+  quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The 
+ four-team Finals are 9-13 June 2027\; host and exact dates still to be c
+ onfirmed. Portugal are defending champions.\n\nThe competition also feed
+ s into EURO 2028 qualifying\, with some teams getting a second route thr
+ ough the play-offs.
+CATEGORIES:Nations League,League C,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261116-Est-Bul@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261116T170000Z
+DTEND:20261116T190000Z
+SUMMARY:⚽ 🇪🇪 Estonia v 🇧🇬 Bulgaria (C4)
+DESCRIPTION:🇪🇪 Estonia v 🇧🇬 Bulgaria\nMatchday 6 - Group C4 (
+ League C)\nMonday 16 November 2026\n\nKick-off\n18:00 CET  |  17:00 UTC\
+ n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across L
+ eagues A-D. League A\, B and C sides play six matches\; League D play fo
+ ur.\n\nNew this year: an extended September-October window\, with four m
+ atchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qu
+ arter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fou
+ r-team Finals are 9-13 June 2027\; host and exact dates still to be conf
+ irmed. Portugal are defending champions.\n\nThe competition also feeds i
+ nto EURO 2028 qualifying\, with some teams getting a second route throug
+ h the play-offs.
+CATEGORIES:Nations League,League C,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261116-Ice-Lux@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261116T170000Z
+DTEND:20261116T190000Z
+SUMMARY:⚽ 🇮🇸 Iceland v 🇱🇺 Luxembourg (C4)
+DESCRIPTION:🇮🇸 Iceland v 🇱🇺 Luxembourg\nMatchday 6 - Group C4
+  (League C)\nMonday 16 November 2026\n\nKick-off\n18:00 CET  |  17:00 UT
+ C\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across
+  Leagues A-D. League A\, B and C sides play six matches\; League D play 
+ four.\n\nNew this year: an extended September-October window\, with four
+  matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A 
+ quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The f
+ our-team Finals are 9-13 June 2027\; host and exact dates still to be co
+ nfirmed. Portugal are defending champions.\n\nThe competition also feeds
+  into EURO 2028 qualifying\, with some teams getting a second route thro
+ ugh the play-offs.
+CATEGORIES:Nations League,League C,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261116-Lit-Lie@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261116T170000Z
+DTEND:20261116T190000Z
+SUMMARY:⚽ 🇱🇹 Lithuania v 🇱🇮 Liechtenstein (D2)
+DESCRIPTION:🇱🇹 Lithuania v 🇱🇮 Liechtenstein\nMatchday 6 - Gro
+ up D2 (League D)\nMonday 16 November 2026\n\nKick-off\n18:00 CET  |  17:
+ 00 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams a
+ cross Leagues A-D. League A\, B and C sides play six matches\; League D 
+ play four.\n\nNew this year: an extended September-October window\, with
+  four matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeag
+ ue A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. 
+ The four-team Finals are 9-13 June 2027\; host and exact dates still to 
+ be confirmed. Portugal are defending champions.\n\nThe competition also 
+ feeds into EURO 2028 qualifying\, with some teams getting a second route
+  through the play-offs.
+CATEGORIES:Nations League,League D,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261116-Ger-Net@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261116T194500Z
+DTEND:20261116T214500Z
+SUMMARY:⚽ 🇩🇪 Germany v 🇳🇱 Netherlands (A2)
+DESCRIPTION:🇩🇪 Germany v 🇳🇱 Netherlands\nMatchday 6 - Group A
+ 2 (League A)\nMonday 16 November 2026\n\nKick-off\n20:45 CET  |  19:45 U
+ TC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams acros
+ s Leagues A-D. League A\, B and C sides play six matches\; League D play
+  four.\n\nNew this year: an extended September-October window\, with fou
+ r matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A
+  quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. The 
+ four-team Finals are 9-13 June 2027\; host and exact dates still to be c
+ onfirmed. Portugal are defending champions.\n\nThe competition also feed
+ s into EURO 2028 qualifying\, with some teams getting a second route thr
+ ough the play-offs.
+CATEGORIES:Nations League,League A,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261116-Gre-Ser@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261116T194500Z
+DTEND:20261116T214500Z
+SUMMARY:⚽ 🇬🇷 Greece v 🇷🇸 Serbia (A2)
+DESCRIPTION:🇬🇷 Greece v 🇷🇸 Serbia\nMatchday 6 - Group A2 (Lea
+ gue A)\nMonday 16 November 2026\n\nKick-off\n20:45 CET  |  19:45 UTC\n\n
+ Notes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Leag
+ ues A-D. League A\, B and C sides play six matches\; League D play four.
+ \n\nNew this year: an extended September-October window\, with four matc
+ hdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A quart
+ er-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-t
+ eam Finals are 9-13 June 2027\; host and exact dates still to be confirm
+ ed. Portugal are defending champions.\n\nThe competition also feeds into
+  EURO 2028 qualifying\, with some teams getting a second route through t
+ he play-offs.
+CATEGORIES:Nations League,League A,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261116-Nor-Slo@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261116T194500Z
+DTEND:20261116T214500Z
+SUMMARY:⚽ 🇲🇰 North Macedonia v 🇸🇮 Slovenia (B1)
+DESCRIPTION:🇲🇰 North Macedonia v 🇸🇮 Slovenia\nMatchday 6 - Gr
+ oup B1 (League B)\nMonday 16 November 2026\n\nKick-off\n20:45 CET  |  19
+ :45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams 
+ across Leagues A-D. League A\, B and C sides play six matches\; League D
+  play four.\n\nNew this year: an extended September-October window\, wit
+ h four matchdays played in close succession from 24 Sep to 6 Oct.\n\nLea
+ gue A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027.
+  The four-team Finals are 9-13 June 2027\; host and exact dates still to
+  be confirmed. Portugal are defending champions.\n\nThe competition also
+  feeds into EURO 2028 qualifying\, with some teams getting a second rout
+ e through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261116-Swi-Sco@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261116T194500Z
+DTEND:20261116T214500Z
+SUMMARY:⚽ 🇨🇭 Switzerland v 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland 
+ (B1)
+DESCRIPTION:🇨🇭 Switzerland v 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland\
+ nMatchday 6 - Group B1 (League B)\nMonday 16 November 2026\n\nKick-off\n
+ 20:45 CET  |  19:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth ed
+ ition. 54 teams across Leagues A-D. League A\, B and C sides play six ma
+ tches\; League D play four.\n\nNew this year: an extended September-Octo
+ ber window\, with four matchdays played in close succession from 24 Sep 
+ to 6 Oct.\n\nLeague A quarter-finals and the A/B and B/C play-offs run 2
+ 5-30 March 2027. The four-team Finals are 9-13 June 2027\; host and exac
+ t dates still to be confirmed. Portugal are defending champions.\n\nThe 
+ competition also feeds into EURO 2028 qualifying\, with some teams getti
+ ng a second route through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261116-Gib-Mal@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261116T194500Z
+DTEND:20261116T214500Z
+SUMMARY:⚽ 🇬🇮 Gibraltar v 🇲🇹 Malta (D1)
+DESCRIPTION:🇬🇮 Gibraltar v 🇲🇹 Malta\nMatchday 6 - Group D1 (L
+ eague D)\nMonday 16 November 2026\n\nKick-off\n20:45 CET  |  19:45 UTC\n
+ \nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Le
+ agues A-D. League A\, B and C sides play six matches\; League D play fou
+ r.\n\nNew this year: an extended September-October window\, with four ma
+ tchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qua
+ rter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four
+ -team Finals are 9-13 June 2027\; host and exact dates still to be confi
+ rmed. Portugal are defending champions.\n\nThe competition also feeds in
+ to EURO 2028 qualifying\, with some teams getting a second route through
+  the play-offs.
+CATEGORIES:Nations League,League D,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261117-Den-Nor@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261117T194500Z
+DTEND:20261117T214500Z
+SUMMARY:⚽ 🇩🇰 Denmark v 🇳🇴 Norway (A4)
+DESCRIPTION:🇩🇰 Denmark v 🇳🇴 Norway\nMatchday 6 - Group A4 (Le
+ ague A)\nTuesday 17 November 2026\n\nKick-off\n20:45 CET  |  19:45 UTC\n
+ \nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Le
+ agues A-D. League A\, B and C sides play six matches\; League D play fou
+ r.\n\nNew this year: an extended September-October window\, with four ma
+ tchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qua
+ rter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four
+ -team Finals are 9-13 June 2027\; host and exact dates still to be confi
+ rmed. Portugal are defending champions.\n\nThe competition also feeds in
+ to EURO 2028 qualifying\, with some teams getting a second route through
+  the play-offs.
+CATEGORIES:Nations League,League A,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261117-Wal-Por@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261117T194500Z
+DTEND:20261117T214500Z
+SUMMARY:⚽ 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales v 🇵🇹 Portugal (A4)
+DESCRIPTION:🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales v 🇵🇹 Portugal\nMatch
+ day 6 - Group A4 (League A)\nTuesday 17 November 2026\n\nKick-off\n20:45
+  CET  |  19:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition
+ . 54 teams across Leagues A-D. League A\, B and C sides play six matches
+ \; League D play four.\n\nNew this year: an extended September-October w
+ indow\, with four matchdays played in close succession from 24 Sep to 6 
+ Oct.\n\nLeague A quarter-finals and the A/B and B/C play-offs run 25-30 
+ March 2027. The four-team Finals are 9-13 June 2027\; host and exact dat
+ es still to be confirmed. Portugal are defending champions.\n\nThe compe
+ tition also feeds into EURO 2028 qualifying\, with some teams getting a 
+ second route through the play-offs.
+CATEGORIES:Nations League,League A,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261117-Hun-Nor@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261117T194500Z
+DTEND:20261117T214500Z
+SUMMARY:⚽ 🇭🇺 Hungary v 🏴 Northern Ireland (B2)
+DESCRIPTION:🇭🇺 Hungary v 🏴 Northern Ireland\nMatchday 6 - Group 
+ B2 (League B)\nTuesday 17 November 2026\n\nKick-off\n20:45 CET  |  19:45
+  UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams acr
+ oss Leagues A-D. League A\, B and C sides play six matches\; League D pl
+ ay four.\n\nNew this year: an extended September-October window\, with f
+ our matchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague
+  A quarter-finals and the A/B and B/C play-offs run 25-30 March 2027. Th
+ e four-team Finals are 9-13 June 2027\; host and exact dates still to be
+  confirmed. Portugal are defending champions.\n\nThe competition also fe
+ eds into EURO 2028 qualifying\, with some teams getting a second route t
+ hrough the play-offs.
+CATEGORIES:Nations League,League B,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261117-Ukr-Geo@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261117T194500Z
+DTEND:20261117T214500Z
+SUMMARY:⚽ 🇺🇦 Ukraine v 🇬🇪 Georgia (B2)
+DESCRIPTION:🇺🇦 Ukraine v 🇬🇪 Georgia\nMatchday 6 - Group B2 (L
+ eague B)\nTuesday 17 November 2026\n\nKick-off\n20:45 CET  |  19:45 UTC\
+ n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across L
+ eagues A-D. League A\, B and C sides play six matches\; League D play fo
+ ur.\n\nNew this year: an extended September-October window\, with four m
+ atchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qu
+ arter-finals and the A/B and B/C play-offs run 25-30 March 2027. The fou
+ r-team Finals are 9-13 June 2027\; host and exact dates still to be conf
+ irmed. Portugal are defending champions.\n\nThe competition also feeds i
+ nto EURO 2028 qualifying\, with some teams getting a second route throug
+ h the play-offs.
+CATEGORIES:Nations League,League B,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261117-Isr-Aus@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261117T194500Z
+DTEND:20261117T214500Z
+SUMMARY:⚽ 🇮🇱 Israel v 🇦🇹 Austria (B3)
+DESCRIPTION:🇮🇱 Israel v 🇦🇹 Austria\nMatchday 6 - Group B3 (Le
+ ague B)\nTuesday 17 November 2026\n\nKick-off\n20:45 CET  |  19:45 UTC\n
+ \nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Le
+ agues A-D. League A\, B and C sides play six matches\; League D play fou
+ r.\n\nNew this year: an extended September-October window\, with four ma
+ tchdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A qua
+ rter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four
+ -team Finals are 9-13 June 2027\; host and exact dates still to be confi
+ rmed. Portugal are defending champions.\n\nThe competition also feeds in
+ to EURO 2028 qualifying\, with some teams getting a second route through
+  the play-offs.
+CATEGORIES:Nations League,League B,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261117-Rep-Kos@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261117T194500Z
+DTEND:20261117T214500Z
+SUMMARY:⚽ 🇮🇪 Republic of Ireland v 🇽🇰 Kosovo (B3)
+DESCRIPTION:🇮🇪 Republic of Ireland v 🇽🇰 Kosovo\nMatchday 6 - 
+ Group B3 (League B)\nTuesday 17 November 2026\n\nKick-off\n20:45 CET  | 
+  19:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 tea
+ ms across Leagues A-D. League A\, B and C sides play six matches\; Leagu
+ e D play four.\n\nNew this year: an extended September-October window\, 
+ with four matchdays played in close succession from 24 Sep to 6 Oct.\n\n
+ League A quarter-finals and the A/B and B/C play-offs run 25-30 March 20
+ 27. The four-team Finals are 9-13 June 2027\; host and exact dates still
+  to be confirmed. Portugal are defending champions.\n\nThe competition a
+ lso feeds into EURO 2028 qualifying\, with some teams getting a second r
+ oute through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261117-Bos-Rom@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261117T194500Z
+DTEND:20261117T214500Z
+SUMMARY:⚽ 🇧🇦 Bosnia and Herzegovina v 🇷🇴 Romania (B4)
+DESCRIPTION:🇧🇦 Bosnia and Herzegovina v 🇷🇴 Romania\nMatchday 
+ 6 - Group B4 (League B)\nTuesday 17 November 2026\n\nKick-off\n20:45 CET
+   |  19:45 UTC\n\nNotes\n2026/27 UEFA Nations League\, fifth edition. 54
+  teams across Leagues A-D. League A\, B and C sides play six matches\; L
+ eague D play four.\n\nNew this year: an extended September-October windo
+ w\, with four matchdays played in close succession from 24 Sep to 6 Oct.
+ \n\nLeague A quarter-finals and the A/B and B/C play-offs run 25-30 Marc
+ h 2027. The four-team Finals are 9-13 June 2027\; host and exact dates s
+ till to be confirmed. Portugal are defending champions.\n\nThe competiti
+ on also feeds into EURO 2028 qualifying\, with some teams getting a seco
+ nd route through the play-offs.
+CATEGORIES:Nations League,League B,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:unl-20261117-Pol-Swe@claude-unl
+DTSTAMP:20260801T090000Z
+DTSTART:20261117T194500Z
+DTEND:20261117T214500Z
+SUMMARY:⚽ 🇵🇱 Poland v 🇸🇪 Sweden (B4)
+DESCRIPTION:🇵🇱 Poland v 🇸🇪 Sweden\nMatchday 6 - Group B4 (Lea
+ gue B)\nTuesday 17 November 2026\n\nKick-off\n20:45 CET  |  19:45 UTC\n\
+ nNotes\n2026/27 UEFA Nations League\, fifth edition. 54 teams across Lea
+ gues A-D. League A\, B and C sides play six matches\; League D play four
+ .\n\nNew this year: an extended September-October window\, with four mat
+ chdays played in close succession from 24 Sep to 6 Oct.\n\nLeague A quar
+ ter-finals and the A/B and B/C play-offs run 25-30 March 2027. The four-
+ team Finals are 9-13 June 2027\; host and exact dates still to be confir
+ med. Portugal are defending champions.\n\nThe competition also feeds int
+ o EURO 2028 qualifying\, with some teams getting a second route through 
+ the play-offs.
+CATEGORIES:Nations League,League B,Matchday 6
+URL:https://www.uefa.com/uefanationsleague/fixtures-results/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
