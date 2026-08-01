@@ -1,0 +1,408 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude//Golf Majors//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:⛳ Golf Majors
+X-APPLE-CALENDAR-COLOR:#006747
+X-WR-CALDESC:The four men's major championships. Dates are fixed years ah
+ ead and confirmed\; tee times are published in tournament week.
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:masters-2027-r1@claude-golf
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:⛳ The Masters
+LOCATION:Augusta National Golf Club\, 2604 Washington Rd\, Augusta\, GA 3
+ 0904\, USA
+GEO:33.5025;-82.02
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="2604 Washington Rd, Augu
+ sta, GA 30904, USA";X-APPLE-RADIUS=400;X-TITLE="Augusta National Golf Cl
+ ub":geo:33.5025,-82.02
+DESCRIPTION:The Masters - Round 1\nThursday 8 April 2027\n\n91st edition\
+ n\nVenue: Augusta National Golf Club\nAddress: 2604 Washington Rd\, Augu
+ sta\, GA 30904\, USA\nTournament: Thu 8 - Sun 11 April 2027\n\nNotes\nFi
+ rst major of the year and the only one played at the same course every t
+ ime. Rory McIlroy goes for a third straight green jacket\, which no one 
+ has ever done - only Jack Nicklaus and Tiger Woods have won back-to-back
+ .\\n\\nPar 72\, 7\,555 yards. Field of around 90\, cut to the top 50 and
+  ties after 36 holes.\n\nTee times are confirmed in tournament week.
+CATEGORIES:Golf Majors
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:masters-2027-r2@claude-golf
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:⛳ The Masters
+LOCATION:Augusta National Golf Club\, 2604 Washington Rd\, Augusta\, GA 3
+ 0904\, USA
+GEO:33.5025;-82.02
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="2604 Washington Rd, Augu
+ sta, GA 30904, USA";X-APPLE-RADIUS=400;X-TITLE="Augusta National Golf Cl
+ ub":geo:33.5025,-82.02
+DESCRIPTION:The Masters - Round 2\nFriday 9 April 2027\n\n91st edition\n\
+ nVenue: Augusta National Golf Club\nAddress: 2604 Washington Rd\, August
+ a\, GA 30904\, USA\nTournament: Thu 8 - Sun 11 April 2027\n\nNotes\nFirs
+ t major of the year and the only one played at the same course every tim
+ e. Rory McIlroy goes for a third straight green jacket\, which no one ha
+ s ever done - only Jack Nicklaus and Tiger Woods have won back-to-back.\
+ \n\\nPar 72\, 7\,555 yards. Field of around 90\, cut to the top 50 and t
+ ies after 36 holes.\n\nTee times are confirmed in tournament week.
+CATEGORIES:Golf Majors
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:masters-2027-r3@claude-golf
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:⛳ The Masters
+LOCATION:Augusta National Golf Club\, 2604 Washington Rd\, Augusta\, GA 3
+ 0904\, USA
+GEO:33.5025;-82.02
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="2604 Washington Rd, Augu
+ sta, GA 30904, USA";X-APPLE-RADIUS=400;X-TITLE="Augusta National Golf Cl
+ ub":geo:33.5025,-82.02
+DESCRIPTION:The Masters - Round 3 (Moving Day)\nSaturday 10 April 2027\n\
+ n91st edition\n\nVenue: Augusta National Golf Club\nAddress: 2604 Washin
+ gton Rd\, Augusta\, GA 30904\, USA\nTournament: Thu 8 - Sun 11 April 202
+ 7\n\nNotes\nFirst major of the year and the only one played at the same 
+ course every time. Rory McIlroy goes for a third straight green jacket\,
+  which no one has ever done - only Jack Nicklaus and Tiger Woods have wo
+ n back-to-back.\\n\\nPar 72\, 7\,555 yards. Field of around 90\, cut to 
+ the top 50 and ties after 36 holes.\n\nTee times are confirmed in tourna
+ ment week.
+CATEGORIES:Golf Majors
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:masters-2027-r4@claude-golf
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:⛳ The Masters
+LOCATION:Augusta National Golf Club\, 2604 Washington Rd\, Augusta\, GA 3
+ 0904\, USA
+GEO:33.5025;-82.02
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="2604 Washington Rd, Augu
+ sta, GA 30904, USA";X-APPLE-RADIUS=400;X-TITLE="Augusta National Golf Cl
+ ub":geo:33.5025,-82.02
+DESCRIPTION:The Masters - Round 4 (Final Round)\nSunday 11 April 2027\n\n
+ 91st edition\n\nVenue: Augusta National Golf Club\nAddress: 2604 Washing
+ ton Rd\, Augusta\, GA 30904\, USA\nTournament: Thu 8 - Sun 11 April 2027
+ \n\nNotes\nFirst major of the year and the only one played at the same c
+ ourse every time. Rory McIlroy goes for a third straight green jacket\, 
+ which no one has ever done - only Jack Nicklaus and Tiger Woods have won
+  back-to-back.\\n\\nPar 72\, 7\,555 yards. Field of around 90\, cut to t
+ he top 50 and ties after 36 holes.\n\nTee times are confirmed in tournam
+ ent week.
+CATEGORIES:Golf Majors
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pga-2027-r1@claude-golf
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:⛳ PGA Championship
+LOCATION:Fields Ranch East\, PGA Frisco\, 3110 Panther Creek Pkwy\, Frisc
+ o\, TX 75033\, USA
+GEO:33.199722;-96.855556
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="3110 Panther Creek Pkwy,
+  Frisco, TX 75033, USA";X-APPLE-RADIUS=400;X-TITLE="Fields Ranch East, P
+ GA Frisco":geo:33.199722,-96.855556
+DESCRIPTION:PGA Championship - Round 1\nThursday 20 May 2027\n\n109th edi
+ tion\n\nVenue: Fields Ranch East\, PGA Frisco\nAddress: 3110 Panther Cre
+ ek Pkwy\, Frisco\, TX 75033\, USA\nTournament: Thu 20 - Sun 23 May 2027\
+ n\nNotes\nThe only all-professional major field. Debuts at PGA Frisco\, 
+ the PGA of America's new home - the first men's major in Texas since the
+  1969 US Open at Champions in Houston\, and the first PGA Championship t
+ here since 1968.\\n\\nGil Hanse design\, par 72\, 7\,863 yards. Aaron Ra
+ i defends after winning at Aronimink.\\n\\nChampionship week runs 17-23 
+ May\; competitive rounds are the 20th to the 23rd.\n\nTee times are conf
+ irmed in tournament week.
+CATEGORIES:Golf Majors
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pga-2027-r2@claude-golf
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:⛳ PGA Championship
+LOCATION:Fields Ranch East\, PGA Frisco\, 3110 Panther Creek Pkwy\, Frisc
+ o\, TX 75033\, USA
+GEO:33.199722;-96.855556
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="3110 Panther Creek Pkwy,
+  Frisco, TX 75033, USA";X-APPLE-RADIUS=400;X-TITLE="Fields Ranch East, P
+ GA Frisco":geo:33.199722,-96.855556
+DESCRIPTION:PGA Championship - Round 2\nFriday 21 May 2027\n\n109th editi
+ on\n\nVenue: Fields Ranch East\, PGA Frisco\nAddress: 3110 Panther Creek
+  Pkwy\, Frisco\, TX 75033\, USA\nTournament: Thu 20 - Sun 23 May 2027\n\
+ nNotes\nThe only all-professional major field. Debuts at PGA Frisco\, th
+ e PGA of America's new home - the first men's major in Texas since the 1
+ 969 US Open at Champions in Houston\, and the first PGA Championship the
+ re since 1968.\\n\\nGil Hanse design\, par 72\, 7\,863 yards. Aaron Rai 
+ defends after winning at Aronimink.\\n\\nChampionship week runs 17-23 Ma
+ y\; competitive rounds are the 20th to the 23rd.\n\nTee times are confir
+ med in tournament week.
+CATEGORIES:Golf Majors
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pga-2027-r3@claude-golf
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:⛳ PGA Championship
+LOCATION:Fields Ranch East\, PGA Frisco\, 3110 Panther Creek Pkwy\, Frisc
+ o\, TX 75033\, USA
+GEO:33.199722;-96.855556
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="3110 Panther Creek Pkwy,
+  Frisco, TX 75033, USA";X-APPLE-RADIUS=400;X-TITLE="Fields Ranch East, P
+ GA Frisco":geo:33.199722,-96.855556
+DESCRIPTION:PGA Championship - Round 3 (Moving Day)\nSaturday 22 May 2027
+ \n\n109th edition\n\nVenue: Fields Ranch East\, PGA Frisco\nAddress: 311
+ 0 Panther Creek Pkwy\, Frisco\, TX 75033\, USA\nTournament: Thu 20 - Sun
+  23 May 2027\n\nNotes\nThe only all-professional major field. Debuts at 
+ PGA Frisco\, the PGA of America's new home - the first men's major in Te
+ xas since the 1969 US Open at Champions in Houston\, and the first PGA C
+ hampionship there since 1968.\\n\\nGil Hanse design\, par 72\, 7\,863 ya
+ rds. Aaron Rai defends after winning at Aronimink.\\n\\nChampionship wee
+ k runs 17-23 May\; competitive rounds are the 20th to the 23rd.\n\nTee t
+ imes are confirmed in tournament week.
+CATEGORIES:Golf Majors
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:pga-2027-r4@claude-golf
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:⛳ PGA Championship
+LOCATION:Fields Ranch East\, PGA Frisco\, 3110 Panther Creek Pkwy\, Frisc
+ o\, TX 75033\, USA
+GEO:33.199722;-96.855556
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="3110 Panther Creek Pkwy,
+  Frisco, TX 75033, USA";X-APPLE-RADIUS=400;X-TITLE="Fields Ranch East, P
+ GA Frisco":geo:33.199722,-96.855556
+DESCRIPTION:PGA Championship - Round 4 (Final Round)\nSunday 23 May 2027\
+ n\n109th edition\n\nVenue: Fields Ranch East\, PGA Frisco\nAddress: 3110
+  Panther Creek Pkwy\, Frisco\, TX 75033\, USA\nTournament: Thu 20 - Sun 
+ 23 May 2027\n\nNotes\nThe only all-professional major field. Debuts at P
+ GA Frisco\, the PGA of America's new home - the first men's major in Tex
+ as since the 1969 US Open at Champions in Houston\, and the first PGA Ch
+ ampionship there since 1968.\\n\\nGil Hanse design\, par 72\, 7\,863 yar
+ ds. Aaron Rai defends after winning at Aronimink.\\n\\nChampionship week
+  runs 17-23 May\; competitive rounds are the 20th to the 23rd.\n\nTee ti
+ mes are confirmed in tournament week.
+CATEGORIES:Golf Majors
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usopen-2027-r1@claude-golf
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:⛳ U.S. Open
+LOCATION:Pebble Beach Golf Links\, 1700 17 Mile Dr\, Pebble Beach\, CA 93
+ 953\, USA
+GEO:36.568611;-121.949722
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="1700 17 Mile Dr, Pebble 
+ Beach, CA 93953, USA";X-APPLE-RADIUS=400;X-TITLE="Pebble Beach Golf Link
+ s":geo:36.568611,-121.949722
+DESCRIPTION:U.S. Open - Round 1\nThursday 17 June 2027\n\n127th edition\n
+ \nVenue: Pebble Beach Golf Links\nAddress: 1700 17 Mile Dr\, Pebble Beac
+ h\, CA 93953\, USA\nTournament: Thu 17 - Sun 20 June 2027\n\nNotes\nPebb
+ le Beach hosts for a seventh time. Gary Woodland won the last one there 
+ in 2019\; Wyndham Clark defends after Shinnecock Hills.\\n\\nThe oldest 
+ golf championship in America\, dating to 1895\, and traditionally the ha
+ rdest scoring test of the four. Field of 156\, cut to the top 60 and tie
+ s.\n\nTee times are confirmed in tournament week.
+CATEGORIES:Golf Majors
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usopen-2027-r2@claude-golf
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:⛳ U.S. Open
+LOCATION:Pebble Beach Golf Links\, 1700 17 Mile Dr\, Pebble Beach\, CA 93
+ 953\, USA
+GEO:36.568611;-121.949722
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="1700 17 Mile Dr, Pebble 
+ Beach, CA 93953, USA";X-APPLE-RADIUS=400;X-TITLE="Pebble Beach Golf Link
+ s":geo:36.568611,-121.949722
+DESCRIPTION:U.S. Open - Round 2\nFriday 18 June 2027\n\n127th edition\n\n
+ Venue: Pebble Beach Golf Links\nAddress: 1700 17 Mile Dr\, Pebble Beach\
+ , CA 93953\, USA\nTournament: Thu 17 - Sun 20 June 2027\n\nNotes\nPebble
+  Beach hosts for a seventh time. Gary Woodland won the last one there in
+  2019\; Wyndham Clark defends after Shinnecock Hills.\\n\\nThe oldest go
+ lf championship in America\, dating to 1895\, and traditionally the hard
+ est scoring test of the four. Field of 156\, cut to the top 60 and ties.
+ \n\nTee times are confirmed in tournament week.
+CATEGORIES:Golf Majors
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usopen-2027-r3@claude-golf
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:⛳ U.S. Open
+LOCATION:Pebble Beach Golf Links\, 1700 17 Mile Dr\, Pebble Beach\, CA 93
+ 953\, USA
+GEO:36.568611;-121.949722
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="1700 17 Mile Dr, Pebble 
+ Beach, CA 93953, USA";X-APPLE-RADIUS=400;X-TITLE="Pebble Beach Golf Link
+ s":geo:36.568611,-121.949722
+DESCRIPTION:U.S. Open - Round 3 (Moving Day)\nSaturday 19 June 2027\n\n12
+ 7th edition\n\nVenue: Pebble Beach Golf Links\nAddress: 1700 17 Mile Dr\
+ , Pebble Beach\, CA 93953\, USA\nTournament: Thu 17 - Sun 20 June 2027\n
+ \nNotes\nPebble Beach hosts for a seventh time. Gary Woodland won the la
+ st one there in 2019\; Wyndham Clark defends after Shinnecock Hills.\\n\
+ \nThe oldest golf championship in America\, dating to 1895\, and traditi
+ onally the hardest scoring test of the four. Field of 156\, cut to the t
+ op 60 and ties.\n\nTee times are confirmed in tournament week.
+CATEGORIES:Golf Majors
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:usopen-2027-r4@claude-golf
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:⛳ U.S. Open
+LOCATION:Pebble Beach Golf Links\, 1700 17 Mile Dr\, Pebble Beach\, CA 93
+ 953\, USA
+GEO:36.568611;-121.949722
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="1700 17 Mile Dr, Pebble 
+ Beach, CA 93953, USA";X-APPLE-RADIUS=400;X-TITLE="Pebble Beach Golf Link
+ s":geo:36.568611,-121.949722
+DESCRIPTION:U.S. Open - Round 4 (Final Round)\nSunday 20 June 2027\n\n127
+ th edition\n\nVenue: Pebble Beach Golf Links\nAddress: 1700 17 Mile Dr\,
+  Pebble Beach\, CA 93953\, USA\nTournament: Thu 17 - Sun 20 June 2027\n\
+ nNotes\nPebble Beach hosts for a seventh time. Gary Woodland won the las
+ t one there in 2019\; Wyndham Clark defends after Shinnecock Hills.\\n\\
+ nThe oldest golf championship in America\, dating to 1895\, and traditio
+ nally the hardest scoring test of the four. Field of 156\, cut to the to
+ p 60 and ties.\n\nTee times are confirmed in tournament week.
+CATEGORIES:Golf Majors
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:open-2027-r1@claude-golf
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:⛳ The Open Championship
+LOCATION:The Old Course\, St Andrews\, West Sands Rd\, St Andrews KY16 9X
+ L\, UK
+GEO:56.343;-2.803
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="West Sands Rd, St Andrew
+ s KY16 9XL, UK";X-APPLE-RADIUS=400;X-TITLE="The Old Course, St Andrews":
+ geo:56.343,-2.803
+DESCRIPTION:The Open Championship - Round 1\nThursday 15 July 2027\n\n155
+ th edition\n\nVenue: The Old Course\, St Andrews\nAddress: West Sands Rd
+ \, St Andrews KY16 9XL\, UK\nTournament: Thu 15 - Sun 18 July 2027\n\nNo
+ tes\nTHE HOME OF GOLF. St Andrews hosts for a record 31st time - the Old
+  Course only comes round every five years or so\, so this is the one to 
+ plan around.\\n\\nOldest of the four majors\, first played in 1860. Ryan
+  Fox defends after Royal Birkdale. Cameron Smith won the last Open here\
+ , the 150th in 2022.\\n\\nLinks golf\, so weather decides as much as the
+  field does.\n\nTee times are confirmed in tournament week.
+CATEGORIES:Golf Majors
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:open-2027-r2@claude-golf
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:⛳ The Open Championship
+LOCATION:The Old Course\, St Andrews\, West Sands Rd\, St Andrews KY16 9X
+ L\, UK
+GEO:56.343;-2.803
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="West Sands Rd, St Andrew
+ s KY16 9XL, UK";X-APPLE-RADIUS=400;X-TITLE="The Old Course, St Andrews":
+ geo:56.343,-2.803
+DESCRIPTION:The Open Championship - Round 2\nFriday 16 July 2027\n\n155th
+  edition\n\nVenue: The Old Course\, St Andrews\nAddress: West Sands Rd\,
+  St Andrews KY16 9XL\, UK\nTournament: Thu 15 - Sun 18 July 2027\n\nNote
+ s\nTHE HOME OF GOLF. St Andrews hosts for a record 31st time - the Old C
+ ourse only comes round every five years or so\, so this is the one to pl
+ an around.\\n\\nOldest of the four majors\, first played in 1860. Ryan F
+ ox defends after Royal Birkdale. Cameron Smith won the last Open here\, 
+ the 150th in 2022.\\n\\nLinks golf\, so weather decides as much as the f
+ ield does.\n\nTee times are confirmed in tournament week.
+CATEGORIES:Golf Majors
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:open-2027-r3@claude-golf
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:⛳ The Open Championship
+LOCATION:The Old Course\, St Andrews\, West Sands Rd\, St Andrews KY16 9X
+ L\, UK
+GEO:56.343;-2.803
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="West Sands Rd, St Andrew
+ s KY16 9XL, UK";X-APPLE-RADIUS=400;X-TITLE="The Old Course, St Andrews":
+ geo:56.343,-2.803
+DESCRIPTION:The Open Championship - Round 3 (Moving Day)\nSaturday 17 Jul
+ y 2027\n\n155th edition\n\nVenue: The Old Course\, St Andrews\nAddress: 
+ West Sands Rd\, St Andrews KY16 9XL\, UK\nTournament: Thu 15 - Sun 18 Ju
+ ly 2027\n\nNotes\nTHE HOME OF GOLF. St Andrews hosts for a record 31st t
+ ime - the Old Course only comes round every five years or so\, so this i
+ s the one to plan around.\\n\\nOldest of the four majors\, first played 
+ in 1860. Ryan Fox defends after Royal Birkdale. Cameron Smith won the la
+ st Open here\, the 150th in 2022.\\n\\nLinks golf\, so weather decides a
+ s much as the field does.\n\nTee times are confirmed in tournament week.
+CATEGORIES:Golf Majors
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:open-2027-r4@claude-golf
+DTSTAMP:20260801T090000Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:⛳ The Open Championship
+LOCATION:The Old Course\, St Andrews\, West Sands Rd\, St Andrews KY16 9X
+ L\, UK
+GEO:56.343;-2.803
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="West Sands Rd, St Andrew
+ s KY16 9XL, UK";X-APPLE-RADIUS=400;X-TITLE="The Old Course, St Andrews":
+ geo:56.343,-2.803
+DESCRIPTION:The Open Championship - Round 4 (Final Round)\nSunday 18 July
+  2027\n\n155th edition\n\nVenue: The Old Course\, St Andrews\nAddress: W
+ est Sands Rd\, St Andrews KY16 9XL\, UK\nTournament: Thu 15 - Sun 18 Jul
+ y 2027\n\nNotes\nTHE HOME OF GOLF. St Andrews hosts for a record 31st ti
+ me - the Old Course only comes round every five years or so\, so this is
+  the one to plan around.\\n\\nOldest of the four majors\, first played i
+ n 1860. Ryan Fox defends after Royal Birkdale. Cameron Smith won the las
+ t Open here\, the 150th in 2022.\\n\\nLinks golf\, so weather decides as
+  much as the field does.\n\nTee times are confirmed in tournament week.
+CATEGORIES:Golf Majors
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
