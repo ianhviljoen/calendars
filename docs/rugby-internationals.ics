@@ -712,6 +712,368 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:6n-ire-eng-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20270205T201000Z
+DTEND:20270205T221000Z
+SUMMARY:🏉 Ireland v England
+LOCATION:Aviva Stadium\, Lansdowne Rd\, Dublin 4\, D04 K5F9\, Ireland
+GEO:53.334288;-6.227943
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lansdowne Rd, Dublin 4, 
+ D04 K5F9, Ireland";X-APPLE-RADIUS=150;X-TITLE="Aviva Stadium":geo:53.334
+ 288,-6.227943
+DESCRIPTION:Ireland v England\n\nCompetition: 2027 Guinness Men's Six Nat
+ ions\nKick-off: Fri 5 Feb\, 20:10 local  |  20:10 UTC\n\nVenue: Aviva St
+ adium\nAddress: Lansdowne Rd\, Dublin 4\, D04 K5F9\, Ireland\n\nNotes\nR
+ ound 1. Friday night curtain-raiser in Dublin.\n\n133rd championship\, 2
+ 8th as the Six Nations. Runs 5 February to 13 March 2027\, using the com
+ pressed format with a single fallow week after round 3.\n\nFour points f
+ or a win\, two for a draw\, bonus points for four tries or losing by sev
+ en or fewer\, and three bonus points for a Grand Slam.
+CATEGORIES:Rugby Union,2027 Guinness Men's Six Nations
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6n-sco-ita-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20270206T141000Z
+DTEND:20270206T161000Z
+SUMMARY:🏉 Scotland v Italy
+LOCATION:Scottish Gas Murrayfield\, Roseburn St\, Edinburgh EH12 5PJ\, UK
+GEO:55.942276;-3.24104
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Roseburn St, Edinburgh E
+ H12 5PJ, UK";X-APPLE-RADIUS=150;X-TITLE="Scottish Gas Murrayfield":geo:5
+ 5.942276,-3.24104
+DESCRIPTION:Scotland v Italy\n\nCompetition: 2027 Guinness Men's Six Nati
+ ons\nKick-off: Sat 6 Feb\, 14:10 local  |  14:10 UTC\n\nVenue: Scottish 
+ Gas Murrayfield\nAddress: Roseburn St\, Edinburgh EH12 5PJ\, UK\n\nNotes
+ \nRound 1.\n\n133rd championship\, 28th as the Six Nations. Runs 5 Febru
+ ary to 13 March 2027\, using the compressed format with a single fallow 
+ week after round 3.\n\nFour points for a win\, two for a draw\, bonus po
+ ints for four tries or losing by seven or fewer\, and three bonus points
+  for a Grand Slam.
+CATEGORIES:Rugby Union,2027 Guinness Men's Six Nations
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6n-fra-wal-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20270206T164000Z
+DTEND:20270206T184000Z
+SUMMARY:🏉 France v Wales
+LOCATION:Stade de France\, 93200 Saint-Denis\, France
+GEO:48.924475;2.360144
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="93200 Saint-Denis, Franc
+ e";X-APPLE-RADIUS=150;X-TITLE="Stade de France":geo:48.924475,2.360144
+DESCRIPTION:France v Wales\n\nCompetition: 2027 Guinness Men's Six Nation
+ s\nKick-off: Sat 6 Feb\, 17:40 local  |  16:40 UTC\n\nVenue: Stade de Fr
+ ance\nAddress: 93200 Saint-Denis\, France\n\nNotes\nRound 1.\n\n133rd ch
+ ampionship\, 28th as the Six Nations. Runs 5 February to 13 March 2027\,
+  using the compressed format with a single fallow week after round 3.\n\
+ nFour points for a win\, two for a draw\, bonus points for four tries or
+  losing by seven or fewer\, and three bonus points for a Grand Slam.
+CATEGORIES:Rugby Union,2027 Guinness Men's Six Nations
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6n-ita-ire-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20270213T141000Z
+DTEND:20270213T161000Z
+SUMMARY:🏉 Italy v Ireland
+LOCATION:Stadio Olimpico\, Viale dei Gladiatori\, 00135 Roma RM\, Italy
+GEO:41.933888;12.454722
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Viale dei Gladiatori, 00
+ 135 Roma RM, Italy";X-APPLE-RADIUS=150;X-TITLE="Stadio Olimpico":geo:41.
+ 933888,12.454722
+DESCRIPTION:Italy v Ireland\n\nCompetition: 2027 Guinness Men's Six Natio
+ ns\nKick-off: Sat 13 Feb\, 15:10 local  |  14:10 UTC\n\nVenue: Stadio Ol
+ impico\nAddress: Viale dei Gladiatori\, 00135 Roma RM\, Italy\n\nNotes\n
+ Round 2.\n\n133rd championship\, 28th as the Six Nations. Runs 5 Februar
+ y to 13 March 2027\, using the compressed format with a single fallow we
+ ek after round 3.\n\nFour points for a win\, two for a draw\, bonus poin
+ ts for four tries or losing by seven or fewer\, and three bonus points f
+ or a Grand Slam.
+CATEGORIES:Rugby Union,2027 Guinness Men's Six Nations
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6n-sco-wal-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20270213T164000Z
+DTEND:20270213T184000Z
+SUMMARY:🏉 Scotland v Wales
+LOCATION:Scottish Gas Murrayfield\, Roseburn St\, Edinburgh EH12 5PJ\, UK
+GEO:55.942276;-3.24104
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Roseburn St, Edinburgh E
+ H12 5PJ, UK";X-APPLE-RADIUS=150;X-TITLE="Scottish Gas Murrayfield":geo:5
+ 5.942276,-3.24104
+DESCRIPTION:Scotland v Wales\n\nCompetition: 2027 Guinness Men's Six Nati
+ ons\nKick-off: Sat 13 Feb\, 16:40 local  |  16:40 UTC\n\nVenue: Scottish
+  Gas Murrayfield\nAddress: Roseburn St\, Edinburgh EH12 5PJ\, UK\n\nNote
+ s\nRound 2.\n\n133rd championship\, 28th as the Six Nations. Runs 5 Febr
+ uary to 13 March 2027\, using the compressed format with a single fallow
+  week after round 3.\n\nFour points for a win\, two for a draw\, bonus p
+ oints for four tries or losing by seven or fewer\, and three bonus point
+ s for a Grand Slam.
+CATEGORIES:Rugby Union,2027 Guinness Men's Six Nations
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6n-eng-fra-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20270214T151000Z
+DTEND:20270214T171000Z
+SUMMARY:🏉 England v France
+LOCATION:Allianz Stadium\, Twickenham\, 200 Whitton Rd\, Twickenham TW2 7
+ BA\, UK
+GEO:51.455956;-0.341505
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="200 Whitton Rd, Twickenh
+ am TW2 7BA, UK";X-APPLE-RADIUS=150;X-TITLE="Allianz Stadium, Twickenham"
+ :geo:51.455956,-0.341505
+DESCRIPTION:England v France\n\nCompetition: 2027 Guinness Men's Six Nati
+ ons\nKick-off: Sun 14 Feb\, 15:10 local  |  15:10 UTC\n\nVenue: Allianz 
+ Stadium\, Twickenham\nAddress: 200 Whitton Rd\, Twickenham TW2 7BA\, UK\
+ n\nNotes\nRound 2. Le Crunch at Twickenham.\n\n133rd championship\, 28th
+  as the Six Nations. Runs 5 February to 13 March 2027\, using the compre
+ ssed format with a single fallow week after round 3.\n\nFour points for 
+ a win\, two for a draw\, bonus points for four tries or losing by seven 
+ or fewer\, and three bonus points for a Grand Slam.
+CATEGORIES:Rugby Union,2027 Guinness Men's Six Nations
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6n-wal-ire-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20270220T141000Z
+DTEND:20270220T161000Z
+SUMMARY:🏉 Wales v Ireland
+LOCATION:Principality Stadium\, Westgate St\, Cardiff CF10 1NS\, UK
+GEO:51.478209;-3.182634
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Westgate St, Cardiff CF1
+ 0 1NS, UK";X-APPLE-RADIUS=150;X-TITLE="Principality Stadium":geo:51.4782
+ 09,-3.182634
+DESCRIPTION:Wales v Ireland\n\nCompetition: 2027 Guinness Men's Six Natio
+ ns\nKick-off: Sat 20 Feb\, 14:10 local  |  14:10 UTC\n\nVenue: Principal
+ ity Stadium\nAddress: Westgate St\, Cardiff CF10 1NS\, UK\n\nNotes\nRoun
+ d 3.\n\n133rd championship\, 28th as the Six Nations. Runs 5 February to
+  13 March 2027\, using the compressed format with a single fallow week a
+ fter round 3.\n\nFour points for a win\, two for a draw\, bonus points f
+ or four tries or losing by seven or fewer\, and three bonus points for a
+  Grand Slam.
+CATEGORIES:Rugby Union,2027 Guinness Men's Six Nations
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6n-eng-ita-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20270220T164000Z
+DTEND:20270220T184000Z
+SUMMARY:🏉 England v Italy
+LOCATION:Allianz Stadium\, Twickenham\, 200 Whitton Rd\, Twickenham TW2 7
+ BA\, UK
+GEO:51.455956;-0.341505
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="200 Whitton Rd, Twickenh
+ am TW2 7BA, UK";X-APPLE-RADIUS=150;X-TITLE="Allianz Stadium, Twickenham"
+ :geo:51.455956,-0.341505
+DESCRIPTION:England v Italy\n\nCompetition: 2027 Guinness Men's Six Natio
+ ns\nKick-off: Sat 20 Feb\, 16:40 local  |  16:40 UTC\n\nVenue: Allianz S
+ tadium\, Twickenham\nAddress: 200 Whitton Rd\, Twickenham TW2 7BA\, UK\n
+ \nNotes\nRound 3.\n\n133rd championship\, 28th as the Six Nations. Runs 
+ 5 February to 13 March 2027\, using the compressed format with a single 
+ fallow week after round 3.\n\nFour points for a win\, two for a draw\, b
+ onus points for four tries or losing by seven or fewer\, and three bonus
+  points for a Grand Slam.
+CATEGORIES:Rugby Union,2027 Guinness Men's Six Nations
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6n-fra-sco-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20270221T151000Z
+DTEND:20270221T171000Z
+SUMMARY:🏉 France v Scotland
+LOCATION:Stade de France\, 93200 Saint-Denis\, France
+GEO:48.924475;2.360144
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="93200 Saint-Denis, Franc
+ e";X-APPLE-RADIUS=150;X-TITLE="Stade de France":geo:48.924475,2.360144
+DESCRIPTION:France v Scotland\n\nCompetition: 2027 Guinness Men's Six Nat
+ ions\nKick-off: Sun 21 Feb\, 16:10 local  |  15:10 UTC\n\nVenue: Stade d
+ e France\nAddress: 93200 Saint-Denis\, France\n\nNotes\nRound 3. Last ma
+ tch before the single fallow week.\n\n133rd championship\, 28th as the S
+ ix Nations. Runs 5 February to 13 March 2027\, using the compressed form
+ at with a single fallow week after round 3.\n\nFour points for a win\, t
+ wo for a draw\, bonus points for four tries or losing by seven or fewer\
+ , and three bonus points for a Grand Slam.
+CATEGORIES:Rugby Union,2027 Guinness Men's Six Nations
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6n-sco-ire-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20270305T201000Z
+DTEND:20270305T221000Z
+SUMMARY:🏉 Scotland v Ireland
+LOCATION:Scottish Gas Murrayfield\, Roseburn St\, Edinburgh EH12 5PJ\, UK
+GEO:55.942276;-3.24104
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Roseburn St, Edinburgh E
+ H12 5PJ, UK";X-APPLE-RADIUS=150;X-TITLE="Scottish Gas Murrayfield":geo:5
+ 5.942276,-3.24104
+DESCRIPTION:Scotland v Ireland\n\nCompetition: 2027 Guinness Men's Six Na
+ tions\nKick-off: Fri 5 Mar\, 20:10 local  |  20:10 UTC\n\nVenue: Scottis
+ h Gas Murrayfield\nAddress: Roseburn St\, Edinburgh EH12 5PJ\, UK\n\nNot
+ es\nRound 4. THE FIRST FRIDAY NIGHT SIX NATIONS MATCH EVER HELD IN EDINB
+ URGH.\n\n133rd championship\, 28th as the Six Nations. Runs 5 February t
+ o 13 March 2027\, using the compressed format with a single fallow week 
+ after round 3.\n\nFour points for a win\, two for a draw\, bonus points 
+ for four tries or losing by seven or fewer\, and three bonus points for 
+ a Grand Slam.
+CATEGORIES:Rugby Union,2027 Guinness Men's Six Nations
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6n-ita-fra-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20270306T141000Z
+DTEND:20270306T161000Z
+SUMMARY:🏉 Italy v France
+LOCATION:Stadio Olimpico\, Viale dei Gladiatori\, 00135 Roma RM\, Italy
+GEO:41.933888;12.454722
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Viale dei Gladiatori, 00
+ 135 Roma RM, Italy";X-APPLE-RADIUS=150;X-TITLE="Stadio Olimpico":geo:41.
+ 933888,12.454722
+DESCRIPTION:Italy v France\n\nCompetition: 2027 Guinness Men's Six Nation
+ s\nKick-off: Sat 6 Mar\, 15:10 local  |  14:10 UTC\n\nVenue: Stadio Olim
+ pico\nAddress: Viale dei Gladiatori\, 00135 Roma RM\, Italy\n\nNotes\nRo
+ und 4.\n\n133rd championship\, 28th as the Six Nations. Runs 5 February 
+ to 13 March 2027\, using the compressed format with a single fallow week
+  after round 3.\n\nFour points for a win\, two for a draw\, bonus points
+  for four tries or losing by seven or fewer\, and three bonus points for
+  a Grand Slam.
+CATEGORIES:Rugby Union,2027 Guinness Men's Six Nations
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6n-wal-eng-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20270306T164000Z
+DTEND:20270306T184000Z
+SUMMARY:🏉 Wales v England
+LOCATION:Principality Stadium\, Westgate St\, Cardiff CF10 1NS\, UK
+GEO:51.478209;-3.182634
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Westgate St, Cardiff CF1
+ 0 1NS, UK";X-APPLE-RADIUS=150;X-TITLE="Principality Stadium":geo:51.4782
+ 09,-3.182634
+DESCRIPTION:Wales v England\n\nCompetition: 2027 Guinness Men's Six Natio
+ ns\nKick-off: Sat 6 Mar\, 16:40 local  |  16:40 UTC\n\nVenue: Principali
+ ty Stadium\nAddress: Westgate St\, Cardiff CF10 1NS\, UK\n\nNotes\nRound
+  4.\n\n133rd championship\, 28th as the Six Nations. Runs 5 February to 
+ 13 March 2027\, using the compressed format with a single fallow week af
+ ter round 3.\n\nFour points for a win\, two for a draw\, bonus points fo
+ r four tries or losing by seven or fewer\, and three bonus points for a 
+ Grand Slam.
+CATEGORIES:Rugby Union,2027 Guinness Men's Six Nations
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6n-ita-wal-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20270313T141000Z
+DTEND:20270313T161000Z
+SUMMARY:🏉 Italy v Wales
+LOCATION:Stadio Olimpico\, Viale dei Gladiatori\, 00135 Roma RM\, Italy
+GEO:41.933888;12.454722
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Viale dei Gladiatori, 00
+ 135 Roma RM, Italy";X-APPLE-RADIUS=150;X-TITLE="Stadio Olimpico":geo:41.
+ 933888,12.454722
+DESCRIPTION:Italy v Wales\n\nCompetition: 2027 Guinness Men's Six Nations
+ \nKick-off: Sat 13 Mar\, 15:10 local  |  14:10 UTC\n\nVenue: Stadio Olim
+ pico\nAddress: Viale dei Gladiatori\, 00135 Roma RM\, Italy\n\nNotes\nRo
+ und 5. SUPER SATURDAY.\n\n133rd championship\, 28th as the Six Nations. 
+ Runs 5 February to 13 March 2027\, using the compressed format with a si
+ ngle fallow week after round 3.\n\nFour points for a win\, two for a dra
+ w\, bonus points for four tries or losing by seven or fewer\, and three 
+ bonus points for a Grand Slam.
+CATEGORIES:Rugby Union,2027 Guinness Men's Six Nations
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6n-eng-sco-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20270313T164000Z
+DTEND:20270313T184000Z
+SUMMARY:🏉 England v Scotland
+LOCATION:Allianz Stadium\, Twickenham\, 200 Whitton Rd\, Twickenham TW2 7
+ BA\, UK
+GEO:51.455956;-0.341505
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="200 Whitton Rd, Twickenh
+ am TW2 7BA, UK";X-APPLE-RADIUS=150;X-TITLE="Allianz Stadium, Twickenham"
+ :geo:51.455956,-0.341505
+DESCRIPTION:England v Scotland\n\nCompetition: 2027 Guinness Men's Six Na
+ tions\nKick-off: Sat 13 Mar\, 16:40 local  |  16:40 UTC\n\nVenue: Allian
+ z Stadium\, Twickenham\nAddress: 200 Whitton Rd\, Twickenham TW2 7BA\, U
+ K\n\nNotes\nRound 5. SUPER SATURDAY - the Calcutta Cup.\n\n133rd champio
+ nship\, 28th as the Six Nations. Runs 5 February to 13 March 2027\, usin
+ g the compressed format with a single fallow week after round 3.\n\nFour
+  points for a win\, two for a draw\, bonus points for four tries or losi
+ ng by seven or fewer\, and three bonus points for a Grand Slam.
+CATEGORIES:Rugby Union,2027 Guinness Men's Six Nations
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6n-ire-fra-2026@claude-rugby-cal
+DTSTAMP:20260728T090000Z
+DTSTART:20270313T201000Z
+DTEND:20270313T221000Z
+SUMMARY:🏉 Ireland v France
+LOCATION:Aviva Stadium\, Lansdowne Rd\, Dublin 4\, D04 K5F9\, Ireland
+GEO:53.334288;-6.227943
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Lansdowne Rd, Dublin 4, 
+ D04 K5F9, Ireland";X-APPLE-RADIUS=150;X-TITLE="Aviva Stadium":geo:53.334
+ 288,-6.227943
+DESCRIPTION:Ireland v France\n\nCompetition: 2027 Guinness Men's Six Nati
+ ons\nKick-off: Sat 13 Mar\, 20:10 local  |  20:10 UTC\n\nVenue: Aviva St
+ adium\nAddress: Lansdowne Rd\, Dublin 4\, D04 K5F9\, Ireland\n\nNotes\nR
+ ound 5. SUPER SATURDAY - final match of the championship and potentially
+  the title decider.\n\n133rd championship\, 28th as the Six Nations. Run
+ s 5 February to 13 March 2027\, using the compressed format with a singl
+ e fallow week after round 3.\n\nFour points for a win\, two for a draw\,
+  bonus points for four tries or losing by seven or fewer\, and three bon
+ us points for a Grand Slam.
+CATEGORIES:Rugby Union,2027 Guinness Men's Six Nations
+URL:https://nationschampionshiprugby.com/en
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:f-11th-2026@claude-rugby-cal
 DTSTAMP:20260728T090000Z
 DTSTART:20261127T164000Z
