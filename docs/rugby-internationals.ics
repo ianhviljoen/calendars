@@ -120,8 +120,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:jpn-aus-1-2026@claude-rugby-cal
 DTSTAMP:20260728T090000Z
-DTSTART:20260808T111500Z
-DTEND:20260808T131500Z
+DTSTART:20260808T100500Z
+DTEND:20260808T120500Z
 SUMMARY:🏉 Japan v Australia
 LOCATION:Hanazono Rugby Stadium\, 1-1-1 Matsubaraminami\, Higashiosaka\, 
  Osaka 578-0923\, Japan
@@ -130,7 +130,7 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="1-1-1 Matsubaraminami, H
  igashiosaka, Osaka 578-0923, Japan";X-APPLE-RADIUS=150;X-TITLE="Hanazono
   Rugby Stadium":geo:34.668953,135.626324
 DESCRIPTION:Japan v Australia\n\nCompetition: Test match\nKick-off: Sat 8
-  Aug\, 20:15 local  |  11:15 UTC\n\nVenue: Hanazono Rugby Stadium\nAddre
+  Aug\, 19:05 local  |  10:05 UTC\n\nVenue: Hanazono Rugby Stadium\nAddre
  ss: 1-1-1 Matsubaraminami\, Higashiosaka\, Osaka 578-0923\, Japan\n\nNot
  es\nLeg one of a home-and-away series. Les Kiss's first Test in charge o
  f the Wallabies.
