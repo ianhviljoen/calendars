@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//Claude//Tennis 2026 ATP 1000 + Slams//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:🎾 Tennis - ATP 1000 & Slams
-X-WR-CALDESC:Remaining 2026 ATP Masters 1000 events and the US Open. US b
- roadcast listings.
+X-WR-CALDESC:ATP Masters 1000 events\, all four Grand Slams and the ATP F
+ inals.
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:canadian-open-2026-d1@claude-tennis-cal
@@ -1420,6 +1420,1472 @@ DESCRIPTION:Final - Sunday 8 November 2026\n\nVenue: Paris La Defense Are
   in Nanterre.\n\nOrder of play is published the evening before each day.
  \n
 CATEGORIES:Tennis,ATP Masters 1000
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:australian-open-2026-d1@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:🎾 Australian Open
+LOCATION:Melbourne Park\, Olympic Blvd\, Melbourne VIC 3000\, Australia
+GEO:-37.821667;144.978333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympic Blvd, Melbourne 
+ VIC 3000, Australia";X-APPLE-RADIUS=150;X-TITLE="Melbourne Park":geo:-37
+ .821667,144.978333
+DESCRIPTION:Day 1 of 15 - Sunday 17 January 2027\n\nVenue: Melbourne Park
+ \nAddress: Olympic Blvd\, Melbourne VIC 3000\, Australia\nTournament dat
+ es: Sun 17 Jan - Sun 31 Jan 2027\nSurface: Outdoor hard (GreenSet)\nSing
+ les draw: 128\nPrize money: See ausopen.com\nCategory: Grand Slam\n\nNot
+ es\nFirst Slam of the year\, 15 days. Three courts have retractable roof
+ s\, so play continues through the Melbourne heat and rain. Melbourne is 
+ 11 hours ahead of the UK\, so matches run overnight and through the morn
+ ing here.\n\nOrder of play is published the evening before each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:australian-open-2026-d2@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:🎾 Australian Open
+LOCATION:Melbourne Park\, Olympic Blvd\, Melbourne VIC 3000\, Australia
+GEO:-37.821667;144.978333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympic Blvd, Melbourne 
+ VIC 3000, Australia";X-APPLE-RADIUS=150;X-TITLE="Melbourne Park":geo:-37
+ .821667,144.978333
+DESCRIPTION:Day 2 of 15 - Monday 18 January 2027\n\nVenue: Melbourne Park
+ \nAddress: Olympic Blvd\, Melbourne VIC 3000\, Australia\nTournament dat
+ es: Sun 17 Jan - Sun 31 Jan 2027\nSurface: Outdoor hard (GreenSet)\nSing
+ les draw: 128\nPrize money: See ausopen.com\nCategory: Grand Slam\n\nNot
+ es\nFirst Slam of the year\, 15 days. Three courts have retractable roof
+ s\, so play continues through the Melbourne heat and rain. Melbourne is 
+ 11 hours ahead of the UK\, so matches run overnight and through the morn
+ ing here.\n\nOrder of play is published the evening before each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:australian-open-2026-d3@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:🎾 Australian Open
+LOCATION:Melbourne Park\, Olympic Blvd\, Melbourne VIC 3000\, Australia
+GEO:-37.821667;144.978333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympic Blvd, Melbourne 
+ VIC 3000, Australia";X-APPLE-RADIUS=150;X-TITLE="Melbourne Park":geo:-37
+ .821667,144.978333
+DESCRIPTION:Day 3 of 15 - Tuesday 19 January 2027\n\nVenue: Melbourne Par
+ k\nAddress: Olympic Blvd\, Melbourne VIC 3000\, Australia\nTournament da
+ tes: Sun 17 Jan - Sun 31 Jan 2027\nSurface: Outdoor hard (GreenSet)\nSin
+ gles draw: 128\nPrize money: See ausopen.com\nCategory: Grand Slam\n\nNo
+ tes\nFirst Slam of the year\, 15 days. Three courts have retractable roo
+ fs\, so play continues through the Melbourne heat and rain. Melbourne is
+  11 hours ahead of the UK\, so matches run overnight and through the mor
+ ning here.\n\nOrder of play is published the evening before each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:australian-open-2026-d4@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:🎾 Australian Open
+LOCATION:Melbourne Park\, Olympic Blvd\, Melbourne VIC 3000\, Australia
+GEO:-37.821667;144.978333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympic Blvd, Melbourne 
+ VIC 3000, Australia";X-APPLE-RADIUS=150;X-TITLE="Melbourne Park":geo:-37
+ .821667,144.978333
+DESCRIPTION:Day 4 of 15 - Wednesday 20 January 2027\n\nVenue: Melbourne P
+ ark\nAddress: Olympic Blvd\, Melbourne VIC 3000\, Australia\nTournament 
+ dates: Sun 17 Jan - Sun 31 Jan 2027\nSurface: Outdoor hard (GreenSet)\nS
+ ingles draw: 128\nPrize money: See ausopen.com\nCategory: Grand Slam\n\n
+ Notes\nFirst Slam of the year\, 15 days. Three courts have retractable r
+ oofs\, so play continues through the Melbourne heat and rain. Melbourne 
+ is 11 hours ahead of the UK\, so matches run overnight and through the m
+ orning here.\n\nOrder of play is published the evening before each day.\
+ n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:australian-open-2026-d5@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:🎾 Australian Open
+LOCATION:Melbourne Park\, Olympic Blvd\, Melbourne VIC 3000\, Australia
+GEO:-37.821667;144.978333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympic Blvd, Melbourne 
+ VIC 3000, Australia";X-APPLE-RADIUS=150;X-TITLE="Melbourne Park":geo:-37
+ .821667,144.978333
+DESCRIPTION:Day 5 of 15 - Thursday 21 January 2027\n\nVenue: Melbourne Pa
+ rk\nAddress: Olympic Blvd\, Melbourne VIC 3000\, Australia\nTournament d
+ ates: Sun 17 Jan - Sun 31 Jan 2027\nSurface: Outdoor hard (GreenSet)\nSi
+ ngles draw: 128\nPrize money: See ausopen.com\nCategory: Grand Slam\n\nN
+ otes\nFirst Slam of the year\, 15 days. Three courts have retractable ro
+ ofs\, so play continues through the Melbourne heat and rain. Melbourne i
+ s 11 hours ahead of the UK\, so matches run overnight and through the mo
+ rning here.\n\nOrder of play is published the evening before each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:australian-open-2026-d6@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:🎾 Australian Open
+LOCATION:Melbourne Park\, Olympic Blvd\, Melbourne VIC 3000\, Australia
+GEO:-37.821667;144.978333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympic Blvd, Melbourne 
+ VIC 3000, Australia";X-APPLE-RADIUS=150;X-TITLE="Melbourne Park":geo:-37
+ .821667,144.978333
+DESCRIPTION:Day 6 of 15 - Friday 22 January 2027\n\nVenue: Melbourne Park
+ \nAddress: Olympic Blvd\, Melbourne VIC 3000\, Australia\nTournament dat
+ es: Sun 17 Jan - Sun 31 Jan 2027\nSurface: Outdoor hard (GreenSet)\nSing
+ les draw: 128\nPrize money: See ausopen.com\nCategory: Grand Slam\n\nNot
+ es\nFirst Slam of the year\, 15 days. Three courts have retractable roof
+ s\, so play continues through the Melbourne heat and rain. Melbourne is 
+ 11 hours ahead of the UK\, so matches run overnight and through the morn
+ ing here.\n\nOrder of play is published the evening before each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:australian-open-2026-d7@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:🎾 Australian Open
+LOCATION:Melbourne Park\, Olympic Blvd\, Melbourne VIC 3000\, Australia
+GEO:-37.821667;144.978333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympic Blvd, Melbourne 
+ VIC 3000, Australia";X-APPLE-RADIUS=150;X-TITLE="Melbourne Park":geo:-37
+ .821667,144.978333
+DESCRIPTION:Day 7 of 15 - Saturday 23 January 2027\n\nVenue: Melbourne Pa
+ rk\nAddress: Olympic Blvd\, Melbourne VIC 3000\, Australia\nTournament d
+ ates: Sun 17 Jan - Sun 31 Jan 2027\nSurface: Outdoor hard (GreenSet)\nSi
+ ngles draw: 128\nPrize money: See ausopen.com\nCategory: Grand Slam\n\nN
+ otes\nFirst Slam of the year\, 15 days. Three courts have retractable ro
+ ofs\, so play continues through the Melbourne heat and rain. Melbourne i
+ s 11 hours ahead of the UK\, so matches run overnight and through the mo
+ rning here.\n\nOrder of play is published the evening before each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:australian-open-2026-d8@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:🎾 Australian Open
+LOCATION:Melbourne Park\, Olympic Blvd\, Melbourne VIC 3000\, Australia
+GEO:-37.821667;144.978333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympic Blvd, Melbourne 
+ VIC 3000, Australia";X-APPLE-RADIUS=150;X-TITLE="Melbourne Park":geo:-37
+ .821667,144.978333
+DESCRIPTION:Day 8 of 15 - Sunday 24 January 2027\n\nVenue: Melbourne Park
+ \nAddress: Olympic Blvd\, Melbourne VIC 3000\, Australia\nTournament dat
+ es: Sun 17 Jan - Sun 31 Jan 2027\nSurface: Outdoor hard (GreenSet)\nSing
+ les draw: 128\nPrize money: See ausopen.com\nCategory: Grand Slam\n\nNot
+ es\nFirst Slam of the year\, 15 days. Three courts have retractable roof
+ s\, so play continues through the Melbourne heat and rain. Melbourne is 
+ 11 hours ahead of the UK\, so matches run overnight and through the morn
+ ing here.\n\nOrder of play is published the evening before each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:australian-open-2026-d9@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270126
+SUMMARY:🎾 Australian Open
+LOCATION:Melbourne Park\, Olympic Blvd\, Melbourne VIC 3000\, Australia
+GEO:-37.821667;144.978333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympic Blvd, Melbourne 
+ VIC 3000, Australia";X-APPLE-RADIUS=150;X-TITLE="Melbourne Park":geo:-37
+ .821667,144.978333
+DESCRIPTION:Day 9 of 15 - Monday 25 January 2027\n\nVenue: Melbourne Park
+ \nAddress: Olympic Blvd\, Melbourne VIC 3000\, Australia\nTournament dat
+ es: Sun 17 Jan - Sun 31 Jan 2027\nSurface: Outdoor hard (GreenSet)\nSing
+ les draw: 128\nPrize money: See ausopen.com\nCategory: Grand Slam\n\nNot
+ es\nFirst Slam of the year\, 15 days. Three courts have retractable roof
+ s\, so play continues through the Melbourne heat and rain. Melbourne is 
+ 11 hours ahead of the UK\, so matches run overnight and through the morn
+ ing here.\n\nOrder of play is published the evening before each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:australian-open-2026-d10@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:🎾 Australian Open
+LOCATION:Melbourne Park\, Olympic Blvd\, Melbourne VIC 3000\, Australia
+GEO:-37.821667;144.978333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympic Blvd, Melbourne 
+ VIC 3000, Australia";X-APPLE-RADIUS=150;X-TITLE="Melbourne Park":geo:-37
+ .821667,144.978333
+DESCRIPTION:Day 10 of 15 - Tuesday 26 January 2027\n\nVenue: Melbourne Pa
+ rk\nAddress: Olympic Blvd\, Melbourne VIC 3000\, Australia\nTournament d
+ ates: Sun 17 Jan - Sun 31 Jan 2027\nSurface: Outdoor hard (GreenSet)\nSi
+ ngles draw: 128\nPrize money: See ausopen.com\nCategory: Grand Slam\n\nN
+ otes\nFirst Slam of the year\, 15 days. Three courts have retractable ro
+ ofs\, so play continues through the Melbourne heat and rain. Melbourne i
+ s 11 hours ahead of the UK\, so matches run overnight and through the mo
+ rning here.\n\nOrder of play is published the evening before each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:australian-open-2026-d11@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:🎾 Australian Open
+LOCATION:Melbourne Park\, Olympic Blvd\, Melbourne VIC 3000\, Australia
+GEO:-37.821667;144.978333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympic Blvd, Melbourne 
+ VIC 3000, Australia";X-APPLE-RADIUS=150;X-TITLE="Melbourne Park":geo:-37
+ .821667,144.978333
+DESCRIPTION:Day 11 of 15 - Wednesday 27 January 2027\n\nVenue: Melbourne 
+ Park\nAddress: Olympic Blvd\, Melbourne VIC 3000\, Australia\nTournament
+  dates: Sun 17 Jan - Sun 31 Jan 2027\nSurface: Outdoor hard (GreenSet)\n
+ Singles draw: 128\nPrize money: See ausopen.com\nCategory: Grand Slam\n\
+ nNotes\nFirst Slam of the year\, 15 days. Three courts have retractable 
+ roofs\, so play continues through the Melbourne heat and rain. Melbourne
+  is 11 hours ahead of the UK\, so matches run overnight and through the 
+ morning here.\n\nOrder of play is published the evening before each day.
+ \n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:australian-open-2026-d12@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:🎾 Australian Open
+LOCATION:Melbourne Park\, Olympic Blvd\, Melbourne VIC 3000\, Australia
+GEO:-37.821667;144.978333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympic Blvd, Melbourne 
+ VIC 3000, Australia";X-APPLE-RADIUS=150;X-TITLE="Melbourne Park":geo:-37
+ .821667,144.978333
+DESCRIPTION:Women's Semi-Finals - Thursday 28 January 2027\n\nVenue: Melb
+ ourne Park\nAddress: Olympic Blvd\, Melbourne VIC 3000\, Australia\nTour
+ nament dates: Sun 17 Jan - Sun 31 Jan 2027\nSurface: Outdoor hard (Green
+ Set)\nSingles draw: 128\nPrize money: See ausopen.com\nCategory: Grand S
+ lam\n\nNotes\nFirst Slam of the year\, 15 days. Three courts have retrac
+ table roofs\, so play continues through the Melbourne heat and rain. Mel
+ bourne is 11 hours ahead of the UK\, so matches run overnight and throug
+ h the morning here.\n\nOrder of play is published the evening before eac
+ h day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:australian-open-2026-d13@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:🎾 Australian Open
+LOCATION:Melbourne Park\, Olympic Blvd\, Melbourne VIC 3000\, Australia
+GEO:-37.821667;144.978333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympic Blvd, Melbourne 
+ VIC 3000, Australia";X-APPLE-RADIUS=150;X-TITLE="Melbourne Park":geo:-37
+ .821667,144.978333
+DESCRIPTION:Men's Semi-Finals - Friday 29 January 2027\n\nVenue: Melbourn
+ e Park\nAddress: Olympic Blvd\, Melbourne VIC 3000\, Australia\nTourname
+ nt dates: Sun 17 Jan - Sun 31 Jan 2027\nSurface: Outdoor hard (GreenSet)
+ \nSingles draw: 128\nPrize money: See ausopen.com\nCategory: Grand Slam\
+ n\nNotes\nFirst Slam of the year\, 15 days. Three courts have retractabl
+ e roofs\, so play continues through the Melbourne heat and rain. Melbour
+ ne is 11 hours ahead of the UK\, so matches run overnight and through th
+ e morning here.\n\nOrder of play is published the evening before each da
+ y.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:australian-open-2026-d14@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:🎾 Australian Open
+LOCATION:Melbourne Park\, Olympic Blvd\, Melbourne VIC 3000\, Australia
+GEO:-37.821667;144.978333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympic Blvd, Melbourne 
+ VIC 3000, Australia";X-APPLE-RADIUS=150;X-TITLE="Melbourne Park":geo:-37
+ .821667,144.978333
+DESCRIPTION:Women's Singles Final - Saturday 30 January 2027\n\nVenue: Me
+ lbourne Park\nAddress: Olympic Blvd\, Melbourne VIC 3000\, Australia\nTo
+ urnament dates: Sun 17 Jan - Sun 31 Jan 2027\nSurface: Outdoor hard (Gre
+ enSet)\nSingles draw: 128\nPrize money: See ausopen.com\nCategory: Grand
+  Slam\n\nNotes\nFirst Slam of the year\, 15 days. Three courts have retr
+ actable roofs\, so play continues through the Melbourne heat and rain. M
+ elbourne is 11 hours ahead of the UK\, so matches run overnight and thro
+ ugh the morning here.\n\nOrder of play is published the evening before e
+ ach day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:australian-open-2026-d15@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:🎾 Australian Open
+LOCATION:Melbourne Park\, Olympic Blvd\, Melbourne VIC 3000\, Australia
+GEO:-37.821667;144.978333
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Olympic Blvd, Melbourne 
+ VIC 3000, Australia";X-APPLE-RADIUS=150;X-TITLE="Melbourne Park":geo:-37
+ .821667,144.978333
+DESCRIPTION:Men's Singles Final - Sunday 31 January 2027\n\nVenue: Melbou
+ rne Park\nAddress: Olympic Blvd\, Melbourne VIC 3000\, Australia\nTourna
+ ment dates: Sun 17 Jan - Sun 31 Jan 2027\nSurface: Outdoor hard (GreenSe
+ t)\nSingles draw: 128\nPrize money: See ausopen.com\nCategory: Grand Sla
+ m\n\nNotes\nFirst Slam of the year\, 15 days. Three courts have retracta
+ ble roofs\, so play continues through the Melbourne heat and rain. Melbo
+ urne is 11 hours ahead of the UK\, so matches run overnight and through 
+ the morning here.\n\nOrder of play is published the evening before each 
+ day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:roland-garros-2026-d1@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:🎾 Roland-Garros (French Open)
+LOCATION:Stade Roland-Garros\, 2 Av. Gordon Bennett\, 75016 Paris\, Franc
+ e
+GEO:48.847;2.253
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="2 Av. Gordon Bennett, 75
+ 016 Paris, France";X-APPLE-RADIUS=150;X-TITLE="Stade Roland-Garros":geo:
+ 48.847,2.253
+DESCRIPTION:Day 1 of 15 - Sunday 23 May 2027\n\nVenue: Stade Roland-Garro
+ s\nAddress: 2 Av. Gordon Bennett\, 75016 Paris\, France\nTournament date
+ s: Sun 23 May - Sun 6 Jun 2027\nSurface: Outdoor clay\nSingles draw: 128
+ \nPrize money: See rolandgarros.com\nCategory: Grand Slam\n\nNotes\nThe 
+ only Slam on clay and widely reckoned the most physically demanding - sl
+ ow courts\, long rallies\, best-of-five. Court Philippe-Chatrier has a r
+ etractable roof.\n\nOrder of play is published the evening before each d
+ ay.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:roland-garros-2026-d2@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:🎾 Roland-Garros (French Open)
+LOCATION:Stade Roland-Garros\, 2 Av. Gordon Bennett\, 75016 Paris\, Franc
+ e
+GEO:48.847;2.253
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="2 Av. Gordon Bennett, 75
+ 016 Paris, France";X-APPLE-RADIUS=150;X-TITLE="Stade Roland-Garros":geo:
+ 48.847,2.253
+DESCRIPTION:Day 2 of 15 - Monday 24 May 2027\n\nVenue: Stade Roland-Garro
+ s\nAddress: 2 Av. Gordon Bennett\, 75016 Paris\, France\nTournament date
+ s: Sun 23 May - Sun 6 Jun 2027\nSurface: Outdoor clay\nSingles draw: 128
+ \nPrize money: See rolandgarros.com\nCategory: Grand Slam\n\nNotes\nThe 
+ only Slam on clay and widely reckoned the most physically demanding - sl
+ ow courts\, long rallies\, best-of-five. Court Philippe-Chatrier has a r
+ etractable roof.\n\nOrder of play is published the evening before each d
+ ay.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:roland-garros-2026-d3@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:🎾 Roland-Garros (French Open)
+LOCATION:Stade Roland-Garros\, 2 Av. Gordon Bennett\, 75016 Paris\, Franc
+ e
+GEO:48.847;2.253
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="2 Av. Gordon Bennett, 75
+ 016 Paris, France";X-APPLE-RADIUS=150;X-TITLE="Stade Roland-Garros":geo:
+ 48.847,2.253
+DESCRIPTION:Day 3 of 15 - Tuesday 25 May 2027\n\nVenue: Stade Roland-Garr
+ os\nAddress: 2 Av. Gordon Bennett\, 75016 Paris\, France\nTournament dat
+ es: Sun 23 May - Sun 6 Jun 2027\nSurface: Outdoor clay\nSingles draw: 12
+ 8\nPrize money: See rolandgarros.com\nCategory: Grand Slam\n\nNotes\nThe
+  only Slam on clay and widely reckoned the most physically demanding - s
+ low courts\, long rallies\, best-of-five. Court Philippe-Chatrier has a 
+ retractable roof.\n\nOrder of play is published the evening before each 
+ day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:roland-garros-2026-d4@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:🎾 Roland-Garros (French Open)
+LOCATION:Stade Roland-Garros\, 2 Av. Gordon Bennett\, 75016 Paris\, Franc
+ e
+GEO:48.847;2.253
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="2 Av. Gordon Bennett, 75
+ 016 Paris, France";X-APPLE-RADIUS=150;X-TITLE="Stade Roland-Garros":geo:
+ 48.847,2.253
+DESCRIPTION:Day 4 of 15 - Wednesday 26 May 2027\n\nVenue: Stade Roland-Ga
+ rros\nAddress: 2 Av. Gordon Bennett\, 75016 Paris\, France\nTournament d
+ ates: Sun 23 May - Sun 6 Jun 2027\nSurface: Outdoor clay\nSingles draw: 
+ 128\nPrize money: See rolandgarros.com\nCategory: Grand Slam\n\nNotes\nT
+ he only Slam on clay and widely reckoned the most physically demanding -
+  slow courts\, long rallies\, best-of-five. Court Philippe-Chatrier has 
+ a retractable roof.\n\nOrder of play is published the evening before eac
+ h day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:roland-garros-2026-d5@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:🎾 Roland-Garros (French Open)
+LOCATION:Stade Roland-Garros\, 2 Av. Gordon Bennett\, 75016 Paris\, Franc
+ e
+GEO:48.847;2.253
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="2 Av. Gordon Bennett, 75
+ 016 Paris, France";X-APPLE-RADIUS=150;X-TITLE="Stade Roland-Garros":geo:
+ 48.847,2.253
+DESCRIPTION:Day 5 of 15 - Thursday 27 May 2027\n\nVenue: Stade Roland-Gar
+ ros\nAddress: 2 Av. Gordon Bennett\, 75016 Paris\, France\nTournament da
+ tes: Sun 23 May - Sun 6 Jun 2027\nSurface: Outdoor clay\nSingles draw: 1
+ 28\nPrize money: See rolandgarros.com\nCategory: Grand Slam\n\nNotes\nTh
+ e only Slam on clay and widely reckoned the most physically demanding - 
+ slow courts\, long rallies\, best-of-five. Court Philippe-Chatrier has a
+  retractable roof.\n\nOrder of play is published the evening before each
+  day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:roland-garros-2026-d6@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:🎾 Roland-Garros (French Open)
+LOCATION:Stade Roland-Garros\, 2 Av. Gordon Bennett\, 75016 Paris\, Franc
+ e
+GEO:48.847;2.253
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="2 Av. Gordon Bennett, 75
+ 016 Paris, France";X-APPLE-RADIUS=150;X-TITLE="Stade Roland-Garros":geo:
+ 48.847,2.253
+DESCRIPTION:Day 6 of 15 - Friday 28 May 2027\n\nVenue: Stade Roland-Garro
+ s\nAddress: 2 Av. Gordon Bennett\, 75016 Paris\, France\nTournament date
+ s: Sun 23 May - Sun 6 Jun 2027\nSurface: Outdoor clay\nSingles draw: 128
+ \nPrize money: See rolandgarros.com\nCategory: Grand Slam\n\nNotes\nThe 
+ only Slam on clay and widely reckoned the most physically demanding - sl
+ ow courts\, long rallies\, best-of-five. Court Philippe-Chatrier has a r
+ etractable roof.\n\nOrder of play is published the evening before each d
+ ay.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:roland-garros-2026-d7@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:🎾 Roland-Garros (French Open)
+LOCATION:Stade Roland-Garros\, 2 Av. Gordon Bennett\, 75016 Paris\, Franc
+ e
+GEO:48.847;2.253
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="2 Av. Gordon Bennett, 75
+ 016 Paris, France";X-APPLE-RADIUS=150;X-TITLE="Stade Roland-Garros":geo:
+ 48.847,2.253
+DESCRIPTION:Day 7 of 15 - Saturday 29 May 2027\n\nVenue: Stade Roland-Gar
+ ros\nAddress: 2 Av. Gordon Bennett\, 75016 Paris\, France\nTournament da
+ tes: Sun 23 May - Sun 6 Jun 2027\nSurface: Outdoor clay\nSingles draw: 1
+ 28\nPrize money: See rolandgarros.com\nCategory: Grand Slam\n\nNotes\nTh
+ e only Slam on clay and widely reckoned the most physically demanding - 
+ slow courts\, long rallies\, best-of-five. Court Philippe-Chatrier has a
+  retractable roof.\n\nOrder of play is published the evening before each
+  day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:roland-garros-2026-d8@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:🎾 Roland-Garros (French Open)
+LOCATION:Stade Roland-Garros\, 2 Av. Gordon Bennett\, 75016 Paris\, Franc
+ e
+GEO:48.847;2.253
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="2 Av. Gordon Bennett, 75
+ 016 Paris, France";X-APPLE-RADIUS=150;X-TITLE="Stade Roland-Garros":geo:
+ 48.847,2.253
+DESCRIPTION:Day 8 of 15 - Sunday 30 May 2027\n\nVenue: Stade Roland-Garro
+ s\nAddress: 2 Av. Gordon Bennett\, 75016 Paris\, France\nTournament date
+ s: Sun 23 May - Sun 6 Jun 2027\nSurface: Outdoor clay\nSingles draw: 128
+ \nPrize money: See rolandgarros.com\nCategory: Grand Slam\n\nNotes\nThe 
+ only Slam on clay and widely reckoned the most physically demanding - sl
+ ow courts\, long rallies\, best-of-five. Court Philippe-Chatrier has a r
+ etractable roof.\n\nOrder of play is published the evening before each d
+ ay.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:roland-garros-2026-d9@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:🎾 Roland-Garros (French Open)
+LOCATION:Stade Roland-Garros\, 2 Av. Gordon Bennett\, 75016 Paris\, Franc
+ e
+GEO:48.847;2.253
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="2 Av. Gordon Bennett, 75
+ 016 Paris, France";X-APPLE-RADIUS=150;X-TITLE="Stade Roland-Garros":geo:
+ 48.847,2.253
+DESCRIPTION:Day 9 of 15 - Monday 31 May 2027\n\nVenue: Stade Roland-Garro
+ s\nAddress: 2 Av. Gordon Bennett\, 75016 Paris\, France\nTournament date
+ s: Sun 23 May - Sun 6 Jun 2027\nSurface: Outdoor clay\nSingles draw: 128
+ \nPrize money: See rolandgarros.com\nCategory: Grand Slam\n\nNotes\nThe 
+ only Slam on clay and widely reckoned the most physically demanding - sl
+ ow courts\, long rallies\, best-of-five. Court Philippe-Chatrier has a r
+ etractable roof.\n\nOrder of play is published the evening before each d
+ ay.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:roland-garros-2026-d10@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:🎾 Roland-Garros (French Open)
+LOCATION:Stade Roland-Garros\, 2 Av. Gordon Bennett\, 75016 Paris\, Franc
+ e
+GEO:48.847;2.253
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="2 Av. Gordon Bennett, 75
+ 016 Paris, France";X-APPLE-RADIUS=150;X-TITLE="Stade Roland-Garros":geo:
+ 48.847,2.253
+DESCRIPTION:Day 10 of 15 - Tuesday 1 June 2027\n\nVenue: Stade Roland-Gar
+ ros\nAddress: 2 Av. Gordon Bennett\, 75016 Paris\, France\nTournament da
+ tes: Sun 23 May - Sun 6 Jun 2027\nSurface: Outdoor clay\nSingles draw: 1
+ 28\nPrize money: See rolandgarros.com\nCategory: Grand Slam\n\nNotes\nTh
+ e only Slam on clay and widely reckoned the most physically demanding - 
+ slow courts\, long rallies\, best-of-five. Court Philippe-Chatrier has a
+  retractable roof.\n\nOrder of play is published the evening before each
+  day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:roland-garros-2026-d11@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:🎾 Roland-Garros (French Open)
+LOCATION:Stade Roland-Garros\, 2 Av. Gordon Bennett\, 75016 Paris\, Franc
+ e
+GEO:48.847;2.253
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="2 Av. Gordon Bennett, 75
+ 016 Paris, France";X-APPLE-RADIUS=150;X-TITLE="Stade Roland-Garros":geo:
+ 48.847,2.253
+DESCRIPTION:Day 11 of 15 - Wednesday 2 June 2027\n\nVenue: Stade Roland-G
+ arros\nAddress: 2 Av. Gordon Bennett\, 75016 Paris\, France\nTournament 
+ dates: Sun 23 May - Sun 6 Jun 2027\nSurface: Outdoor clay\nSingles draw:
+  128\nPrize money: See rolandgarros.com\nCategory: Grand Slam\n\nNotes\n
+ The only Slam on clay and widely reckoned the most physically demanding 
+ - slow courts\, long rallies\, best-of-five. Court Philippe-Chatrier has
+  a retractable roof.\n\nOrder of play is published the evening before ea
+ ch day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:roland-garros-2026-d12@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:🎾 Roland-Garros (French Open)
+LOCATION:Stade Roland-Garros\, 2 Av. Gordon Bennett\, 75016 Paris\, Franc
+ e
+GEO:48.847;2.253
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="2 Av. Gordon Bennett, 75
+ 016 Paris, France";X-APPLE-RADIUS=150;X-TITLE="Stade Roland-Garros":geo:
+ 48.847,2.253
+DESCRIPTION:Women's Semi-Finals - Thursday 3 June 2027\n\nVenue: Stade Ro
+ land-Garros\nAddress: 2 Av. Gordon Bennett\, 75016 Paris\, France\nTourn
+ ament dates: Sun 23 May - Sun 6 Jun 2027\nSurface: Outdoor clay\nSingles
+  draw: 128\nPrize money: See rolandgarros.com\nCategory: Grand Slam\n\nN
+ otes\nThe only Slam on clay and widely reckoned the most physically dema
+ nding - slow courts\, long rallies\, best-of-five. Court Philippe-Chatri
+ er has a retractable roof.\n\nOrder of play is published the evening bef
+ ore each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:roland-garros-2026-d13@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:🎾 Roland-Garros (French Open)
+LOCATION:Stade Roland-Garros\, 2 Av. Gordon Bennett\, 75016 Paris\, Franc
+ e
+GEO:48.847;2.253
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="2 Av. Gordon Bennett, 75
+ 016 Paris, France";X-APPLE-RADIUS=150;X-TITLE="Stade Roland-Garros":geo:
+ 48.847,2.253
+DESCRIPTION:Men's Semi-Finals - Friday 4 June 2027\n\nVenue: Stade Roland
+ -Garros\nAddress: 2 Av. Gordon Bennett\, 75016 Paris\, France\nTournamen
+ t dates: Sun 23 May - Sun 6 Jun 2027\nSurface: Outdoor clay\nSingles dra
+ w: 128\nPrize money: See rolandgarros.com\nCategory: Grand Slam\n\nNotes
+ \nThe only Slam on clay and widely reckoned the most physically demandin
+ g - slow courts\, long rallies\, best-of-five. Court Philippe-Chatrier h
+ as a retractable roof.\n\nOrder of play is published the evening before 
+ each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:roland-garros-2026-d14@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:🎾 Roland-Garros (French Open)
+LOCATION:Stade Roland-Garros\, 2 Av. Gordon Bennett\, 75016 Paris\, Franc
+ e
+GEO:48.847;2.253
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="2 Av. Gordon Bennett, 75
+ 016 Paris, France";X-APPLE-RADIUS=150;X-TITLE="Stade Roland-Garros":geo:
+ 48.847,2.253
+DESCRIPTION:Women's Singles Final - Saturday 5 June 2027\n\nVenue: Stade 
+ Roland-Garros\nAddress: 2 Av. Gordon Bennett\, 75016 Paris\, France\nTou
+ rnament dates: Sun 23 May - Sun 6 Jun 2027\nSurface: Outdoor clay\nSingl
+ es draw: 128\nPrize money: See rolandgarros.com\nCategory: Grand Slam\n\
+ nNotes\nThe only Slam on clay and widely reckoned the most physically de
+ manding - slow courts\, long rallies\, best-of-five. Court Philippe-Chat
+ rier has a retractable roof.\n\nOrder of play is published the evening b
+ efore each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:roland-garros-2026-d15@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:🎾 Roland-Garros (French Open)
+LOCATION:Stade Roland-Garros\, 2 Av. Gordon Bennett\, 75016 Paris\, Franc
+ e
+GEO:48.847;2.253
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="2 Av. Gordon Bennett, 75
+ 016 Paris, France";X-APPLE-RADIUS=150;X-TITLE="Stade Roland-Garros":geo:
+ 48.847,2.253
+DESCRIPTION:Men's Singles Final - Sunday 6 June 2027\n\nVenue: Stade Rola
+ nd-Garros\nAddress: 2 Av. Gordon Bennett\, 75016 Paris\, France\nTournam
+ ent dates: Sun 23 May - Sun 6 Jun 2027\nSurface: Outdoor clay\nSingles d
+ raw: 128\nPrize money: See rolandgarros.com\nCategory: Grand Slam\n\nNot
+ es\nThe only Slam on clay and widely reckoned the most physically demand
+ ing - slow courts\, long rallies\, best-of-five. Court Philippe-Chatrier
+  has a retractable roof.\n\nOrder of play is published the evening befor
+ e each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wimbledon-2026-d1@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:🎾 Wimbledon
+LOCATION:All England Lawn Tennis Club\, Church Rd\, London SW19 5AE\, UK
+GEO:51.434;-0.2144
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Church Rd, London SW19 5
+ AE, UK";X-APPLE-RADIUS=150;X-TITLE="All England Lawn Tennis Club":geo:51
+ .434,-0.2144
+DESCRIPTION:Day 1 of 14 - Monday 28 June 2027\n\nVenue: All England Lawn 
+ Tennis Club\nAddress: Church Rd\, London SW19 5AE\, UK\nTournament dates
+ : Mon 28 Jun - Sun 11 Jul 2027\nSurface: Outdoor grass\nSingles draw: 12
+ 8\nPrize money: See wimbledon.com\nCategory: Grand Slam\n\nNotes\nThe ol
+ dest tennis tournament in the world\, first played in 1877\, and the onl
+ y Slam still on grass. Strict all-white clothing rule. Middle Sunday is 
+ now a full play day rather than a rest day.\n\nThe one on your doorstep 
+ - all matches in UK time.\n\nOrder of play is published the evening befo
+ re each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wimbledon-2026-d2@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:🎾 Wimbledon
+LOCATION:All England Lawn Tennis Club\, Church Rd\, London SW19 5AE\, UK
+GEO:51.434;-0.2144
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Church Rd, London SW19 5
+ AE, UK";X-APPLE-RADIUS=150;X-TITLE="All England Lawn Tennis Club":geo:51
+ .434,-0.2144
+DESCRIPTION:Day 2 of 14 - Tuesday 29 June 2027\n\nVenue: All England Lawn
+  Tennis Club\nAddress: Church Rd\, London SW19 5AE\, UK\nTournament date
+ s: Mon 28 Jun - Sun 11 Jul 2027\nSurface: Outdoor grass\nSingles draw: 1
+ 28\nPrize money: See wimbledon.com\nCategory: Grand Slam\n\nNotes\nThe o
+ ldest tennis tournament in the world\, first played in 1877\, and the on
+ ly Slam still on grass. Strict all-white clothing rule. Middle Sunday is
+  now a full play day rather than a rest day.\n\nThe one on your doorstep
+  - all matches in UK time.\n\nOrder of play is published the evening bef
+ ore each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wimbledon-2026-d3@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:🎾 Wimbledon
+LOCATION:All England Lawn Tennis Club\, Church Rd\, London SW19 5AE\, UK
+GEO:51.434;-0.2144
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Church Rd, London SW19 5
+ AE, UK";X-APPLE-RADIUS=150;X-TITLE="All England Lawn Tennis Club":geo:51
+ .434,-0.2144
+DESCRIPTION:Day 3 of 14 - Wednesday 30 June 2027\n\nVenue: All England La
+ wn Tennis Club\nAddress: Church Rd\, London SW19 5AE\, UK\nTournament da
+ tes: Mon 28 Jun - Sun 11 Jul 2027\nSurface: Outdoor grass\nSingles draw:
+  128\nPrize money: See wimbledon.com\nCategory: Grand Slam\n\nNotes\nThe
+  oldest tennis tournament in the world\, first played in 1877\, and the 
+ only Slam still on grass. Strict all-white clothing rule. Middle Sunday 
+ is now a full play day rather than a rest day.\n\nThe one on your doorst
+ ep - all matches in UK time.\n\nOrder of play is published the evening b
+ efore each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wimbledon-2026-d4@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:🎾 Wimbledon
+LOCATION:All England Lawn Tennis Club\, Church Rd\, London SW19 5AE\, UK
+GEO:51.434;-0.2144
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Church Rd, London SW19 5
+ AE, UK";X-APPLE-RADIUS=150;X-TITLE="All England Lawn Tennis Club":geo:51
+ .434,-0.2144
+DESCRIPTION:Day 4 of 14 - Thursday 1 July 2027\n\nVenue: All England Lawn
+  Tennis Club\nAddress: Church Rd\, London SW19 5AE\, UK\nTournament date
+ s: Mon 28 Jun - Sun 11 Jul 2027\nSurface: Outdoor grass\nSingles draw: 1
+ 28\nPrize money: See wimbledon.com\nCategory: Grand Slam\n\nNotes\nThe o
+ ldest tennis tournament in the world\, first played in 1877\, and the on
+ ly Slam still on grass. Strict all-white clothing rule. Middle Sunday is
+  now a full play day rather than a rest day.\n\nThe one on your doorstep
+  - all matches in UK time.\n\nOrder of play is published the evening bef
+ ore each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wimbledon-2026-d5@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:🎾 Wimbledon
+LOCATION:All England Lawn Tennis Club\, Church Rd\, London SW19 5AE\, UK
+GEO:51.434;-0.2144
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Church Rd, London SW19 5
+ AE, UK";X-APPLE-RADIUS=150;X-TITLE="All England Lawn Tennis Club":geo:51
+ .434,-0.2144
+DESCRIPTION:Day 5 of 14 - Friday 2 July 2027\n\nVenue: All England Lawn T
+ ennis Club\nAddress: Church Rd\, London SW19 5AE\, UK\nTournament dates:
+  Mon 28 Jun - Sun 11 Jul 2027\nSurface: Outdoor grass\nSingles draw: 128
+ \nPrize money: See wimbledon.com\nCategory: Grand Slam\n\nNotes\nThe old
+ est tennis tournament in the world\, first played in 1877\, and the only
+  Slam still on grass. Strict all-white clothing rule. Middle Sunday is n
+ ow a full play day rather than a rest day.\n\nThe one on your doorstep -
+  all matches in UK time.\n\nOrder of play is published the evening befor
+ e each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wimbledon-2026-d6@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:🎾 Wimbledon
+LOCATION:All England Lawn Tennis Club\, Church Rd\, London SW19 5AE\, UK
+GEO:51.434;-0.2144
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Church Rd, London SW19 5
+ AE, UK";X-APPLE-RADIUS=150;X-TITLE="All England Lawn Tennis Club":geo:51
+ .434,-0.2144
+DESCRIPTION:Day 6 of 14 - Saturday 3 July 2027\n\nVenue: All England Lawn
+  Tennis Club\nAddress: Church Rd\, London SW19 5AE\, UK\nTournament date
+ s: Mon 28 Jun - Sun 11 Jul 2027\nSurface: Outdoor grass\nSingles draw: 1
+ 28\nPrize money: See wimbledon.com\nCategory: Grand Slam\n\nNotes\nThe o
+ ldest tennis tournament in the world\, first played in 1877\, and the on
+ ly Slam still on grass. Strict all-white clothing rule. Middle Sunday is
+  now a full play day rather than a rest day.\n\nThe one on your doorstep
+  - all matches in UK time.\n\nOrder of play is published the evening bef
+ ore each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wimbledon-2026-d7@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:🎾 Wimbledon
+LOCATION:All England Lawn Tennis Club\, Church Rd\, London SW19 5AE\, UK
+GEO:51.434;-0.2144
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Church Rd, London SW19 5
+ AE, UK";X-APPLE-RADIUS=150;X-TITLE="All England Lawn Tennis Club":geo:51
+ .434,-0.2144
+DESCRIPTION:Day 7 of 14 - Sunday 4 July 2027\n\nVenue: All England Lawn T
+ ennis Club\nAddress: Church Rd\, London SW19 5AE\, UK\nTournament dates:
+  Mon 28 Jun - Sun 11 Jul 2027\nSurface: Outdoor grass\nSingles draw: 128
+ \nPrize money: See wimbledon.com\nCategory: Grand Slam\n\nNotes\nThe old
+ est tennis tournament in the world\, first played in 1877\, and the only
+  Slam still on grass. Strict all-white clothing rule. Middle Sunday is n
+ ow a full play day rather than a rest day.\n\nThe one on your doorstep -
+  all matches in UK time.\n\nOrder of play is published the evening befor
+ e each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wimbledon-2026-d8@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:🎾 Wimbledon
+LOCATION:All England Lawn Tennis Club\, Church Rd\, London SW19 5AE\, UK
+GEO:51.434;-0.2144
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Church Rd, London SW19 5
+ AE, UK";X-APPLE-RADIUS=150;X-TITLE="All England Lawn Tennis Club":geo:51
+ .434,-0.2144
+DESCRIPTION:Day 8 of 14 - Monday 5 July 2027\n\nVenue: All England Lawn T
+ ennis Club\nAddress: Church Rd\, London SW19 5AE\, UK\nTournament dates:
+  Mon 28 Jun - Sun 11 Jul 2027\nSurface: Outdoor grass\nSingles draw: 128
+ \nPrize money: See wimbledon.com\nCategory: Grand Slam\n\nNotes\nThe old
+ est tennis tournament in the world\, first played in 1877\, and the only
+  Slam still on grass. Strict all-white clothing rule. Middle Sunday is n
+ ow a full play day rather than a rest day.\n\nThe one on your doorstep -
+  all matches in UK time.\n\nOrder of play is published the evening befor
+ e each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wimbledon-2026-d9@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:🎾 Wimbledon
+LOCATION:All England Lawn Tennis Club\, Church Rd\, London SW19 5AE\, UK
+GEO:51.434;-0.2144
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Church Rd, London SW19 5
+ AE, UK";X-APPLE-RADIUS=150;X-TITLE="All England Lawn Tennis Club":geo:51
+ .434,-0.2144
+DESCRIPTION:Day 9 of 14 - Tuesday 6 July 2027\n\nVenue: All England Lawn 
+ Tennis Club\nAddress: Church Rd\, London SW19 5AE\, UK\nTournament dates
+ : Mon 28 Jun - Sun 11 Jul 2027\nSurface: Outdoor grass\nSingles draw: 12
+ 8\nPrize money: See wimbledon.com\nCategory: Grand Slam\n\nNotes\nThe ol
+ dest tennis tournament in the world\, first played in 1877\, and the onl
+ y Slam still on grass. Strict all-white clothing rule. Middle Sunday is 
+ now a full play day rather than a rest day.\n\nThe one on your doorstep 
+ - all matches in UK time.\n\nOrder of play is published the evening befo
+ re each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wimbledon-2026-d10@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:🎾 Wimbledon
+LOCATION:All England Lawn Tennis Club\, Church Rd\, London SW19 5AE\, UK
+GEO:51.434;-0.2144
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Church Rd, London SW19 5
+ AE, UK";X-APPLE-RADIUS=150;X-TITLE="All England Lawn Tennis Club":geo:51
+ .434,-0.2144
+DESCRIPTION:Day 10 of 14 - Wednesday 7 July 2027\n\nVenue: All England La
+ wn Tennis Club\nAddress: Church Rd\, London SW19 5AE\, UK\nTournament da
+ tes: Mon 28 Jun - Sun 11 Jul 2027\nSurface: Outdoor grass\nSingles draw:
+  128\nPrize money: See wimbledon.com\nCategory: Grand Slam\n\nNotes\nThe
+  oldest tennis tournament in the world\, first played in 1877\, and the 
+ only Slam still on grass. Strict all-white clothing rule. Middle Sunday 
+ is now a full play day rather than a rest day.\n\nThe one on your doorst
+ ep - all matches in UK time.\n\nOrder of play is published the evening b
+ efore each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wimbledon-2026-d11@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:🎾 Wimbledon
+LOCATION:All England Lawn Tennis Club\, Church Rd\, London SW19 5AE\, UK
+GEO:51.434;-0.2144
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Church Rd, London SW19 5
+ AE, UK";X-APPLE-RADIUS=150;X-TITLE="All England Lawn Tennis Club":geo:51
+ .434,-0.2144
+DESCRIPTION:Women's Semi-Finals - Thursday 8 July 2027\n\nVenue: All Engl
+ and Lawn Tennis Club\nAddress: Church Rd\, London SW19 5AE\, UK\nTournam
+ ent dates: Mon 28 Jun - Sun 11 Jul 2027\nSurface: Outdoor grass\nSingles
+  draw: 128\nPrize money: See wimbledon.com\nCategory: Grand Slam\n\nNote
+ s\nThe oldest tennis tournament in the world\, first played in 1877\, an
+ d the only Slam still on grass. Strict all-white clothing rule. Middle S
+ unday is now a full play day rather than a rest day.\n\nThe one on your 
+ doorstep - all matches in UK time.\n\nOrder of play is published the eve
+ ning before each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wimbledon-2026-d12@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:🎾 Wimbledon
+LOCATION:All England Lawn Tennis Club\, Church Rd\, London SW19 5AE\, UK
+GEO:51.434;-0.2144
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Church Rd, London SW19 5
+ AE, UK";X-APPLE-RADIUS=150;X-TITLE="All England Lawn Tennis Club":geo:51
+ .434,-0.2144
+DESCRIPTION:Men's Semi-Finals - Friday 9 July 2027\n\nVenue: All England 
+ Lawn Tennis Club\nAddress: Church Rd\, London SW19 5AE\, UK\nTournament 
+ dates: Mon 28 Jun - Sun 11 Jul 2027\nSurface: Outdoor grass\nSingles dra
+ w: 128\nPrize money: See wimbledon.com\nCategory: Grand Slam\n\nNotes\nT
+ he oldest tennis tournament in the world\, first played in 1877\, and th
+ e only Slam still on grass. Strict all-white clothing rule. Middle Sunda
+ y is now a full play day rather than a rest day.\n\nThe one on your door
+ step - all matches in UK time.\n\nOrder of play is published the evening
+  before each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wimbledon-2026-d13@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:🎾 Wimbledon
+LOCATION:All England Lawn Tennis Club\, Church Rd\, London SW19 5AE\, UK
+GEO:51.434;-0.2144
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Church Rd, London SW19 5
+ AE, UK";X-APPLE-RADIUS=150;X-TITLE="All England Lawn Tennis Club":geo:51
+ .434,-0.2144
+DESCRIPTION:Women's Singles Final - Saturday 10 July 2027\n\nVenue: All E
+ ngland Lawn Tennis Club\nAddress: Church Rd\, London SW19 5AE\, UK\nTour
+ nament dates: Mon 28 Jun - Sun 11 Jul 2027\nSurface: Outdoor grass\nSing
+ les draw: 128\nPrize money: See wimbledon.com\nCategory: Grand Slam\n\nN
+ otes\nThe oldest tennis tournament in the world\, first played in 1877\,
+  and the only Slam still on grass. Strict all-white clothing rule. Middl
+ e Sunday is now a full play day rather than a rest day.\n\nThe one on yo
+ ur doorstep - all matches in UK time.\n\nOrder of play is published the 
+ evening before each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wimbledon-2026-d14@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:🎾 Wimbledon
+LOCATION:All England Lawn Tennis Club\, Church Rd\, London SW19 5AE\, UK
+GEO:51.434;-0.2144
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Church Rd, London SW19 5
+ AE, UK";X-APPLE-RADIUS=150;X-TITLE="All England Lawn Tennis Club":geo:51
+ .434,-0.2144
+DESCRIPTION:Men's Singles Final - Sunday 11 July 2027\n\nVenue: All Engla
+ nd Lawn Tennis Club\nAddress: Church Rd\, London SW19 5AE\, UK\nTourname
+ nt dates: Mon 28 Jun - Sun 11 Jul 2027\nSurface: Outdoor grass\nSingles 
+ draw: 128\nPrize money: See wimbledon.com\nCategory: Grand Slam\n\nNotes
+ \nThe oldest tennis tournament in the world\, first played in 1877\, and
+  the only Slam still on grass. Strict all-white clothing rule. Middle Su
+ nday is now a full play day rather than a rest day.\n\nThe one on your d
+ oorstep - all matches in UK time.\n\nOrder of play is published the even
+ ing before each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-open-2027-2026-d1@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:🎾 US Open
+LOCATION:USTA Billie Jean King National Tennis Center\, Flushing Meadows 
+ Corona Park\, Flushing\, NY 11368\, USA
+GEO:40.749998;-73.846996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Flushing Meadows Corona 
+ Park, Flushing, NY 11368, USA";X-APPLE-RADIUS=150;X-TITLE="USTA Billie J
+ ean King National Tennis Center":geo:40.749998,-73.846996
+DESCRIPTION:Day 1 of 15 - Sunday 29 August 2027\n\nVenue: USTA Billie Jea
+ n King National Tennis Center\nAddress: Flushing Meadows Corona Park\, F
+ lushing\, NY 11368\, USA\nTournament dates: Sun 29 Aug - Sun 12 Sep 2027
+ \nSurface: Outdoor hard (Laykold)\nSingles draw: 128\nPrize money: See u
+ sopen.org\nCategory: Grand Slam\n\nNotes\nFinal Slam of the season and t
+ he loudest. Night sessions on Arthur Ashe start 7:00pm ET\, which is mid
+ night in the UK.\n\nOrder of play is published the evening before each d
+ ay.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-open-2027-2026-d2@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:🎾 US Open
+LOCATION:USTA Billie Jean King National Tennis Center\, Flushing Meadows 
+ Corona Park\, Flushing\, NY 11368\, USA
+GEO:40.749998;-73.846996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Flushing Meadows Corona 
+ Park, Flushing, NY 11368, USA";X-APPLE-RADIUS=150;X-TITLE="USTA Billie J
+ ean King National Tennis Center":geo:40.749998,-73.846996
+DESCRIPTION:Day 2 of 15 - Monday 30 August 2027\n\nVenue: USTA Billie Jea
+ n King National Tennis Center\nAddress: Flushing Meadows Corona Park\, F
+ lushing\, NY 11368\, USA\nTournament dates: Sun 29 Aug - Sun 12 Sep 2027
+ \nSurface: Outdoor hard (Laykold)\nSingles draw: 128\nPrize money: See u
+ sopen.org\nCategory: Grand Slam\n\nNotes\nFinal Slam of the season and t
+ he loudest. Night sessions on Arthur Ashe start 7:00pm ET\, which is mid
+ night in the UK.\n\nOrder of play is published the evening before each d
+ ay.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-open-2027-2026-d3@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:🎾 US Open
+LOCATION:USTA Billie Jean King National Tennis Center\, Flushing Meadows 
+ Corona Park\, Flushing\, NY 11368\, USA
+GEO:40.749998;-73.846996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Flushing Meadows Corona 
+ Park, Flushing, NY 11368, USA";X-APPLE-RADIUS=150;X-TITLE="USTA Billie J
+ ean King National Tennis Center":geo:40.749998,-73.846996
+DESCRIPTION:Day 3 of 15 - Tuesday 31 August 2027\n\nVenue: USTA Billie Je
+ an King National Tennis Center\nAddress: Flushing Meadows Corona Park\, 
+ Flushing\, NY 11368\, USA\nTournament dates: Sun 29 Aug - Sun 12 Sep 202
+ 7\nSurface: Outdoor hard (Laykold)\nSingles draw: 128\nPrize money: See 
+ usopen.org\nCategory: Grand Slam\n\nNotes\nFinal Slam of the season and 
+ the loudest. Night sessions on Arthur Ashe start 7:00pm ET\, which is mi
+ dnight in the UK.\n\nOrder of play is published the evening before each 
+ day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-open-2027-2026-d4@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:🎾 US Open
+LOCATION:USTA Billie Jean King National Tennis Center\, Flushing Meadows 
+ Corona Park\, Flushing\, NY 11368\, USA
+GEO:40.749998;-73.846996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Flushing Meadows Corona 
+ Park, Flushing, NY 11368, USA";X-APPLE-RADIUS=150;X-TITLE="USTA Billie J
+ ean King National Tennis Center":geo:40.749998,-73.846996
+DESCRIPTION:Day 4 of 15 - Wednesday 1 September 2027\n\nVenue: USTA Billi
+ e Jean King National Tennis Center\nAddress: Flushing Meadows Corona Par
+ k\, Flushing\, NY 11368\, USA\nTournament dates: Sun 29 Aug - Sun 12 Sep
+  2027\nSurface: Outdoor hard (Laykold)\nSingles draw: 128\nPrize money: 
+ See usopen.org\nCategory: Grand Slam\n\nNotes\nFinal Slam of the season 
+ and the loudest. Night sessions on Arthur Ashe start 7:00pm ET\, which i
+ s midnight in the UK.\n\nOrder of play is published the evening before e
+ ach day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-open-2027-2026-d5@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:🎾 US Open
+LOCATION:USTA Billie Jean King National Tennis Center\, Flushing Meadows 
+ Corona Park\, Flushing\, NY 11368\, USA
+GEO:40.749998;-73.846996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Flushing Meadows Corona 
+ Park, Flushing, NY 11368, USA";X-APPLE-RADIUS=150;X-TITLE="USTA Billie J
+ ean King National Tennis Center":geo:40.749998,-73.846996
+DESCRIPTION:Day 5 of 15 - Thursday 2 September 2027\n\nVenue: USTA Billie
+  Jean King National Tennis Center\nAddress: Flushing Meadows Corona Park
+ \, Flushing\, NY 11368\, USA\nTournament dates: Sun 29 Aug - Sun 12 Sep 
+ 2027\nSurface: Outdoor hard (Laykold)\nSingles draw: 128\nPrize money: S
+ ee usopen.org\nCategory: Grand Slam\n\nNotes\nFinal Slam of the season a
+ nd the loudest. Night sessions on Arthur Ashe start 7:00pm ET\, which is
+  midnight in the UK.\n\nOrder of play is published the evening before ea
+ ch day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-open-2027-2026-d6@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:🎾 US Open
+LOCATION:USTA Billie Jean King National Tennis Center\, Flushing Meadows 
+ Corona Park\, Flushing\, NY 11368\, USA
+GEO:40.749998;-73.846996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Flushing Meadows Corona 
+ Park, Flushing, NY 11368, USA";X-APPLE-RADIUS=150;X-TITLE="USTA Billie J
+ ean King National Tennis Center":geo:40.749998,-73.846996
+DESCRIPTION:Day 6 of 15 - Friday 3 September 2027\n\nVenue: USTA Billie J
+ ean King National Tennis Center\nAddress: Flushing Meadows Corona Park\,
+  Flushing\, NY 11368\, USA\nTournament dates: Sun 29 Aug - Sun 12 Sep 20
+ 27\nSurface: Outdoor hard (Laykold)\nSingles draw: 128\nPrize money: See
+  usopen.org\nCategory: Grand Slam\n\nNotes\nFinal Slam of the season and
+  the loudest. Night sessions on Arthur Ashe start 7:00pm ET\, which is m
+ idnight in the UK.\n\nOrder of play is published the evening before each
+  day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-open-2027-2026-d7@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:🎾 US Open
+LOCATION:USTA Billie Jean King National Tennis Center\, Flushing Meadows 
+ Corona Park\, Flushing\, NY 11368\, USA
+GEO:40.749998;-73.846996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Flushing Meadows Corona 
+ Park, Flushing, NY 11368, USA";X-APPLE-RADIUS=150;X-TITLE="USTA Billie J
+ ean King National Tennis Center":geo:40.749998,-73.846996
+DESCRIPTION:Day 7 of 15 - Saturday 4 September 2027\n\nVenue: USTA Billie
+  Jean King National Tennis Center\nAddress: Flushing Meadows Corona Park
+ \, Flushing\, NY 11368\, USA\nTournament dates: Sun 29 Aug - Sun 12 Sep 
+ 2027\nSurface: Outdoor hard (Laykold)\nSingles draw: 128\nPrize money: S
+ ee usopen.org\nCategory: Grand Slam\n\nNotes\nFinal Slam of the season a
+ nd the loudest. Night sessions on Arthur Ashe start 7:00pm ET\, which is
+  midnight in the UK.\n\nOrder of play is published the evening before ea
+ ch day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-open-2027-2026-d8@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:🎾 US Open
+LOCATION:USTA Billie Jean King National Tennis Center\, Flushing Meadows 
+ Corona Park\, Flushing\, NY 11368\, USA
+GEO:40.749998;-73.846996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Flushing Meadows Corona 
+ Park, Flushing, NY 11368, USA";X-APPLE-RADIUS=150;X-TITLE="USTA Billie J
+ ean King National Tennis Center":geo:40.749998,-73.846996
+DESCRIPTION:Day 8 of 15 - Sunday 5 September 2027\n\nVenue: USTA Billie J
+ ean King National Tennis Center\nAddress: Flushing Meadows Corona Park\,
+  Flushing\, NY 11368\, USA\nTournament dates: Sun 29 Aug - Sun 12 Sep 20
+ 27\nSurface: Outdoor hard (Laykold)\nSingles draw: 128\nPrize money: See
+  usopen.org\nCategory: Grand Slam\n\nNotes\nFinal Slam of the season and
+  the loudest. Night sessions on Arthur Ashe start 7:00pm ET\, which is m
+ idnight in the UK.\n\nOrder of play is published the evening before each
+  day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-open-2027-2026-d9@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:🎾 US Open
+LOCATION:USTA Billie Jean King National Tennis Center\, Flushing Meadows 
+ Corona Park\, Flushing\, NY 11368\, USA
+GEO:40.749998;-73.846996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Flushing Meadows Corona 
+ Park, Flushing, NY 11368, USA";X-APPLE-RADIUS=150;X-TITLE="USTA Billie J
+ ean King National Tennis Center":geo:40.749998,-73.846996
+DESCRIPTION:Day 9 of 15 - Monday 6 September 2027\n\nVenue: USTA Billie J
+ ean King National Tennis Center\nAddress: Flushing Meadows Corona Park\,
+  Flushing\, NY 11368\, USA\nTournament dates: Sun 29 Aug - Sun 12 Sep 20
+ 27\nSurface: Outdoor hard (Laykold)\nSingles draw: 128\nPrize money: See
+  usopen.org\nCategory: Grand Slam\n\nNotes\nFinal Slam of the season and
+  the loudest. Night sessions on Arthur Ashe start 7:00pm ET\, which is m
+ idnight in the UK.\n\nOrder of play is published the evening before each
+  day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-open-2027-2026-d10@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:🎾 US Open
+LOCATION:USTA Billie Jean King National Tennis Center\, Flushing Meadows 
+ Corona Park\, Flushing\, NY 11368\, USA
+GEO:40.749998;-73.846996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Flushing Meadows Corona 
+ Park, Flushing, NY 11368, USA";X-APPLE-RADIUS=150;X-TITLE="USTA Billie J
+ ean King National Tennis Center":geo:40.749998,-73.846996
+DESCRIPTION:Day 10 of 15 - Tuesday 7 September 2027\n\nVenue: USTA Billie
+  Jean King National Tennis Center\nAddress: Flushing Meadows Corona Park
+ \, Flushing\, NY 11368\, USA\nTournament dates: Sun 29 Aug - Sun 12 Sep 
+ 2027\nSurface: Outdoor hard (Laykold)\nSingles draw: 128\nPrize money: S
+ ee usopen.org\nCategory: Grand Slam\n\nNotes\nFinal Slam of the season a
+ nd the loudest. Night sessions on Arthur Ashe start 7:00pm ET\, which is
+  midnight in the UK.\n\nOrder of play is published the evening before ea
+ ch day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-open-2027-2026-d11@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:🎾 US Open
+LOCATION:USTA Billie Jean King National Tennis Center\, Flushing Meadows 
+ Corona Park\, Flushing\, NY 11368\, USA
+GEO:40.749998;-73.846996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Flushing Meadows Corona 
+ Park, Flushing, NY 11368, USA";X-APPLE-RADIUS=150;X-TITLE="USTA Billie J
+ ean King National Tennis Center":geo:40.749998,-73.846996
+DESCRIPTION:Day 11 of 15 - Wednesday 8 September 2027\n\nVenue: USTA Bill
+ ie Jean King National Tennis Center\nAddress: Flushing Meadows Corona Pa
+ rk\, Flushing\, NY 11368\, USA\nTournament dates: Sun 29 Aug - Sun 12 Se
+ p 2027\nSurface: Outdoor hard (Laykold)\nSingles draw: 128\nPrize money:
+  See usopen.org\nCategory: Grand Slam\n\nNotes\nFinal Slam of the season
+  and the loudest. Night sessions on Arthur Ashe start 7:00pm ET\, which 
+ is midnight in the UK.\n\nOrder of play is published the evening before 
+ each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-open-2027-2026-d12@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:🎾 US Open
+LOCATION:USTA Billie Jean King National Tennis Center\, Flushing Meadows 
+ Corona Park\, Flushing\, NY 11368\, USA
+GEO:40.749998;-73.846996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Flushing Meadows Corona 
+ Park, Flushing, NY 11368, USA";X-APPLE-RADIUS=150;X-TITLE="USTA Billie J
+ ean King National Tennis Center":geo:40.749998,-73.846996
+DESCRIPTION:Women's Semi-Finals - Thursday 9 September 2027\n\nVenue: UST
+ A Billie Jean King National Tennis Center\nAddress: Flushing Meadows Cor
+ ona Park\, Flushing\, NY 11368\, USA\nTournament dates: Sun 29 Aug - Sun
+  12 Sep 2027\nSurface: Outdoor hard (Laykold)\nSingles draw: 128\nPrize 
+ money: See usopen.org\nCategory: Grand Slam\n\nNotes\nFinal Slam of the 
+ season and the loudest. Night sessions on Arthur Ashe start 7:00pm ET\, 
+ which is midnight in the UK.\n\nOrder of play is published the evening b
+ efore each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-open-2027-2026-d13@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:🎾 US Open
+LOCATION:USTA Billie Jean King National Tennis Center\, Flushing Meadows 
+ Corona Park\, Flushing\, NY 11368\, USA
+GEO:40.749998;-73.846996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Flushing Meadows Corona 
+ Park, Flushing, NY 11368, USA";X-APPLE-RADIUS=150;X-TITLE="USTA Billie J
+ ean King National Tennis Center":geo:40.749998,-73.846996
+DESCRIPTION:Men's Semi-Finals - Friday 10 September 2027\n\nVenue: USTA B
+ illie Jean King National Tennis Center\nAddress: Flushing Meadows Corona
+  Park\, Flushing\, NY 11368\, USA\nTournament dates: Sun 29 Aug - Sun 12
+  Sep 2027\nSurface: Outdoor hard (Laykold)\nSingles draw: 128\nPrize mon
+ ey: See usopen.org\nCategory: Grand Slam\n\nNotes\nFinal Slam of the sea
+ son and the loudest. Night sessions on Arthur Ashe start 7:00pm ET\, whi
+ ch is midnight in the UK.\n\nOrder of play is published the evening befo
+ re each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-open-2027-2026-d14@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:🎾 US Open
+LOCATION:USTA Billie Jean King National Tennis Center\, Flushing Meadows 
+ Corona Park\, Flushing\, NY 11368\, USA
+GEO:40.749998;-73.846996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Flushing Meadows Corona 
+ Park, Flushing, NY 11368, USA";X-APPLE-RADIUS=150;X-TITLE="USTA Billie J
+ ean King National Tennis Center":geo:40.749998,-73.846996
+DESCRIPTION:Women's Singles Final - Saturday 11 September 2027\n\nVenue: 
+ USTA Billie Jean King National Tennis Center\nAddress: Flushing Meadows 
+ Corona Park\, Flushing\, NY 11368\, USA\nTournament dates: Sun 29 Aug - 
+ Sun 12 Sep 2027\nSurface: Outdoor hard (Laykold)\nSingles draw: 128\nPri
+ ze money: See usopen.org\nCategory: Grand Slam\n\nNotes\nFinal Slam of t
+ he season and the loudest. Night sessions on Arthur Ashe start 7:00pm ET
+ \, which is midnight in the UK.\n\nOrder of play is published the evenin
+ g before each day.\n
+CATEGORIES:Tennis,Grand Slam
+URL:https://www.atptour.com/en/tournaments
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-open-2027-2026-d15@claude-tennis-cal
+DTSTAMP:20260727T090000Z
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:🎾 US Open
+LOCATION:USTA Billie Jean King National Tennis Center\, Flushing Meadows 
+ Corona Park\, Flushing\, NY 11368\, USA
+GEO:40.749998;-73.846996
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="Flushing Meadows Corona 
+ Park, Flushing, NY 11368, USA";X-APPLE-RADIUS=150;X-TITLE="USTA Billie J
+ ean King National Tennis Center":geo:40.749998,-73.846996
+DESCRIPTION:Men's Singles Final - Sunday 12 September 2027\n\nVenue: USTA
+  Billie Jean King National Tennis Center\nAddress: Flushing Meadows Coro
+ na Park\, Flushing\, NY 11368\, USA\nTournament dates: Sun 29 Aug - Sun 
+ 12 Sep 2027\nSurface: Outdoor hard (Laykold)\nSingles draw: 128\nPrize m
+ oney: See usopen.org\nCategory: Grand Slam\n\nNotes\nFinal Slam of the s
+ eason and the loudest. Night sessions on Arthur Ashe start 7:00pm ET\, w
+ hich is midnight in the UK.\n\nOrder of play is published the evening be
+ fore each day.\n
+CATEGORIES:Tennis,Grand Slam
 URL:https://www.atptour.com/en/tournaments
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
