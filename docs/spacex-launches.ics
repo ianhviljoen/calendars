@@ -9,57 +9,36 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
  included\; vaguely scheduled missions are left out. Times UTC.
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:launch-0448d030-5175-4c1f-bd0b-4f3f87072921@claude-launches
-DTSTAMP:20260804T123020Z
-DTSTART:20260804T162939Z
-DTEND:20260804T172939Z
-SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 17-53
-LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:Falcon 9 Block 5 | Starlink Group 17-53\n\nStatus\nGo for lau
- nch - date and time confirmed\n\nLift-off\n16:29 UTC\, Tuesday 4 August 
- 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg S
- FB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 24 satell
- ites for the Starlink mega-constellation - SpaceX's project for space-ba
- sed Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY - wea
- ther\, technical holds and range availability move them\, often by days 
- and sometimes by hours on the day itself. This calendar rebuilds daily\,
-  but always check before setting an alarm.
-CATEGORIES:SpaceX,Falcon 9
-URL:https://nextspaceflight.com/launches/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:launch-56a85c82-ea71-449b-828c-b583f6f4a18b@claude-launches
-DTSTAMP:20260804T123020Z
-DTSTART:20260805T074200Z
-DTEND:20260805T084200Z
+DTSTAMP:20260805T122705Z
+DTSTART:20260805T074900Z
+DTEND:20260805T084900Z
 SUMMARY:🚀 Falcon 9 Block 5 | BlueBird 11-13 (Block 2 #6-8)
 LOCATION:Space Launch Complex 40\, Cape Canaveral SFS\, FL\, USA
-DESCRIPTION:Falcon 9 Block 5 | BlueBird 11-13 (Block 2 #6-8)\n\nStatus\nG
- o for launch - date and time confirmed\n\nLift-off\n07:42 UTC\, Wednesda
- y 5 August 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 40\, C
- ape Canaveral SFS\, FL\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nAST S
- paceMobile’s Block 2 BlueBird satellites are designed to deliver up to
-  10 times the bandwidth capacity of the BlueBird Block 1 satellites\, re
- quired to achieve 24/7 continuous cellular broadband service coverage in
-  the United States\, with beams designed to support a capacity of up to 
- 40 MHz\, enabling peak data transmission speeds up to 120 Mbps\, support
- ing voice\, full data and video applications. The Block 2 BlueBirds\, fe
- aturing as large as 2400 square foot communications arrays\, will be the
-  largest satellites ever commercially deployed in Low Earth orbit once l
- aunched. This launch will...\n\nLAUNCH DATES SLIP CONSTANTLY - weather\,
-  technical holds and range availability move them\, often by days and so
- metimes by hours on the day itself. This calendar rebuilds daily\, but a
- lways check before setting an alarm.
+DESCRIPTION:Falcon 9 Block 5 | BlueBird 11-13 (Block 2 #6-8)\n\nStatus\nI
+ n flight\n\nLift-off\n07:49 UTC\, Wednesday 5 August 2026\n\nProvider\nS
+ paceX\n\nSite\nSpace Launch Complex 40\, Cape Canaveral SFS\, FL\, USA\n
+ \nOrbit\nLow Earth Orbit\n\nMission\nAST SpaceMobile’s Block 2 BlueBir
+ d satellites are designed to deliver up to 10 times the bandwidth capaci
+ ty of the BlueBird Block 1 satellites\, required to achieve 24/7 continu
+ ous cellular broadband service coverage in the United States\, with beam
+ s designed to support a capacity of up to 40 MHz\, enabling peak data tr
+ ansmission speeds up to 120 Mbps\, supporting voice\, full data and vide
+ o applications. The Block 2 BlueBirds\, featuring as large as 2400 squar
+ e foot communications arrays\, will be the largest satellites ever comme
+ rcially deployed in Low Earth orbit once launched. This launch will...\n
+ \nLAUNCH DATES SLIP CONSTANTLY - weather\, technical holds and range ava
+ ilability move them\, often by days and sometimes by hours on the day it
+ self. This calendar rebuilds daily\, but always check before setting an 
+ alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-e4316d4c-9eb8-4a18-9b0d-4307c3970ef6@claude-launches
-DTSTAMP:20260804T123020Z
+DTSTAMP:20260805T122705Z
 DTSTART:20260808T140000Z
 DTEND:20260808T150000Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 17-38
@@ -80,7 +59,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-36ab6924-bb36-416a-b71d-cda9e88004be@claude-launches
-DTSTAMP:20260804T123020Z
+DTSTAMP:20260805T122705Z
 DTSTART:20260810T144900Z
 DTEND:20260810T154900Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 10-19
@@ -101,7 +80,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-6f94dbe4-1318-4ffb-a53d-351bbdcba733@claude-launches
-DTSTAMP:20260804T123020Z
+DTSTAMP:20260805T122705Z
 DTSTART:20260812T020000Z
 DTEND:20260812T030000Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 17-49
@@ -122,7 +101,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-be8b4b0d-1989-48a5-a96d-e8e4d59ed8b3@claude-launches
-DTSTAMP:20260804T123020Z
+DTSTAMP:20260805T122705Z
 DTSTART:20260816T011200Z
 DTEND:20260816T021200Z
 SUMMARY:🚀 Falcon 9 Block 5 | Globalstar 2-R Mission 1 (x 9)
@@ -148,7 +127,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-521f3a1c-f977-4306-9b7f-495858719adf@claude-launches
-DTSTAMP:20260804T123020Z
+DTSTAMP:20260805T122705Z
 DTSTART:20260830T112600Z
 DTEND:20260830T122600Z
 SUMMARY:🚀 Falcon Heavy | Nancy Grace Roman Space Telescope
@@ -176,7 +155,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-18441371-8b2e-457c-afb5-1ec1b11ab630@claude-launches
-DTSTAMP:20260804T123020Z
+DTSTAMP:20260805T122705Z
 DTSTART:20260912T223400Z
 DTEND:20260912T233400Z
 SUMMARY:🚀 Falcon 9 Block 5 | Crew-13
