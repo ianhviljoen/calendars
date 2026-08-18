@@ -10,13 +10,13 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-f6958a77-37bb-4559-a108-40ba0ff9e34a@claude-launches
-DTSTAMP:20260817T080717Z
-DTSTART:20260819T020000Z
-DTEND:20260819T030000Z
+DTSTAMP:20260818T075811Z
+DTSTART:20260819T034508Z
+DTEND:20260819T044508Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 17-50
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:Falcon 9 Block 5 | Starlink Group 17-50\n\nStatus\nGo for lau
- nch - date and time confirmed\n\nLift-off\n02:00 UTC\, Wednesday 19 Augu
+ nch - date and time confirmed\n\nLift-off\n03:45 UTC\, Wednesday 19 Augu
  st 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenber
  g SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 24 sat
  ellites for the Starlink mega-constellation - SpaceX's project for space
@@ -31,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-bbdc4d47-1de3-428e-9fe1-bbf45d9b1e04@claude-launches
-DTSTAMP:20260817T080717Z
+DTSTAMP:20260818T075811Z
 DTSTART:20260820T151900Z
 DTEND:20260820T161900Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 10-39
@@ -52,7 +52,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-6208f972-18ec-490f-bbe5-6f5c6cfcd48c@claude-launches
-DTSTAMP:20260817T080717Z
+DTSTAMP:20260818T075811Z
 DTSTART:20260822T072500Z
 DTEND:20260822T082500Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-20
@@ -73,7 +73,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-ad501ebd-a357-4305-90c1-c46c6feb2ecf@claude-launches
-DTSTAMP:20260817T080717Z
+DTSTAMP:20260818T075811Z
 DTSTART:20260825T054900Z
 DTEND:20260825T064900Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 10-49
@@ -94,13 +94,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-95653d52-bb77-4860-a815-dd7141778d17@claude-launches
-DTSTAMP:20260817T080717Z
-DTSTART:20260825T164400Z
-DTEND:20260825T174400Z
+DTSTAMP:20260818T075811Z
+DTSTART:20260825T094200Z
+DTEND:20260825T104200Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-22
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:Falcon 9 Block 5 | Starlink Group 15-22\n\nStatus\nGo for lau
- nch - date and time confirmed\n\nLift-off\n16:44 UTC\, Tuesday 25 August
+ nch - date and time confirmed\n\nLift-off\n09:42 UTC\, Tuesday 25 August
   2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg 
  SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 satel
  lites for the Starlink mega-constellation - SpaceX's project for space-b
@@ -115,7 +115,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-521f3a1c-f977-4306-9b7f-495858719adf@claude-launches
-DTSTAMP:20260817T080717Z
+DTSTAMP:20260818T075811Z
 DTSTART:20260830T112600Z
 DTEND:20260830T122600Z
 SUMMARY:🚀 Falcon Heavy | Nancy Grace Roman Space Telescope
@@ -143,7 +143,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-18441371-8b2e-457c-afb5-1ec1b11ab630@claude-launches
-DTSTAMP:20260817T080717Z
+DTSTAMP:20260818T075811Z
 DTSTART:20260912T223400Z
 DTEND:20260912T233400Z
 SUMMARY:🚀 Falcon 9 Block 5 | Crew-13
@@ -165,7 +165,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-c6e0ad16-8a78-46bc-a693-fbbf5ea4db6f@claude-launches
-DTSTAMP:20260817T080717Z
+DTSTAMP:20260818T075811Z
 DTSTART;VALUE=DATE:20280705
 DTEND;VALUE=DATE:20280706
 SUMMARY:🚀 Falcon Heavy | Dragonfly
