@@ -10,20 +10,20 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-bbdc4d47-1de3-428e-9fe1-bbf45d9b1e04@claude-launches
-DTSTAMP:20260820T063320Z
-DTSTART:20260820T153844Z
-DTEND:20260820T163844Z
+DTSTAMP:20260821T063343Z
+DTSTART:20260821T151422Z
+DTEND:20260821T161422Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 10-39
 LOCATION:Space Launch Complex 40\, Cape Canaveral SFS\, FL\, USA
 DESCRIPTION:Falcon 9 Block 5 | Starlink Group 10-39\n\nStatus\nGo for lau
- nch - date and time confirmed\n\nLift-off\n15:38 UTC\, Thursday 20 Augus
- t 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 40\, Cape Canav
- eral SFS\, FL\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 29 
- satellites for the Starlink mega-constellation - SpaceX's project for sp
- ace-based Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY
-  - weather\, technical holds and range availability move them\, often by
-  days and sometimes by hours on the day itself. This calendar rebuilds d
- aily\, but always check before setting an alarm.
+ nch - date and time confirmed\n\nLift-off\n15:14 UTC\, Friday 21 August 
+ 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 40\, Cape Canaver
+ al SFS\, FL\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 29 sa
+ tellites for the Starlink mega-constellation - SpaceX's project for spac
+ e-based Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY -
+  weather\, technical holds and range availability move them\, often by d
+ ays and sometimes by hours on the day itself. This calendar rebuilds dai
+ ly\, but always check before setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
@@ -31,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-6208f972-18ec-490f-bbe5-6f5c6cfcd48c@claude-launches
-DTSTAMP:20260820T063320Z
+DTSTAMP:20260821T063343Z
 DTSTART:20260822T072500Z
 DTEND:20260822T082500Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-20
@@ -52,7 +52,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-ad501ebd-a357-4305-90c1-c46c6feb2ecf@claude-launches
-DTSTAMP:20260820T063320Z
+DTSTAMP:20260821T063343Z
 DTSTART:20260825T054900Z
 DTEND:20260825T064900Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 10-49
@@ -73,7 +73,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-95653d52-bb77-4860-a815-dd7141778d17@claude-launches
-DTSTAMP:20260820T063320Z
+DTSTAMP:20260821T063343Z
 DTSTART:20260825T094200Z
 DTEND:20260825T104200Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-22
@@ -94,7 +94,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-521f3a1c-f977-4306-9b7f-495858719adf@claude-launches
-DTSTAMP:20260820T063320Z
+DTSTAMP:20260821T063343Z
 DTSTART:20260830T112600Z
 DTEND:20260830T122600Z
 SUMMARY:🚀 Falcon Heavy | Nancy Grace Roman Space Telescope
@@ -121,8 +121,29 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:launch-63181269-b125-4c36-951c-c9bd9bbc4b55@claude-launches
+DTSTAMP:20260821T063343Z
+DTSTART:20260901T080100Z
+DTEND:20260901T090100Z
+SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-23
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:Falcon 9 Block 5 | Starlink Group 15-23\n\nStatus\nGo for lau
+ nch - date and time confirmed\n\nLift-off\n08:01 UTC\, Tuesday 1 Septemb
+ er 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenber
+ g SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 sat
+ ellites for the Starlink mega-constellation - SpaceX's project for space
+ -based Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY - 
+ weather\, technical holds and range availability move them\, often by da
+ ys and sometimes by hours on the day itself. This calendar rebuilds dail
+ y\, but always check before setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:launch-18441371-8b2e-457c-afb5-1ec1b11ab630@claude-launches
-DTSTAMP:20260820T063320Z
+DTSTAMP:20260821T063343Z
 DTSTART:20260912T223400Z
 DTEND:20260912T233400Z
 SUMMARY:🚀 Falcon 9 Block 5 | Crew-13
@@ -141,33 +162,5 @@ CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:launch-c6e0ad16-8a78-46bc-a693-fbbf5ea4db6f@claude-launches
-DTSTAMP:20260820T063320Z
-DTSTART;VALUE=DATE:20280705
-DTEND;VALUE=DATE:20280706
-SUMMARY:🚀 Falcon Heavy | Dragonfly
-LOCATION:Launch Complex 39A\, Kennedy Space Center\, FL\, USA
-DESCRIPTION:Falcon Heavy | Dragonfly\n\nStatus\nTo be determined - date i
- s a rough estimate\n\nLift-off\nWednesday 5 July 2028 - time not yet set
- \n\nProvider\nSpaceX\n\nSite\nLaunch Complex 39A\, Kennedy Space Center\
- , FL\, USA\n\nOrbit\nHeliocentric N/A\n\nMission\nDragonfly is NASA's 4t
- h New Frontiers program mission that will send a robotic rotorcraft to f
- ly within the atmosphere of Saturn's moon Titan to sample materials and 
- determine surface composition in different geologic settings\, advancing
-  humanity's search for the building blocks of life. The craft is a large
-  quadcopter with double rotors with mass of about 875 kg\, featuring rot
- ors of 1.35 m in diameter. It can fly through several kilometers within 
- an hour and will perform 1 flight per Titan day (~16 Earth days). During
-  the planned 3.3-year mission\, Dragonfly is expected to cover distance 
- up...\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical holds and ra
- nge availability move them\, often by days and sometimes by hours on the
-  day itself. This calendar rebuilds daily\, but always check before sett
- ing an alarm.
-CATEGORIES:SpaceX,Falcon Heavy
-URL:https://nextspaceflight.com/launches/
-TRANSP:TRANSPARENT
-STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
