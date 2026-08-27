@@ -9,29 +9,8 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
  included\; vaguely scheduled missions are left out. Times UTC.
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:launch-95653d52-bb77-4860-a815-dd7141778d17@claude-launches
-DTSTAMP:20260826T063526Z
-DTSTART:20260826T093511Z
-DTEND:20260826T103511Z
-SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-22
-LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:Falcon 9 Block 5 | Starlink Group 15-22\n\nStatus\nGo for lau
- nch - date and time confirmed\n\nLift-off\n09:35 UTC\, Wednesday 26 Augu
- st 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenber
- g SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 sat
- ellites for the Starlink mega-constellation - SpaceX's project for space
- -based Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY - 
- weather\, technical holds and range availability move them\, often by da
- ys and sometimes by hours on the day itself. This calendar rebuilds dail
- y\, but always check before setting an alarm.
-CATEGORIES:SpaceX,Falcon 9
-URL:https://nextspaceflight.com/launches/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:launch-521f3a1c-f977-4306-9b7f-495858719adf@claude-launches
-DTSTAMP:20260826T063526Z
+DTSTAMP:20260827T171112Z
 DTSTART:20260830T112600Z
 DTEND:20260830T122600Z
 SUMMARY:🚀 Falcon Heavy | Nancy Grace Roman Space Telescope
@@ -59,20 +38,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-63181269-b125-4c36-951c-c9bd9bbc4b55@claude-launches
-DTSTAMP:20260826T063526Z
-DTSTART:20260901T080100Z
-DTEND:20260901T090100Z
+DTSTAMP:20260827T171112Z
+DTSTART:20260902T074600Z
+DTEND:20260902T084600Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-23
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:Falcon 9 Block 5 | Starlink Group 15-23\n\nStatus\nGo for lau
- nch - date and time confirmed\n\nLift-off\n08:01 UTC\, Tuesday 1 Septemb
- er 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenber
- g SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 sat
- ellites for the Starlink mega-constellation - SpaceX's project for space
- -based Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY - 
- weather\, technical holds and range availability move them\, often by da
- ys and sometimes by hours on the day itself. This calendar rebuilds dail
- y\, but always check before setting an alarm.
+ nch - date and time confirmed\n\nLift-off\n07:46 UTC\, Wednesday 2 Septe
+ mber 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenb
+ erg SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 s
+ atellites for the Starlink mega-constellation - SpaceX's project for spa
+ ce-based Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY 
+ - weather\, technical holds and range availability move them\, often by 
+ days and sometimes by hours on the day itself. This calendar rebuilds da
+ ily\, but always check before setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
@@ -80,20 +59,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-153ef8ef-b12b-43f4-a4bf-05b225c0cd37@claude-launches
-DTSTAMP:20260826T063526Z
-DTSTART:20260904T112800Z
-DTEND:20260904T122800Z
+DTSTAMP:20260827T171112Z
+DTSTART:20260905T111300Z
+DTEND:20260905T121300Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-24
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:Falcon 9 Block 5 | Starlink Group 15-24\n\nStatus\nGo for lau
- nch - date and time confirmed\n\nLift-off\n11:28 UTC\, Friday 4 Septembe
- r 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg
-  SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 sate
- llites for the Starlink mega-constellation - SpaceX's project for space-
- based Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY - w
- eather\, technical holds and range availability move them\, often by day
- s and sometimes by hours on the day itself. This calendar rebuilds daily
- \, but always check before setting an alarm.
+ nch - date and time confirmed\n\nLift-off\n11:13 UTC\, Saturday 5 Septem
+ ber 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenbe
+ rg SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 sa
+ tellites for the Starlink mega-constellation - SpaceX's project for spac
+ e-based Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY -
+  weather\, technical holds and range availability move them\, often by d
+ ays and sometimes by hours on the day itself. This calendar rebuilds dai
+ ly\, but always check before setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
@@ -101,7 +80,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-18441371-8b2e-457c-afb5-1ec1b11ab630@claude-launches
-DTSTAMP:20260826T063526Z
+DTSTAMP:20260827T171112Z
 DTSTART:20260912T223400Z
 DTEND:20260912T233400Z
 SUMMARY:🚀 Falcon 9 Block 5 | Crew-13
@@ -120,5 +99,33 @@ CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:launch-c6e0ad16-8a78-46bc-a693-fbbf5ea4db6f@claude-launches
+DTSTAMP:20260827T171112Z
+DTSTART;VALUE=DATE:20280705
+DTEND;VALUE=DATE:20280706
+SUMMARY:🚀 Falcon Heavy | Dragonfly
+LOCATION:Launch Complex 39A\, Kennedy Space Center\, FL\, USA
+DESCRIPTION:Falcon Heavy | Dragonfly\n\nStatus\nTo be determined - date i
+ s a rough estimate\n\nLift-off\nWednesday 5 July 2028 - time not yet set
+ \n\nProvider\nSpaceX\n\nSite\nLaunch Complex 39A\, Kennedy Space Center\
+ , FL\, USA\n\nOrbit\nHeliocentric N/A\n\nMission\nDragonfly is NASA's 4t
+ h New Frontiers program mission that will send a robotic rotorcraft to f
+ ly within the atmosphere of Saturn's moon Titan to sample materials and 
+ determine surface composition in different geologic settings\, advancing
+  humanity's search for the building blocks of life. The craft is a large
+  quadcopter with double rotors with mass of about 875 kg\, featuring rot
+ ors of 1.35 m in diameter. It can fly through several kilometers within 
+ an hour and will perform 1 flight per Titan day (~16 Earth days). During
+  the planned 3.3-year mission\, Dragonfly is expected to cover distance 
+ up...\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical holds and ra
+ nge availability move them\, often by days and sometimes by hours on the
+  day itself. This calendar rebuilds daily\, but always check before sett
+ ing an alarm.
+CATEGORIES:SpaceX,Falcon Heavy
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
