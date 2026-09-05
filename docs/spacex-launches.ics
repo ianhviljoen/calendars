@@ -10,7 +10,7 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-153ef8ef-b12b-43f4-a4bf-05b225c0cd37@claude-launches
-DTSTAMP:20260904T101825Z
+DTSTAMP:20260905T094535Z
 DTSTART:20260906T105900Z
 DTEND:20260906T115900Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-24
@@ -31,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-3e0456da-14b1-4ac3-b59e-35fefb1d1530@claude-launches
-DTSTAMP:20260904T101825Z
+DTSTAMP:20260905T094535Z
 DTSTART:20260910T153700Z
 DTEND:20260910T163700Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-153
@@ -53,8 +53,29 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:launch-ad358a4d-c541-409b-9366-9c2f2da4aeb9@claude-launches
+DTSTAMP:20260905T094535Z
+DTSTART:20260913T185000Z
+DTEND:20260913T195000Z
+SUMMARY:🚀 Falcon 9 Block 5 | O3b mPower 11-13
+LOCATION:Space Launch Complex 40\, Cape Canaveral SFS\, FL\, USA
+DESCRIPTION:Falcon 9 Block 5 | O3b mPower 11-13\n\nStatus\nTo be confirme
+ d - date is likely but not final\n\nLift-off\n18:50 UTC\, Sunday 13 Sept
+ ember 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 40\, Cape C
+ anaveral SFS\, FL\, USA\n\nOrbit\nMedium Earth Orbit\n\nMission\n3 high-
+ throughput communications satellites in Medium Earth Orbit (MEO) built b
+ y Boeing and operated by SES.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\
+ , technical holds and range availability move them\, often by days and s
+ ometimes by hours on the day itself. This calendar rebuilds daily\, but 
+ always check before setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:launch-c6e0ad16-8a78-46bc-a693-fbbf5ea4db6f@claude-launches
-DTSTAMP:20260904T101825Z
+DTSTAMP:20260905T094535Z
 DTSTART;VALUE=DATE:20280705
 DTEND;VALUE=DATE:20280706
 SUMMARY:🚀 Falcon Heavy | Dragonfly
