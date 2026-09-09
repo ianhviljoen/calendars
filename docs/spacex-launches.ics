@@ -10,7 +10,7 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-3e0456da-14b1-4ac3-b59e-35fefb1d1530@claude-launches
-DTSTAMP:20260908T102303Z
+DTSTAMP:20260909T103238Z
 DTSTART:20260910T153700Z
 DTEND:20260910T163700Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-153
@@ -33,7 +33,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-ad358a4d-c541-409b-9366-9c2f2da4aeb9@claude-launches
-DTSTAMP:20260908T102303Z
+DTSTAMP:20260909T103238Z
 DTSTART:20260913T185000Z
 DTEND:20260913T195000Z
 SUMMARY:🚀 Falcon 9 Block 5 | O3b mPower 11-13
@@ -53,8 +53,51 @@ TRANSP:TRANSPARENT
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519@claude-launches
+DTSTAMP:20260909T103238Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:🚀 Starship | Flight 14
+LOCATION:Orbital Launch Pad 2\, SpaceX Starbase\, TX\, USA
+DESCRIPTION:Starship | Flight 14\n\nStatus\nTo be determined - date is a 
+ rough estimate\n\nLift-off\nTuesday 15 September 2026 - time not yet set
+ \n\nProvider\nSpaceX\n\nSite\nOrbital Launch Pad 2\, SpaceX Starbase\, T
+ X\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\n14th test flight of the tw
+ o-stage Starship launch vehicle. 3rd flight of Starship V3 and the first
+  Starship flight to deploy satellites (a group of Starlink satellites) i
+ nto stable Low Earth Orbit.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, 
+ technical holds and range availability move them\, often by days and som
+ etimes by hours on the day itself. This calendar rebuilds daily\, but al
+ ways check before setting an alarm.
+CATEGORIES:SpaceX,Starship
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:launch-d1471f9d-e9d0-4146-8e97-90863e48bfc8@claude-launches
+DTSTAMP:20260909T103238Z
+DTSTART:20260920T014700Z
+DTEND:20260920T024700Z
+SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-27
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:Falcon 9 Block 5 | Starlink Group 15-27\n\nStatus\nGo for lau
+ nch - date and time confirmed\n\nLift-off\n01:47 UTC\, Sunday 20 Septemb
+ er 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenber
+ g SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 sat
+ ellites for the Starlink mega-constellation - SpaceX's project for space
+ -based Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY - 
+ weather\, technical holds and range availability move them\, often by da
+ ys and sometimes by hours on the day itself. This calendar rebuilds dail
+ y\, but always check before setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:launch-c6e0ad16-8a78-46bc-a693-fbbf5ea4db6f@claude-launches
-DTSTAMP:20260908T102303Z
+DTSTAMP:20260909T103238Z
 DTSTART;VALUE=DATE:20280705
 DTEND;VALUE=DATE:20280706
 SUMMARY:🚀 Falcon Heavy | Dragonfly
