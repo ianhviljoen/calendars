@@ -10,13 +10,13 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-3e0456da-14b1-4ac3-b59e-35fefb1d1530@claude-launches
-DTSTAMP:20260909T103238Z
-DTSTART:20260910T153700Z
-DTEND:20260910T163700Z
+DTSTAMP:20260910T102127Z
+DTSTART:20260910T154200Z
+DTEND:20260910T164200Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-153
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:Falcon 9 Block 5 | USSF-153\n\nStatus\nGo for launch - date a
- nd time confirmed\n\nLift-off\n15:37 UTC\, Thursday 10 September 2026\n\
+ nd time confirmed\n\nLift-off\n15:42 UTC\, Thursday 10 September 2026\n\
  nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, CA
  \, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nUSSF-153 is a classified mi
  ssion for the United States Space Force. It is possibly a batch of class
@@ -33,28 +33,28 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-ad358a4d-c541-409b-9366-9c2f2da4aeb9@claude-launches
-DTSTAMP:20260909T103238Z
-DTSTART:20260913T185000Z
-DTEND:20260913T195000Z
+DTSTAMP:20260910T102127Z
+DTSTART:20260913T184900Z
+DTEND:20260913T194900Z
 SUMMARY:🚀 Falcon 9 Block 5 | O3b mPower 11-13
 LOCATION:Space Launch Complex 40\, Cape Canaveral SFS\, FL\, USA
-DESCRIPTION:Falcon 9 Block 5 | O3b mPower 11-13\n\nStatus\nTo be confirme
- d - date is likely but not final\n\nLift-off\n18:50 UTC\, Sunday 13 Sept
- ember 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 40\, Cape C
- anaveral SFS\, FL\, USA\n\nOrbit\nMedium Earth Orbit\n\nMission\n3 high-
- throughput communications satellites in Medium Earth Orbit (MEO) built b
- y Boeing and operated by SES.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\
- , technical holds and range availability move them\, often by days and s
- ometimes by hours on the day itself. This calendar rebuilds daily\, but 
- always check before setting an alarm.
+DESCRIPTION:Falcon 9 Block 5 | O3b mPower 11-13\n\nStatus\nGo for launch 
+ - date and time confirmed\n\nLift-off\n18:49 UTC\, Sunday 13 September 2
+ 026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 40\, Cape Canavera
+ l SFS\, FL\, USA\n\nOrbit\nMedium Earth Orbit\n\nMission\n3 high-through
+ put communications satellites in Medium Earth Orbit (MEO) built by Boein
+ g and operated by SES.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, techn
+ ical holds and range availability move them\, often by days and sometime
+ s by hours on the day itself. This calendar rebuilds daily\, but always 
+ check before setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519@claude-launches
-DTSTAMP:20260909T103238Z
+DTSTAMP:20260910T102127Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:🚀 Starship | Flight 14
@@ -75,8 +75,28 @@ TRANSP:TRANSPARENT
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:launch-17c71937-dd80-406f-bb47-0c9ee9a24276@claude-launches
+DTSTAMP:20260910T102127Z
+DTSTART:20260916T010000Z
+DTEND:20260916T020000Z
+SUMMARY:🚀 Falcon 9 Block 5 | USSF-259
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:Falcon 9 Block 5 | USSF-259\n\nStatus\nGo for launch - date a
+ nd time confirmed\n\nLift-off\n01:00 UTC\, Wednesday 16 September 2026\n
+ \nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, C
+ A\, USA\n\nOrbit\nPolar Orbit\n\nMission\nUSSF-259 is a classified missi
+ on for the United States Space Force.\n\nLAUNCH DATES SLIP CONSTANTLY - 
+ weather\, technical holds and range availability move them\, often by da
+ ys and sometimes by hours on the day itself. This calendar rebuilds dail
+ y\, but always check before setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:launch-d1471f9d-e9d0-4146-8e97-90863e48bfc8@claude-launches
-DTSTAMP:20260909T103238Z
+DTSTAMP:20260910T102127Z
 DTSTART:20260920T014700Z
 DTEND:20260920T024700Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-27
@@ -94,33 +114,5 @@ CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:launch-c6e0ad16-8a78-46bc-a693-fbbf5ea4db6f@claude-launches
-DTSTAMP:20260909T103238Z
-DTSTART;VALUE=DATE:20280705
-DTEND;VALUE=DATE:20280706
-SUMMARY:🚀 Falcon Heavy | Dragonfly
-LOCATION:Launch Complex 39A\, Kennedy Space Center\, FL\, USA
-DESCRIPTION:Falcon Heavy | Dragonfly\n\nStatus\nTo be determined - date i
- s a rough estimate\n\nLift-off\nWednesday 5 July 2028 - time not yet set
- \n\nProvider\nSpaceX\n\nSite\nLaunch Complex 39A\, Kennedy Space Center\
- , FL\, USA\n\nOrbit\nHeliocentric N/A\n\nMission\nDragonfly is NASA's 4t
- h New Frontiers program mission that will send a robotic rotorcraft to f
- ly within the atmosphere of Saturn's moon Titan to sample materials and 
- determine surface composition in different geologic settings\, advancing
-  humanity's search for the building blocks of life. The craft is a large
-  quadcopter with double rotors with mass of about 875 kg\, featuring rot
- ors of 1.35 m in diameter. It can fly through several kilometers within 
- an hour and will perform 1 flight per Titan day (~16 Earth days). During
-  the planned 3.3-year mission\, Dragonfly is expected to cover distance 
- up...\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical holds and ra
- nge availability move them\, often by days and sometimes by hours on the
-  day itself. This calendar rebuilds daily\, but always check before sett
- ing an alarm.
-CATEGORIES:SpaceX,Falcon Heavy
-URL:https://nextspaceflight.com/launches/
-TRANSP:TRANSPARENT
-STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
