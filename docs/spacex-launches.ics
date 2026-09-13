@@ -10,7 +10,7 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-ad358a4d-c541-409b-9366-9c2f2da4aeb9@claude-launches
-DTSTAMP:20260912T095311Z
+DTSTAMP:20260913T105258Z
 DTSTART:20260913T184900Z
 DTEND:20260913T194900Z
 SUMMARY:🚀 Falcon 9 Block 5 | O3b mPower 11-13
@@ -31,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-17c71937-dd80-406f-bb47-0c9ee9a24276@claude-launches
-DTSTAMP:20260912T095311Z
+DTSTAMP:20260913T105258Z
 DTSTART:20260916T010000Z
 DTEND:20260916T020000Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-259
@@ -54,7 +54,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519@claude-launches
-DTSTAMP:20260912T095311Z
+DTSTAMP:20260913T105258Z
 DTSTART:20260918T121500Z
 DTEND:20260918T131500Z
 SUMMARY:🚀 Starship | Flight 14
@@ -76,7 +76,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-d1471f9d-e9d0-4146-8e97-90863e48bfc8@claude-launches
-DTSTAMP:20260912T095311Z
+DTSTAMP:20260913T105258Z
 DTSTART:20260920T014700Z
 DTEND:20260920T024700Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-27
@@ -94,33 +94,5 @@ CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:launch-c6e0ad16-8a78-46bc-a693-fbbf5ea4db6f@claude-launches
-DTSTAMP:20260912T095311Z
-DTSTART;VALUE=DATE:20280705
-DTEND;VALUE=DATE:20280706
-SUMMARY:🚀 Falcon Heavy | Dragonfly
-LOCATION:Launch Complex 39A\, Kennedy Space Center\, FL\, USA
-DESCRIPTION:Falcon Heavy | Dragonfly\n\nStatus\nTo be determined - date i
- s a rough estimate\n\nLift-off\nWednesday 5 July 2028 - time not yet set
- \n\nProvider\nSpaceX\n\nSite\nLaunch Complex 39A\, Kennedy Space Center\
- , FL\, USA\n\nOrbit\nHeliocentric N/A\n\nMission\nDragonfly is NASA's 4t
- h New Frontiers program mission that will send a robotic rotorcraft to f
- ly within the atmosphere of Saturn's moon Titan to sample materials and 
- determine surface composition in different geologic settings\, advancing
-  humanity's search for the building blocks of life. The craft is a large
-  quadcopter with double rotors with mass of about 875 kg\, featuring rot
- ors of 1.35 m in diameter. It can fly through several kilometers within 
- an hour and will perform 1 flight per Titan day (~16 Earth days). During
-  the planned 3.3-year mission\, Dragonfly is expected to cover distance 
- up...\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical holds and ra
- nge availability move them\, often by days and sometimes by hours on the
-  day itself. This calendar rebuilds daily\, but always check before sett
- ing an alarm.
-CATEGORIES:SpaceX,Falcon Heavy
-URL:https://nextspaceflight.com/launches/
-TRANSP:TRANSPARENT
-STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
