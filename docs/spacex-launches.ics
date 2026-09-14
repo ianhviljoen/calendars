@@ -9,29 +9,8 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
  included\; vaguely scheduled missions are left out. Times UTC.
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:launch-ad358a4d-c541-409b-9366-9c2f2da4aeb9@claude-launches
-DTSTAMP:20260913T105258Z
-DTSTART:20260913T184900Z
-DTEND:20260913T194900Z
-SUMMARY:🚀 Falcon 9 Block 5 | O3b mPower 11-13
-LOCATION:Space Launch Complex 40\, Cape Canaveral SFS\, FL\, USA
-DESCRIPTION:Falcon 9 Block 5 | O3b mPower 11-13\n\nStatus\nGo for launch 
- - date and time confirmed\n\nLift-off\n18:49 UTC\, Sunday 13 September 2
- 026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 40\, Cape Canavera
- l SFS\, FL\, USA\n\nOrbit\nMedium Earth Orbit\n\nMission\n3 high-through
- put communications satellites in Medium Earth Orbit (MEO) built by Boein
- g and operated by SES.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, techn
- ical holds and range availability move them\, often by days and sometime
- s by hours on the day itself. This calendar rebuilds daily\, but always 
- check before setting an alarm.
-CATEGORIES:SpaceX,Falcon 9
-URL:https://nextspaceflight.com/launches/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:launch-17c71937-dd80-406f-bb47-0c9ee9a24276@claude-launches
-DTSTAMP:20260913T105258Z
+DTSTAMP:20260914T112423Z
 DTSTART:20260916T010000Z
 DTEND:20260916T020000Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-259
@@ -54,7 +33,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519@claude-launches
-DTSTAMP:20260913T105258Z
+DTSTAMP:20260914T112423Z
 DTSTART:20260918T121500Z
 DTEND:20260918T131500Z
 SUMMARY:🚀 Starship | Flight 14
@@ -76,7 +55,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-d1471f9d-e9d0-4146-8e97-90863e48bfc8@claude-launches
-DTSTAMP:20260913T105258Z
+DTSTAMP:20260914T112423Z
 DTSTART:20260920T014700Z
 DTEND:20260920T024700Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-27
