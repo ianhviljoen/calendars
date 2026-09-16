@@ -10,22 +10,22 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-17c71937-dd80-406f-bb47-0c9ee9a24276@claude-launches
-DTSTAMP:20260915T104718Z
-DTSTART:20260916T010000Z
-DTEND:20260916T020000Z
+DTSTAMP:20260916T103631Z
+DTSTART:20260917T010000Z
+DTEND:20260917T020000Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-259
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:Falcon 9 Block 5 | USSF-259\n\nStatus\nGo for launch - date a
- nd time confirmed\n\nLift-off\n01:00 UTC\, Wednesday 16 September 2026\n
- \nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, C
- A\, USA\n\nOrbit\nPolar Orbit\n\nMission\nUSSF-259 is a classified missi
- on for the United States Space Force. It is possibly a batch of classifi
- ed LEO satellites based on SpaceX’s Starshield satellite bus\, based o
- n locations of ascent rocket stage drop zones being fits with previous S
- DA Transport Layer launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\,
-  technical holds and range availability move them\, often by days and so
- metimes by hours on the day itself. This calendar rebuilds daily\, but a
- lways check before setting an alarm.
+ nd time confirmed\n\nLift-off\n01:00 UTC\, Thursday 17 September 2026\n\
+ nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, CA
+ \, USA\n\nOrbit\nPolar Orbit\n\nMission\nUSSF-259 is a classified missio
+ n for the United States Space Force. It is possibly a batch of classifie
+ d LEO satellites based on SpaceX’s Starshield satellite bus\, based on
+  locations of ascent rocket stage drop zones being fits with previous SD
+ A Transport Layer launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, 
+ technical holds and range availability move them\, often by days and som
+ etimes by hours on the day itself. This calendar rebuilds daily\, but al
+ ways check before setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
@@ -33,7 +33,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-d1471f9d-e9d0-4146-8e97-90863e48bfc8@claude-launches
-DTSTAMP:20260915T104718Z
+DTSTAMP:20260916T103631Z
 DTSTART:20260920T014700Z
 DTEND:20260920T024700Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-27
@@ -54,50 +54,52 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519@claude-launches
-DTSTAMP:20260915T104718Z
+DTSTAMP:20260916T103631Z
 DTSTART:20260922T121500Z
 DTEND:20260922T131500Z
 SUMMARY:🚀 Starship | Flight 14
 LOCATION:Orbital Launch Pad 2\, SpaceX Starbase\, TX\, USA
-DESCRIPTION:Starship | Flight 14\n\nStatus\nTo be confirmed - date is lik
- ely but not final\n\nLift-off\n12:15 UTC\, Tuesday 22 September 2026\n\n
- Provider\nSpaceX\n\nSite\nOrbital Launch Pad 2\, SpaceX Starbase\, TX\, 
- USA\n\nOrbit\nLow Earth Orbit\n\nMission\n14th test flight of the two-st
- age Starship launch vehicle. 3rd flight of Starship V3 and the first Sta
- rship flight to deploy satellites (a group of Starlink satellites) into 
- stable Low Earth Orbit.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, tech
- nical holds and range availability move them\, often by days and sometim
- es by hours on the day itself. This calendar rebuilds daily\, but always
-  check before setting an alarm.
+DESCRIPTION:Starship | Flight 14\n\nStatus\nGo for launch - date and time
+  confirmed\n\nLift-off\n12:15 UTC\, Tuesday 22 September 2026\n\nProvide
+ r\nSpaceX\n\nSite\nOrbital Launch Pad 2\, SpaceX Starbase\, TX\, USA\n\n
+ Orbit\nLow Earth Orbit\n\nMission\n14th test flight of the two-stage Sta
+ rship launch vehicle. 3rd flight of Starship V3 and the first Starship f
+ light to deploy satellites (a group of Starlink satellites) into stable 
+ Low Earth Orbit. The ship is expected to fly at an altitude approximatel
+ y 275 km above Earth and complete approximately 6 orbits around the plan
+ et for nearly 10 hours\, with splashdown targeted in the Pacific Ocean w
+ est of Chile. The booster’s primary test objective on Flight 14 will b
+ e executing a successful launch\, ascent\, stage separation\, boostback 
+ burn\, and landing burn at an offshore landing point in the Gulf....\n\n
+ LAUNCH DATES SLIP CONSTANTLY - weather\, technical holds and range avail
+ ability move them\, often by days and sometimes by hours on the day itse
+ lf. This calendar rebuilds daily\, but always check before setting an al
+ arm.
 CATEGORIES:SpaceX,Starship
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:launch-c6e0ad16-8a78-46bc-a693-fbbf5ea4db6f@claude-launches
-DTSTAMP:20260915T104718Z
-DTSTART;VALUE=DATE:20280705
-DTEND;VALUE=DATE:20280706
-SUMMARY:🚀 Falcon Heavy | Dragonfly
-LOCATION:Launch Complex 39A\, Kennedy Space Center\, FL\, USA
-DESCRIPTION:Falcon Heavy | Dragonfly\n\nStatus\nTo be determined - date i
- s a rough estimate\n\nLift-off\nWednesday 5 July 2028 - time not yet set
- \n\nProvider\nSpaceX\n\nSite\nLaunch Complex 39A\, Kennedy Space Center\
- , FL\, USA\n\nOrbit\nHeliocentric N/A\n\nMission\nDragonfly is NASA's 4t
- h New Frontiers program mission that will send a robotic rotorcraft to f
- ly within the atmosphere of Saturn's moon Titan to sample materials and 
- determine surface composition in different geologic settings\, advancing
-  humanity's search for the building blocks of life. The craft is a large
-  quadcopter with double rotors with mass of about 875 kg\, featuring rot
- ors of 1.35 m in diameter. It can fly through several kilometers within 
- an hour and will perform 1 flight per Titan day (~16 Earth days). During
-  the planned 3.3-year mission\, Dragonfly is expected to cover distance 
- up...\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical holds and ra
- nge availability move them\, often by days and sometimes by hours on the
-  day itself. This calendar rebuilds daily\, but always check before sett
- ing an alarm.
-CATEGORIES:SpaceX,Falcon Heavy
+UID:launch-7330d83b-c478-426c-8859-f9e3a335876d@claude-launches
+DTSTAMP:20260916T103631Z
+DTSTART:20260927T114200Z
+DTEND:20260927T124200Z
+SUMMARY:🚀 Falcon 9 Block 5 | USSF-xxx ("R-3")
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:Falcon 9 Block 5 | USSF-xxx ("R-3")\n\nStatus\nTo be confirme
+ d - date is likely but not final\n\nLift-off\n11:42 UTC\, Sunday 27 Sept
+ ember 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vanden
+ berg SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nNote: Official
+  USSF designation to be confirmed. A classified mission for the United S
+ tates Space Force. It is possibly a batch of classified LEO satellites b
+ ased on SpaceX’s Starshield satellite bus\, based on locations of rock
+ et stage drop zones being exact fits with previous Starlink Group 15 lau
+ nches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical holds and r
+ ange availability move them\, often by days and sometimes by hours on th
+ e day itself. This calendar rebuilds daily\, but always check before set
+ ting an alarm.
+CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
 STATUS:TENTATIVE
