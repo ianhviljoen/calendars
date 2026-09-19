@@ -8,189 +8,6 @@ X-WR-CALDESC:Premier League 2026/27\, all 380 fixtures. Each club has its
   own emoji. Kick-off times UK local\, stored in UTC.
 X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
-UID:epl-20260912-Cry-Ips@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20260912T140000Z
-DTEND:20260912T160000Z
-SUMMARY:⚽ 🦅 Crystal Palace v 🚜 Ipswich (MW4)
-LOCATION:Selhurst Park\, London
-DESCRIPTION:🦅 Crystal Palace v 🚜 Ipswich\nMatchweek 4 - Saturday 12
-  September 2026\n\nKick-off\n15:00 UK  |  14:00 UTC\n\nGround\nSelhurst 
- Park\, London\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are f
- ixed. Broadcasters select matches around five to six weeks ahead\, and a
- ny fixture can shift day or time for TV\, or be postponed for cup ties a
- nd European commitments. Later rounds here show provisional slots.
-CATEGORIES:Premier League,Matchweek 4
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:epl-20260912-Liv-Ful@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20260912T140000Z
-DTEND:20260912T160000Z
-SUMMARY:⚽ ❤️ Liverpool v 🏠 Fulham (MW4)
-LOCATION:Anfield\, Liverpool
-DESCRIPTION:❤️ Liverpool v 🏠 Fulham\nMatchweek 4 - Saturday 12 Sep
- tember 2026\n\nKick-off\n15:00 UK  |  14:00 UTC\n\nGround\nAnfield\, Liv
- erpool\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixed. B
- roadcasters select matches around five to six weeks ahead\, and any fixt
- ure can shift day or time for TV\, or be postponed for cup ties and Euro
- pean commitments. Later rounds here show provisional slots.
-CATEGORIES:Premier League,Matchweek 4
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:epl-20260912-Ast-Not@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20260912T140000Z
-DTEND:20260912T160000Z
-SUMMARY:⚽ 🦁 Aston Villa v 🌳 Nott'm Forest (MW4)
-LOCATION:Villa Park\, Birmingham
-DESCRIPTION:🦁 Aston Villa v 🌳 Nott'm Forest\nMatchweek 4 - Saturday
-  12 September 2026\n\nKick-off\n15:00 UK  |  14:00 UTC\n\nGround\nVilla 
- Park\, Birmingham\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks a
- re fixed. Broadcasters select matches around five to six weeks ahead\, a
- nd any fixture can shift day or time for TV\, or be postponed for cup ti
- es and European commitments. Later rounds here show provisional slots.
-CATEGORIES:Premier League,Matchweek 4
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:epl-20260912-Bou-Bre@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20260912T140000Z
-DTEND:20260912T160000Z
-SUMMARY:⚽ 🍒 Bournemouth v 🐝 Brentford (MW4)
-LOCATION:Vitality Stadium\, Bournemouth
-DESCRIPTION:🍒 Bournemouth v 🐝 Brentford\nMatchweek 4 - Saturday 12 
- September 2026\n\nKick-off\n15:00 UK  |  14:00 UTC\n\nGround\nVitality S
- tadium\, Bournemouth\n\nKICK-OFF TIMES MOVE. Only the next few matchweek
- s are fixed. Broadcasters select matches around five to six weeks ahead\
- , and any fixture can shift day or time for TV\, or be postponed for cup
-  ties and European commitments. Later rounds here show provisional slots
- .
-CATEGORIES:Premier League,Matchweek 4
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:epl-20260912-Che-Hul@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20260912T140000Z
-DTEND:20260912T160000Z
-SUMMARY:⚽ 🔵 Chelsea v 🐯 Hull City (MW4)
-LOCATION:Stamford Bridge\, London
-DESCRIPTION:🔵 Chelsea v 🐯 Hull City\nMatchweek 4 - Saturday 12 Sept
- ember 2026\n\nKick-off\n15:00 UK  |  14:00 UTC\n\nGround\nStamford Bridg
- e\, London\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixe
- d. Broadcasters select matches around five to six weeks ahead\, and any 
- fixture can shift day or time for TV\, or be postponed for cup ties and 
- European commitments. Later rounds here show provisional slots.
-CATEGORIES:Premier League,Matchweek 4
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:epl-20260912-Tot-Eve@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20260912T163000Z
-DTEND:20260912T183000Z
-SUMMARY:⚽ 🐓 Tottenham v 🍬 Everton (MW4)
-LOCATION:Tottenham Hotspur Stadium\, London
-DESCRIPTION:🐓 Tottenham v 🍬 Everton\nMatchweek 4 - Saturday 12 Sept
- ember 2026\n\nKick-off\n17:30 UK  |  16:30 UTC\n\nGround\nTottenham Hots
- pur Stadium\, London\n\nKICK-OFF TIMES MOVE. Only the next few matchweek
- s are fixed. Broadcasters select matches around five to six weeks ahead\
- , and any fixture can shift day or time for TV\, or be postponed for cup
-  ties and European commitments. Later rounds here show provisional slots
- .
-CATEGORIES:Premier League,Matchweek 4
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:epl-20260912-Sun-Ars@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20260912T190000Z
-DTEND:20260912T210000Z
-SUMMARY:⚽ 🐈 Sunderland v 🔴 Arsenal (MW4)
-LOCATION:Stadium of Light\, Sunderland
-DESCRIPTION:🐈 Sunderland v 🔴 Arsenal\nMatchweek 4 - Saturday 12 Sep
- tember 2026\n\nKick-off\n20:00 UK  |  19:00 UTC\n\nGround\nStadium of Li
- ght\, Sunderland\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks ar
- e fixed. Broadcasters select matches around five to six weeks ahead\, an
- d any fixture can shift day or time for TV\, or be postponed for cup tie
- s and European commitments. Later rounds here show provisional slots.
-CATEGORIES:Premier League,Matchweek 4
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:epl-20260913-Cov-Bri@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20260913T130000Z
-DTEND:20260913T150000Z
-SUMMARY:⚽ 🐘 Coventry v 🐦 Brighton (MW4)
-LOCATION:Coventry Building Society Arena\, Coventry
-DESCRIPTION:🐘 Coventry v 🐦 Brighton\nMatchweek 4 - Sunday 13 Septem
- ber 2026\n\nKick-off\n14:00 UK  |  13:00 UTC\n\nGround\nCoventry Buildin
- g Society Arena\, Coventry\n\nKICK-OFF TIMES MOVE. Only the next few mat
- chweeks are fixed. Broadcasters select matches around five to six weeks 
- ahead\, and any fixture can shift day or time for TV\, or be postponed f
- or cup ties and European commitments. Later rounds here show provisional
-  slots.
-CATEGORIES:Premier League,Matchweek 4
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:epl-20260913-Man-Man@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20260913T153000Z
-DTEND:20260913T173000Z
-SUMMARY:⚽ 😈 Man United v 💙 Man City (MW4)
-LOCATION:Old Trafford\, Manchester
-DESCRIPTION:😈 Man United v 💙 Man City\nMatchweek 4 - Sunday 13 Sept
- ember 2026\n\nKick-off\n16:30 UK  |  15:30 UTC\n\nGround\nOld Trafford\,
-  Manchester\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fix
- ed. Broadcasters select matches around five to six weeks ahead\, and any
-  fixture can shift day or time for TV\, or be postponed for cup ties and
-  European commitments. Later rounds here show provisional slots.
-CATEGORIES:Premier League,Matchweek 4
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:epl-20260914-Lee-New@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20260914T190000Z
-DTEND:20260914T210000Z
-SUMMARY:⚽ 🦚 Leeds v 🏰 Newcastle (MW4)
-LOCATION:Elland Road\, Leeds
-DESCRIPTION:🦚 Leeds v 🏰 Newcastle\nMatchweek 4 - Monday 14 Septembe
- r 2026\n\nKick-off\n20:00 UK  |  19:00 UTC\n\nGround\nElland Road\, Leed
- s\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixed. Broadc
- asters select matches around five to six weeks ahead\, and any fixture c
- an shift day or time for TV\, or be postponed for cup ties and European 
- commitments. Later rounds here show provisional slots.
-CATEGORIES:Premier League,Matchweek 4
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:epl-20260918-Bre-Che@claude-epl
 DTSTAMP:20260731T090000Z
 DTSTART:20260918T190000Z
@@ -2375,52 +2192,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:epl-20261226-Ast-Lee@claude-epl
 DTSTAMP:20260731T090000Z
-DTSTART:20261226T150000Z
-DTEND:20261226T170000Z
+DTSTART:20261226T123000Z
+DTEND:20261226T143000Z
 SUMMARY:⚽ 🦁 Aston Villa v 🦚 Leeds (MW17)
 LOCATION:Villa Park\, Birmingham
 DESCRIPTION:🦁 Aston Villa v 🦚 Leeds\nMatchweek 17 - Saturday 26 Dec
- ember 2026\n\nKick-off\n15:00 UK  |  15:00 UTC\n\nGround\nVilla Park\, B
+ ember 2026\n\nKick-off\n12:30 UK  |  12:30 UTC\n\nGround\nVilla Park\, B
  irmingham\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixed
  . Broadcasters select matches around five to six weeks ahead\, and any f
  ixture can shift day or time for TV\, or be postponed for cup ties and E
  uropean commitments. Later rounds here show provisional slots.
-CATEGORIES:Premier League,Matchweek 17
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:epl-20261226-Man-Not@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20261226T150000Z
-DTEND:20261226T170000Z
-SUMMARY:⚽ 😈 Man United v 🌳 Nott'm Forest (MW17)
-LOCATION:Old Trafford\, Manchester
-DESCRIPTION:😈 Man United v 🌳 Nott'm Forest\nMatchweek 17 - Saturday
-  26 December 2026\n\nKick-off\n15:00 UK  |  15:00 UTC\n\nGround\nOld Tra
- fford\, Manchester\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks 
- are fixed. Broadcasters select matches around five to six weeks ahead\, 
- and any fixture can shift day or time for TV\, or be postponed for cup t
- ies and European commitments. Later rounds here show provisional slots.
-CATEGORIES:Premier League,Matchweek 17
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:epl-20261226-Cry-Ars@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20261226T150000Z
-DTEND:20261226T170000Z
-SUMMARY:⚽ 🦅 Crystal Palace v 🔴 Arsenal (MW17)
-LOCATION:Selhurst Park\, London
-DESCRIPTION:🦅 Crystal Palace v 🔴 Arsenal\nMatchweek 17 - Saturday 2
- 6 December 2026\n\nKick-off\n15:00 UK  |  15:00 UTC\n\nGround\nSelhurst 
- Park\, London\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are f
- ixed. Broadcasters select matches around five to six weeks ahead\, and a
- ny fixture can shift day or time for TV\, or be postponed for cup ties a
- nd European commitments. Later rounds here show provisional slots.
 CATEGORIES:Premier League,Matchweek 17
 URL:https://www.premierleague.com/fixtures
 TRANSP:TRANSPARENT
@@ -2440,44 +2221,6 @@ DESCRIPTION:🍬 Everton v 🐈 Sunderland\nMatchweek 17 - Saturday 26 De
  \, and any fixture can shift day or time for TV\, or be postponed for cu
  p ties and European commitments. Later rounds here show provisional slot
  s.
-CATEGORIES:Premier League,Matchweek 17
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:epl-20261226-Cov-Che@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20261226T150000Z
-DTEND:20261226T170000Z
-SUMMARY:⚽ 🐘 Coventry v 🔵 Chelsea (MW17)
-LOCATION:Coventry Building Society Arena\, Coventry
-DESCRIPTION:🐘 Coventry v 🔵 Chelsea\nMatchweek 17 - Saturday 26 Dece
- mber 2026\n\nKick-off\n15:00 UK  |  15:00 UTC\n\nGround\nCoventry Buildi
- ng Society Arena\, Coventry\n\nKICK-OFF TIMES MOVE. Only the next few ma
- tchweeks are fixed. Broadcasters select matches around five to six weeks
-  ahead\, and any fixture can shift day or time for TV\, or be postponed 
- for cup ties and European commitments. Later rounds here show provisiona
- l slots.
-CATEGORIES:Premier League,Matchweek 17
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:epl-20261226-New-Man@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20261226T150000Z
-DTEND:20261226T170000Z
-SUMMARY:⚽ 🏰 Newcastle v 💙 Man City (MW17)
-LOCATION:St James' Park\, Newcastle upon Tyne
-DESCRIPTION:🏰 Newcastle v 💙 Man City\nMatchweek 17 - Saturday 26 De
- cember 2026\n\nKick-off\n15:00 UK  |  15:00 UTC\n\nGround\nSt James' Par
- k\, Newcastle upon Tyne\n\nKICK-OFF TIMES MOVE. Only the next few matchw
- eeks are fixed. Broadcasters select matches around five to six weeks ahe
- ad\, and any fixture can shift day or time for TV\, or be postponed for 
- cup ties and European commitments. Later rounds here show provisional sl
- ots.
 CATEGORIES:Premier League,Matchweek 17
 URL:https://www.premierleague.com/fixtures
 TRANSP:TRANSPARENT
@@ -2521,24 +2264,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:epl-20261226-Hul-Liv@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20261226T150000Z
-DTEND:20261226T170000Z
-SUMMARY:⚽ 🐯 Hull City v ❤️ Liverpool (MW17)
-LOCATION:MKM Stadium\, Hull
-DESCRIPTION:🐯 Hull City v ❤️ Liverpool\nMatchweek 17 - Saturday 26
-  December 2026\n\nKick-off\n15:00 UK  |  15:00 UTC\n\nGround\nMKM Stadiu
- m\, Hull\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixed.
-  Broadcasters select matches around five to six weeks ahead\, and any fi
- xture can shift day or time for TV\, or be postponed for cup ties and Eu
- ropean commitments. Later rounds here show provisional slots.
-CATEGORIES:Premier League,Matchweek 17
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:epl-20261226-Ips-Bre@claude-epl
 DTSTAMP:20260731T090000Z
 DTSTART:20261226T150000Z
@@ -2557,14 +2282,161 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:epl-20261226-Hul-Liv@claude-epl
+DTSTAMP:20260731T090000Z
+DTSTART:20261226T173000Z
+DTEND:20261226T193000Z
+SUMMARY:⚽ 🐯 Hull City v ❤️ Liverpool (MW17)
+LOCATION:MKM Stadium\, Hull
+DESCRIPTION:🐯 Hull City v ❤️ Liverpool\nMatchweek 17 - Saturday 26
+  December 2026\n\nKick-off\n17:30 UK  |  17:30 UTC\n\nGround\nMKM Stadiu
+ m\, Hull\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixed.
+  Broadcasters select matches around five to six weeks ahead\, and any fi
+ xture can shift day or time for TV\, or be postponed for cup ties and Eu
+ ropean commitments. Later rounds here show provisional slots.
+CATEGORIES:Premier League,Matchweek 17
+URL:https://www.premierleague.com/fixtures
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-20261226-New-Man@claude-epl
+DTSTAMP:20260731T090000Z
+DTSTART:20261226T200000Z
+DTEND:20261226T220000Z
+SUMMARY:⚽ 🏰 Newcastle v 💙 Man City (MW17)
+LOCATION:St James' Park\, Newcastle upon Tyne
+DESCRIPTION:🏰 Newcastle v 💙 Man City\nMatchweek 17 - Saturday 26 De
+ cember 2026\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nSt James' Par
+ k\, Newcastle upon Tyne\n\nKICK-OFF TIMES MOVE. Only the next few matchw
+ eeks are fixed. Broadcasters select matches around five to six weeks ahe
+ ad\, and any fixture can shift day or time for TV\, or be postponed for 
+ cup ties and European commitments. Later rounds here show provisional sl
+ ots.
+CATEGORIES:Premier League,Matchweek 17
+URL:https://www.premierleague.com/fixtures
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-20261227-Cov-Che@claude-epl
+DTSTAMP:20260731T090000Z
+DTSTART:20261227T140000Z
+DTEND:20261227T160000Z
+SUMMARY:⚽ 🐘 Coventry v 🔵 Chelsea (MW17)
+LOCATION:Coventry Building Society Arena\, Coventry
+DESCRIPTION:🐘 Coventry v 🔵 Chelsea\nMatchweek 17 - Sunday 27 Decemb
+ er 2026\n\nKick-off\n14:00 UK  |  14:00 UTC\n\nGround\nCoventry Building
+  Society Arena\, Coventry\n\nKICK-OFF TIMES MOVE. Only the next few matc
+ hweeks are fixed. Broadcasters select matches around five to six weeks a
+ head\, and any fixture can shift day or time for TV\, or be postponed fo
+ r cup ties and European commitments. Later rounds here show provisional 
+ slots.
+CATEGORIES:Premier League,Matchweek 17
+URL:https://www.premierleague.com/fixtures
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-20261227-Man-Not@claude-epl
+DTSTAMP:20260731T090000Z
+DTSTART:20261227T163000Z
+DTEND:20261227T183000Z
+SUMMARY:⚽ 😈 Man United v 🌳 Nott'm Forest (MW17)
+LOCATION:Old Trafford\, Manchester
+DESCRIPTION:😈 Man United v 🌳 Nott'm Forest\nMatchweek 17 - Sunday 2
+ 7 December 2026\n\nKick-off\n16:30 UK  |  16:30 UTC\n\nGround\nOld Traff
+ ord\, Manchester\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks ar
+ e fixed. Broadcasters select matches around five to six weeks ahead\, an
+ d any fixture can shift day or time for TV\, or be postponed for cup tie
+ s and European commitments. Later rounds here show provisional slots.
+CATEGORIES:Premier League,Matchweek 17
+URL:https://www.premierleague.com/fixtures
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-20261227-Cry-Ars@claude-epl
+DTSTAMP:20260731T090000Z
+DTSTART:20261227T190000Z
+DTEND:20261227T210000Z
+SUMMARY:⚽ 🦅 Crystal Palace v 🔴 Arsenal (MW17)
+LOCATION:Selhurst Park\, London
+DESCRIPTION:🦅 Crystal Palace v 🔴 Arsenal\nMatchweek 17 - Sunday 27 
+ December 2026\n\nKick-off\n19:00 UK  |  19:00 UTC\n\nGround\nSelhurst Pa
+ rk\, London\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fix
+ ed. Broadcasters select matches around five to six weeks ahead\, and any
+  fixture can shift day or time for TV\, or be postponed for cup ties and
+  European commitments. Later rounds here show provisional slots.
+CATEGORIES:Premier League,Matchweek 17
+URL:https://www.premierleague.com/fixtures
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-20261229-Hul-Lee@claude-epl
+DTSTAMP:20260731T090000Z
+DTSTART:20261229T193000Z
+DTEND:20261229T213000Z
+SUMMARY:⚽ 🐯 Hull City v 🦚 Leeds (MW18)
+LOCATION:MKM Stadium\, Hull
+DESCRIPTION:🐯 Hull City v 🦚 Leeds\nMatchweek 18 - Tuesday 29 Decemb
+ er 2026\n\nKick-off\n19:30 UK  |  19:30 UTC\n\nGround\nMKM Stadium\, Hul
+ l\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixed. Broadc
+ asters select matches around five to six weeks ahead\, and any fixture c
+ an shift day or time for TV\, or be postponed for cup ties and European 
+ commitments. Later rounds here show provisional slots.
+CATEGORIES:Premier League,Matchweek 18
+URL:https://www.premierleague.com/fixtures
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-20261229-Tot-Bri@claude-epl
+DTSTAMP:20260731T090000Z
+DTSTART:20261229T193000Z
+DTEND:20261229T213000Z
+SUMMARY:⚽ 🐓 Tottenham v 🐦 Brighton (MW18)
+LOCATION:Tottenham Hotspur Stadium\, London
+DESCRIPTION:🐓 Tottenham v 🐦 Brighton\nMatchweek 18 - Tuesday 29 Dec
+ ember 2026\n\nKick-off\n19:30 UK  |  19:30 UTC\n\nGround\nTottenham Hots
+ pur Stadium\, London\n\nKICK-OFF TIMES MOVE. Only the next few matchweek
+ s are fixed. Broadcasters select matches around five to six weeks ahead\
+ , and any fixture can shift day or time for TV\, or be postponed for cup
+  ties and European commitments. Later rounds here show provisional slots
+ .
+CATEGORIES:Premier League,Matchweek 18
+URL:https://www.premierleague.com/fixtures
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-20261229-Eve-Man@claude-epl
+DTSTAMP:20260731T090000Z
+DTSTART:20261229T201500Z
+DTEND:20261229T221500Z
+SUMMARY:⚽ 🍬 Everton v 💙 Man City (MW18)
+LOCATION:Hill Dickinson Stadium\, Liverpool
+DESCRIPTION:🍬 Everton v 💙 Man City\nMatchweek 18 - Tuesday 29 Decem
+ ber 2026\n\nKick-off\n20:15 UK  |  20:15 UTC\n\nGround\nHill Dickinson S
+ tadium\, Liverpool\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks 
+ are fixed. Broadcasters select matches around five to six weeks ahead\, 
+ and any fixture can shift day or time for TV\, or be postponed for cup t
+ ies and European commitments. Later rounds here show provisional slots.
+CATEGORIES:Premier League,Matchweek 18
+URL:https://www.premierleague.com/fixtures
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:epl-20261230-Ful-Ars@claude-epl
 DTSTAMP:20260731T090000Z
-DTSTART:20261230T200000Z
-DTEND:20261230T220000Z
+DTSTART:20261230T193000Z
+DTEND:20261230T213000Z
 SUMMARY:⚽ 🏠 Fulham v 🔴 Arsenal (MW18)
 LOCATION:Craven Cottage\, London
 DESCRIPTION:🏠 Fulham v 🔴 Arsenal\nMatchweek 18 - Wednesday 30 Decem
- ber 2026\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nCraven Cottage\,
+ ber 2026\n\nKick-off\n19:30 UK  |  19:30 UTC\n\nGround\nCraven Cottage\,
   London\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixed. 
  Broadcasters select matches around five to six weeks ahead\, and any fix
  ture can shift day or time for TV\, or be postponed for cup ties and Eur
@@ -2577,12 +2449,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:epl-20261230-Cov-Bre@claude-epl
 DTSTAMP:20260731T090000Z
-DTSTART:20261230T200000Z
-DTEND:20261230T220000Z
+DTSTART:20261230T193000Z
+DTEND:20261230T213000Z
 SUMMARY:⚽ 🐘 Coventry v 🐝 Brentford (MW18)
 LOCATION:Coventry Building Society Arena\, Coventry
 DESCRIPTION:🐘 Coventry v 🐝 Brentford\nMatchweek 18 - Wednesday 30 D
- ecember 2026\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nCoventry Bui
+ ecember 2026\n\nKick-off\n19:30 UK  |  19:30 UTC\n\nGround\nCoventry Bui
  lding Society Arena\, Coventry\n\nKICK-OFF TIMES MOVE. Only the next few
   matchweeks are fixed. Broadcasters select matches around five to six we
  eks ahead\, and any fixture can shift day or time for TV\, or be postpon
@@ -2594,32 +2466,14 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:epl-20261230-Ast-Liv@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20261230T200000Z
-DTEND:20261230T220000Z
-SUMMARY:⚽ 🦁 Aston Villa v ❤️ Liverpool (MW18)
-LOCATION:Villa Park\, Birmingham
-DESCRIPTION:🦁 Aston Villa v ❤️ Liverpool\nMatchweek 18 - Wednesday
-  30 December 2026\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nVilla P
- ark\, Birmingham\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks ar
- e fixed. Broadcasters select matches around five to six weeks ahead\, an
- d any fixture can shift day or time for TV\, or be postponed for cup tie
- s and European commitments. Later rounds here show provisional slots.
-CATEGORIES:Premier League,Matchweek 18
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:epl-20261230-New-Not@claude-epl
 DTSTAMP:20260731T090000Z
-DTSTART:20261230T200000Z
-DTEND:20261230T220000Z
+DTSTART:20261230T193000Z
+DTEND:20261230T213000Z
 SUMMARY:⚽ 🏰 Newcastle v 🌳 Nott'm Forest (MW18)
 LOCATION:St James' Park\, Newcastle upon Tyne
 DESCRIPTION:🏰 Newcastle v 🌳 Nott'm Forest\nMatchweek 18 - Wednesday
-  30 December 2026\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nSt Jame
+  30 December 2026\n\nKick-off\n19:30 UK  |  19:30 UTC\n\nGround\nSt Jame
  s' Park\, Newcastle upon Tyne\n\nKICK-OFF TIMES MOVE. Only the next few 
  matchweeks are fixed. Broadcasters select matches around five to six wee
  ks ahead\, and any fixture can shift day or time for TV\, or be postpone
@@ -2631,33 +2485,51 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:epl-20261230-Hul-Lee@claude-epl
+UID:epl-20261230-Man-Sun@claude-epl
 DTSTAMP:20260731T090000Z
-DTSTART:20261230T200000Z
-DTEND:20261230T220000Z
-SUMMARY:⚽ 🐯 Hull City v 🦚 Leeds (MW18)
-LOCATION:MKM Stadium\, Hull
-DESCRIPTION:🐯 Hull City v 🦚 Leeds\nMatchweek 18 - Wednesday 30 Dece
- mber 2026\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nMKM Stadium\, H
- ull\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixed. Broa
- dcasters select matches around five to six weeks ahead\, and any fixture
-  can shift day or time for TV\, or be postponed for cup ties and Europea
- n commitments. Later rounds here show provisional slots.
+DTSTART:20261230T193000Z
+DTEND:20261230T213000Z
+SUMMARY:⚽ 😈 Man United v 🐈 Sunderland (MW18)
+LOCATION:Old Trafford\, Manchester
+DESCRIPTION:😈 Man United v 🐈 Sunderland\nMatchweek 18 - Wednesday 3
+ 0 December 2026\n\nKick-off\n19:30 UK  |  19:30 UTC\n\nGround\nOld Traff
+ ord\, Manchester\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks ar
+ e fixed. Broadcasters select matches around five to six weeks ahead\, an
+ d any fixture can shift day or time for TV\, or be postponed for cup tie
+ s and European commitments. Later rounds here show provisional slots.
 CATEGORIES:Premier League,Matchweek 18
 URL:https://www.premierleague.com/fixtures
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:epl-20261230-Man-Sun@claude-epl
+UID:epl-20261230-Cry-Bou@claude-epl
 DTSTAMP:20260731T090000Z
-DTSTART:20261230T200000Z
-DTEND:20261230T220000Z
-SUMMARY:⚽ 😈 Man United v 🐈 Sunderland (MW18)
-LOCATION:Old Trafford\, Manchester
-DESCRIPTION:😈 Man United v 🐈 Sunderland\nMatchweek 18 - Wednesday 3
- 0 December 2026\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nOld Traff
- ord\, Manchester\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks ar
+DTSTART:20261230T193000Z
+DTEND:20261230T213000Z
+SUMMARY:⚽ 🦅 Crystal Palace v 🍒 Bournemouth (MW18)
+LOCATION:Selhurst Park\, London
+DESCRIPTION:🦅 Crystal Palace v 🍒 Bournemouth\nMatchweek 18 - Wednes
+ day 30 December 2026\n\nKick-off\n19:30 UK  |  19:30 UTC\n\nGround\nSelh
+ urst Park\, London\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks 
+ are fixed. Broadcasters select matches around five to six weeks ahead\, 
+ and any fixture can shift day or time for TV\, or be postponed for cup t
+ ies and European commitments. Later rounds here show provisional slots.
+CATEGORIES:Premier League,Matchweek 18
+URL:https://www.premierleague.com/fixtures
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-20261230-Ast-Liv@claude-epl
+DTSTAMP:20260731T090000Z
+DTSTART:20261230T201500Z
+DTEND:20261230T221500Z
+SUMMARY:⚽ 🦁 Aston Villa v ❤️ Liverpool (MW18)
+LOCATION:Villa Park\, Birmingham
+DESCRIPTION:🦁 Aston Villa v ❤️ Liverpool\nMatchweek 18 - Wednesday
+  30 December 2026\n\nKick-off\n20:15 UK  |  20:15 UTC\n\nGround\nVilla P
+ ark\, Birmingham\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks ar
  e fixed. Broadcasters select matches around five to six weeks ahead\, an
  d any fixture can shift day or time for TV\, or be postponed for cup tie
  s and European commitments. Later rounds here show provisional slots.
@@ -2669,12 +2541,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:epl-20261230-Ips-Che@claude-epl
 DTSTAMP:20260731T090000Z
-DTSTART:20261230T200000Z
-DTEND:20261230T220000Z
+DTSTART:20261230T201500Z
+DTEND:20261230T221500Z
 SUMMARY:⚽ 🚜 Ipswich v 🔵 Chelsea (MW18)
 LOCATION:Portman Road\, Ipswich
 DESCRIPTION:🚜 Ipswich v 🔵 Chelsea\nMatchweek 18 - Wednesday 30 Dece
- mber 2026\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nPortman Road\, 
+ mber 2026\n\nKick-off\n20:15 UK  |  20:15 UTC\n\nGround\nPortman Road\, 
  Ipswich\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixed. 
  Broadcasters select matches around five to six weeks ahead\, and any fix
  ture can shift day or time for TV\, or be postponed for cup ties and Eur
@@ -2685,75 +2557,36 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:epl-20261230-Tot-Bri@claude-epl
+UID:epl-20270101-Lee-Eve@claude-epl
 DTSTAMP:20260731T090000Z
-DTSTART:20261230T200000Z
-DTEND:20261230T220000Z
-SUMMARY:⚽ 🐓 Tottenham v 🐦 Brighton (MW18)
-LOCATION:Tottenham Hotspur Stadium\, London
-DESCRIPTION:🐓 Tottenham v 🐦 Brighton\nMatchweek 18 - Wednesday 30 D
- ecember 2026\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nTottenham Ho
- tspur Stadium\, London\n\nKICK-OFF TIMES MOVE. Only the next few matchwe
- eks are fixed. Broadcasters select matches around five to six weeks ahea
- d\, and any fixture can shift day or time for TV\, or be postponed for c
- up ties and European commitments. Later rounds here show provisional slo
- ts.
-CATEGORIES:Premier League,Matchweek 18
+DTSTART:20270101T200000Z
+DTEND:20270101T220000Z
+SUMMARY:⚽ 🦚 Leeds v 🍬 Everton (MW19)
+LOCATION:Elland Road\, Leeds
+DESCRIPTION:🦚 Leeds v 🍬 Everton\nMatchweek 19 - Friday 1 January 20
+ 27\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nElland Road\, Leeds\n\
+ nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixed. Broadcaste
+ rs select matches around five to six weeks ahead\, and any fixture can s
+ hift day or time for TV\, or be postponed for cup ties and European comm
+ itments. Later rounds here show provisional slots.
+CATEGORIES:Premier League,Matchweek 19
 URL:https://www.premierleague.com/fixtures
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:epl-20261230-Eve-Man@claude-epl
+UID:epl-20270102-Bri-Man@claude-epl
 DTSTAMP:20260731T090000Z
-DTSTART:20261230T200000Z
-DTEND:20261230T220000Z
-SUMMARY:⚽ 🍬 Everton v 💙 Man City (MW18)
-LOCATION:Hill Dickinson Stadium\, Liverpool
-DESCRIPTION:🍬 Everton v 💙 Man City\nMatchweek 18 - Wednesday 30 Dec
- ember 2026\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nHill Dickinson
-  Stadium\, Liverpool\n\nKICK-OFF TIMES MOVE. Only the next few matchweek
- s are fixed. Broadcasters select matches around five to six weeks ahead\
- , and any fixture can shift day or time for TV\, or be postponed for cup
-  ties and European commitments. Later rounds here show provisional slots
- .
-CATEGORIES:Premier League,Matchweek 18
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:epl-20261230-Cry-Bou@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20261230T200000Z
-DTEND:20261230T220000Z
-SUMMARY:⚽ 🦅 Crystal Palace v 🍒 Bournemouth (MW18)
-LOCATION:Selhurst Park\, London
-DESCRIPTION:🦅 Crystal Palace v 🍒 Bournemouth\nMatchweek 18 - Wednes
- day 30 December 2026\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nSelh
- urst Park\, London\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks 
- are fixed. Broadcasters select matches around five to six weeks ahead\, 
- and any fixture can shift day or time for TV\, or be postponed for cup t
- ies and European commitments. Later rounds here show provisional slots.
-CATEGORIES:Premier League,Matchweek 18
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:epl-20270102-Bou-Ast@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20270102T150000Z
-DTEND:20270102T170000Z
-SUMMARY:⚽ 🍒 Bournemouth v 🦁 Aston Villa (MW19)
-LOCATION:Vitality Stadium\, Bournemouth
-DESCRIPTION:🍒 Bournemouth v 🦁 Aston Villa\nMatchweek 19 - Saturday 
- 2 January 2027\n\nKick-off\n15:00 UK  |  15:00 UTC\n\nGround\nVitality S
- tadium\, Bournemouth\n\nKICK-OFF TIMES MOVE. Only the next few matchweek
- s are fixed. Broadcasters select matches around five to six weeks ahead\
- , and any fixture can shift day or time for TV\, or be postponed for cup
-  ties and European commitments. Later rounds here show provisional slots
- .
+DTSTART:20270102T123000Z
+DTEND:20270102T143000Z
+SUMMARY:⚽ 🐦 Brighton v 😈 Man United (MW19)
+LOCATION:Amex Stadium\, Falmer
+DESCRIPTION:🐦 Brighton v 😈 Man United\nMatchweek 19 - Saturday 2 Ja
+ nuary 2027\n\nKick-off\n12:30 UK  |  12:30 UTC\n\nGround\nAmex Stadium\,
+  Falmer\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixed. 
+ Broadcasters select matches around five to six weeks ahead\, and any fix
+ ture can shift day or time for TV\, or be postponed for cup ties and Eur
+ opean commitments. Later rounds here show provisional slots.
 CATEGORIES:Premier League,Matchweek 19
 URL:https://www.premierleague.com/fixtures
 TRANSP:TRANSPARENT
@@ -2773,24 +2606,6 @@ DESCRIPTION:🐝 Brentford v 🦅 Crystal Palace\nMatchweek 19 - Saturday
  ad\, and any fixture can shift day or time for TV\, or be postponed for 
  cup ties and European commitments. Later rounds here show provisional sl
  ots.
-CATEGORIES:Premier League,Matchweek 19
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:epl-20270102-Lee-Eve@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20270102T150000Z
-DTEND:20270102T170000Z
-SUMMARY:⚽ 🦚 Leeds v 🍬 Everton (MW19)
-LOCATION:Elland Road\, Leeds
-DESCRIPTION:🦚 Leeds v 🍬 Everton\nMatchweek 19 - Saturday 2 January 
- 2027\n\nKick-off\n15:00 UK  |  15:00 UTC\n\nGround\nElland Road\, Leeds\
- n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixed. Broadcas
- ters select matches around five to six weeks ahead\, and any fixture can
-  shift day or time for TV\, or be postponed for cup ties and European co
- mmitments. Later rounds here show provisional slots.
 CATEGORIES:Premier League,Matchweek 19
 URL:https://www.premierleague.com/fixtures
 TRANSP:TRANSPARENT
@@ -2851,24 +2666,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:epl-20270102-Che-New@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20270102T150000Z
-DTEND:20270102T170000Z
-SUMMARY:⚽ 🔵 Chelsea v 🏰 Newcastle (MW19)
-LOCATION:Stamford Bridge\, London
-DESCRIPTION:🔵 Chelsea v 🏰 Newcastle\nMatchweek 19 - Saturday 2 Janu
- ary 2027\n\nKick-off\n15:00 UK  |  15:00 UTC\n\nGround\nStamford Bridge\
- , London\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixed.
-  Broadcasters select matches around five to six weeks ahead\, and any fi
- xture can shift day or time for TV\, or be postponed for cup ties and Eu
- ropean commitments. Later rounds here show provisional slots.
-CATEGORIES:Premier League,Matchweek 19
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:epl-20270102-Not-Ful@claude-epl
 DTSTAMP:20260731T090000Z
 DTSTART:20270102T150000Z
@@ -2887,87 +2684,106 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:epl-20270102-Bri-Man@claude-epl
+UID:epl-20270102-Bou-Ast@claude-epl
 DTSTAMP:20260731T090000Z
-DTSTART:20270102T150000Z
-DTEND:20270102T170000Z
-SUMMARY:⚽ 🐦 Brighton v 😈 Man United (MW19)
+DTSTART:20270102T173000Z
+DTEND:20270102T193000Z
+SUMMARY:⚽ 🍒 Bournemouth v 🦁 Aston Villa (MW19)
+LOCATION:Vitality Stadium\, Bournemouth
+DESCRIPTION:🍒 Bournemouth v 🦁 Aston Villa\nMatchweek 19 - Saturday 
+ 2 January 2027\n\nKick-off\n17:30 UK  |  17:30 UTC\n\nGround\nVitality S
+ tadium\, Bournemouth\n\nKICK-OFF TIMES MOVE. Only the next few matchweek
+ s are fixed. Broadcasters select matches around five to six weeks ahead\
+ , and any fixture can shift day or time for TV\, or be postponed for cup
+  ties and European commitments. Later rounds here show provisional slots
+ .
+CATEGORIES:Premier League,Matchweek 19
+URL:https://www.premierleague.com/fixtures
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-20270103-Che-New@claude-epl
+DTSTAMP:20260731T090000Z
+DTSTART:20270103T140000Z
+DTEND:20270103T160000Z
+SUMMARY:⚽ 🔵 Chelsea v 🏰 Newcastle (MW19)
+LOCATION:Stamford Bridge\, London
+DESCRIPTION:🔵 Chelsea v 🏰 Newcastle\nMatchweek 19 - Sunday 3 Januar
+ y 2027\n\nKick-off\n14:00 UK  |  14:00 UTC\n\nGround\nStamford Bridge\, 
+ London\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixed. B
+ roadcasters select matches around five to six weeks ahead\, and any fixt
+ ure can shift day or time for TV\, or be postponed for cup ties and Euro
+ pean commitments. Later rounds here show provisional slots.
+CATEGORIES:Premier League,Matchweek 19
+URL:https://www.premierleague.com/fixtures
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-20270103-Man-Tot@claude-epl
+DTSTAMP:20260731T090000Z
+DTSTART:20270103T163000Z
+DTEND:20270103T183000Z
+SUMMARY:⚽ 💙 Man City v 🐓 Tottenham (MW19)
+LOCATION:Etihad Stadium\, Manchester
+DESCRIPTION:💙 Man City v 🐓 Tottenham\nMatchweek 19 - Sunday 3 Janua
+ ry 2027\n\nKick-off\n16:30 UK  |  16:30 UTC\n\nGround\nEtihad Stadium\, 
+ Manchester\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixe
+ d. Broadcasters select matches around five to six weeks ahead\, and any 
+ fixture can shift day or time for TV\, or be postponed for cup ties and 
+ European commitments. Later rounds here show provisional slots.
+CATEGORIES:Premier League,Matchweek 19
+URL:https://www.premierleague.com/fixtures
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-20270105-Ars-Bre@claude-epl
+DTSTAMP:20260731T090000Z
+DTSTART:20270105T193000Z
+DTEND:20270105T213000Z
+SUMMARY:⚽ 🔴 Arsenal v 🐝 Brentford (MW20)
+LOCATION:Emirates Stadium\, London
+DESCRIPTION:🔴 Arsenal v 🐝 Brentford\nMatchweek 20 - Tuesday 5 Janua
+ ry 2027\n\nKick-off\n19:30 UK  |  19:30 UTC\n\nGround\nEmirates Stadium\
+ , London\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixed.
+  Broadcasters select matches around five to six weeks ahead\, and any fi
+ xture can shift day or time for TV\, or be postponed for cup ties and Eu
+ ropean commitments. Later rounds here show provisional slots.
+CATEGORIES:Premier League,Matchweek 20
+URL:https://www.premierleague.com/fixtures
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-20270105-Bri-Bou@claude-epl
+DTSTAMP:20260731T090000Z
+DTSTART:20270105T193000Z
+DTEND:20270105T213000Z
+SUMMARY:⚽ 🐦 Brighton v 🍒 Bournemouth (MW20)
 LOCATION:Amex Stadium\, Falmer
-DESCRIPTION:🐦 Brighton v 😈 Man United\nMatchweek 19 - Saturday 2 Ja
- nuary 2027\n\nKick-off\n15:00 UK  |  15:00 UTC\n\nGround\nAmex Stadium\,
+DESCRIPTION:🐦 Brighton v 🍒 Bournemouth\nMatchweek 20 - Tuesday 5 Ja
+ nuary 2027\n\nKick-off\n19:30 UK  |  19:30 UTC\n\nGround\nAmex Stadium\,
   Falmer\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixed. 
  Broadcasters select matches around five to six weeks ahead\, and any fix
  ture can shift day or time for TV\, or be postponed for cup ties and Eur
  opean commitments. Later rounds here show provisional slots.
-CATEGORIES:Premier League,Matchweek 19
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:epl-20270102-Man-Tot@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20270102T150000Z
-DTEND:20270102T170000Z
-SUMMARY:⚽ 💙 Man City v 🐓 Tottenham (MW19)
-LOCATION:Etihad Stadium\, Manchester
-DESCRIPTION:💙 Man City v 🐓 Tottenham\nMatchweek 19 - Saturday 2 Jan
- uary 2027\n\nKick-off\n15:00 UK  |  15:00 UTC\n\nGround\nEtihad Stadium\
- , Manchester\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fi
- xed. Broadcasters select matches around five to six weeks ahead\, and an
- y fixture can shift day or time for TV\, or be postponed for cup ties an
- d European commitments. Later rounds here show provisional slots.
-CATEGORIES:Premier League,Matchweek 19
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:epl-20270106-Ars-Bre@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20270106T200000Z
-DTEND:20270106T220000Z
-SUMMARY:⚽ 🔴 Arsenal v 🐝 Brentford (MW20)
-LOCATION:Emirates Stadium\, London
-DESCRIPTION:🔴 Arsenal v 🐝 Brentford\nMatchweek 20 - Wednesday 6 Jan
- uary 2027\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nEmirates Stadiu
- m\, London\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixe
- d. Broadcasters select matches around five to six weeks ahead\, and any 
- fixture can shift day or time for TV\, or be postponed for cup ties and 
- European commitments. Later rounds here show provisional slots.
 CATEGORIES:Premier League,Matchweek 20
 URL:https://www.premierleague.com/fixtures
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:epl-20270106-Lee-Man@claude-epl
+UID:epl-20270105-Not-Hul@claude-epl
 DTSTAMP:20260731T090000Z
-DTSTART:20270106T200000Z
-DTEND:20270106T220000Z
-SUMMARY:⚽ 🦚 Leeds v 💙 Man City (MW20)
-LOCATION:Elland Road\, Leeds
-DESCRIPTION:🦚 Leeds v 💙 Man City\nMatchweek 20 - Wednesday 6 Januar
- y 2027\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nElland Road\, Leed
- s\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixed. Broadc
- asters select matches around five to six weeks ahead\, and any fixture c
- an shift day or time for TV\, or be postponed for cup ties and European 
- commitments. Later rounds here show provisional slots.
-CATEGORIES:Premier League,Matchweek 20
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:epl-20270106-Man-New@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20270106T200000Z
-DTEND:20270106T220000Z
-SUMMARY:⚽ 😈 Man United v 🏰 Newcastle (MW20)
-LOCATION:Old Trafford\, Manchester
-DESCRIPTION:😈 Man United v 🏰 Newcastle\nMatchweek 20 - Wednesday 6 
- January 2027\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nOld Trafford
- \, Manchester\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are f
+DTSTART:20270105T193000Z
+DTEND:20270105T213000Z
+SUMMARY:⚽ 🌳 Nott'm Forest v 🐯 Hull City (MW20)
+LOCATION:City Ground\, Nottingham
+DESCRIPTION:🌳 Nott'm Forest v 🐯 Hull City\nMatchweek 20 - Tuesday 5
+  January 2027\n\nKick-off\n19:30 UK  |  19:30 UTC\n\nGround\nCity Ground
+ \, Nottingham\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are f
  ixed. Broadcasters select matches around five to six weeks ahead\, and a
  ny fixture can shift day or time for TV\, or be postponed for cup ties a
  nd European commitments. Later rounds here show provisional slots.
@@ -2977,36 +2793,36 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:epl-20270106-Bri-Bou@claude-epl
+UID:epl-20270105-Eve-Ast@claude-epl
 DTSTAMP:20260731T090000Z
-DTSTART:20270106T200000Z
-DTEND:20270106T220000Z
-SUMMARY:⚽ 🐦 Brighton v 🍒 Bournemouth (MW20)
-LOCATION:Amex Stadium\, Falmer
-DESCRIPTION:🐦 Brighton v 🍒 Bournemouth\nMatchweek 20 - Wednesday 6 
- January 2027\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nAmex Stadium
- \, Falmer\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixed
- . Broadcasters select matches around five to six weeks ahead\, and any f
- ixture can shift day or time for TV\, or be postponed for cup ties and E
- uropean commitments. Later rounds here show provisional slots.
+DTSTART:20270105T193000Z
+DTEND:20270105T213000Z
+SUMMARY:⚽ 🍬 Everton v 🦁 Aston Villa (MW20)
+LOCATION:Hill Dickinson Stadium\, Liverpool
+DESCRIPTION:🍬 Everton v 🦁 Aston Villa\nMatchweek 20 - Tuesday 5 Jan
+ uary 2027\n\nKick-off\n19:30 UK  |  19:30 UTC\n\nGround\nHill Dickinson 
+ Stadium\, Liverpool\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks
+  are fixed. Broadcasters select matches around five to six weeks ahead\,
+  and any fixture can shift day or time for TV\, or be postponed for cup 
+ ties and European commitments. Later rounds here show provisional slots.
 CATEGORIES:Premier League,Matchweek 20
 URL:https://www.premierleague.com/fixtures
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:epl-20270106-Not-Hul@claude-epl
+UID:epl-20270105-Sun-Liv@claude-epl
 DTSTAMP:20260731T090000Z
-DTSTART:20270106T200000Z
-DTEND:20270106T220000Z
-SUMMARY:⚽ 🌳 Nott'm Forest v 🐯 Hull City (MW20)
-LOCATION:City Ground\, Nottingham
-DESCRIPTION:🌳 Nott'm Forest v 🐯 Hull City\nMatchweek 20 - Wednesday
-  6 January 2027\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nCity Grou
- nd\, Nottingham\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are
-  fixed. Broadcasters select matches around five to six weeks ahead\, and
-  any fixture can shift day or time for TV\, or be postponed for cup ties
-  and European commitments. Later rounds here show provisional slots.
+DTSTART:20270105T201500Z
+DTEND:20270105T221500Z
+SUMMARY:⚽ 🐈 Sunderland v ❤️ Liverpool (MW20)
+LOCATION:Stadium of Light\, Sunderland
+DESCRIPTION:🐈 Sunderland v ❤️ Liverpool\nMatchweek 20 - Tuesday 5 
+ January 2027\n\nKick-off\n20:15 UK  |  20:15 UTC\n\nGround\nStadium of L
+ ight\, Sunderland\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks a
+ re fixed. Broadcasters select matches around five to six weeks ahead\, a
+ nd any fixture can shift day or time for TV\, or be postponed for cup ti
+ es and European commitments. Later rounds here show provisional slots.
 CATEGORIES:Premier League,Matchweek 20
 URL:https://www.premierleague.com/fixtures
 TRANSP:TRANSPARENT
@@ -3015,12 +2831,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:epl-20270106-Ful-Tot@claude-epl
 DTSTAMP:20260731T090000Z
-DTSTART:20270106T200000Z
-DTEND:20270106T220000Z
+DTSTART:20270106T193000Z
+DTEND:20270106T213000Z
 SUMMARY:⚽ 🏠 Fulham v 🐓 Tottenham (MW20)
 LOCATION:Craven Cottage\, London
 DESCRIPTION:🏠 Fulham v 🐓 Tottenham\nMatchweek 20 - Wednesday 6 Janu
- ary 2027\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nCraven Cottage\,
+ ary 2027\n\nKick-off\n19:30 UK  |  19:30 UTC\n\nGround\nCraven Cottage\,
   London\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixed. 
  Broadcasters select matches around five to six weeks ahead\, and any fix
  ture can shift day or time for TV\, or be postponed for cup ties and Eur
@@ -3031,51 +2847,14 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:epl-20270106-Eve-Ast@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20270106T200000Z
-DTEND:20270106T220000Z
-SUMMARY:⚽ 🍬 Everton v 🦁 Aston Villa (MW20)
-LOCATION:Hill Dickinson Stadium\, Liverpool
-DESCRIPTION:🍬 Everton v 🦁 Aston Villa\nMatchweek 20 - Wednesday 6 J
- anuary 2027\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nHill Dickinso
- n Stadium\, Liverpool\n\nKICK-OFF TIMES MOVE. Only the next few matchwee
- ks are fixed. Broadcasters select matches around five to six weeks ahead
- \, and any fixture can shift day or time for TV\, or be postponed for cu
- p ties and European commitments. Later rounds here show provisional slot
- s.
-CATEGORIES:Premier League,Matchweek 20
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:epl-20270106-Sun-Liv@claude-epl
-DTSTAMP:20260731T090000Z
-DTSTART:20270106T200000Z
-DTEND:20270106T220000Z
-SUMMARY:⚽ 🐈 Sunderland v ❤️ Liverpool (MW20)
-LOCATION:Stadium of Light\, Sunderland
-DESCRIPTION:🐈 Sunderland v ❤️ Liverpool\nMatchweek 20 - Wednesday 
- 6 January 2027\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nStadium of
-  Light\, Sunderland\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks
-  are fixed. Broadcasters select matches around five to six weeks ahead\,
-  and any fixture can shift day or time for TV\, or be postponed for cup 
- ties and European commitments. Later rounds here show provisional slots.
-CATEGORIES:Premier League,Matchweek 20
-URL:https://www.premierleague.com/fixtures
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:epl-20270106-Cry-Che@claude-epl
 DTSTAMP:20260731T090000Z
-DTSTART:20270106T200000Z
-DTEND:20270106T220000Z
+DTSTART:20270106T193000Z
+DTEND:20270106T213000Z
 SUMMARY:⚽ 🦅 Crystal Palace v 🔵 Chelsea (MW20)
 LOCATION:Selhurst Park\, London
 DESCRIPTION:🦅 Crystal Palace v 🔵 Chelsea\nMatchweek 20 - Wednesday 
- 6 January 2027\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nSelhurst P
+ 6 January 2027\n\nKick-off\n19:30 UK  |  19:30 UTC\n\nGround\nSelhurst P
  ark\, London\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fi
  xed. Broadcasters select matches around five to six weeks ahead\, and an
  y fixture can shift day or time for TV\, or be postponed for cup ties an
@@ -3088,16 +2867,52 @@ END:VEVENT
 BEGIN:VEVENT
 UID:epl-20270106-Ips-Cov@claude-epl
 DTSTAMP:20260731T090000Z
-DTSTART:20270106T200000Z
-DTEND:20270106T220000Z
+DTSTART:20270106T193000Z
+DTEND:20270106T213000Z
 SUMMARY:⚽ 🚜 Ipswich v 🐘 Coventry (MW20)
 LOCATION:Portman Road\, Ipswich
 DESCRIPTION:🚜 Ipswich v 🐘 Coventry\nMatchweek 20 - Wednesday 6 Janu
- ary 2027\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nPortman Road\, I
+ ary 2027\n\nKick-off\n19:30 UK  |  19:30 UTC\n\nGround\nPortman Road\, I
  pswich\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixed. B
  roadcasters select matches around five to six weeks ahead\, and any fixt
  ure can shift day or time for TV\, or be postponed for cup ties and Euro
  pean commitments. Later rounds here show provisional slots.
+CATEGORIES:Premier League,Matchweek 20
+URL:https://www.premierleague.com/fixtures
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-20270106-Lee-Man@claude-epl
+DTSTAMP:20260731T090000Z
+DTSTART:20270106T201500Z
+DTEND:20270106T221500Z
+SUMMARY:⚽ 🦚 Leeds v 💙 Man City (MW20)
+LOCATION:Elland Road\, Leeds
+DESCRIPTION:🦚 Leeds v 💙 Man City\nMatchweek 20 - Wednesday 6 Januar
+ y 2027\n\nKick-off\n20:15 UK  |  20:15 UTC\n\nGround\nElland Road\, Leed
+ s\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fixed. Broadc
+ asters select matches around five to six weeks ahead\, and any fixture c
+ an shift day or time for TV\, or be postponed for cup ties and European 
+ commitments. Later rounds here show provisional slots.
+CATEGORIES:Premier League,Matchweek 20
+URL:https://www.premierleague.com/fixtures
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:epl-20270107-Man-New@claude-epl
+DTSTAMP:20260731T090000Z
+DTSTART:20270107T200000Z
+DTEND:20270107T220000Z
+SUMMARY:⚽ 😈 Man United v 🏰 Newcastle (MW20)
+LOCATION:Old Trafford\, Manchester
+DESCRIPTION:😈 Man United v 🏰 Newcastle\nMatchweek 20 - Thursday 7 J
+ anuary 2027\n\nKick-off\n20:00 UK  |  20:00 UTC\n\nGround\nOld Trafford\
+ , Manchester\n\nKICK-OFF TIMES MOVE. Only the next few matchweeks are fi
+ xed. Broadcasters select matches around five to six weeks ahead\, and an
+ y fixture can shift day or time for TV\, or be postponed for cup ties an
+ d European commitments. Later rounds here show provisional slots.
 CATEGORIES:Premier League,Matchweek 20
 URL:https://www.premierleague.com/fixtures
 TRANSP:TRANSPARENT
