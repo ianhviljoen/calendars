@@ -9,29 +9,8 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
  included\; vaguely scheduled missions are left out. Times UTC.
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:launch-d1471f9d-e9d0-4146-8e97-90863e48bfc8@claude-launches
-DTSTAMP:20260920T102316Z
-DTSTART:20260920T014700Z
-DTEND:20260920T024700Z
-SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-27
-LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:Falcon 9 Block 5 | Starlink Group 15-27\n\nStatus\nLaunched\n
- \nLift-off\n01:47 UTC\, Sunday 20 September 2026\n\nProvider\nSpaceX\n\n
- Site\nSpace Launch Complex 4E\, Vandenberg SFB\, CA\, USA\n\nOrbit\nLow 
- Earth Orbit\n\nMission\nA batch of 27 satellites for the Starlink mega-c
- onstellation - SpaceX's project for space-based Internet communication s
- ystem.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical holds and r
- ange availability move them\, often by days and sometimes by hours on th
- e day itself. This calendar rebuilds daily\, but always check before set
- ting an alarm.
-CATEGORIES:SpaceX,Falcon 9
-URL:https://nextspaceflight.com/launches/
-TRANSP:TRANSPARENT
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:launch-7330d83b-c478-426c-8859-f9e3a335876d@claude-launches
-DTSTAMP:20260920T102316Z
+DTSTAMP:20260921T113848Z
 DTSTART:20260926T115600Z
 DTEND:20260926T125600Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-385
@@ -54,7 +33,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519@claude-launches
-DTSTAMP:20260920T102316Z
+DTSTAMP:20260921T113848Z
 DTSTART:20260928T121500Z
 DTEND:20260928T131500Z
 SUMMARY:🚀 Starship | Starlink Group 31-1 (Starship Flight 14)
@@ -82,13 +61,13 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-97c6f5e1-299e-4652-b72d-9618ac047076@claude-launches
-DTSTAMP:20260920T102316Z
-DTSTART:20260930T140000Z
-DTEND:20260930T150000Z
+DTSTAMP:20260921T113848Z
+DTSTART:20260930T160000Z
+DTEND:20260930T170000Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-25
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:Falcon 9 Block 5 | Starlink Group 15-25\n\nStatus\nGo for lau
- nch - date and time confirmed\n\nLift-off\n14:00 UTC\, Wednesday 30 Sept
+ nch - date and time confirmed\n\nLift-off\n16:00 UTC\, Wednesday 30 Sept
  ember 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vanden
  berg SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 
  satellites for the Starlink mega-constellation - SpaceX's project for sp
@@ -103,7 +82,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-18441371-8b2e-457c-afb5-1ec1b11ab630@claude-launches
-DTSTAMP:20260920T102316Z
+DTSTAMP:20260921T113848Z
 DTSTART:20261001T151006Z
 DTEND:20261001T161006Z
 SUMMARY:🚀 Falcon 9 Block 5 | Crew-13
