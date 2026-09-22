@@ -10,7 +10,7 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-7330d83b-c478-426c-8859-f9e3a335876d@claude-launches
-DTSTAMP:20260921T113848Z
+DTSTAMP:20260922T104316Z
 DTSTART:20260926T115600Z
 DTEND:20260926T125600Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-385
@@ -33,7 +33,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519@claude-launches
-DTSTAMP:20260921T113848Z
+DTSTAMP:20260922T104316Z
 DTSTART:20260928T121500Z
 DTEND:20260928T131500Z
 SUMMARY:🚀 Starship | Starlink Group 31-1 (Starship Flight 14)
@@ -60,29 +60,8 @@ TRANSP:TRANSPARENT
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:launch-97c6f5e1-299e-4652-b72d-9618ac047076@claude-launches
-DTSTAMP:20260921T113848Z
-DTSTART:20260930T160000Z
-DTEND:20260930T170000Z
-SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-25
-LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:Falcon 9 Block 5 | Starlink Group 15-25\n\nStatus\nGo for lau
- nch - date and time confirmed\n\nLift-off\n16:00 UTC\, Wednesday 30 Sept
- ember 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vanden
- berg SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 
- satellites for the Starlink mega-constellation - SpaceX's project for sp
- ace-based Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY
-  - weather\, technical holds and range availability move them\, often by
-  days and sometimes by hours on the day itself. This calendar rebuilds d
- aily\, but always check before setting an alarm.
-CATEGORIES:SpaceX,Falcon 9
-URL:https://nextspaceflight.com/launches/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:launch-18441371-8b2e-457c-afb5-1ec1b11ab630@claude-launches
-DTSTAMP:20260921T113848Z
+DTSTAMP:20260922T104316Z
 DTSTART:20261001T151006Z
 DTEND:20261001T161006Z
 SUMMARY:🚀 Falcon 9 Block 5 | Crew-13
@@ -101,5 +80,48 @@ CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:launch-67213393-7983-4c06-8b44-b8c785a5ed79@claude-launches
+DTSTAMP:20260922T104316Z
+DTSTART:20261001T180800Z
+DTEND:20261001T190800Z
+SUMMARY:🚀 Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)\n
+ \nStatus\nTo be confirmed - date is likely but not final\n\nLift-off\n18
+ :08 UTC\, Thursday 1 October 2026\n\nProvider\nSpaceX\n\nSite\nSpace Lau
+ nch Complex 4E\, Vandenberg SFB\, CA\, USA\n\nOrbit\nSun-Synchronous Orb
+ it\n\nMission\nDedicated rideshare flight to a sun-synchronous orbit wit
+ h dozens of small microsatellites and nanosatellites for commercial and 
+ government customers.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, techni
+ cal holds and range availability move them\, often by days and sometimes
+  by hours on the day itself. This calendar rebuilds daily\, but always c
+ heck before setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:launch-97c6f5e1-299e-4652-b72d-9618ac047076@claude-launches
+DTSTAMP:20260922T104316Z
+DTSTART:20261010T160000Z
+DTEND:20261010T170000Z
+SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-25
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:Falcon 9 Block 5 | Starlink Group 15-25\n\nStatus\nGo for lau
+ nch - date and time confirmed\n\nLift-off\n16:00 UTC\, Saturday 10 Octob
+ er 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenber
+ g SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 sat
+ ellites for the Starlink mega-constellation - SpaceX's project for space
+ -based Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY - 
+ weather\, technical holds and range availability move them\, often by da
+ ys and sometimes by hours on the day itself. This calendar rebuilds dail
+ y\, but always check before setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
