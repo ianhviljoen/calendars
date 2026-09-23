@@ -10,7 +10,7 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-7330d83b-c478-426c-8859-f9e3a335876d@claude-launches
-DTSTAMP:20260922T104316Z
+DTSTAMP:20260923T103416Z
 DTSTART:20260926T115600Z
 DTEND:20260926T125600Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-385
@@ -33,7 +33,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519@claude-launches
-DTSTAMP:20260922T104316Z
+DTSTAMP:20260923T103416Z
 DTSTART:20260928T121500Z
 DTEND:20260928T131500Z
 SUMMARY:🚀 Starship | Starlink Group 31-1 (Starship Flight 14)
@@ -61,29 +61,29 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-18441371-8b2e-457c-afb5-1ec1b11ab630@claude-launches
-DTSTAMP:20260922T104316Z
+DTSTAMP:20260923T103416Z
 DTSTART:20261001T151006Z
 DTEND:20261001T161006Z
 SUMMARY:🚀 Falcon 9 Block 5 | Crew-13
 LOCATION:Space Launch Complex 40\, Cape Canaveral SFS\, FL\, USA
-DESCRIPTION:Falcon 9 Block 5 | Crew-13\n\nStatus\nTo be confirmed - date 
- is likely but not final\n\nLift-off\n15:10 UTC\, Thursday 1 October 2026
- \n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 40\, Cape Canaveral S
- FS\, FL\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nSpaceX Crew-13 is th
- e thirteenth crewed operational flight of a Crew Dragon spacecraft to th
- e International Space Station as part of NASA's Commercial Crew Program.
- \n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical holds and range a
- vailability move them\, often by days and sometimes by hours on the day 
- itself. This calendar rebuilds daily\, but always check before setting a
- n alarm.
+DESCRIPTION:Falcon 9 Block 5 | Crew-13\n\nStatus\nGo for launch - date an
+ d time confirmed\n\nLift-off\n15:10 UTC\, Thursday 1 October 2026\n\nPro
+ vider\nSpaceX\n\nSite\nSpace Launch Complex 40\, Cape Canaveral SFS\, FL
+ \, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nSpaceX Crew-13 is the thirt
+ eenth crewed operational flight of a Crew Dragon spacecraft to the Inter
+ national Space Station as part of NASA's Commercial Crew Program.\n\nLAU
+ NCH DATES SLIP CONSTANTLY - weather\, technical holds and range availabi
+ lity move them\, often by days and sometimes by hours on the day itself.
+  This calendar rebuilds daily\, but always check before setting an alarm
+ .
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-67213393-7983-4c06-8b44-b8c785a5ed79@claude-launches
-DTSTAMP:20260922T104316Z
+DTSTAMP:20260923T103416Z
 DTSTART:20261001T180800Z
 DTEND:20261001T190800Z
 SUMMARY:🚀 Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)
@@ -105,7 +105,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-97c6f5e1-299e-4652-b72d-9618ac047076@claude-launches
-DTSTAMP:20260922T104316Z
+DTSTAMP:20260923T103416Z
 DTSTART:20261010T160000Z
 DTEND:20261010T170000Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-25
