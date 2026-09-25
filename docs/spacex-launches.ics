@@ -10,7 +10,7 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-7330d83b-c478-426c-8859-f9e3a335876d@claude-launches
-DTSTAMP:20260924T105252Z
+DTSTAMP:20260925T105517Z
 DTSTART:20260926T115600Z
 DTEND:20260926T125600Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-385
@@ -33,7 +33,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519@claude-launches
-DTSTAMP:20260924T105252Z
+DTSTAMP:20260925T105517Z
 DTSTART:20260928T121500Z
 DTEND:20260928T131500Z
 SUMMARY:🚀 Starship | Starlink Group 31-1 (Starship Flight 14)
@@ -61,7 +61,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-18441371-8b2e-457c-afb5-1ec1b11ab630@claude-launches
-DTSTAMP:20260924T105252Z
+DTSTAMP:20260925T105517Z
 DTSTART:20261001T151006Z
 DTEND:20261001T161006Z
 SUMMARY:🚀 Falcon 9 Block 5 | Crew-13
@@ -83,29 +83,49 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-67213393-7983-4c06-8b44-b8c785a5ed79@claude-launches
-DTSTAMP:20260924T105252Z
-DTSTART:20261001T180800Z
-DTEND:20261001T190800Z
+DTSTAMP:20260925T105517Z
+DTSTART:20261001T181800Z
+DTEND:20261001T191800Z
 SUMMARY:🚀 Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)\n
- \nStatus\nTo be confirmed - date is likely but not final\n\nLift-off\n18
- :08 UTC\, Thursday 1 October 2026\n\nProvider\nSpaceX\n\nSite\nSpace Lau
- nch Complex 4E\, Vandenberg SFB\, CA\, USA\n\nOrbit\nSun-Synchronous Orb
- it\n\nMission\nDedicated rideshare flight to a sun-synchronous orbit wit
- h dozens of small microsatellites and nanosatellites for commercial and 
- government customers.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, techni
- cal holds and range availability move them\, often by days and sometimes
-  by hours on the day itself. This calendar rebuilds daily\, but always c
- heck before setting an alarm.
+ \nStatus\nGo for launch - date and time confirmed\n\nLift-off\n18:18 UTC
+ \, Thursday 1 October 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Com
+ plex 4E\, Vandenberg SFB\, CA\, USA\n\nOrbit\nSun-Synchronous Orbit\n\nM
+ ission\nDedicated rideshare flight to a sun-synchronous orbit with dozen
+ s of small microsatellites and nanosatellites for commercial and governm
+ ent customers.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical hol
+ ds and range availability move them\, often by days and sometimes by hou
+ rs on the day itself. This calendar rebuilds daily\, but always check be
+ fore setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
-STATUS:TENTATIVE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:launch-4651fd8a-43de-4166-bf8f-c168b3bd1d2c@claude-launches
+DTSTAMP:20260925T105517Z
+DTSTART:20261002T035300Z
+DTEND:20261002T045300Z
+SUMMARY:🚀 Falcon Heavy | NROL-97
+LOCATION:Launch Complex 39A\, Kennedy Space Center\, FL\, USA
+DESCRIPTION:Falcon Heavy | NROL-97\n\nStatus\nGo for launch - date and ti
+ me confirmed\n\nLift-off\n03:53 UTC\, Friday 2 October 2026\n\nProvider\
+ nSpaceX\n\nSite\nLaunch Complex 39A\, Kennedy Space Center\, FL\, USA\n\
+ nOrbit\nUnknown\n\nMission\nClassified payload for the US National Recon
+ naissance Office.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical 
+ holds and range availability move them\, often by days and sometimes by 
+ hours on the day itself. This calendar rebuilds daily\, but always check
+  before setting an alarm.
+CATEGORIES:SpaceX,Falcon Heavy
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-97c6f5e1-299e-4652-b72d-9618ac047076@claude-launches
-DTSTAMP:20260924T105252Z
+DTSTAMP:20260925T105517Z
 DTSTART:20261010T160000Z
 DTEND:20261010T170000Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-25
