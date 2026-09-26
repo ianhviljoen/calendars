@@ -10,13 +10,13 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-7330d83b-c478-426c-8859-f9e3a335876d@claude-launches
-DTSTAMP:20260925T105517Z
-DTSTART:20260926T115600Z
-DTEND:20260926T125600Z
+DTSTAMP:20260926T103612Z
+DTSTART:20260926T140054Z
+DTEND:20260926T150054Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-385
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:Falcon 9 Block 5 | USSF-385\n\nStatus\nGo for launch - date a
- nd time confirmed\n\nLift-off\n11:56 UTC\, Saturday 26 September 2026\n\
+ nd time confirmed\n\nLift-off\n14:00 UTC\, Saturday 26 September 2026\n\
  nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, CA
  \, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA classified mission for th
  e United States Space Force. It is possibly a batch of classified LEO sa
@@ -33,7 +33,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519@claude-launches
-DTSTAMP:20260925T105517Z
+DTSTAMP:20260926T103612Z
 DTSTART:20260928T121500Z
 DTEND:20260928T131500Z
 SUMMARY:🚀 Starship | Starlink Group 31-1 (Starship Flight 14)
@@ -61,7 +61,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-18441371-8b2e-457c-afb5-1ec1b11ab630@claude-launches
-DTSTAMP:20260925T105517Z
+DTSTAMP:20260926T103612Z
 DTSTART:20261001T151006Z
 DTEND:20261001T161006Z
 SUMMARY:🚀 Falcon 9 Block 5 | Crew-13
@@ -83,7 +83,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-67213393-7983-4c06-8b44-b8c785a5ed79@claude-launches
-DTSTAMP:20260925T105517Z
+DTSTAMP:20260926T103612Z
 DTSTART:20261001T181800Z
 DTEND:20261001T191800Z
 SUMMARY:🚀 Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)
@@ -105,7 +105,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-4651fd8a-43de-4166-bf8f-c168b3bd1d2c@claude-launches
-DTSTAMP:20260925T105517Z
+DTSTAMP:20260926T103612Z
 DTSTART:20261002T035300Z
 DTEND:20261002T045300Z
 SUMMARY:🚀 Falcon Heavy | NROL-97
@@ -124,8 +124,36 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5@claude-launches
+DTSTAMP:20260926T103612Z
+DTSTART:20261005T080600Z
+DTEND:20261005T090600Z
+SUMMARY:🚀 Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A\n\nStatus\
+ nTo be confirmed - date is likely but not final\n\nLift-off\n08:06 UTC\,
+  Monday 5 October 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex
+  4E\, Vandenberg SFB\, CA\, USA\n\nOrbit\nPolar Orbit\n\nMission\nTranch
+ e 1 Transport Layer A is one of six missions by the United States Space 
+ Force Space Development Agency (SDA) for the Proliferated Warfighter Spa
+ ce Architecture (PWSA) Tranche 1 Transport Layer constellation\, which w
+ ill provide assured\, resilient\, low-latency military data and connecti
+ vity worldwide to the full range of warfighter platforms from Low Earth 
+ Orbit satellites. The constellation will be interconnected with Optical 
+ Inter-Satellite Links (OISLs) which have significantly increased perform
+ ance over existing radio frequency crosslinks. It is expected to operate
+  over Ka band\, have...\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, tech
+ nical holds and range availability move them\, often by days and sometim
+ es by hours on the day itself. This calendar rebuilds daily\, but always
+  check before setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:launch-97c6f5e1-299e-4652-b72d-9618ac047076@claude-launches
-DTSTAMP:20260925T105517Z
+DTSTAMP:20260926T103612Z
 DTSTART:20261010T160000Z
 DTEND:20261010T170000Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-25
