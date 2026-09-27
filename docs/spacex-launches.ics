@@ -9,59 +9,36 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
  included\; vaguely scheduled missions are left out. Times UTC.
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:launch-7330d83b-c478-426c-8859-f9e3a335876d@claude-launches
-DTSTAMP:20260926T103612Z
-DTSTART:20260926T140054Z
-DTEND:20260926T150054Z
-SUMMARY:🚀 Falcon 9 Block 5 | USSF-385
-LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:Falcon 9 Block 5 | USSF-385\n\nStatus\nGo for launch - date a
- nd time confirmed\n\nLift-off\n14:00 UTC\, Saturday 26 September 2026\n\
- nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, CA
- \, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA classified mission for th
- e United States Space Force. It is possibly a batch of classified LEO sa
- tellites based on SpaceX’s Starshield satellite bus\, based on locatio
- ns of rocket stage drop zones being exact fits with previous Starlink Gr
- oup 15 launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical h
- olds and range availability move them\, often by days and sometimes by h
- ours on the day itself. This calendar rebuilds daily\, but always check 
- before setting an alarm.
-CATEGORIES:SpaceX,Falcon 9
-URL:https://nextspaceflight.com/launches/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:launch-7d1afb26-6f9c-429b-9ccf-29012fd1e519@claude-launches
-DTSTAMP:20260926T103612Z
+DTSTAMP:20260927T110828Z
 DTSTART:20260928T121500Z
 DTEND:20260928T131500Z
 SUMMARY:🚀 Starship | Starlink Group 31-1 (Starship Flight 14)
 LOCATION:Orbital Launch Pad 2\, SpaceX Starbase\, TX\, USA
 DESCRIPTION:Starship | Starlink Group 31-1 (Starship Flight 14)\n\nStatus
- \nTo be confirmed - date is likely but not final\n\nLift-off\n12:15 UTC\
- , Monday 28 September 2026\n\nProvider\nSpaceX\n\nSite\nOrbital Launch P
- ad 2\, SpaceX Starbase\, TX\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\n
- 14th test flight of the two-stage Starship launch vehicle. 3rd flight of
-  Starship V3 and the first Starship flight to deploy satellites (a group
-  of Starlink satellites known as Starlink Group 31-1) into stable Low Ea
- rth Orbit. The ship is expected to fly at an altitude approximately 275 
- km above Earth and complete approximately 6 orbits around the planet for
-  nearly 10 hours\, with splashdown targeted in the Pacific Ocean west of
-  Chile. The booster’s primary test objective on Flight 14 will be exec
- uting a successful launch\, ascent\, stage separation\, boostback burn\,
-  and landing burn at an...\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, t
- echnical holds and range availability move them\, often by days and some
- times by hours on the day itself. This calendar rebuilds daily\, but alw
- ays check before setting an alarm.
+ \nGo for launch - date and time confirmed\n\nLift-off\n12:15 UTC\, Monda
+ y 28 September 2026\n\nProvider\nSpaceX\n\nSite\nOrbital Launch Pad 2\, 
+ SpaceX Starbase\, TX\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\n14th te
+ st flight of the two-stage Starship launch vehicle. 3rd flight of Starsh
+ ip V3 and the first Starship flight to deploy satellites (a group of Sta
+ rlink satellites known as Starlink Group 31-1) into stable Low Earth Orb
+ it. The ship is expected to fly at an altitude approximately 275 km abov
+ e Earth and complete approximately 6 orbits around the planet for nearly
+  10 hours\, with splashdown targeted in the Pacific Ocean west of Chile.
+  The booster’s primary test objective on Flight 14 will be executing a
+  successful launch\, ascent\, stage separation\, boostback burn\, and la
+ nding burn at an...\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technica
+ l holds and range availability move them\, often by days and sometimes b
+ y hours on the day itself. This calendar rebuilds daily\, but always che
+ ck before setting an alarm.
 CATEGORIES:SpaceX,Starship
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-18441371-8b2e-457c-afb5-1ec1b11ab630@claude-launches
-DTSTAMP:20260926T103612Z
+DTSTAMP:20260927T110828Z
 DTSTART:20261001T151006Z
 DTEND:20261001T161006Z
 SUMMARY:🚀 Falcon 9 Block 5 | Crew-13
@@ -83,7 +60,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-67213393-7983-4c06-8b44-b8c785a5ed79@claude-launches
-DTSTAMP:20260926T103612Z
+DTSTAMP:20260927T110828Z
 DTSTART:20261001T181800Z
 DTEND:20261001T191800Z
 SUMMARY:🚀 Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)
@@ -105,7 +82,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-4651fd8a-43de-4166-bf8f-c168b3bd1d2c@claude-launches
-DTSTAMP:20260926T103612Z
+DTSTAMP:20260927T110828Z
 DTSTART:20261002T035300Z
 DTEND:20261002T045300Z
 SUMMARY:🚀 Falcon Heavy | NROL-97
@@ -125,7 +102,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5@claude-launches
-DTSTAMP:20260926T103612Z
+DTSTAMP:20260927T110828Z
 DTSTART:20261005T080600Z
 DTEND:20261005T090600Z
 SUMMARY:🚀 Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A
@@ -153,7 +130,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-97c6f5e1-299e-4652-b72d-9618ac047076@claude-launches
-DTSTAMP:20260926T103612Z
+DTSTAMP:20260927T110828Z
 DTSTART:20261010T160000Z
 DTEND:20261010T170000Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-25
