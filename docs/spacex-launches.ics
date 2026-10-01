@@ -10,7 +10,7 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-18441371-8b2e-457c-afb5-1ec1b11ab630@claude-launches
-DTSTAMP:20260930T114221Z
+DTSTAMP:20261001T121121Z
 DTSTART:20261001T151006Z
 DTEND:20261001T161006Z
 SUMMARY:🚀 Falcon 9 Block 5 | Crew-13
@@ -32,7 +32,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-67213393-7983-4c06-8b44-b8c785a5ed79@claude-launches
-DTSTAMP:20260930T114221Z
+DTSTAMP:20261001T121121Z
 DTSTART:20261001T181800Z
 DTEND:20261001T191800Z
 SUMMARY:🚀 Falcon 9 Block 5 | Transporter 18 (Dedicated SSO Rideshare)
@@ -54,7 +54,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-4651fd8a-43de-4166-bf8f-c168b3bd1d2c@claude-launches
-DTSTAMP:20260930T114221Z
+DTSTAMP:20261001T121121Z
 DTSTART:20261002T035300Z
 DTEND:20261002T045300Z
 SUMMARY:🚀 Falcon Heavy | NROL-97
@@ -74,41 +74,41 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5@claude-launches
-DTSTAMP:20260930T114221Z
-DTSTART:20261005T080600Z
-DTEND:20261005T090600Z
+DTSTAMP:20261001T121121Z
+DTSTART:20261005T081600Z
+DTEND:20261005T091600Z
 SUMMARY:🚀 Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A\n\nStatus\
- nTo be confirmed - date is likely but not final\n\nLift-off\n08:06 UTC\,
-  Monday 5 October 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex
-  4E\, Vandenberg SFB\, CA\, USA\n\nOrbit\nPolar Orbit\n\nMission\nTranch
- e 1 Transport Layer A is one of six missions by the United States Space 
- Force Space Development Agency (SDA) for the Proliferated Warfighter Spa
- ce Architecture (PWSA) Tranche 1 Transport Layer constellation\, which w
- ill provide assured\, resilient\, low-latency military data and connecti
- vity worldwide to the full range of warfighter platforms from Low Earth 
- Orbit satellites. The constellation will be interconnected with Optical 
- Inter-Satellite Links (OISLs) which have significantly increased perform
- ance over existing radio frequency crosslinks. It is expected to operate
-  over Ka band\, have...\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, tech
- nical holds and range availability move them\, often by days and sometim
- es by hours on the day itself. This calendar rebuilds daily\, but always
-  check before setting an alarm.
+ nGo for launch - date and time confirmed\n\nLift-off\n08:16 UTC\, Monday
+  5 October 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, V
+ andenberg SFB\, CA\, USA\n\nOrbit\nPolar Orbit\n\nMission\nTranche 1 Tra
+ nsport Layer A is one of six missions by the United States Space Force S
+ pace Development Agency (SDA) for the Proliferated Warfighter Space Arch
+ itecture (PWSA) Tranche 1 Transport Layer constellation\, which will pro
+ vide assured\, resilient\, low-latency military data and connectivity wo
+ rldwide to the full range of warfighter platforms from Low Earth Orbit s
+ atellites. The constellation will be interconnected with Optical Inter-S
+ atellite Links (OISLs) which have significantly increased performance ov
+ er existing radio frequency crosslinks. It is expected to operate over K
+ a band\, have...\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical h
+ olds and range availability move them\, often by days and sometimes by h
+ ours on the day itself. This calendar rebuilds daily\, but always check 
+ before setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-97c6f5e1-299e-4652-b72d-9618ac047076@claude-launches
-DTSTAMP:20260930T114221Z
-DTSTART:20261010T160000Z
-DTEND:20261010T170000Z
+DTSTAMP:20261001T121121Z
+DTSTART:20261010T230000Z
+DTEND:20261011T000000Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-25
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:Falcon 9 Block 5 | Starlink Group 15-25\n\nStatus\nGo for lau
- nch - date and time confirmed\n\nLift-off\n16:00 UTC\, Saturday 10 Octob
+ nch - date and time confirmed\n\nLift-off\n23:00 UTC\, Saturday 10 Octob
  er 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenber
  g SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 sat
  ellites for the Starlink mega-constellation - SpaceX's project for space
