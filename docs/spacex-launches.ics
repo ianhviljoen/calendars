@@ -9,27 +9,8 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
  included\; vaguely scheduled missions are left out. Times UTC.
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:launch-4651fd8a-43de-4166-bf8f-c168b3bd1d2c@claude-launches
-DTSTAMP:20261002T114113Z
-DTSTART:20261002T035400Z
-DTEND:20261002T045400Z
-SUMMARY:🚀 Falcon Heavy | NROL-97
-LOCATION:Launch Complex 39A\, Kennedy Space Center\, FL\, USA
-DESCRIPTION:Falcon Heavy | NROL-97\n\nStatus\nLaunched\n\nLift-off\n03:54
-  UTC\, Friday 2 October 2026\n\nProvider\nSpaceX\n\nSite\nLaunch Complex
-  39A\, Kennedy Space Center\, FL\, USA\n\nOrbit\nUnknown\n\nMission\nCla
- ssified payload for the US National Reconnaissance Office.\n\nLAUNCH DAT
- ES SLIP CONSTANTLY - weather\, technical holds and range availability mo
- ve them\, often by days and sometimes by hours on the day itself. This c
- alendar rebuilds daily\, but always check before setting an alarm.
-CATEGORIES:SpaceX,Falcon Heavy
-URL:https://nextspaceflight.com/launches/
-TRANSP:TRANSPARENT
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5@claude-launches
-DTSTAMP:20261002T114113Z
+DTSTAMP:20261003T105434Z
 DTSTART:20261005T081700Z
 DTEND:20261005T091700Z
 SUMMARY:🚀 Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A
@@ -57,7 +38,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-97c6f5e1-299e-4652-b72d-9618ac047076@claude-launches
-DTSTAMP:20261002T114113Z
+DTSTAMP:20261003T105434Z
 DTSTART:20261010T230000Z
 DTEND:20261011T000000Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-25
@@ -78,27 +59,26 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-bf2c3027-a314-403e-a416-2bfd5d165ad1@claude-launches
-DTSTAMP:20261002T114113Z
-DTSTART:20261013T103300Z
-DTEND:20261013T113300Z
+DTSTAMP:20261003T105434Z
+DTSTART:20261013T103344Z
+DTEND:20261013T113344Z
 SUMMARY:🚀 Falcon 9 Block 5 | Dragon CRS-2 SpX-35
 LOCATION:Space Launch Complex 40\, Cape Canaveral SFS\, FL\, USA
-DESCRIPTION:Falcon 9 Block 5 | Dragon CRS-2 SpX-35\n\nStatus\nTo be confi
- rmed - date is likely but not final\n\nLift-off\n10:33 UTC\, Tuesday 13 
- October 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 40\, Cape
-  Canaveral SFS\, FL\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\n35th com
- mercial resupply services mission to the International Space Station ope
- rated by SpaceX. The flight will be conducted under the second Commercia
- l Resupply Services contract with NASA. Cargo Dragon 2 brings supplies a
- nd payloads\, including critical materials to directly support science a
- nd research investigations that occur onboard the orbiting laboratory.\n
- \nLAUNCH DATES SLIP CONSTANTLY - weather\, technical holds and range ava
- ilability move them\, often by days and sometimes by hours on the day it
- self. This calendar rebuilds daily\, but always check before setting an 
- alarm.
+DESCRIPTION:Falcon 9 Block 5 | Dragon CRS-2 SpX-35\n\nStatus\nGo for laun
+ ch - date and time confirmed\n\nLift-off\n10:33 UTC\, Tuesday 13 October
+  2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 40\, Cape Canave
+ ral SFS\, FL\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\n35th commercial
+  resupply services mission to the International Space Station operated b
+ y SpaceX. The flight will be conducted under the second Commercial Resup
+ ply Services contract with NASA. Cargo Dragon 2 brings supplies and payl
+ oads\, including critical materials to directly support science and rese
+ arch investigations that occur onboard the orbiting laboratory.\n\nLAUNC
+ H DATES SLIP CONSTANTLY - weather\, technical holds and range availabili
+ ty move them\, often by days and sometimes by hours on the day itself. T
+ his calendar rebuilds daily\, but always check before setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
