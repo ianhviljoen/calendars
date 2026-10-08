@@ -10,27 +10,27 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5@claude-launches
-DTSTAMP:20261007T122538Z
-DTSTART:20261008T075400Z
-DTEND:20261008T085400Z
+DTSTAMP:20261008T123510Z
+DTSTART:20261010T072900Z
+DTEND:20261010T082900Z
 SUMMARY:🚀 Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A\n\nStatus\
- nGo for launch - date and time confirmed\n\nLift-off\n07:54 UTC\, Thursd
- ay 8 October 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\,
-  Vandenberg SFB\, CA\, USA\n\nOrbit\nPolar Orbit\n\nMission\nTranche 1 T
- ransport Layer A is one of six missions by the United States Space Force
-  Space Development Agency (SDA) for the Proliferated Warfighter Space Ar
- chitecture (PWSA) Tranche 1 Transport Layer constellation\, which will p
- rovide assured\, resilient\, low-latency military data and connectivity 
- worldwide to the full range of warfighter platforms from Low Earth Orbit
-  satellites. The constellation will be interconnected with Optical Inter
- -Satellite Links (OISLs) which have significantly increased performance 
- over existing radio frequency crosslinks. It is expected to operate over
-  Ka band\, have...\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical
-  holds and range availability move them\, often by days and sometimes by
-  hours on the day itself. This calendar rebuilds daily\, but always chec
- k before setting an alarm.
+ nGo for launch - date and time confirmed\n\nLift-off\n07:29 UTC\, Saturd
+ ay 10 October 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\
+ , Vandenberg SFB\, CA\, USA\n\nOrbit\nPolar Orbit\n\nMission\nTranche 1 
+ Transport Layer A is one of six missions by the United States Space Forc
+ e Space Development Agency (SDA) for the Proliferated Warfighter Space A
+ rchitecture (PWSA) Tranche 1 Transport Layer constellation\, which will 
+ provide assured\, resilient\, low-latency military data and connectivity
+  worldwide to the full range of warfighter platforms from Low Earth Orbi
+ t satellites. The constellation will be interconnected with Optical Inte
+ r-Satellite Links (OISLs) which have significantly increased performance
+  over existing radio frequency crosslinks. It is expected to operate ove
+ r Ka band\, have...\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technica
+ l holds and range availability move them\, often by days and sometimes b
+ y hours on the day itself. This calendar rebuilds daily\, but always che
+ ck before setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
@@ -38,20 +38,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-97c6f5e1-299e-4652-b72d-9618ac047076@claude-launches
-DTSTAMP:20261007T122538Z
-DTSTART:20261010T230000Z
-DTEND:20261011T000000Z
+DTSTAMP:20261008T123510Z
+DTSTART:20261011T230000Z
+DTEND:20261012T000000Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-25
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:Falcon 9 Block 5 | Starlink Group 15-25\n\nStatus\nGo for lau
- nch - date and time confirmed\n\nLift-off\n23:00 UTC\, Saturday 10 Octob
- er 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenber
- g SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 sat
- ellites for the Starlink mega-constellation - SpaceX's project for space
- -based Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY - 
- weather\, technical holds and range availability move them\, often by da
- ys and sometimes by hours on the day itself. This calendar rebuilds dail
- y\, but always check before setting an alarm.
+ nch - date and time confirmed\n\nLift-off\n23:00 UTC\, Sunday 11 October
+  2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg 
+ SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 satel
+ lites for the Starlink mega-constellation - SpaceX's project for space-b
+ ased Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY - we
+ ather\, technical holds and range availability move them\, often by days
+  and sometimes by hours on the day itself. This calendar rebuilds daily\
+ , but always check before setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
@@ -59,7 +59,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-bf2c3027-a314-403e-a416-2bfd5d165ad1@claude-launches
-DTSTAMP:20261007T122538Z
+DTSTAMP:20261008T123510Z
 DTSTART:20261013T103344Z
 DTEND:20261013T113344Z
 SUMMARY:🚀 Falcon 9 Block 5 | Dragon CRS-2 SpX-35
@@ -83,7 +83,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-df88cfbf-f504-4e11-8370-e33dd6280b5b@claude-launches
-DTSTAMP:20261007T122538Z
+DTSTAMP:20261008T123510Z
 DTSTART:20261015T234400Z
 DTEND:20261016T004400Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-xxx ("TH-2")
