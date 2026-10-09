@@ -10,7 +10,7 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5@claude-launches
-DTSTAMP:20261008T123510Z
+DTSTAMP:20261009T122256Z
 DTSTART:20261010T072900Z
 DTEND:20261010T082900Z
 SUMMARY:🚀 Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A
@@ -38,13 +38,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-97c6f5e1-299e-4652-b72d-9618ac047076@claude-launches
-DTSTAMP:20261008T123510Z
-DTSTART:20261011T230000Z
-DTEND:20261012T000000Z
+DTSTAMP:20261009T122256Z
+DTSTART:20261012T230000Z
+DTEND:20261013T000000Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-25
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:Falcon 9 Block 5 | Starlink Group 15-25\n\nStatus\nGo for lau
- nch - date and time confirmed\n\nLift-off\n23:00 UTC\, Sunday 11 October
+ nch - date and time confirmed\n\nLift-off\n23:00 UTC\, Monday 12 October
   2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg 
  SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 satel
  lites for the Starlink mega-constellation - SpaceX's project for space-b
@@ -59,7 +59,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-bf2c3027-a314-403e-a416-2bfd5d165ad1@claude-launches
-DTSTAMP:20261008T123510Z
+DTSTAMP:20261009T122256Z
 DTSTART:20261013T103344Z
 DTEND:20261013T113344Z
 SUMMARY:🚀 Falcon 9 Block 5 | Dragon CRS-2 SpX-35
@@ -83,25 +83,25 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-df88cfbf-f504-4e11-8370-e33dd6280b5b@claude-launches
-DTSTAMP:20261008T123510Z
+DTSTAMP:20261009T122256Z
 DTSTART:20261015T234400Z
 DTEND:20261016T004400Z
-SUMMARY:🚀 Falcon 9 Block 5 | USSF-xxx ("TH-2")
+SUMMARY:🚀 Falcon 9 Block 5 | USSF-481
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:Falcon 9 Block 5 | USSF-xxx ("TH-2")\n\nStatus\nTo be confirm
- ed - date is likely but not final\n\nLift-off\n23:44 UTC\, Thursday 15 O
- ctober 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vande
- nberg SFB\, CA\, USA\n\nOrbit\nPolar Orbit\n\nMission\nClassified missio
- n for the United States Space Force. It is possibly a batch of classifie
- d LEO satellites based on SpaceX’s Starshield satellite bus\, based on
-  locations of ascent rocket stage drop zones being fits with previous SD
- A Transport Layer launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, 
- technical holds and range availability move them\, often by days and som
- etimes by hours on the day itself. This calendar rebuilds daily\, but al
- ways check before setting an alarm.
+DESCRIPTION:Falcon 9 Block 5 | USSF-481\n\nStatus\nGo for launch - date a
+ nd time confirmed\n\nLift-off\n23:44 UTC\, Thursday 15 October 2026\n\nP
+ rovider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, CA\,
+  USA\n\nOrbit\nPolar Orbit\n\nMission\nA classified mission for the Unit
+ ed States Space Force. It is possibly a batch of classified LEO satellit
+ es based on SpaceX’s Starshield satellite bus\, based on locations of 
+ ascent rocket stage drop zones being fits with previous SDA Transport La
+ yer launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical hold
+ s and range availability move them\, often by days and sometimes by hour
+ s on the day itself. This calendar rebuilds daily\, but always check bef
+ ore setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
