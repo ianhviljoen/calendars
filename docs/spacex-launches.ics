@@ -10,35 +10,34 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-da43dc2c-00af-4cc1-8ef1-90a60b2eb9e5@claude-launches
-DTSTAMP:20261009T122256Z
-DTSTART:20261010T072900Z
-DTEND:20261010T082900Z
+DTSTAMP:20261010T114147Z
+DTSTART:20261010T073944Z
+DTEND:20261010T083944Z
 SUMMARY:🚀 Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:Falcon 9 Block 5 | SDA Tranche 1 Transport Layer A\n\nStatus\
- nGo for launch - date and time confirmed\n\nLift-off\n07:29 UTC\, Saturd
- ay 10 October 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\
- , Vandenberg SFB\, CA\, USA\n\nOrbit\nPolar Orbit\n\nMission\nTranche 1 
- Transport Layer A is one of six missions by the United States Space Forc
- e Space Development Agency (SDA) for the Proliferated Warfighter Space A
- rchitecture (PWSA) Tranche 1 Transport Layer constellation\, which will 
- provide assured\, resilient\, low-latency military data and connectivity
-  worldwide to the full range of warfighter platforms from Low Earth Orbi
- t satellites. The constellation will be interconnected with Optical Inte
- r-Satellite Links (OISLs) which have significantly increased performance
-  over existing radio frequency crosslinks. It is expected to operate ove
- r Ka band\, have...\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technica
- l holds and range availability move them\, often by days and sometimes b
- y hours on the day itself. This calendar rebuilds daily\, but always che
- ck before setting an alarm.
+ nIn flight\n\nLift-off\n07:39 UTC\, Saturday 10 October 2026\n\nProvider
+ \nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, CA\, USA\n\
+ nOrbit\nPolar Orbit\n\nMission\nTranche 1 Transport Layer A is one of si
+ x missions by the United States Space Force Space Development Agency (SD
+ A) for the Proliferated Warfighter Space Architecture (PWSA) Tranche 1 T
+ ransport Layer constellation\, which will provide assured\, resilient\, 
+ low-latency military data and connectivity worldwide to the full range o
+ f warfighter platforms from Low Earth Orbit satellites. The constellatio
+ n will be interconnected with Optical Inter-Satellite Links (OISLs) whic
+ h have significantly increased performance over existing radio frequency
+  crosslinks. It is expected to operate over Ka band\, have...\n\nLAUNCH 
+ DATES SLIP CONSTANTLY - weather\, technical holds and range availability
+  move them\, often by days and sometimes by hours on the day itself. Thi
+ s calendar rebuilds daily\, but always check before setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-97c6f5e1-299e-4652-b72d-9618ac047076@claude-launches
-DTSTAMP:20261009T122256Z
+DTSTAMP:20261010T114147Z
 DTSTART:20261012T230000Z
 DTEND:20261013T000000Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-25
@@ -59,7 +58,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-bf2c3027-a314-403e-a416-2bfd5d165ad1@claude-launches
-DTSTAMP:20261009T122256Z
+DTSTAMP:20261010T114147Z
 DTSTART:20261013T103344Z
 DTEND:20261013T113344Z
 SUMMARY:🚀 Falcon 9 Block 5 | Dragon CRS-2 SpX-35
@@ -83,7 +82,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-df88cfbf-f504-4e11-8370-e33dd6280b5b@claude-launches
-DTSTAMP:20261009T122256Z
+DTSTAMP:20261010T114147Z
 DTSTART:20261015T234400Z
 DTEND:20261016T004400Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-481
