@@ -10,20 +10,20 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-97c6f5e1-299e-4652-b72d-9618ac047076@claude-launches
-DTSTAMP:20261011T115442Z
-DTSTART:20261012T230000Z
-DTEND:20261013T000000Z
+DTSTAMP:20261012T140428Z
+DTSTART:20261013T001147Z
+DTEND:20261013T011147Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-25
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:Falcon 9 Block 5 | Starlink Group 15-25\n\nStatus\nGo for lau
- nch - date and time confirmed\n\nLift-off\n23:00 UTC\, Monday 12 October
-  2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg 
- SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 satel
- lites for the Starlink mega-constellation - SpaceX's project for space-b
- ased Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY - we
- ather\, technical holds and range availability move them\, often by days
-  and sometimes by hours on the day itself. This calendar rebuilds daily\
- , but always check before setting an alarm.
+ nch - date and time confirmed\n\nLift-off\n00:11 UTC\, Tuesday 13 Octobe
+ r 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg
+  SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 sate
+ llites for the Starlink mega-constellation - SpaceX's project for space-
+ based Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY - w
+ eather\, technical holds and range availability move them\, often by day
+ s and sometimes by hours on the day itself. This calendar rebuilds daily
+ \, but always check before setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
@@ -31,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-bf2c3027-a314-403e-a416-2bfd5d165ad1@claude-launches
-DTSTAMP:20261011T115442Z
+DTSTAMP:20261012T140428Z
 DTSTART:20261013T103344Z
 DTEND:20261013T113344Z
 SUMMARY:🚀 Falcon 9 Block 5 | Dragon CRS-2 SpX-35
@@ -55,7 +55,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-df88cfbf-f504-4e11-8370-e33dd6280b5b@claude-launches
-DTSTAMP:20261011T115442Z
+DTSTAMP:20261012T140428Z
 DTSTART:20261015T234400Z
 DTEND:20261016T004400Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-481
