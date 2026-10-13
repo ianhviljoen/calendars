@@ -9,53 +9,32 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
  included\; vaguely scheduled missions are left out. Times UTC.
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:launch-97c6f5e1-299e-4652-b72d-9618ac047076@claude-launches
-DTSTAMP:20261012T140428Z
-DTSTART:20261013T001147Z
-DTEND:20261013T011147Z
-SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-25
-LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:Falcon 9 Block 5 | Starlink Group 15-25\n\nStatus\nGo for lau
- nch - date and time confirmed\n\nLift-off\n00:11 UTC\, Tuesday 13 Octobe
- r 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg
-  SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 sate
- llites for the Starlink mega-constellation - SpaceX's project for space-
- based Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY - w
- eather\, technical holds and range availability move them\, often by day
- s and sometimes by hours on the day itself. This calendar rebuilds daily
- \, but always check before setting an alarm.
-CATEGORIES:SpaceX,Falcon 9
-URL:https://nextspaceflight.com/launches/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:launch-bf2c3027-a314-403e-a416-2bfd5d165ad1@claude-launches
-DTSTAMP:20261012T140428Z
+DTSTAMP:20261013T131735Z
 DTSTART:20261013T103344Z
 DTEND:20261013T113344Z
 SUMMARY:🚀 Falcon 9 Block 5 | Dragon CRS-2 SpX-35
 LOCATION:Space Launch Complex 40\, Cape Canaveral SFS\, FL\, USA
-DESCRIPTION:Falcon 9 Block 5 | Dragon CRS-2 SpX-35\n\nStatus\nGo for laun
- ch - date and time confirmed\n\nLift-off\n10:33 UTC\, Tuesday 13 October
-  2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 40\, Cape Canave
- ral SFS\, FL\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\n35th commercial
-  resupply services mission to the International Space Station operated b
- y SpaceX. The flight will be conducted under the second Commercial Resup
- ply Services contract with NASA. Cargo Dragon 2 brings supplies and payl
- oads\, including critical materials to directly support science and rese
- arch investigations that occur onboard the orbiting laboratory.\n\nLAUNC
- H DATES SLIP CONSTANTLY - weather\, technical holds and range availabili
- ty move them\, often by days and sometimes by hours on the day itself. T
- his calendar rebuilds daily\, but always check before setting an alarm.
+DESCRIPTION:Falcon 9 Block 5 | Dragon CRS-2 SpX-35\n\nStatus\nLaunched\n\
+ nLift-off\n10:33 UTC\, Tuesday 13 October 2026\n\nProvider\nSpaceX\n\nSi
+ te\nSpace Launch Complex 40\, Cape Canaveral SFS\, FL\, USA\n\nOrbit\nLo
+ w Earth Orbit\n\nMission\n35th commercial resupply services mission to t
+ he International Space Station operated by SpaceX. The flight will be co
+ nducted under the second Commercial Resupply Services contract with NASA
+ . Cargo Dragon 2 brings supplies and payloads\, including critical mater
+ ials to directly support science and research investigations that occur 
+ onboard the orbiting laboratory.\n\nLAUNCH DATES SLIP CONSTANTLY - weath
+ er\, technical holds and range availability move them\, often by days an
+ d sometimes by hours on the day itself. This calendar rebuilds daily\, b
+ ut always check before setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-df88cfbf-f504-4e11-8370-e33dd6280b5b@claude-launches
-DTSTAMP:20261012T140428Z
+DTSTAMP:20261013T131735Z
 DTSTART:20261015T234400Z
 DTEND:20261016T004400Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-481
@@ -71,6 +50,50 @@ DESCRIPTION:Falcon 9 Block 5 | USSF-481\n\nStatus\nGo for launch - date a
  s and range availability move them\, often by days and sometimes by hour
  s on the day itself. This calendar rebuilds daily\, but always check bef
  ore setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:launch-3b430f81-0ff1-4d85-8a1a-cef0de326198@claude-launches
+DTSTAMP:20261013T131735Z
+DTSTART:20261019T103000Z
+DTEND:20261019T113000Z
+SUMMARY:🚀 Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Ri
+ deshare)
+LOCATION:Space Launch Complex 40\, Cape Canaveral SFS\, FL\, USA
+DESCRIPTION:Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rid
+ eshare)\n\nStatus\nTo be confirmed - date is likely but not final\n\nLif
+ t-off\n10:30 UTC\, Monday 19 October 2026\n\nProvider\nSpaceX\n\nSite\nS
+ pace Launch Complex 40\, Cape Canaveral SFS\, FL\, USA\n\nOrbit\nLow Ear
+ th Orbit\n\nMission\nDedicated rideshare flight to a mid-inclination orb
+ it with dozens of small microsatellites and nanosatellites for commercia
+ l and government customers.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, 
+ technical holds and range availability move them\, often by days and som
+ etimes by hours on the day itself. This calendar rebuilds daily\, but al
+ ways check before setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:launch-f6af629d-39b5-4f86-bc0c-f8776444a858@claude-launches
+DTSTAMP:20261013T131735Z
+DTSTART:20261020T221400Z
+DTEND:20261020T231400Z
+SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-15
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:Falcon 9 Block 5 | Starlink Group 15-15\n\nStatus\nGo for lau
+ nch - date and time confirmed\n\nLift-off\n22:14 UTC\, Tuesday 20 Octobe
+ r 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg
+  SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 sate
+ llites for the Starlink mega-constellation - SpaceX's project for space-
+ based Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY - w
+ eather\, technical holds and range availability move them\, often by day
+ s and sometimes by hours on the day itself. This calendar rebuilds daily
+ \, but always check before setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
