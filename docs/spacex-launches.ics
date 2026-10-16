@@ -10,30 +10,29 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-df88cfbf-f504-4e11-8370-e33dd6280b5b@claude-launches
-DTSTAMP:20261015T103913Z
-DTSTART:20261015T234400Z
-DTEND:20261016T004400Z
+DTSTAMP:20261016T102605Z
+DTSTART:20261016T000105Z
+DTEND:20261016T010105Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-481
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:Falcon 9 Block 5 | USSF-481\n\nStatus\nGo for launch - date a
- nd time confirmed\n\nLift-off\n23:44 UTC\, Thursday 15 October 2026\n\nP
- rovider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, CA\,
-  USA\n\nOrbit\nPolar Orbit\n\nMission\nA classified mission for the Unit
- ed States Space Force. It is possibly a batch of classified LEO satellit
- es based on SpaceX’s Starshield satellite bus\, based on locations of 
- ascent rocket stage drop zones being fits with previous SDA Transport La
- yer launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical hold
- s and range availability move them\, often by days and sometimes by hour
- s on the day itself. This calendar rebuilds daily\, but always check bef
- ore setting an alarm.
+DESCRIPTION:Falcon 9 Block 5 | USSF-481\n\nStatus\nLaunched\n\nLift-off\n
+ 00:01 UTC\, Friday 16 October 2026\n\nProvider\nSpaceX\n\nSite\nSpace La
+ unch Complex 4E\, Vandenberg SFB\, CA\, USA\n\nOrbit\nPolar Orbit\n\nMis
+ sion\nA classified mission for the United States Space Force. It is poss
+ ibly a batch of classified LEO satellites based on SpaceX’s Starshield
+  satellite bus\, based on locations of ascent rocket stage drop zones be
+ ing fits with previous SDA Transport Layer launches.\n\nLAUNCH DATES SLI
+ P CONSTANTLY - weather\, technical holds and range availability move the
+ m\, often by days and sometimes by hours on the day itself. This calenda
+ r rebuilds daily\, but always check before setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-3b430f81-0ff1-4d85-8a1a-cef0de326198@claude-launches
-DTSTAMP:20261015T103913Z
+DTSTAMP:20261016T102605Z
 DTSTART:20261019T103000Z
 DTEND:20261019T113000Z
 SUMMARY:🚀 Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Ri
@@ -56,7 +55,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-f6af629d-39b5-4f86-bc0c-f8776444a858@claude-launches
-DTSTAMP:20261015T103913Z
+DTSTAMP:20261016T102605Z
 DTSTART:20261020T221400Z
 DTEND:20261020T231400Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-15
@@ -77,7 +76,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-e2886a96-5ce9-4f45-872f-4e25a00be837@claude-launches
-DTSTAMP:20261015T103913Z
+DTSTAMP:20261016T102605Z
 DTSTART:20261024T052900Z
 DTEND:20261024T062900Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-16
