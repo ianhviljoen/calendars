@@ -10,28 +10,28 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-3b430f81-0ff1-4d85-8a1a-cef0de326198@claude-launches
-DTSTAMP:20261018T101055Z
-DTSTART:20261019T103000Z
-DTEND:20261019T113000Z
+DTSTAMP:20261019T114532Z
+DTSTART:20261020T103000Z
+DTEND:20261020T113000Z
 SUMMARY:🚀 Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Ri
  deshare)
 LOCATION:Space Launch Complex 40\, Cape Canaveral SFS\, FL\, USA
 DESCRIPTION:Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rid
  eshare)\n\nStatus\nGo for launch - date and time confirmed\n\nLift-off\n
- 10:30 UTC\, Monday 19 October 2026\n\nProvider\nSpaceX\n\nSite\nSpace La
- unch Complex 40\, Cape Canaveral SFS\, FL\, USA\n\nOrbit\nLow Earth Orbi
- t\n\nMission\nDedicated rideshare flight to a mid-inclination orbit with
-  dozens of small microsatellites and nanosatellites for commercial and g
- overnment customers. This launch also carries the second demonstration m
- ission for SpaceX’s Project Starfall\, which aims to mass-produce reen
- try capsules designed to autonomously transport valuable customer experi
- ments and other payloads safely back from space to Earth\, including for
-  in-orbit manufacturing. Starfall is a cylindrical shaped capsule approx
- imately 0.75 meters tall with a diameter of 3.1 meters\, weighing approx
- imately 2100 kilograms\, and capable of...\n\nLAUNCH DATES SLIP CONSTANT
- LY - weather\, technical holds and range availability move them\, often 
- by days and sometimes by hours on the day itself. This calendar rebuilds
-  daily\, but always check before setting an alarm.
+ 10:30 UTC\, Tuesday 20 October 2026\n\nProvider\nSpaceX\n\nSite\nSpace L
+ aunch Complex 40\, Cape Canaveral SFS\, FL\, USA\n\nOrbit\nLow Earth Orb
+ it\n\nMission\nDedicated rideshare flight to a mid-inclination orbit wit
+ h dozens of small microsatellites and nanosatellites for commercial and 
+ government customers. This launch also carries the second demonstration 
+ mission for SpaceX’s Project Starfall\, which aims to mass-produce ree
+ ntry capsules designed to autonomously transport valuable customer exper
+ iments and other payloads safely back from space to Earth\, including fo
+ r in-orbit manufacturing. Starfall is a cylindrical shaped capsule appro
+ ximately 0.75 meters tall with a diameter of 3.1 meters\, weighing appro
+ ximately 2100 kilograms\, and capable of...\n\nLAUNCH DATES SLIP CONSTAN
+ TLY - weather\, technical holds and range availability move them\, often
+  by days and sometimes by hours on the day itself. This calendar rebuild
+ s daily\, but always check before setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
@@ -39,7 +39,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-f6af629d-39b5-4f86-bc0c-f8776444a858@claude-launches
-DTSTAMP:20261018T101055Z
+DTSTAMP:20261019T114532Z
 DTSTART:20261020T221400Z
 DTEND:20261020T231400Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-15
@@ -60,7 +60,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-e2886a96-5ce9-4f45-872f-4e25a00be837@claude-launches
-DTSTAMP:20261018T101055Z
+DTSTAMP:20261019T114532Z
 DTSTART:20261024T052900Z
 DTEND:20261024T062900Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-16
