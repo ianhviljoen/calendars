@@ -9,50 +9,21 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
  included\; vaguely scheduled missions are left out. Times UTC.
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:launch-3b430f81-0ff1-4d85-8a1a-cef0de326198@claude-launches
-DTSTAMP:20261020T104536Z
-DTSTART:20261020T110400Z
-DTEND:20261020T120400Z
-SUMMARY:🚀 Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Ri
- deshare)
-LOCATION:Space Launch Complex 40\, Cape Canaveral SFS\, FL\, USA
-DESCRIPTION:Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rid
- eshare)\n\nStatus\nGo for launch - date and time confirmed\n\nLift-off\n
- 11:04 UTC\, Tuesday 20 October 2026\n\nProvider\nSpaceX\n\nSite\nSpace L
- aunch Complex 40\, Cape Canaveral SFS\, FL\, USA\n\nOrbit\nLow Earth Orb
- it\n\nMission\nDedicated rideshare flight to a mid-inclination orbit wit
- h dozens of small microsatellites and nanosatellites for commercial and 
- government customers. This launch also carries the second demonstration 
- mission for SpaceX’s Project Starfall\, which aims to mass-produce ree
- ntry capsules designed to autonomously transport valuable customer exper
- iments and other payloads safely back from space to Earth\, including fo
- r in-orbit manufacturing. Starfall is a cylindrical shaped capsule appro
- ximately 0.75 meters tall with a diameter of 3.1 meters\, weighing appro
- ximately 2100 kilograms\, and capable of...\n\nLAUNCH DATES SLIP CONSTAN
- TLY - weather\, technical holds and range availability move them\, often
-  by days and sometimes by hours on the day itself. This calendar rebuild
- s daily\, but always check before setting an alarm.
-CATEGORIES:SpaceX,Falcon 9
-URL:https://nextspaceflight.com/launches/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:launch-f6af629d-39b5-4f86-bc0c-f8776444a858@claude-launches
-DTSTAMP:20261020T104536Z
-DTSTART:20261020T231002Z
-DTEND:20261021T001002Z
+DTSTAMP:20261021T105728Z
+DTSTART:20261021T230241Z
+DTEND:20261022T000241Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-15
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:Falcon 9 Block 5 | Starlink Group 15-15\n\nStatus\nGo for lau
- nch - date and time confirmed\n\nLift-off\n23:10 UTC\, Tuesday 20 Octobe
- r 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg
-  SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 sate
- llites for the Starlink mega-constellation - SpaceX's project for space-
- based Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY - w
- eather\, technical holds and range availability move them\, often by day
- s and sometimes by hours on the day itself. This calendar rebuilds daily
- \, but always check before setting an alarm.
+ nch - date and time confirmed\n\nLift-off\n23:02 UTC\, Wednesday 21 Octo
+ ber 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenbe
+ rg SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 sa
+ tellites for the Starlink mega-constellation - SpaceX's project for spac
+ e-based Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY -
+  weather\, technical holds and range availability move them\, often by d
+ ays and sometimes by hours on the day itself. This calendar rebuilds dai
+ ly\, but always check before setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
@@ -60,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-e2886a96-5ce9-4f45-872f-4e25a00be837@claude-launches
-DTSTAMP:20261020T104536Z
+DTSTAMP:20261021T105728Z
 DTSTART:20261024T052900Z
 DTEND:20261024T062900Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-16
@@ -81,7 +52,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-57ce0a39-d035-4f16-a418-bd6108f78199@claude-launches
-DTSTAMP:20261020T104536Z
+DTSTAMP:20261021T105728Z
 DTSTART:20261028T043100Z
 DTEND:20261028T053100Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-18
@@ -101,8 +72,30 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:launch-56ca6058-7ccc-4ec0-b1b0-fb49f3bfee49@claude-launches
+DTSTAMP:20261021T105728Z
+DTSTART:20261105T223400Z
+DTEND:20261105T233400Z
+SUMMARY:🚀 Falcon 9 Block 5 | NROL-195
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:Falcon 9 Block 5 | NROL-195\n\nStatus\nTo be confirmed - date
+  is likely but not final\n\nLift-off\n22:34 UTC\, Thursday 5 November 20
+ 26\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB
+ \, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nFifteenth batch of sat
+ ellites for a reconnaissance satellite constellation built by SpaceX and
+  Northrop Grumman for the National Reconnaissance Office to provide imag
+ ing and other reconnaissance capabilities.\n\nLAUNCH DATES SLIP CONSTANT
+ LY - weather\, technical holds and range availability move them\, often 
+ by days and sometimes by hours on the day itself. This calendar rebuilds
+  daily\, but always check before setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:launch-3cdb9dee-b5cb-406c-bbd1-06a219930fb7@claude-launches
-DTSTAMP:20261020T104536Z
+DTSTAMP:20261021T105728Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-21
