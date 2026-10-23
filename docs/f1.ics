@@ -546,8 +546,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:singapore-grand-prix-2026-qualifying@claude-f1-cal
 DTSTAMP:20260728T090000Z
-DTSTART:20261010T130000Z
-DTEND:20261010T140000Z
+DTSTART:20261010T133000Z
+DTEND:20261010T143000Z
 SUMMARY:⏱ Singapore GP - QUALIFYING
 LOCATION:Marina Bay Street Circuit\, 1 Republic Blvd\, Marina Bay\, Singa
  pore 038975
@@ -556,7 +556,7 @@ X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-ADDRESS="1 Republic Blvd, Marina
  Bay, Singapore 038975";X-APPLE-RADIUS=200;X-TITLE="Marina Bay Street Cir
  cuit":geo:1.2857,103.8575
 DESCRIPTION:Singapore GP - QUALIFYING\nRound 16 of 22\n\nStart times\nTra
- ck local: Sat 10 Oct\, 21:00 +08\nUS Eastern:  Sat 10 Oct\, 9:00 AM EDT\
+ ck local: Sat 10 Oct\, 21:30 +08\nUS Eastern:  Sat 10 Oct\, 9:30 AM EDT\
  n\nCircuit: Marina Bay Street Circuit\nAddress: 1 Republic Blvd\, Marina
   Bay\, Singapore 038975\nWeekend format: Sprint weekend\n\nNotes\nSprint
   weekend for the first time. Night race\, and usually the most physicall
