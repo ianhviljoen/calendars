@@ -10,13 +10,57 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-57ce0a39-d035-4f16-a418-bd6108f78199@claude-launches
-DTSTAMP:20261028T115516Z
-DTSTART:20261030T040200Z
-DTEND:20261030T050200Z
+DTSTAMP:20261029T120335Z
+DTSTART:20261031T034800Z
+DTEND:20261031T044800Z
 SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-18
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:Falcon 9 Block 5 | Starlink Group 15-18\n\nStatus\nGo for lau
- nch - date and time confirmed\n\nLift-off\n04:02 UTC\, Friday 30 October
+ nch - date and time confirmed\n\nLift-off\n03:48 UTC\, Saturday 31 Octob
+ er 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenber
+ g SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 sat
+ ellites for the Starlink mega-constellation - SpaceX's project for space
+ -based Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY - 
+ weather\, technical holds and range availability move them\, often by da
+ ys and sometimes by hours on the day itself. This calendar rebuilds dail
+ y\, but always check before setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:launch-54d471e8-695c-4fa7-a3cf-dbd8b389e8ae@claude-launches
+DTSTAMP:20261029T120335Z
+DTSTART:20261103T014200Z
+DTEND:20261103T024200Z
+SUMMARY:🚀 Falcon 9 Block 5 | USSF-432
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:Falcon 9 Block 5 | USSF-432\n\nStatus\nGo for launch - date a
+ nd time confirmed\n\nLift-off\n01:42 UTC\, Tuesday 3 November 2026\n\nPr
+ ovider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, CA\, 
+ USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA classified mission for the U
+ nited States Space Force. It is possibly a batch of classified LEO satel
+ lites based on SpaceX’s Starshield satellite bus\, based on locations 
+ of rocket stage drop zones being exact fits with previous Starlink Group
+  15 launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical hold
+ s and range availability move them\, often by days and sometimes by hour
+ s on the day itself. This calendar rebuilds daily\, but always check bef
+ ore setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:launch-3cdb9dee-b5cb-406c-bbd1-06a219930fb7@claude-launches
+DTSTAMP:20261029T120335Z
+DTSTART:20261106T022100Z
+DTEND:20261106T032100Z
+SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-21
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:Falcon 9 Block 5 | Starlink Group 15-21\n\nStatus\nGo for lau
+ nch - date and time confirmed\n\nLift-off\n02:21 UTC\, Friday 6 November
   2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg 
  SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 satel
  lites for the Starlink mega-constellation - SpaceX's project for space-b
@@ -30,47 +74,26 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:launch-54d471e8-695c-4fa7-a3cf-dbd8b389e8ae@claude-launches
-DTSTAMP:20261028T115516Z
-DTSTART:20261102T015600Z
-DTEND:20261102T025600Z
-SUMMARY:🚀 Falcon 9 Block 5 | USSF-432
+UID:launch-6aa7b90b-e5ed-45d8-a52e-04fbf399d178@claude-launches
+DTSTAMP:20261029T120335Z
+DTSTART:20261110T030300Z
+DTEND:20261110T040300Z
+SUMMARY:🚀 Falcon 9 Block 5 | USSF-xxx ("R-5")
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:Falcon 9 Block 5 | USSF-432\n\nStatus\nGo for launch - date a
- nd time confirmed\n\nLift-off\n01:56 UTC\, Monday 2 November 2026\n\nPro
- vider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, CA\, U
- SA\n\nOrbit\nLow Earth Orbit\n\nMission\nA classified mission for the Un
- ited States Space Force. It is possibly a batch of classified LEO satell
- ites based on SpaceX’s Starshield satellite bus\, based on locations o
- f rocket stage drop zones being exact fits with previous Starlink Group 
- 15 launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical holds
-  and range availability move them\, often by days and sometimes by hours
-  on the day itself. This calendar rebuilds daily\, but always check befo
- re setting an alarm.
+DESCRIPTION:Falcon 9 Block 5 | USSF-xxx ("R-5")\n\nStatus\nTo be confirme
+ d - date is likely but not final\n\nLift-off\n03:03 UTC\, Tuesday 10 Nov
+ ember 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vanden
+ berg SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA classified m
+ ission for the United States Space Force. It is possibly a batch of clas
+ sified LEO satellites based on SpaceX’s Starshield satellite bus\, bas
+ ed on locations of rocket stage drop zones being exact fits with previou
+ s Starlink Group 15 launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\
+ , technical holds and range availability move them\, often by days and s
+ ometimes by hours on the day itself. This calendar rebuilds daily\, but 
+ always check before setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:launch-3cdb9dee-b5cb-406c-bbd1-06a219930fb7@claude-launches
-DTSTAMP:20261028T115516Z
-DTSTART:20261105T023500Z
-DTEND:20261105T033500Z
-SUMMARY:🚀 Falcon 9 Block 5 | Starlink Group 15-21
-LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:Falcon 9 Block 5 | Starlink Group 15-21\n\nStatus\nGo for lau
- nch - date and time confirmed\n\nLift-off\n02:35 UTC\, Thursday 5 Novemb
- er 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenber
- g SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA batch of 27 sat
- ellites for the Starlink mega-constellation - SpaceX's project for space
- -based Internet communication system.\n\nLAUNCH DATES SLIP CONSTANTLY - 
- weather\, technical holds and range availability move them\, often by da
- ys and sometimes by hours on the day itself. This calendar rebuilds dail
- y\, but always check before setting an alarm.
-CATEGORIES:SpaceX,Falcon 9
-URL:https://nextspaceflight.com/launches/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
