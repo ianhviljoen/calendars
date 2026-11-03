@@ -10,22 +10,22 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-54d471e8-695c-4fa7-a3cf-dbd8b389e8ae@claude-launches
-DTSTAMP:20261102T142511Z
-DTSTART:20261104T012800Z
-DTEND:20261104T022800Z
+DTSTAMP:20261103T132416Z
+DTSTART:20261107T004600Z
+DTEND:20261107T014600Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-432
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:Falcon 9 Block 5 | USSF-432\n\nStatus\nGo for launch - date a
- nd time confirmed\n\nLift-off\n01:28 UTC\, Wednesday 4 November 2026\n\n
- Provider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, CA\
- , USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA classified mission for the
-  United States Space Force. It is possibly a batch of classified LEO sat
- ellites based on SpaceX’s Starshield satellite bus\, based on location
- s of rocket stage drop zones being exact fits with previous Starlink Gro
- up 15 launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical ho
- lds and range availability move them\, often by days and sometimes by ho
- urs on the day itself. This calendar rebuilds daily\, but always check b
- efore setting an alarm.
+ nd time confirmed\n\nLift-off\n00:46 UTC\, Saturday 7 November 2026\n\nP
+ rovider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, CA\,
+  USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA classified mission for the 
+ United States Space Force. It is possibly a batch of classified LEO sate
+ llites based on SpaceX’s Starshield satellite bus\, based on locations
+  of rocket stage drop zones being exact fits with previous Starlink Grou
+ p 15 launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical hol
+ ds and range availability move them\, often by days and sometimes by hou
+ rs on the day itself. This calendar rebuilds daily\, but always check be
+ fore setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
@@ -33,7 +33,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-6aa7b90b-e5ed-45d8-a52e-04fbf399d178@claude-launches
-DTSTAMP:20261102T142511Z
+DTSTAMP:20261103T132416Z
 DTSTART:20261110T030300Z
 DTEND:20261110T040300Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-xxx ("R-5")
@@ -55,25 +55,48 @@ TRANSP:TRANSPARENT
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
-UID:launch-d74afbc7-0de5-491c-be05-4e9c31f736ac@claude-launches
-DTSTAMP:20261102T142511Z
-DTSTART:20261129T160000Z
-DTEND:20261129T170000Z
-SUMMARY:🚀 Falcon 9 Block 5 | Cygnus CRS-2 NG-25
-LOCATION:Space Launch Complex 40\, Cape Canaveral SFS\, FL\, USA
-DESCRIPTION:Falcon 9 Block 5 | Cygnus CRS-2 NG-25\n\nStatus\nTo be confir
- med - date is likely but not final\n\nLift-off\n16:00 UTC\, Sunday 29 No
- vember 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 40\, Cape 
- Canaveral SFS\, FL\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nThis is t
- he 25th flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus 
- and its 24th flight to the International Space Station under the Commerc
- ial Resupply Services contract with NASA.\n\nLAUNCH DATES SLIP CONSTANTL
- Y - weather\, technical holds and range availability move them\, often b
- y days and sometimes by hours on the day itself. This calendar rebuilds 
- daily\, but always check before setting an alarm.
+UID:launch-76617033-4dc0-4448-b50c-e5b0d5a18539@claude-launches
+DTSTAMP:20261103T132416Z
+DTSTART:20261113T042300Z
+DTEND:20261113T052300Z
+SUMMARY:🚀 Falcon 9 Block 5 | USSF-xxx ("R-6")
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:Falcon 9 Block 5 | USSF-xxx ("R-6")\n\nStatus\nTo be confirme
+ d - date is likely but not final\n\nLift-off\n04:23 UTC\, Friday 13 Nove
+ mber 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenb
+ erg SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA classified mi
+ ssion for the United States Space Force. It is possibly a batch of class
+ ified LEO satellites based on SpaceX’s Starshield satellite bus\, base
+ d on locations of rocket stage drop zones being exact fits with previous
+  Starlink Group 15 launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\,
+  technical holds and range availability move them\, often by days and so
+ metimes by hours on the day itself. This calendar rebuilds daily\, but a
+ lways check before setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
 STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:launch-d74afbc7-0de5-491c-be05-4e9c31f736ac@claude-launches
+DTSTAMP:20261103T132416Z
+DTSTART:20261129T154900Z
+DTEND:20261129T164900Z
+SUMMARY:🚀 Falcon 9 Block 5 | Cygnus CRS-2 NG-25
+LOCATION:Space Launch Complex 40\, Cape Canaveral SFS\, FL\, USA
+DESCRIPTION:Falcon 9 Block 5 | Cygnus CRS-2 NG-25\n\nStatus\nGo for launc
+ h - date and time confirmed\n\nLift-off\n15:49 UTC\, Sunday 29 November 
+ 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 40\, Cape Canaver
+ al SFS\, FL\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nThis is the 25th
+  flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its
+  24th flight to the International Space Station under the Commercial Res
+ upply Services contract with NASA.\n\nLAUNCH DATES SLIP CONSTANTLY - wea
+ ther\, technical holds and range availability move them\, often by days 
+ and sometimes by hours on the day itself. This calendar rebuilds daily\,
+  but always check before setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
