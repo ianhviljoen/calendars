@@ -10,7 +10,7 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-54d471e8-695c-4fa7-a3cf-dbd8b389e8ae@claude-launches
-DTSTAMP:20261103T132416Z
+DTSTAMP:20261104T133518Z
 DTSTART:20261107T004600Z
 DTEND:20261107T014600Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-432
@@ -33,53 +33,53 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-6aa7b90b-e5ed-45d8-a52e-04fbf399d178@claude-launches
-DTSTAMP:20261103T132416Z
+DTSTAMP:20261104T133518Z
 DTSTART:20261110T030300Z
 DTEND:20261110T040300Z
-SUMMARY:🚀 Falcon 9 Block 5 | USSF-xxx ("R-5")
+SUMMARY:🚀 Falcon 9 Block 5 | USSF-627
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:Falcon 9 Block 5 | USSF-xxx ("R-5")\n\nStatus\nTo be confirme
- d - date is likely but not final\n\nLift-off\n03:03 UTC\, Tuesday 10 Nov
- ember 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vanden
- berg SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA classified m
- ission for the United States Space Force. It is possibly a batch of clas
- sified LEO satellites based on SpaceX’s Starshield satellite bus\, bas
- ed on locations of rocket stage drop zones being exact fits with previou
- s Starlink Group 15 launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\
- , technical holds and range availability move them\, often by days and s
- ometimes by hours on the day itself. This calendar rebuilds daily\, but 
- always check before setting an alarm.
+DESCRIPTION:Falcon 9 Block 5 | USSF-627\n\nStatus\nGo for launch - date a
+ nd time confirmed\n\nLift-off\n03:03 UTC\, Tuesday 10 November 2026\n\nP
+ rovider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, CA\,
+  USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA classified mission for the 
+ United States Space Force. It is possibly a batch of classified LEO sate
+ llites based on SpaceX’s Starshield satellite bus\, based on locations
+  of rocket stage drop zones being exact fits with previous Starlink Grou
+ p 15 launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical hol
+ ds and range availability move them\, often by days and sometimes by hou
+ rs on the day itself. This calendar rebuilds daily\, but always check be
+ fore setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-76617033-4dc0-4448-b50c-e5b0d5a18539@claude-launches
-DTSTAMP:20261103T132416Z
+DTSTAMP:20261104T133518Z
 DTSTART:20261113T042300Z
 DTEND:20261113T052300Z
-SUMMARY:🚀 Falcon 9 Block 5 | USSF-xxx ("R-6")
+SUMMARY:🚀 Falcon 9 Block 5 | USSF-317
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:Falcon 9 Block 5 | USSF-xxx ("R-6")\n\nStatus\nTo be confirme
- d - date is likely but not final\n\nLift-off\n04:23 UTC\, Friday 13 Nove
- mber 2026\n\nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenb
- erg SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA classified mi
- ssion for the United States Space Force. It is possibly a batch of class
- ified LEO satellites based on SpaceX’s Starshield satellite bus\, base
- d on locations of rocket stage drop zones being exact fits with previous
-  Starlink Group 15 launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\,
-  technical holds and range availability move them\, often by days and so
- metimes by hours on the day itself. This calendar rebuilds daily\, but a
- lways check before setting an alarm.
+DESCRIPTION:Falcon 9 Block 5 | USSF-317\n\nStatus\nGo for launch - date a
+ nd time confirmed\n\nLift-off\n04:23 UTC\, Friday 13 November 2026\n\nPr
+ ovider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, CA\, 
+ USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA classified mission for the U
+ nited States Space Force. It is possibly a batch of classified LEO satel
+ lites based on SpaceX’s Starshield satellite bus\, based on locations 
+ of rocket stage drop zones being exact fits with previous Starlink Group
+  15 launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical hold
+ s and range availability move them\, often by days and sometimes by hour
+ s on the day itself. This calendar rebuilds daily\, but always check bef
+ ore setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-d74afbc7-0de5-491c-be05-4e9c31f736ac@claude-launches
-DTSTAMP:20261103T132416Z
+DTSTAMP:20261104T133518Z
 DTSTART:20261129T154900Z
 DTEND:20261129T164900Z
 SUMMARY:🚀 Falcon 9 Block 5 | Cygnus CRS-2 NG-25
