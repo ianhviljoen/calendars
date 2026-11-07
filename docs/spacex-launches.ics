@@ -10,30 +10,29 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-54d471e8-695c-4fa7-a3cf-dbd8b389e8ae@claude-launches
-DTSTAMP:20261106T133300Z
+DTSTAMP:20261107T121253Z
 DTSTART:20261107T004842Z
 DTEND:20261107T014842Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-432
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:Falcon 9 Block 5 | USSF-432\n\nStatus\nGo for launch - date a
- nd time confirmed\n\nLift-off\n00:48 UTC\, Saturday 7 November 2026\n\nP
- rovider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, CA\,
-  USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA classified mission for the 
- United States Space Force. It is possibly a batch of classified LEO sate
- llites based on SpaceX’s Starshield satellite bus\, based on locations
-  of rocket stage drop zones being exact fits with previous Starlink Grou
- p 15 launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical hol
- ds and range availability move them\, often by days and sometimes by hou
- rs on the day itself. This calendar rebuilds daily\, but always check be
- fore setting an alarm.
+DESCRIPTION:Falcon 9 Block 5 | USSF-432\n\nStatus\nLaunched\n\nLift-off\n
+ 00:48 UTC\, Saturday 7 November 2026\n\nProvider\nSpaceX\n\nSite\nSpace 
+ Launch Complex 4E\, Vandenberg SFB\, CA\, USA\n\nOrbit\nLow Earth Orbit\
+ n\nMission\nA classified mission for the United States Space Force. It i
+ s possibly a batch of classified LEO satellites based on SpaceX’s Star
+ shield satellite bus\, based on locations of rocket stage drop zones bei
+ ng exact fits with previous Starlink Group 15 launches.\n\nLAUNCH DATES 
+ SLIP CONSTANTLY - weather\, technical holds and range availability move 
+ them\, often by days and sometimes by hours on the day itself. This cale
+ ndar rebuilds daily\, but always check before setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
-STATUS:CONFIRMED
+STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-6aa7b90b-e5ed-45d8-a52e-04fbf399d178@claude-launches
-DTSTAMP:20261106T133300Z
+DTSTAMP:20261107T121253Z
 DTSTART:20261110T030300Z
 DTEND:20261110T040300Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-627
@@ -56,7 +55,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-0f867f0c-5422-4d44-93b8-d7faaae7019b@claude-launches
-DTSTAMP:20261106T133300Z
+DTSTAMP:20261107T121253Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:🚀 Starship | Flight 15
@@ -76,7 +75,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-76617033-4dc0-4448-b50c-e5b0d5a18539@claude-launches
-DTSTAMP:20261106T133300Z
+DTSTAMP:20261107T121253Z
 DTSTART:20261113T042300Z
 DTEND:20261113T052300Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-317
@@ -99,7 +98,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-d74afbc7-0de5-491c-be05-4e9c31f736ac@claude-launches
-DTSTAMP:20261106T133300Z
+DTSTAMP:20261107T121253Z
 DTSTART:20261129T154900Z
 DTEND:20261129T164900Z
 SUMMARY:🚀 Falcon 9 Block 5 | Cygnus CRS-2 NG-25
