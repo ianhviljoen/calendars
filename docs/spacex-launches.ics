@@ -10,45 +10,22 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
 UID:launch-6aa7b90b-e5ed-45d8-a52e-04fbf399d178@claude-launches
-DTSTAMP:20261109T145107Z
-DTSTART:20261110T030715Z
-DTEND:20261110T040715Z
+DTSTAMP:20261110T140337Z
+DTSTART:20261111T024900Z
+DTEND:20261111T034900Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-627
 LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
 DESCRIPTION:Falcon 9 Block 5 | USSF-627\n\nStatus\nGo for launch - date a
- nd time confirmed\n\nLift-off\n03:07 UTC\, Tuesday 10 November 2026\n\nP
- rovider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, CA\,
-  USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA classified mission for the 
- United States Space Force. It is possibly a batch of classified LEO sate
- llites based on SpaceX’s Starshield satellite bus\, based on locations
-  of rocket stage drop zones being exact fits with previous Starlink Grou
- p 15 launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical hol
- ds and range availability move them\, often by days and sometimes by hou
- rs on the day itself. This calendar rebuilds daily\, but always check be
- fore setting an alarm.
-CATEGORIES:SpaceX,Falcon 9
-URL:https://nextspaceflight.com/launches/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:launch-76617033-4dc0-4448-b50c-e5b0d5a18539@claude-launches
-DTSTAMP:20261109T145107Z
-DTSTART:20261113T042300Z
-DTEND:20261113T052300Z
-SUMMARY:🚀 Falcon 9 Block 5 | USSF-317
-LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:Falcon 9 Block 5 | USSF-317\n\nStatus\nGo for launch - date a
- nd time confirmed\n\nLift-off\n04:23 UTC\, Friday 13 November 2026\n\nPr
- ovider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, CA\, 
- USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA classified mission for the U
- nited States Space Force. It is possibly a batch of classified LEO satel
- lites based on SpaceX’s Starshield satellite bus\, based on locations 
- of rocket stage drop zones being exact fits with previous Starlink Group
-  15 launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical hold
- s and range availability move them\, often by days and sometimes by hour
- s on the day itself. This calendar rebuilds daily\, but always check bef
- ore setting an alarm.
+ nd time confirmed\n\nLift-off\n02:49 UTC\, Wednesday 11 November 2026\n\
+ nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, CA
+ \, USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA classified mission for th
+ e United States Space Force. It is possibly a batch of classified LEO sa
+ tellites based on SpaceX’s Starshield satellite bus\, based on locatio
+ ns of rocket stage drop zones being exact fits with previous Starlink Gr
+ oup 15 launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical h
+ olds and range availability move them\, often by days and sometimes by h
+ ours on the day itself. This calendar rebuilds daily\, but always check 
+ before setting an alarm.
 CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
@@ -56,7 +33,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-0f867f0c-5422-4d44-93b8-d7faaae7019b@claude-launches
-DTSTAMP:20261109T145107Z
+DTSTAMP:20261110T140337Z
 DTSTART:20261113T224500Z
 DTEND:20261113T234500Z
 SUMMARY:🚀 Starship | Starlink Group 31-2 (Starship Flight 15)
@@ -83,8 +60,54 @@ TRANSP:TRANSPARENT
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
+UID:launch-76617033-4dc0-4448-b50c-e5b0d5a18539@claude-launches
+DTSTAMP:20261110T140337Z
+DTSTART:20261114T040900Z
+DTEND:20261114T050900Z
+SUMMARY:🚀 Falcon 9 Block 5 | USSF-317
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:Falcon 9 Block 5 | USSF-317\n\nStatus\nGo for launch - date a
+ nd time confirmed\n\nLift-off\n04:09 UTC\, Saturday 14 November 2026\n\n
+ Provider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, CA\
+ , USA\n\nOrbit\nLow Earth Orbit\n\nMission\nA classified mission for the
+  United States Space Force. It is possibly a batch of classified LEO sat
+ ellites based on SpaceX’s Starshield satellite bus\, based on location
+ s of rocket stage drop zones being exact fits with previous Starlink Gro
+ up 15 launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical ho
+ lds and range availability move them\, often by days and sometimes by ho
+ urs on the day itself. This calendar rebuilds daily\, but always check b
+ efore setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:launch-460d9db7-eaf6-4cd9-b095-cff433534c09@claude-launches
+DTSTAMP:20261110T140337Z
+DTSTART:20261117T165800Z
+DTEND:20261117T175800Z
+SUMMARY:🚀 Falcon 9 Block 5 | USSF-266
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:Falcon 9 Block 5 | USSF-266\n\nStatus\nGo for launch - date a
+ nd time confirmed\n\nLift-off\n16:58 UTC\, Tuesday 17 November 2026\n\nP
+ rovider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, CA\,
+  USA\n\nOrbit\nPolar Orbit\n\nMission\nA classified mission for the Unit
+ ed States Space Force. It is possibly a batch of classified LEO satellit
+ es based on SpaceX’s Starshield satellite bus\, based on locations of 
+ ascent rocket stage drop zones being fits with previous SDA Transport La
+ yer launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical hold
+ s and range availability move them\, often by days and sometimes by hour
+ s on the day itself. This calendar rebuilds daily\, but always check bef
+ ore setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:launch-d74afbc7-0de5-491c-be05-4e9c31f736ac@claude-launches
-DTSTAMP:20261109T145107Z
+DTSTAMP:20261110T140337Z
 DTSTART:20261129T154900Z
 DTEND:20261129T164900Z
 SUMMARY:🚀 Falcon 9 Block 5 | Cygnus CRS-2 NG-25
@@ -103,5 +126,28 @@ CATEGORIES:SpaceX,Falcon 9
 URL:https://nextspaceflight.com/launches/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:launch-d3bd7fb2-fac6-49fc-ae52-cee07d2fde67@claude-launches
+DTSTAMP:20261110T140337Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:🚀 Falcon Heavy | Griffin Mission One
+LOCATION:Launch Complex 39A\, Kennedy Space Center\, FL\, USA
+DESCRIPTION:Falcon Heavy | Griffin Mission One\n\nStatus\nTo be determine
+ d - date is a rough estimate\n\nLift-off\nWednesday 6 January 2027 - tim
+ e not yet set\n\nProvider\nSpaceX\n\nSite\nLaunch Complex 39A\, Kennedy 
+ Space Center\, FL\, USA\n\nOrbit\nLunar Orbit\n\nMission\nDemonstration 
+ flight of the Astrobotic Griffin lander and its engines\, initially cont
+ racted for the NASA VIPER (Volatiles Investigating Polar Exploration Rov
+ er) mission. The vacated payload spot will now host the FLIP (FLEX Lunar
+  Innovation Platform) lunar rover from Astrolab.\n\nLAUNCH DATES SLIP CO
+ NSTANTLY - weather\, technical holds and range availability move them\, 
+ often by days and sometimes by hours on the day itself. This calendar re
+ builds daily\, but always check before setting an alarm.
+CATEGORIES:SpaceX,Falcon Heavy
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR
