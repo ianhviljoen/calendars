@@ -3241,24 +3241,6 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026_09_LV_SF@claude-nfl
-DTSTAMP:20260729T090000Z
-DTSTART:20261108T210500Z
-DTEND:20261109T002000Z
-SUMMARY:🏈 ☠️ Raiders @ ⛏️ 49ers (Wk 9)
-LOCATION:Levi's Stadium
-DESCRIPTION:☠️ Raiders @ ⛏️ 49ers\nWeek 9 - Sunday 8 November 202
- 6\n\nKick-off\n4:05 PM ET  |  21:05 UTC\n\nVenue\nLevi's Stadium (outdoo
- rs\, )\n\nCoaches\n☠️ Raiders: Klint Kubiak\n⛏️ 49ers: Kyle Shan
- ahan\n\nOpening line\n49ers by 8.5  |  Total 51.5\n(Books post lines a f
- ew weeks out\, so this appears on early-season games only.)\n\nSunday af
- ternoon kick-offs from Week 5 are subject to FLEX SCHEDULING - the leagu
- e can move games in or out of primetime at about 12 days' notice.
-CATEGORIES:NFL,Week 9
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:2026_09_GB_NE@claude-nfl
 DTSTAMP:20260729T090000Z
 DTSTART:20261108T212500Z
@@ -3291,6 +3273,24 @@ DESCRIPTION:🌵 Cardinals @ 🌊 Seahawks\nWeek 9 - Sunday 8 November 20
  , so this appears on early-season games only.)\n\nSunday afternoon kick-
  offs from Week 5 are subject to FLEX SCHEDULING - the league can move ga
  mes in or out of primetime at about 12 days' notice.
+CATEGORIES:NFL,Week 9
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_09_LV_SF@claude-nfl
+DTSTAMP:20260729T090000Z
+DTSTART:20261108T212500Z
+DTEND:20261109T004000Z
+SUMMARY:🏈 ☠️ Raiders @ ⛏️ 49ers (Wk 9)
+LOCATION:Levi's Stadium
+DESCRIPTION:☠️ Raiders @ ⛏️ 49ers\nWeek 9 - Sunday 8 November 202
+ 6\n\nKick-off\n4:25 PM ET  |  21:25 UTC\n\nVenue\nLevi's Stadium (outdoo
+ rs\, )\n\nCoaches\n☠️ Raiders: Klint Kubiak\n⛏️ 49ers: Kyle Shan
+ ahan\n\nOpening line\n49ers by 8.5  |  Total 51.5\n(Books post lines a f
+ ew weeks out\, so this appears on early-season games only.)\n\nSunday af
+ ternoon kick-offs from Week 5 are subject to FLEX SCHEDULING - the leagu
+ e can move games in or out of primetime at about 12 days' notice.
 CATEGORIES:NFL,Week 9
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -3420,7 +3420,7 @@ DESCRIPTION:🪓 Vikings @ 🧀 Packers\nWeek 10 - Sunday 15 November 202
  6\n\nKick-off\n1:00 PM ET  |  18:00 UTC\n\nVenue\nLambeau Field (outdoor
  s\, grass)\n\nDivision game\nYes - counts double in the standings.\n\nCo
  aches\n🪓 Vikings: Kevin O'Connell\n🧀 Packers: Matt LaFleur\n\nOpen
- ing line\nPackers by 4.5  |  Total 41.5\n(Books post lines a few weeks o
+ ing line\nPackers by 3.5  |  Total 41.5\n(Books post lines a few weeks o
  ut\, so this appears on early-season games only.)\n\nSunday afternoon ki
  ck-offs from Week 5 are subject to FLEX SCHEDULING - the league can move
   games in or out of primetime at about 12 days' notice.
@@ -3438,7 +3438,7 @@ LOCATION:Lucas Oil Stadium
 DESCRIPTION:🐬 Dolphins @ 🐎 Colts\nWeek 10 - Sunday 15 November 2026
  \n\nKick-off\n1:00 PM ET  |  18:00 UTC\n\nVenue\nLucas Oil Stadium (\, f
  ieldturf)\n\nCoaches\n🐬 Dolphins: Jeff Hafley\n🐎 Colts: Shane Stei
- chen\n\nOpening line\nColts by 2.5  |  Total 40.5\n(Books post lines a f
+ chen\n\nOpening line\nColts by 3.5  |  Total 38.5\n(Books post lines a f
  ew weeks out\, so this appears on early-season games only.)\n\nSunday af
  ternoon kick-offs from Week 5 are subject to FLEX SCHEDULING - the leagu
  e can move games in or out of primetime at about 12 days' notice.
@@ -3457,7 +3457,7 @@ DESCRIPTION:🐾 Panthers @ ⚜️ Saints\nWeek 10 - Sunday 15 November 2
  026\n\nKick-off\n1:00 PM ET  |  18:00 UTC\n\nVenue\nCaesars Superdome (d
  ome\, sportturf)\n\nDivision game\nYes - counts double in the standings.
  \n\nCoaches\n🐾 Panthers: Dave Canales\n⚜️ Saints: Kellen Moore\n\
- nOpening line\nSaints by 1.5  |  Total 47.5\n(Books post lines a few wee
+ nOpening line\nSaints by 2.5  |  Total 48.5\n(Books post lines a few wee
  ks out\, so this appears on early-season games only.)\n\nSunday afternoo
  n kick-offs from Week 5 are subject to FLEX SCHEDULING - the league can 
  move games in or out of primetime at about 12 days' notice.
@@ -3514,7 +3514,7 @@ DESCRIPTION:🐏 Rams @ 🌵 Cardinals\nWeek 10 - Sunday 15 November 2026
  \n\nKick-off\n4:05 PM ET  |  21:05 UTC\n\nVenue\nState Farm Stadium (\, 
  grass)\n\nDivision game\nYes - counts double in the standings.\n\nCoache
  s\n🐏 Rams: Sean McVay\n🌵 Cardinals: Mike LaFleur\n\nOpening line\n
- Rams by 9.5  |  Total 40.5\n(Books post lines a few weeks out\, so this 
+ Rams by 9.5  |  Total 39.5\n(Books post lines a few weeks out\, so this 
  appears on early-season games only.)\n\nSunday afternoon kick-offs from 
  Week 5 are subject to FLEX SCHEDULING - the league can move games in or 
  out of primetime at about 12 days' notice.
@@ -3532,7 +3532,7 @@ LOCATION:Allegiant Stadium
 DESCRIPTION:🌊 Seahawks @ ☠️ Raiders\nWeek 10 - Sunday 15 November 
  2026\n\nKick-off\n4:05 PM ET  |  21:05 UTC\n\nVenue\nAllegiant Stadium (
  dome\, grass)\n\nCoaches\n🌊 Seahawks: Mike Macdonald\n☠️ Raiders:
-  Klint Kubiak\n\nOpening line\nSeahawks by 3.5  |  Total 43.5\n(Books po
+  Klint Kubiak\n\nOpening line\nSeahawks by 6.5  |  Total 40.5\n(Books po
  st lines a few weeks out\, so this appears on early-season games only.)\
  n\nSunday afternoon kick-offs from Week 5 are subject to FLEX SCHEDULING
   - the league can move games in or out of primetime at about 12 days' no
@@ -3571,7 +3571,7 @@ DESCRIPTION:⚒️ Steelers @ 🐅 Bengals\nWeek 10 - Sunday 15 November
  l\n\nVenue\nPaycor Stadium (outdoors\, fieldturf)\n\nDivision game\nYes 
  - counts double in the standings.\n\nCoaches\n⚒️ Steelers: Mike McCa
  rthy\n🐅 Bengals: Zac Taylor\n\nOpening line\nBengals by 3.5  |  Total
-  48.5\n(Books post lines a few weeks out\, so this appears on early-seas
+  49.5\n(Books post lines a few weeks out\, so this appears on early-seas
  on games only.)\n\nSunday afternoon kick-offs from Week 5 are subject to
   FLEX SCHEDULING - the league can move games in or out of primetime at a
  bout 12 days' notice.
@@ -3589,7 +3589,7 @@ LOCATION:M&T Bank Stadium
 DESCRIPTION:⚡ Chargers @ 🪶 Ravens\nWeek 10 - Monday 16 November 2026
  \n\nKick-off\n8:15 PM ET  |  01:15 UTC\n\nSlot\nMonday Night Football\n\
  nVenue\nM&T Bank Stadium (outdoors\, grass)\n\nCoaches\n⚡ Chargers: Ji
- m Harbaugh\n🪶 Ravens: Jesse Minter\n\nOpening line\nRavens by 5.5  | 
+ m Harbaugh\n🪶 Ravens: Jesse Minter\n\nOpening line\nRavens by 4.5  | 
   Total 38.5\n(Books post lines a few weeks out\, so this appears on earl
  y-season games only.)\n\nSunday afternoon kick-offs from Week 5 are subj
  ect to FLEX SCHEDULING - the league can move games in or out of primetim
@@ -3609,9 +3609,11 @@ DESCRIPTION:🐎 Colts @ 🐂 Texans\nWeek 11 - Thursday 19 November 2026
  \n\nKick-off\n8:15 PM ET  |  01:15 UTC\n\nSlot\nThursday Night Football\
  n\nVenue\nNRG Stadium (\, astroturf)\n\nDivision game\nYes - counts doub
  le in the standings.\n\nCoaches\n🐎 Colts: Shane Steichen\n🐂 Texans
- : DeMeco Ryans\n\nSunday afternoon kick-offs from Week 5 are subject to 
- FLEX SCHEDULING - the league can move games in or out of primetime at ab
- out 12 days' notice.
+ : DeMeco Ryans\n\nOpening line\nTexans by 10.0  |  Total 44.5\n(Books po
+ st lines a few weeks out\, so this appears on early-season games only.)\
+ n\nSunday afternoon kick-offs from Week 5 are subject to FLEX SCHEDULING
+  - the league can move games in or out of primetime at about 12 days' no
+ tice.
 CATEGORIES:NFL,Week 11
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -3626,9 +3628,11 @@ LOCATION:Highmark Stadium
 DESCRIPTION:🐬 Dolphins @ 🦬 Bills\nWeek 11 - Sunday 22 November 2026
  \n\nKick-off\n1:00 PM ET  |  18:00 UTC\n\nVenue\nHighmark Stadium (outdo
  ors\, a_turf)\n\nDivision game\nYes - counts double in the standings.\n\
- nCoaches\n🐬 Dolphins: Jeff Hafley\n🦬 Bills: Joe Brady\n\nSunday af
- ternoon kick-offs from Week 5 are subject to FLEX SCHEDULING - the leagu
- e can move games in or out of primetime at about 12 days' notice.
+ nCoaches\n🐬 Dolphins: Jeff Hafley\n🦬 Bills: Joe Brady\n\nOpening l
+ ine\nBills by 16.5  |  Total 46.5\n(Books post lines a few weeks out\, s
+ o this appears on early-season games only.)\n\nSunday afternoon kick-off
+ s from Week 5 are subject to FLEX SCHEDULING - the league can move games
+  in or out of primetime at about 12 days' notice.
 CATEGORIES:NFL,Week 11
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -3643,9 +3647,11 @@ LOCATION:Bank of America Stadium
 DESCRIPTION:🪶 Ravens @ 🐾 Panthers\nWeek 11 - Sunday 22 November 202
  6\n\nKick-off\n1:00 PM ET  |  18:00 UTC\n\nVenue\nBank of America Stadiu
  m (outdoors\, grass)\n\nCoaches\n🪶 Ravens: Jesse Minter\n🐾 Panther
- s: Dave Canales\n\nSunday afternoon kick-offs from Week 5 are subject to
-  FLEX SCHEDULING - the league can move games in or out of primetime at a
- bout 12 days' notice.
+ s: Dave Canales\n\nOpening line\nPanthers by 1.5  |  Total 44.5\n(Books 
+ post lines a few weeks out\, so this appears on early-season games only.
+ )\n\nSunday afternoon kick-offs from Week 5 are subject to FLEX SCHEDULI
+ NG - the league can move games in or out of primetime at about 12 days' 
+ notice.
 CATEGORIES:NFL,Week 11
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -3660,9 +3666,10 @@ LOCATION:Soldier Field
 DESCRIPTION:⚜️ Saints @ 🐻 Bears\nWeek 11 - Sunday 22 November 2026
  \n\nKick-off\n1:00 PM ET  |  18:00 UTC\n\nVenue\nSoldier Field (outdoors
  \, grass)\n\nCoaches\n⚜️ Saints: Kellen Moore\n🐻 Bears: Ben Johns
- on\n\nSunday afternoon kick-offs from Week 5 are subject to FLEX SCHEDUL
- ING - the league can move games in or out of primetime at about 12 days'
-  notice.
+ on\n\nOpening line\nBears by 9.5  |  Total 48.5\n(Books post lines a few
+  weeks out\, so this appears on early-season games only.)\n\nSunday afte
+ rnoon kick-offs from Week 5 are subject to FLEX SCHEDULING - the league 
+ can move games in or out of primetime at about 12 days' notice.
 CATEGORIES:NFL,Week 11
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -3677,9 +3684,10 @@ LOCATION:AT&T Stadium
 DESCRIPTION:⚔️ Titans @ ⭐ Cowboys\nWeek 11 - Sunday 22 November 202
  6\n\nKick-off\n1:00 PM ET  |  18:00 UTC\n\nVenue\nAT&T Stadium (\, matri
  xturf)\n\nCoaches\n⚔️ Titans: Robert Saleh\n⭐ Cowboys: Brian Schot
- tenheimer\n\nSunday afternoon kick-offs from Week 5 are subject to FLEX 
- SCHEDULING - the league can move games in or out of primetime at about 1
- 2 days' notice.
+ tenheimer\n\nOpening line\nCowboys by 7.5  |  Total 51.5\n(Books post li
+ nes a few weeks out\, so this appears on early-season games only.)\n\nSu
+ nday afternoon kick-offs from Week 5 are subject to FLEX SCHEDULING - th
+ e league can move games in or out of primetime at about 12 days' notice.
 CATEGORIES:NFL,Week 11
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -3694,9 +3702,10 @@ LOCATION:Ford Field
 DESCRIPTION:⚓ Buccaneers @ 🦁 Lions\nWeek 11 - Sunday 22 November 202
  6\n\nKick-off\n1:00 PM ET  |  18:00 UTC\n\nVenue\nFord Field (dome\, fie
  ldturf)\n\nCoaches\n⚓ Buccaneers: Todd Bowles\n🦁 Lions: Dan Campbel
- l\n\nSunday afternoon kick-offs from Week 5 are subject to FLEX SCHEDULI
- NG - the league can move games in or out of primetime at about 12 days' 
- notice.
+ l\n\nOpening line\nLions by 3.5  |  Total 47.5\n(Books post lines a few 
+ weeks out\, so this appears on early-season games only.)\n\nSunday after
+ noon kick-offs from Week 5 are subject to FLEX SCHEDULING - the league c
+ an move games in or out of primetime at about 12 days' notice.
 CATEGORIES:NFL,Week 11
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -3711,9 +3720,11 @@ LOCATION:GEHA Field at Arrowhead Stadium
 DESCRIPTION:🌵 Cardinals @ 🏹 Chiefs\nWeek 11 - Sunday 22 November 20
  26\n\nKick-off\n1:00 PM ET  |  18:00 UTC\n\nVenue\nGEHA Field at Arrowhe
  ad Stadium (outdoors\, grass)\n\nCoaches\n🌵 Cardinals: Mike LaFleur\n
- 🏹 Chiefs: Andy Reid\n\nSunday afternoon kick-offs from Week 5 are sub
- ject to FLEX SCHEDULING - the league can move games in or out of primeti
- me at about 12 days' notice.
+ 🏹 Chiefs: Andy Reid\n\nOpening line\nChiefs by 14.0  |  Total 42.5\n(
+ Books post lines a few weeks out\, so this appears on early-season games
+  only.)\n\nSunday afternoon kick-offs from Week 5 are subject to FLEX SC
+ HEDULING - the league can move games in or out of primetime at about 12 
+ days' notice.
 CATEGORIES:NFL,Week 11
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -3728,9 +3739,10 @@ LOCATION:MetLife Stadium
 DESCRIPTION:🐆 Jaguars @ 🗽 Giants\nWeek 11 - Sunday 22 November 2026
  \n\nKick-off\n1:00 PM ET  |  18:00 UTC\n\nVenue\nMetLife Stadium (outdoo
  rs\, fieldturf)\n\nCoaches\n🐆 Jaguars: Liam Coen\n🗽 Giants: John H
- arbaugh\n\nSunday afternoon kick-offs from Week 5 are subject to FLEX SC
- HEDULING - the league can move games in or out of primetime at about 12 
- days' notice.
+ arbaugh\n\nOpening line\nJaguars by 6.0  |  Total 44.5\n(Books post line
+ s a few weeks out\, so this appears on early-season games only.)\n\nSund
+ ay afternoon kick-offs from Week 5 are subject to FLEX SCHEDULING - the 
+ league can move games in or out of primetime at about 12 days' notice.
 CATEGORIES:NFL,Week 11
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -3745,9 +3757,10 @@ LOCATION:SoFi Stadium
 DESCRIPTION:✈️ Jets @ ⚡ Chargers\nWeek 11 - Sunday 22 November 2026
  \n\nKick-off\n4:05 PM ET  |  21:05 UTC\n\nVenue\nSoFi Stadium (dome\, ma
  trixturf)\n\nCoaches\n✈️ Jets: Aaron Glenn\n⚡ Chargers: Jim Harbau
- gh\n\nSunday afternoon kick-offs from Week 5 are subject to FLEX SCHEDUL
- ING - the league can move games in or out of primetime at about 12 days'
-  notice.
+ gh\n\nOpening line\nChargers by 2.5  |  Total 42.5\n(Books post lines a 
+ few weeks out\, so this appears on early-season games only.)\n\nSunday a
+ fternoon kick-offs from Week 5 are subject to FLEX SCHEDULING - the leag
+ ue can move games in or out of primetime at about 12 days' notice.
 CATEGORIES:NFL,Week 11
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -3763,9 +3776,10 @@ DESCRIPTION:☠️ Raiders @ 🐴 Broncos\nWeek 11 - Sunday 22 November 2
  026\n\nKick-off\n4:25 PM ET  |  21:25 UTC\n\nVenue\nEmpower Field at Mil
  e High (outdoors\, grass)\n\nDivision game\nYes - counts double in the s
  tandings.\n\nCoaches\n☠️ Raiders: Klint Kubiak\n🐴 Broncos: Sean P
- ayton\n\nSunday afternoon kick-offs from Week 5 are subject to FLEX SCHE
- DULING - the league can move games in or out of primetime at about 12 da
- ys' notice.
+ ayton\n\nOpening line\nBroncos by 8.5  |  Total 41.5\n(Books post lines 
+ a few weeks out\, so this appears on early-season games only.)\n\nSunday
+  afternoon kick-offs from Week 5 are subject to FLEX SCHEDULING - the le
+ ague can move games in or out of primetime at about 12 days' notice.
 CATEGORIES:NFL,Week 11
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -3780,9 +3794,11 @@ LOCATION:Lincoln Financial Field
 DESCRIPTION:⚒️ Steelers @ 🦅 Eagles\nWeek 11 - Sunday 22 November 2
  026\n\nKick-off\n4:25 PM ET  |  21:25 UTC\n\nVenue\nLincoln Financial Fi
  eld (outdoors\, grass)\n\nCoaches\n⚒️ Steelers: Mike McCarthy\n🦅 
- Eagles: Nick Sirianni\n\nSunday afternoon kick-offs from Week 5 are subj
- ect to FLEX SCHEDULING - the league can move games in or out of primetim
- e at about 12 days' notice.
+ Eagles: Nick Sirianni\n\nOpening line\nSteelers by 4.5  |  Total 38.5\n(
+ Books post lines a few weeks out\, so this appears on early-season games
+  only.)\n\nSunday afternoon kick-offs from Week 5 are subject to FLEX SC
+ HEDULING - the league can move games in or out of primetime at about 12 
+ days' notice.
 CATEGORIES:NFL,Week 11
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -3797,10 +3813,12 @@ LOCATION:Estadio Banorte (Azteca)
 DESCRIPTION:🪓 Vikings @ ⛏️ 49ers\nWeek 11 - Sunday 22 November 202
  6\n\nKick-off\n8:20 PM ET  |  01:20 UTC\n\nSlot\nSunday Night Football\n
  \nVenue\nEstadio Banorte (Azteca) (outdoors\, grass)\n\nCoaches\n🪓 Vi
- kings: Kevin O'Connell\n⛏️ 49ers: Kyle Shanahan\n\nINTERNATIONAL GAM
- E\nMexico City.\n\nSunday afternoon kick-offs from Week 5 are subject to
-  FLEX SCHEDULING - the league can move games in or out of primetime at a
- bout 12 days' notice.
+ kings: Kevin O'Connell\n⛏️ 49ers: Kyle Shanahan\n\nOpening line\n49e
+ rs by 3.5  |  Total 46.5\n(Books post lines a few weeks out\, so this ap
+ pears on early-season games only.)\n\nINTERNATIONAL GAME\nMexico City.\n
+ \nSunday afternoon kick-offs from Week 5 are subject to FLEX SCHEDULING 
+ - the league can move games in or out of primetime at about 12 days' not
+ ice.
 CATEGORIES:NFL,Week 11
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -3815,9 +3833,11 @@ LOCATION:Northwest Stadium
 DESCRIPTION:🐅 Bengals @ 🎖️ Commanders\nWeek 11 - Monday 23 Novemb
  er 2026\n\nKick-off\n8:15 PM ET  |  01:15 UTC\n\nSlot\nMonday Night Foot
  ball\n\nVenue\nNorthwest Stadium (outdoors\, grass)\n\nCoaches\n🐅 Ben
- gals: Zac Taylor\n🎖️ Commanders: Dan Quinn\n\nSunday afternoon kick
- -offs from Week 5 are subject to FLEX SCHEDULING - the league can move g
- ames in or out of primetime at about 12 days' notice.
+ gals: Zac Taylor\n🎖️ Commanders: Dan Quinn\n\nOpening line\nBengals
+  by 3.5  |  Total 51.5\n(Books post lines a few weeks out\, so this appe
+ ars on early-season games only.)\n\nSunday afternoon kick-offs from Week
+  5 are subject to FLEX SCHEDULING - the league can move games in or out 
+ of primetime at about 12 days' notice.
 CATEGORIES:NFL,Week 11
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
