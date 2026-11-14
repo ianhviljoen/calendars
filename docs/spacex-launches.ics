@@ -9,36 +9,8 @@ X-WR-CALDESC:Upcoming SpaceX launches - Falcon 9\, Falcon Heavy and Stars
  included\; vaguely scheduled missions are left out. Times UTC.
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:launch-0f867f0c-5422-4d44-93b8-d7faaae7019b@claude-launches
-DTSTAMP:20261113T134340Z
-DTSTART:20261113T224500Z
-DTEND:20261113T234500Z
-SUMMARY:🚀 Starship | Starlink Group 31-2 (Starship Flight 15)
-LOCATION:Orbital Launch Pad 2\, SpaceX Starbase\, TX\, USA
-DESCRIPTION:Starship | Starlink Group 31-2 (Starship Flight 15)\n\nStatus
- \nTo be confirmed - date is likely but not final\n\nLift-off\n22:45 UTC\
- , Friday 13 November 2026\n\nProvider\nSpaceX\n\nSite\nOrbital Launch Pa
- d 2\, SpaceX Starbase\, TX\, USA\n\nOrbit\nLow Earth Orbit\n\nMission\n1
- 5th test flight of the two-stage Starship launch vehicle and 4th flight 
- of Starship V3. Second Starship flight to deploy satellites (a group of 
- Starlink satellites known as Starlink Group 31-2) into stable Low Earth 
- Orbit and first ever to attempt returning the Starship 2nd stage back to
-  the launch site. The ship is expected to fly at an altitude approximate
- ly 275 km above Earth and complete approximately 14 orbits around the pl
- anet for more than 22 hours\, with the ship expected to attempt returnin
- g back to Starbase\, Texas on its launch pad by pad arms catching. The b
- ooster’s primary test...\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, t
- echnical holds and range availability move them\, often by days and some
- times by hours on the day itself. This calendar rebuilds daily\, but alw
- ays check before setting an alarm.
-CATEGORIES:SpaceX,Starship
-URL:https://nextspaceflight.com/launches/
-TRANSP:TRANSPARENT
-STATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
 UID:launch-76617033-4dc0-4448-b50c-e5b0d5a18539@claude-launches
-DTSTAMP:20261113T134340Z
+DTSTAMP:20261114T124825Z
 DTSTART:20261118T031400Z
 DTEND:20261118T041400Z
 SUMMARY:🚀 Falcon 9 Block 5 | USSF-317
@@ -60,31 +32,8 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:launch-460d9db7-eaf6-4cd9-b095-cff433534c09@claude-launches
-DTSTAMP:20261113T134340Z
-DTSTART:20261118T164900Z
-DTEND:20261118T174900Z
-SUMMARY:🚀 Falcon 9 Block 5 | USSF-266
-LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
-DESCRIPTION:Falcon 9 Block 5 | USSF-266\n\nStatus\nGo for launch - date a
- nd time confirmed\n\nLift-off\n16:49 UTC\, Wednesday 18 November 2026\n\
- nProvider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, CA
- \, USA\n\nOrbit\nPolar Orbit\n\nMission\nA classified mission for the Un
- ited States Space Force. It is possibly a batch of classified LEO satell
- ites based on SpaceX’s Starshield satellite bus\, based on locations o
- f ascent rocket stage drop zones being fits with previous SDA Transport 
- Layer launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical ho
- lds and range availability move them\, often by days and sometimes by ho
- urs on the day itself. This calendar rebuilds daily\, but always check b
- efore setting an alarm.
-CATEGORIES:SpaceX,Falcon 9
-URL:https://nextspaceflight.com/launches/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:launch-951a341f-236b-42fe-a667-4ab2fcf36eac@claude-launches
-DTSTAMP:20261113T134340Z
+DTSTAMP:20261114T124825Z
 DTSTART:20261121T123000Z
 DTEND:20261121T133000Z
 SUMMARY:🚀 Falcon 9 Block 5 | NROL-136
@@ -105,8 +54,31 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:launch-460d9db7-eaf6-4cd9-b095-cff433534c09@claude-launches
+DTSTAMP:20261114T124825Z
+DTSTART:20261123T160400Z
+DTEND:20261123T170400Z
+SUMMARY:🚀 Falcon 9 Block 5 | USSF-266
+LOCATION:Space Launch Complex 4E\, Vandenberg SFB\, CA\, USA
+DESCRIPTION:Falcon 9 Block 5 | USSF-266\n\nStatus\nGo for launch - date a
+ nd time confirmed\n\nLift-off\n16:04 UTC\, Monday 23 November 2026\n\nPr
+ ovider\nSpaceX\n\nSite\nSpace Launch Complex 4E\, Vandenberg SFB\, CA\, 
+ USA\n\nOrbit\nPolar Orbit\n\nMission\nA classified mission for the Unite
+ d States Space Force. It is possibly a batch of classified LEO satellite
+ s based on SpaceX’s Starshield satellite bus\, based on locations of a
+ scent rocket stage drop zones being fits with previous SDA Transport Lay
+ er launches.\n\nLAUNCH DATES SLIP CONSTANTLY - weather\, technical holds
+  and range availability move them\, often by days and sometimes by hours
+  on the day itself. This calendar rebuilds daily\, but always check befo
+ re setting an alarm.
+CATEGORIES:SpaceX,Falcon 9
+URL:https://nextspaceflight.com/launches/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:launch-d74afbc7-0de5-491c-be05-4e9c31f736ac@claude-launches
-DTSTAMP:20261113T134340Z
+DTSTAMP:20261114T124825Z
 DTSTART:20261129T154700Z
 DTEND:20261129T164700Z
 SUMMARY:🚀 Falcon 9 Block 5 | Cygnus CRS-2 NG-25
@@ -128,7 +100,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:launch-d3bd7fb2-fac6-49fc-ae52-cee07d2fde67@claude-launches
-DTSTAMP:20261113T134340Z
+DTSTAMP:20261114T124825Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:🚀 Falcon Heavy | Griffin Mission One
